@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q8",
+  "text": "You are taking blood pressure by palpation. A radial pulse indicates a blood pressure of at least:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 60 mmHg"
+    },
+    {
+      "id": "B",
+      "text": "B) 70 mmHg"
+    },
+    {
+      "id": "C",
+      "text": "C) 80 mmHg"
+    },
+    {
+      "id": "D",
+      "text": "D) 90 mmHg"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 1
+}

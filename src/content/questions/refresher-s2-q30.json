@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q30",
+  "text": "Which of the following hazards is associated with fuel oil fires?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Emission of noxious gases"
+    },
+    {
+      "id": "B",
+      "text": "B) Reduced fire-fighting effectiveness due to low oxygen content"
+    },
+    {
+      "id": "C",
+      "text": "C) Emission of highly flammable vapors"
+    },
+    {
+      "id": "D",
+      "text": "D) Flashover of confined vapor clouds"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 2
+}

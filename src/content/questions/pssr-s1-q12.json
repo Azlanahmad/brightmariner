@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q12",
+  "text": "What is discrimination?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Making false statements about others"
+    },
+    {
+      "id": "B",
+      "text": "B) Making judgments or statements based upon comparison"
+    },
+    {
+      "id": "C",
+      "text": "C) Judging people discriminately"
+    },
+    {
+      "id": "D",
+      "text": "D) Making hateful content"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 1
+}

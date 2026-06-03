@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q27",
+  "text": "Burns that involve all layers of skin are:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) First-degree burns"
+    },
+    {
+      "id": "B",
+      "text": "B) Second-degree burns"
+    },
+    {
+      "id": "C",
+      "text": "C) Third-degree burns"
+    },
+    {
+      "id": "D",
+      "text": "D) Full-thickness burns"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "efa",
+  "set": 1
+}

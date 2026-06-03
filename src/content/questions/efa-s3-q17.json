@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q17",
+  "text": "Increased respiratory difficulty accompanied by a weak, ineffective cough, wheezing, high-pitched crowing noises, and cyanosis are signs of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Pneumonia"
+    },
+    {
+      "id": "B",
+      "text": "B) Asthma"
+    },
+    {
+      "id": "C",
+      "text": "C) Severe airway obstruction"
+    },
+    {
+      "id": "D",
+      "text": "D) Heart failure"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 3
+}

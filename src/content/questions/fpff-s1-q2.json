@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q2",
+  "text": "The galley on your cargo vessel has an area of 2900 square feet, what will fulfil the requirements for fire protection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) One B-I extinguisher"
+    },
+    {
+      "id": "B",
+      "text": "B) One B-II extinguisher"
+    },
+    {
+      "id": "C",
+      "text": "C) One B-II and one C-II extinguisher"
+    },
+    {
+      "id": "D",
+      "text": "D) One B-V extinguisher"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 1
+}

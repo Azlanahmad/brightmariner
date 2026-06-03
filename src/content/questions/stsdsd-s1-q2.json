@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q2",
+  "text": "The port facility is required to appoint:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Company Security Officer"
+    },
+    {
+      "id": "B",
+      "text": "B) Port Facility Security Officer"
+    },
+    {
+      "id": "C",
+      "text": "C) Ship Security Officer"
+    },
+    {
+      "id": "D",
+      "text": "D) Port Facility Security Assessment (PFSA)"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 1
+}

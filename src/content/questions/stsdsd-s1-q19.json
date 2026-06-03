@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q19",
+  "text": "The Declaration of Security (DoS) is to be completed on behalf of the ship by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) CSO"
+    },
+    {
+      "id": "B",
+      "text": "B) SSO"
+    },
+    {
+      "id": "C",
+      "text": "C) Master"
+    },
+    {
+      "id": "D",
+      "text": "D) Chief Officer"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "stsdsd",
+  "set": 1
+}

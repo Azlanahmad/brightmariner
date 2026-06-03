@@ -1,0 +1,17 @@
+{
+  "id": "fpff-s2-q57",
+  "text": "Class-B Bulkhead are classified as B15/B0",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 2
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fpff-s2-q36",
+  "text": "Putting fire out by removing fuel is called inhibition.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 2
+}

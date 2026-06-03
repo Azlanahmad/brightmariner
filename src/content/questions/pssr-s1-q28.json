@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q28",
+  "text": "Direct blood contact can occur through all except:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Needle sharing"
+    },
+    {
+      "id": "B",
+      "text": "B) Transfusion"
+    },
+    {
+      "id": "C",
+      "text": "C) Sharing of beds"
+    },
+    {
+      "id": "D",
+      "text": "D) Accident in healthcare settings"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 1
+}

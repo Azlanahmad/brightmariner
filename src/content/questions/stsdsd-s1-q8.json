@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q8",
+  "text": "Security equipment and systems need not be:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Calibrated and tested before every use"
+    },
+    {
+      "id": "B",
+      "text": "B) Kept under lock and key"
+    },
+    {
+      "id": "C",
+      "text": "C) Tried out during each security drill"
+    },
+    {
+      "id": "D",
+      "text": "D) Included in your pre-maintenance schedule (VMS)"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 1
+}

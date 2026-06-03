@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q21",
+  "text": "You are on watch at night in port and discover a fire in #1 hatch. Which action should you take FIRST?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Advise the Chief Mate and Master"
+    },
+    {
+      "id": "B",
+      "text": "B) Release carbon dioxide into the hatch"
+    },
+    {
+      "id": "C",
+      "text": "C) Sound the general alarm"
+    },
+    {
+      "id": "D",
+      "text": "D) Lead a fire hose to the hatch"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 2
+}

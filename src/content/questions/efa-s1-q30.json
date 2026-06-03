@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q30",
+  "text": "First aid for frostbite is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Give some hot coffee"
+    },
+    {
+      "id": "B",
+      "text": "B) Give some warm water"
+    },
+    {
+      "id": "C",
+      "text": "C) Rub the affected area"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 1
+}

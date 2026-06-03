@@ -1,0 +1,50 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import PracticeRoom from '../../components/PracticeRoom';
+
+export async function getStaticPaths() {
+  const allQuestions = await getCollection('questions');
+  const courseIds = [...new Set(allQuestions.map(q => q.data.courseId))];
+  
+  return courseIds.map(id => ({
+    params: { id },
+  }));
+}
+
+const { id } = Astro.params;
+const allQuestions = await getCollection('questions');
+const courseQuestions = allQuestions
+    .filter(q => q.data.courseId === id)
+    .map(q => q.data);
+
+// Course ID to Name mapping
+const courseNames: Record<string, string> = {
+    'efa': 'Elementary First Aid (EFA)',
+    'fpff': 'Fire Prevention & Fire Fighting (FPFF)',
+    'pst': 'Personal Survival Techniques (PST)',
+    'pssr': 'Personal Safety & Social Responsibilities (PSSR)',
+    'stsdsd': 'Security Training for Seafarers (STSDSD)',
+    'aff': 'Advanced Fire Fighting (AFF)',
+    'pscrb': 'Proficiency in Survival Craft (PSCRB)',
+    'mfa': 'Medical First Aid (MFA)',
+    'tasco': 'Advanced Oil Tanker Operations (TASCO)',
+    'refresher': 'Refresher Course',
+    'rfpff': 'Refresher FPFF'
+};
+
+const courseName = courseNames[id as string] || id?.toUpperCase();
+---
+
+<Layout title={`${courseName} Practice | BrightMariner`}>
+    <div class="min-h-[calc(100vh-64px)] bg-canvas-soft">
+        {courseQuestions.length > 0 ? (
+            <PracticeRoom client:load questions={courseQuestions} courseName={courseName} />
+        ) : (
+            <div class="flex flex-col items-center justify-center py-32">
+                <h1 class="text-2xl font-semibold mb-4 text-ink">No questions found for this course.</h1>
+                <a href="/mcq" class="text-link hover:underline">Back to MCQ Practice</a>
+            </div>
+        )}
+    </div>
+</Layout>

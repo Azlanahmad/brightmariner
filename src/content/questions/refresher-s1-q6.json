@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q6",
+  "text": "Fire extinguishing system required for propelling machines and diesel-driven motors:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Hyper mist"
+    },
+    {
+      "id": "B",
+      "text": "B) CO2"
+    },
+    {
+      "id": "C",
+      "text": "C) DCP"
+    },
+    {
+      "id": "D",
+      "text": "D) Foam"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 1
+}

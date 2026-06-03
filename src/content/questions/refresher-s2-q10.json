@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q10",
+  "text": "Carbon dioxide as a firefighting agent has which advantage over other agents?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) It causes minimal damage."
+    },
+    {
+      "id": "B",
+      "text": "B) It is safer for personnel."
+    },
+    {
+      "id": "C",
+      "text": "C) It is cheaper."
+    },
+    {
+      "id": "D",
+      "text": "D) It is most effective on a per unit basis."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 2
+}

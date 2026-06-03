@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q50",
+  "text": "What is the important characteristic of the extinguishing agent in fighting a class C fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Weight"
+    },
+    {
+      "id": "B",
+      "text": "B) Temperature"
+    },
+    {
+      "id": "C",
+      "text": "C) Electrical non-conductivity"
+    },
+    {
+      "id": "D",
+      "text": "D) Cost"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 2
+}

@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q33",
+  "text": "Which of the following fuels has the lowest flash point?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Candle Wax"
+    },
+    {
+      "id": "B",
+      "text": "B) Kerosene"
+    },
+    {
+      "id": "C",
+      "text": "C) Coal"
+    },
+    {
+      "id": "D",
+      "text": "D) Diesel Fuel"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 2
+}

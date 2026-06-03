@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q3",
+  "text": "Where does the partly digested food in liquid form go after it leaves the stomach?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Small intestine"
+    },
+    {
+      "id": "B",
+      "text": "B) Large intestine"
+    },
+    {
+      "id": "C",
+      "text": "C) Liver"
+    },
+    {
+      "id": "D",
+      "text": "D) Pancreas"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 1
+}

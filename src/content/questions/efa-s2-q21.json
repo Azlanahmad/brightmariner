@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q21",
+  "text": "In cases of behavioral disorders, the responder should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Always use restraint"
+    },
+    {
+      "id": "B",
+      "text": "B) Give the patient a choice in the treatment"
+    },
+    {
+      "id": "C",
+      "text": "C) Play along with auditory or visual hallucinations"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 2
+}

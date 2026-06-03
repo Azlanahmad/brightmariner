@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q7",
+  "text": "When starting CPR on a drowning victim, you should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Start chest compressions before the victim is removed from the water"
+    },
+    {
+      "id": "B",
+      "text": "B) Drain water from the lungs before ventilating"
+    },
+    {
+      "id": "C",
+      "text": "C) Begin mouth-to-mouth ventilations as soon as possible"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 2
+}

@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q2",
+  "text": "Which should not be a treatment for a person who has received a head injury and is groggy or unconscious?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Given a stimulant"
+    },
+    {
+      "id": "B",
+      "text": "B) Elevate his head"
+    },
+    {
+      "id": "C",
+      "text": "C) Stop severe bleeding"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 2
+}

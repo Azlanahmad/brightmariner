@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q28",
+  "text": "If a suspicious object or package is found on board, the first action should be to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Activate radio communication"
+    },
+    {
+      "id": "B",
+      "text": "B) Seize and open the package"
+    },
+    {
+      "id": "C",
+      "text": "C) Cordon and control the area around the suspicious item"
+    },
+    {
+      "id": "D",
+      "text": "D) Inform the person of your suspicion"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "stsdsd",
+  "set": 1
+}

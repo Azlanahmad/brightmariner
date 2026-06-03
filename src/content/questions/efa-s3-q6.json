@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q6",
+  "text": "What should you do if you think a crew member has internal bleeding?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Monitor the victim's vital signs and seek medical attention if they worsen"
+    },
+    {
+      "id": "B",
+      "text": "B) Apply a cold compress to the abdomen"
+    },
+    {
+      "id": "C",
+      "text": "C) Give the victim pain medication"
+    },
+    {
+      "id": "D",
+      "text": "D) Call your local emergency phone number for help"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "efa",
+  "set": 3
+}

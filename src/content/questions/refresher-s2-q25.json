@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q25",
+  "text": "The most common and widely used cooling agent used for fighting fires on merchant vessels is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Carbon dioxide"
+    },
+    {
+      "id": "B",
+      "text": "B) Flue gas"
+    },
+    {
+      "id": "C",
+      "text": "C) Water"
+    },
+    {
+      "id": "D",
+      "text": "D) Steam smothering"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 2
+}

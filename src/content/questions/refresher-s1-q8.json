@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q8",
+  "text": "Dry chemical powder extinguisher works on what principle?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Smothering"
+    },
+    {
+      "id": "B",
+      "text": "B) Starvation"
+    },
+    {
+      "id": "C",
+      "text": "C) Inhibition"
+    },
+    {
+      "id": "D",
+      "text": "D) Cooling"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 1
+}

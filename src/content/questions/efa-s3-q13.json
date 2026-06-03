@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q13",
+  "text": "What method of manhandling technique would you use if a crew member is unconscious?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Fireman's lift"
+    },
+    {
+      "id": "B",
+      "text": "B) Simple forward and aft carry"
+    },
+    {
+      "id": "C",
+      "text": "C) Both the above options"
+    },
+    {
+      "id": "D",
+      "text": "D) Neither of the above options"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 3
+}

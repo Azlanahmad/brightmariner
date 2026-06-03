@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q1",
+  "text": "How can information regarding a sick person or injured person be disseminated to the CIRM?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) By using the appropriate reporting form"
+    },
+    {
+      "id": "B",
+      "text": "B) By contacting the family doctor of the sick person"
+    },
+    {
+      "id": "C",
+      "text": "C) By passing on medical examination report from the company"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pssr",
+  "set": 1
+}

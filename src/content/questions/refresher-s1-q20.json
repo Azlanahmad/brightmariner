@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q20",
+  "text": "What is the full form of PASS in portable fire extinguishers?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Pull, Aim, Shut, Sit"
+    },
+    {
+      "id": "B",
+      "text": "B) Power, Pull, Aim, Squeeze, Sweep"
+    },
+    {
+      "id": "C",
+      "text": "C) Pass, Aim, Sure, Speed"
+    },
+    {
+      "id": "D",
+      "text": "D) Pull, Aim, Squeeze, Sweep"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 1
+}

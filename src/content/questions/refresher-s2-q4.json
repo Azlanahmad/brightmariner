@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q4",
+  "text": "If ignited, which material would be a class B fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Magnesium"
+    },
+    {
+      "id": "B",
+      "text": "B) Paper"
+    },
+    {
+      "id": "C",
+      "text": "C) Wood"
+    },
+    {
+      "id": "D",
+      "text": "D) Diesel Oil"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 2
+}

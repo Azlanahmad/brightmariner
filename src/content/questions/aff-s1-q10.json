@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q10",
+  "text": "When using a fire hose, what is the recommended nozzle pattern for initial cooling of a fire in a confined space?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Straight stream"
+    },
+    {
+      "id": "B",
+      "text": "B) Fog pattern"
+    },
+    {
+      "id": "C",
+      "text": "C) Solid stream"
+    },
+    {
+      "id": "D",
+      "text": "D) Cone spray"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 1
+}

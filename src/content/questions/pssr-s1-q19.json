@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q19",
+  "text": "What term indicates an inward curvature of the ship's hull above the waterline?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Camber"
+    },
+    {
+      "id": "B",
+      "text": "B) Tumblehome"
+    },
+    {
+      "id": "C",
+      "text": "C) Deadrise"
+    },
+    {
+      "id": "D",
+      "text": "D) Flare"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 1
+}

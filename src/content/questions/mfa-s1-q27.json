@@ -1,0 +1,25 @@
+{
+  "id": "mfa-s1-q27",
+  "text": "Due to exposure to heat fatigue, heat stroke, and dehydration, what is the maximum recommended effective temperature (ET) for a full workload in enclosed spaces?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 30.5°C"
+    },
+    {
+      "id": "B",
+      "text": "B) 27.5°C"
+    },
+    {
+      "id": "C",
+      "text": "C) 29.0°C"
+    },
+    {
+      "id": "D",
+      "text": "D) 35.0°C"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 1
+}

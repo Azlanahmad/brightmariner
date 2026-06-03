@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q11",
+  "text": "What is the colour coding of portable Water Extinguisher?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) White"
+    },
+    {
+      "id": "B",
+      "text": "B) Black"
+    },
+    {
+      "id": "C",
+      "text": "C) Yellow"
+    },
+    {
+      "id": "D",
+      "text": "D) Signal Red"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 1
+}

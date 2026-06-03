@@ -1,0 +1,17 @@
+{
+  "id": "efa-s1-q24",
+  "text": "A tourniquet can be removed as and when necessary.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 1
+}

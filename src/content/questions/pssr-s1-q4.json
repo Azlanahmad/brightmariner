@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q4",
+  "text": "Life jacket should be marked with the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Maximum weight allowed"
+    },
+    {
+      "id": "B",
+      "text": "B) Stowage space assigned"
+    },
+    {
+      "id": "C",
+      "text": "C) Vessel's home port"
+    },
+    {
+      "id": "D",
+      "text": "D) Vessel's name"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 1
+}

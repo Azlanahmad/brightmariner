@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q4",
+  "text": "All portable fire extinguishers must be capable of being",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Carried by hand to a fire"
+    },
+    {
+      "id": "B",
+      "text": "B) Carried or rolled to a fire"
+    },
+    {
+      "id": "C",
+      "text": "C) Recharged in the field"
+    },
+    {
+      "id": "D",
+      "text": "D) Used on class HB\" fires"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 3
+}

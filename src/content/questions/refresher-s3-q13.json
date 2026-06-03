@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q13",
+  "text": "A fireman's outfit carried onboard cargo vessels, must have a",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Canister-type gas mask"
+    },
+    {
+      "id": "B",
+      "text": "B) Fresh-air breathing apparatus"
+    },
+    {
+      "id": "C",
+      "text": "C) Self-contained breathing apparatus"
+    },
+    {
+      "id": "D",
+      "text": "D) Combustible gas indicator"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 3
+}

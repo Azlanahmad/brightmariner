@@ -1,0 +1,21 @@
+{
+  "id": "pssr-s1-q10",
+  "text": "Speech rate is usually much ____ than the rate at which we think.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Tedious"
+    },
+    {
+      "id": "B",
+      "text": "B) Slower"
+    },
+    {
+      "id": "C",
+      "text": "C) Faster"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 1
+}

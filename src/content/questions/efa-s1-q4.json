@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q4",
+  "text": "Urine enters the bladder through which structure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Urethra"
+    },
+    {
+      "id": "B",
+      "text": "B) Ureter"
+    },
+    {
+      "id": "C",
+      "text": "C) Nephron"
+    },
+    {
+      "id": "D",
+      "text": "D) Bowman's capsule"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 1
+}

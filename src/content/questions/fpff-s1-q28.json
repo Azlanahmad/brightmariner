@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q28",
+  "text": "Which is the best Fire Extinguisher for Liquid Fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) CO2"
+    },
+    {
+      "id": "B",
+      "text": "B) Water"
+    },
+    {
+      "id": "C",
+      "text": "C) Foam"
+    },
+    {
+      "id": "D",
+      "text": "D) DCP"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 1
+}

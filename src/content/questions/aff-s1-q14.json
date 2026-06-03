@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q14",
+  "text": "What is the purpose of a fireman's outfit (protective clothing) in advanced firefighting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To identify firefighting personnel"
+    },
+    {
+      "id": "B",
+      "text": "B) To enhance physical agility"
+    },
+    {
+      "id": "C",
+      "text": "C) To provide protection from heat and flame"
+    },
+    {
+      "id": "D",
+      "text": "D) To store firefighting tools"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 1
+}

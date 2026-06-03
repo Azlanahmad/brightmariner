@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q17",
+  "text": "What is the CPR procedure for a six-year-old boy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 30 compressions, 2 breaths"
+    },
+    {
+      "id": "B",
+      "text": "B) 15 compressions, 2 breaths"
+    },
+    {
+      "id": "C",
+      "text": "C) 15 compressions, 4 breaths"
+    },
+    {
+      "id": "D",
+      "text": "D) 30 compressions, 4 breaths"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 1
+}

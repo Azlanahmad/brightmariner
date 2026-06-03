@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q30",
+  "text": "Oil pollution regulations require any transfer or discharge of oil or oily mixtures to be recorded in the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Pollution control record"
+    },
+    {
+      "id": "B",
+      "text": "B) Bridge log"
+    },
+    {
+      "id": "C",
+      "text": "C) Oil record book"
+    },
+    {
+      "id": "D",
+      "text": "D) Master's log"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 1
+}

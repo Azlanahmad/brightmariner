@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q1",
+  "text": "What is called the voice box?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Larynx"
+    },
+    {
+      "id": "B",
+      "text": "B) Trachea"
+    },
+    {
+      "id": "C",
+      "text": "C) Epiglottis"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 1
+}

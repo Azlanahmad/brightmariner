@@ -1,0 +1,21 @@
+{
+  "id": "efa-s3-q29",
+  "text": "In topographic anatomy, the term \"lateral\" means:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Away from the midline of the body"
+    },
+    {
+      "id": "B",
+      "text": "B) Nearer the head"
+    },
+    {
+      "id": "C",
+      "text": "C) Away from the head"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 3
+}

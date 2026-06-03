@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q17",
+  "text": "You have carbon tetrachloride as part of the cargo. If a fire breaks out in the general area, what is the major danger from the carbon tetrachloride?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) It will explode if exposed to a flame"
+    },
+    {
+      "id": "B",
+      "text": "B) Phosgene gas may be formed if it comes in contact with hot metal"
+    },
+    {
+      "id": "C",
+      "text": "C) It will burn rapidly once ignited"
+    },
+    {
+      "id": "D",
+      "text": "D) You cannot use water to fight the fire because it will react with the carbon tetrachloride"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "refresher",
+  "set": 2
+}

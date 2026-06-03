@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q5",
+  "text": "Toxic substances can affect the body in the following ways:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Through the lungs"
+    },
+    {
+      "id": "B",
+      "text": "B) Through the skin"
+    },
+    {
+      "id": "C",
+      "text": "C) Through the eyes"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "efa",
+  "set": 3
+}

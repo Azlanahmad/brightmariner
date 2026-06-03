@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q7",
+  "text": "Fire hoses should always be stowed at the fire main in a manner which will allow",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) All sections to be quickly connected"
+    },
+    {
+      "id": "B",
+      "text": "B) The nozzle end to be run out to the fire"
+    },
+    {
+      "id": "C",
+      "text": "C) All sections to be quickly drained"
+    },
+    {
+      "id": "D",
+      "text": "D) The nozzle and fittings to be easily and quickly inspected"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "refresher",
+  "set": 3
+}

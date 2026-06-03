@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q2",
+  "text": "Which of the listed classes of fire is considered as one involving electrical equipment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Class \"A\""
+    },
+    {
+      "id": "B",
+      "text": "B) Class \"B\""
+    },
+    {
+      "id": "C",
+      "text": "C) Class \"C\""
+    },
+    {
+      "id": "D",
+      "text": "D) Class \"D\""
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 2
+}

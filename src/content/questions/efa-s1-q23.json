@@ -1,0 +1,17 @@
+{
+  "id": "efa-s1-q23",
+  "text": "A tourniquet can be used for first resort to stop bleeding.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 1
+}

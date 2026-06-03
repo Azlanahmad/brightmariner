@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q14",
+  "text": "In which language is the fire control plan written on board?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) French"
+    },
+    {
+      "id": "B",
+      "text": "B) English"
+    },
+    {
+      "id": "C",
+      "text": "C) Spanish"
+    },
+    {
+      "id": "D",
+      "text": "D) Any local language"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "refresher",
+  "set": 1
+}

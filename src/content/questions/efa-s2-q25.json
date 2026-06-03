@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q25",
+  "text": "What is the CPR procedure for a six-year-old boy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 15 compressions to 1 breath, 5 cycles in one minute"
+    },
+    {
+      "id": "B",
+      "text": "B) 15 compressions to 2 breaths, 4 cycles in one minute"
+    },
+    {
+      "id": "C",
+      "text": "C) 5 compressions to 1 breath, 12 cycles in one minute"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 2
+}

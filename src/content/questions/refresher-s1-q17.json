@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q17",
+  "text": "Your vessel is in collision and you are not sure if your vessel is sinking. How will you handle the situation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Search for missing persons, monitor the situation, prepare for abandonment if required."
+    },
+    {
+      "id": "B",
+      "text": "B) Leave the vessel and stay close by."
+    },
+    {
+      "id": "C",
+      "text": "C) Wait and see the situation."
+    },
+    {
+      "id": "D",
+      "text": "D) Ensure the lifeboat has enough fuel to reach land."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 1
+}

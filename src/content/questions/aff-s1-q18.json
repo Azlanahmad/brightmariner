@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q18",
+  "text": "What is the recommended method for handling an injured person during a shipboard firefighting operation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Immediate evacuation to the shore"
+    },
+    {
+      "id": "B",
+      "text": "B) Placing the person in a confined space"
+    },
+    {
+      "id": "C",
+      "text": "C) Moving the person to a designated safe area"
+    },
+    {
+      "id": "D",
+      "text": "D) Administering first aid at the fire location"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 1
+}

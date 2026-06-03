@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q12",
+  "text": "What is NOT a characteristic of carbon dioxide fire-extinguishing agents?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Effective even if ventilation is not shut down"
+    },
+    {
+      "id": "B",
+      "text": "B) Will not deteriorate in storage"
+    },
+    {
+      "id": "C",
+      "text": "C) Non-corrosive"
+    },
+    {
+      "id": "D",
+      "text": "D) Effective on electrical equipment"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 2
+}

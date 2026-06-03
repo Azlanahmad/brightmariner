@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q5",
+  "text": "Recharging a previously used cartridge-operated dry chemical fire extinguisher is accomplished by",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Authorized fire equipment servicing personnel only"
+    },
+    {
+      "id": "B",
+      "text": "B) Replacing the propellant cartridge and refilling it with powder"
+    },
+    {
+      "id": "C",
+      "text": "C) Puncturing the cartridge seal after installation"
+    },
+    {
+      "id": "D",
+      "text": "D) Recharging the cartridge and refilling it with powder"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "refresher",
+  "set": 3
+}

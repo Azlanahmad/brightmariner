@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q9",
+  "text": "What is the length of Fireman Life Line?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 15 M"
+    },
+    {
+      "id": "B",
+      "text": "B) 20 M"
+    },
+    {
+      "id": "C",
+      "text": "C) 30 M"
+    },
+    {
+      "id": "D",
+      "text": "D) 40 M"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 1
+}

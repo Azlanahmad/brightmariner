@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q20",
+  "text": "What action should be taken immediately after a fire has been extinguished?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) They are liable to spontaneous combustion"
+    },
+    {
+      "id": "B",
+      "text": "B) They are not a hazard"
+    },
+    {
+      "id": "C",
+      "text": "C) They are not a hazard unless ignited"
+    },
+    {
+      "id": "D",
+      "text": "D) They generate their own oxygen when ignited and difficult to extinguish"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 3
+}

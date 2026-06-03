@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q23",
+  "text": "What is the duration of an emergency escape breathing device (EBD)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 5 minutes"
+    },
+    {
+      "id": "B",
+      "text": "B) 8 minutes"
+    },
+    {
+      "id": "C",
+      "text": "C) 12 minutes"
+    },
+    {
+      "id": "D",
+      "text": "D) 10 minutes"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q34",
+  "text": "Which ship shall be provided with International Shore Connection for supply of water as Extinguishing agent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Tanker"
+    },
+    {
+      "id": "B",
+      "text": "B) All ship of 500 GT and above"
+    },
+    {
+      "id": "C",
+      "text": "C) Passenger ship carrying more than 500 person"
+    },
+    {
+      "id": "D",
+      "text": "D) Passenger ship of 1000 person and above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 2
+}

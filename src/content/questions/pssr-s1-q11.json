@@ -1,0 +1,21 @@
+{
+  "id": "pssr-s1-q11",
+  "text": "In the verbal communication process, the direct exchange of ____ occurs between the sender and the receiver.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Mails"
+    },
+    {
+      "id": "B",
+      "text": "B) Words"
+    },
+    {
+      "id": "C",
+      "text": "C) Gestures"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 1
+}

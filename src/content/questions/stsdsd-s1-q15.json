@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q15",
+  "text": "The Designated Security Duties (DSD) officer is responsible for:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Implementing the Ship Security Plan (SSP)"
+    },
+    {
+      "id": "B",
+      "text": "B) Conducting security drills"
+    },
+    {
+      "id": "C",
+      "text": "C) Investigating security breaches"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "stsdsd",
+  "set": 1
+}

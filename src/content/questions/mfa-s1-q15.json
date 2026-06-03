@@ -1,0 +1,25 @@
+{
+  "id": "mfa-s1-q15",
+  "text": "A resuscitator is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) An insulated and heated bag that is used to wrap around a casualty suffering from hypothermia"
+    },
+    {
+      "id": "B",
+      "text": "B) An oxygen tank, with a demand valve and mask"
+    },
+    {
+      "id": "C",
+      "text": "C) An electrical device with two paddles that can be used to restart the heart"
+    },
+    {
+      "id": "D",
+      "text": "D) A plastic tube that fits over the casualty's throat to keep an airway open"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 1
+}

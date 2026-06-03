@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q58",
+  "text": "DCP Fixed Fire Fighting system is used in which type of vessel?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Oil Tankers"
+    },
+    {
+      "id": "B",
+      "text": "B) Chemical Tankers"
+    },
+    {
+      "id": "C",
+      "text": "C) Bulk Carriers"
+    },
+    {
+      "id": "D",
+      "text": "D) Gas Carriers"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 2
+}

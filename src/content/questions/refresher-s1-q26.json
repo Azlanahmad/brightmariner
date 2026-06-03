@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q26",
+  "text": "Oxygen removal stops fire by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Cooling effect"
+    },
+    {
+      "id": "B",
+      "text": "B) Inhibition"
+    },
+    {
+      "id": "C",
+      "text": "C) Starvation"
+    },
+    {
+      "id": "D",
+      "text": "D) Smothering"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 1
+}

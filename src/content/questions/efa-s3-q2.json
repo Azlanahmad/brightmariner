@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q2",
+  "text": "What is the recommended amount of time to wash your hands?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 20 seconds"
+    },
+    {
+      "id": "B",
+      "text": "B) 30 seconds"
+    },
+    {
+      "id": "C",
+      "text": "C) 40 seconds"
+    },
+    {
+      "id": "D",
+      "text": "D) 5 minutes"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "efa",
+  "set": 3
+}

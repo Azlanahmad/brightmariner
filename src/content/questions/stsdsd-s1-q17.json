@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q17",
+  "text": "Actions which are not necessarily part of an assessment of a security drill include:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Debriefing by Master and SSO"
+    },
+    {
+      "id": "B",
+      "text": "B) Disciplinary action against any crew member"
+    },
+    {
+      "id": "C",
+      "text": "C) Analysis and discussions on takeaways from drills"
+    },
+    {
+      "id": "D",
+      "text": "D) Written report of the drill"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 1
+}

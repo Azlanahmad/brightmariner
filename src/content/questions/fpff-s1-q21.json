@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q21",
+  "text": "In which language FIRE CONTROL PLAN is written Onboard?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Russian"
+    },
+    {
+      "id": "B",
+      "text": "B) Spanish"
+    },
+    {
+      "id": "C",
+      "text": "C) English"
+    },
+    {
+      "id": "D",
+      "text": "D) French"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q18",
+  "text": "Overt methods to overcome security measures include:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Forcefully breaking and entering"
+    },
+    {
+      "id": "B",
+      "text": "B) Disabling alarms"
+    },
+    {
+      "id": "C",
+      "text": "C) While the guards are sleeping"
+    },
+    {
+      "id": "D",
+      "text": "D) Befriending the crew members"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "stsdsd",
+  "set": 1
+}

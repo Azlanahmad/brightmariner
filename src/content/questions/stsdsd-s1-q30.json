@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q30",
+  "text": "Security equipment and systems disallowed for use on board include:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Locking equipment for all external doors"
+    },
+    {
+      "id": "B",
+      "text": "B) Firearms"
+    },
+    {
+      "id": "C",
+      "text": "C) Razor wire and bar fence wires"
+    },
+    {
+      "id": "D",
+      "text": "D) Searchlights"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 1
+}

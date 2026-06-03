@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q26",
+  "text": "What should you do if you think a crew has internal bleeding?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Give them something to drink"
+    },
+    {
+      "id": "B",
+      "text": "B) Apply pressure to their abdomen"
+    },
+    {
+      "id": "C",
+      "text": "C) Call for help"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 1
+}

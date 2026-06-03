@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q45",
+  "text": "On fires involving burning liquids which of the extinguisher is considered most effective?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Water"
+    },
+    {
+      "id": "B",
+      "text": "B) Foam"
+    },
+    {
+      "id": "C",
+      "text": "C) DCP"
+    },
+    {
+      "id": "D",
+      "text": "D) CO2"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 2
+}

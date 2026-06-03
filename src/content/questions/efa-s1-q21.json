@@ -1,0 +1,17 @@
+{
+  "id": "efa-s1-q21",
+  "text": "For heavy bleeding, you need to apply pressure points to reduce bleeding.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 1
+}

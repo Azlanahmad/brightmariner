@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q9",
+  "text": "In what location MUST a duplicate fire control plan be located?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Gangway"
+    },
+    {
+      "id": "B",
+      "text": "B) Engine Room"
+    },
+    {
+      "id": "C",
+      "text": "C) Crew Mess"
+    },
+    {
+      "id": "D",
+      "text": "D) Chief Mate's Office"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 3
+}

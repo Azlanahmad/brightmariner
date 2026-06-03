@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q14",
+  "text": "The international shore connection",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Allows hook up of firefighting water from shore facilities"
+    },
+    {
+      "id": "B",
+      "text": "B) Satisfies pollution prevention requirements"
+    },
+    {
+      "id": "C",
+      "text": "C) Allows emergency use of the fire main for de-ballasting"
+    },
+    {
+      "id": "D",
+      "text": "D) Permits discharge of waste oil to shore facilities"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 3
+}

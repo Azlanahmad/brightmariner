@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q47",
+  "text": "Fire tends to start in a switchboard due to short circuit, this is which class fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Class A"
+    },
+    {
+      "id": "B",
+      "text": "B) Class B"
+    },
+    {
+      "id": "C",
+      "text": "C) Class C"
+    },
+    {
+      "id": "D",
+      "text": "D) Class D"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 2
+}

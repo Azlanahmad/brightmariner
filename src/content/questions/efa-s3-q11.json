@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q11",
+  "text": "You find an adult who is unresponsive and not breathing. The scene is safe. What is your next step?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Check for a pulse"
+    },
+    {
+      "id": "B",
+      "text": "B) Activate the emergency response system"
+    },
+    {
+      "id": "C",
+      "text": "C) Perform CPR"
+    },
+    {
+      "id": "D",
+      "text": "D) Administer rescue breaths"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 3
+}

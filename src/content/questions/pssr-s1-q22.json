@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q22",
+  "text": "Which engineering staff is in charge of engine room maintenance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 2nd engineer"
+    },
+    {
+      "id": "B",
+      "text": "B) Chief engineer"
+    },
+    {
+      "id": "C",
+      "text": "C) 3rd engineer"
+    },
+    {
+      "id": "D",
+      "text": "D) Master"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pssr",
+  "set": 1
+}

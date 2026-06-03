@@ -1,0 +1,25 @@
+{
+  "id": "mfa-s1-q23",
+  "text": "Abdominal Thrust is a technique that involves applying a series of thrusts to the upper abdomen to force air out of a choking casualty's lungs. How do you perform this technique?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Lay the casualty on a hard surface, e.g., deck, and press firmly and rapidly on the middle of the lower half of the breastbone"
+    },
+    {
+      "id": "B",
+      "text": "B) Remove the obstruction and restore normal breathing"
+    },
+    {
+      "id": "C",
+      "text": "C) Let the casualty grab a list and hang upside down for a period of a minimum of 5 minutes"
+    },
+    {
+      "id": "D",
+      "text": "D) Stand behind the casualty. Clench your fist with the thumb inwards in the center of the upper abdomen. Grasp your fist with your other hand and pull quickly inwards"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 1
+}

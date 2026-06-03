@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q7",
+  "text": "How many hours should a diesel-driven fire pump run?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 12 hours"
+    },
+    {
+      "id": "B",
+      "text": "B) 14 hours"
+    },
+    {
+      "id": "C",
+      "text": "C) 16 hours"
+    },
+    {
+      "id": "D",
+      "text": "D) 18 hours"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 1
+}

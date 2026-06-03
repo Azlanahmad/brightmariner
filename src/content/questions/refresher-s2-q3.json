@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q3",
+  "text": "Which of the following would be considered a Class “B” fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Electrical fire in a motor"
+    },
+    {
+      "id": "B",
+      "text": "B) Waste rag fire in the engine room"
+    },
+    {
+      "id": "C",
+      "text": "C) Oil fire in the engine room bilges"
+    },
+    {
+      "id": "D",
+      "text": "D) Fire in the main switchboard"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 2
+}

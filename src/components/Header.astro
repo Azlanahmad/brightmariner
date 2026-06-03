@@ -1,0 +1,39 @@
+---
+import { Search } from 'lucide-react';
+---
+
+<header class="sticky top-0 z-50 w-full bg-canvas/80 backdrop-blur-md border-b border-hairline h-16">
+  <div class="max-w-(--page-width) mx-auto h-full flex items-center justify-between px-6 lg:px-8">
+    <div class="flex items-center gap-8">
+      <a href="/" class="flex items-center gap-2">
+        <div class="w-8 h-8 bg-primary rounded-sm flex items-center justify-center">
+            <svg viewBox="0 0 24 24" class="w-5 h-5 text-white fill-current">
+                <path d="M12 2L2 22h20L12 2z" />
+            </svg>
+        </div>
+        <span class="font-semibold text-lg tracking-tight">BrightMariner</span>
+      </a>
+      
+      <nav class="hidden md:flex items-center gap-1">
+        <a href="/mcq" class="px-3 py-1.5 text-sm text-body hover:text-ink hover:bg-canvas-soft-2 rounded-full transition-colors">Practice</a>
+        <a href="/courses" class="px-3 py-1.5 text-sm text-body hover:text-ink hover:bg-canvas-soft-2 rounded-full transition-colors">Courses</a>
+        <a href="/simulators" class="px-3 py-1.5 text-sm text-body hover:text-ink hover:bg-canvas-soft-2 rounded-full transition-colors">Simulators</a>
+        <a href="/about-us" class="px-3 py-1.5 text-sm text-body hover:text-ink hover:bg-canvas-soft-2 rounded-full transition-colors">About</a>
+      </nav>
+    </div>
+
+    <div class="flex items-center gap-3">
+        <button class="p-2 text-body hover:text-ink hover:bg-canvas-soft-2 rounded-full transition-colors">
+            <Search className="w-4 h-4" />
+        </button>
+        <a href="/login" class="px-3 py-1.5 text-sm font-medium text-ink hover:bg-canvas-soft-2 rounded-sm transition-colors">Log In</a>
+        <a href="/signup" class="px-3 py-1.5 text-sm font-medium bg-primary text-white rounded-sm hover:bg-primary/90 transition-colors">Sign Up</a>
+    </div>
+  </div>
+</header>
+
+<style>
+    :root {
+        --page-width: 1400px;
+    }
+</style>

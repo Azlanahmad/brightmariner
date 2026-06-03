@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q10",
+  "text": "The use of water spray and foam monitors to deliver jets of water on an attacking skiff is intended to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Deter the attackers"
+    },
+    {
+      "id": "B",
+      "text": "B) Disable their weapons"
+    },
+    {
+      "id": "C",
+      "text": "C) Create a distraction"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "stsdsd",
+  "set": 1
+}

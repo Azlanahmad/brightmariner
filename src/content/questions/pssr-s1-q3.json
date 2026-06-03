@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q3",
+  "text": "If you saw wisps of smoke coming out under the engine room door, you immediately:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Raise the alarm"
+    },
+    {
+      "id": "B",
+      "text": "B) Activate the fixed fire fighting system"
+    },
+    {
+      "id": "C",
+      "text": "C) Shut off the main fuel supply"
+    },
+    {
+      "id": "D",
+      "text": "D) Close the air vents"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pssr",
+  "set": 1
+}

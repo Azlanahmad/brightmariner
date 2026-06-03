@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q13",
+  "text": "Foam extinguishes a fire by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Destroying the burning materials"
+    },
+    {
+      "id": "B",
+      "text": "B) Chemical reaction with the burning material"
+    },
+    {
+      "id": "C",
+      "text": "C) Absorbing the burning material"
+    },
+    {
+      "id": "D",
+      "text": "D) Smothering the burning material"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 2
+}

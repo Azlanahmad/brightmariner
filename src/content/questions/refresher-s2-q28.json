@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q28",
+  "text": "If a portable carbon dioxide fire extinguisher has been partially discharged, it should be immediately:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Tagged and restowed properly in its rack"
+    },
+    {
+      "id": "B",
+      "text": "B) Weighed and the charge loss recorded before being returned to its rack"
+    },
+    {
+      "id": "C",
+      "text": "C) Given to the chief engineer for recharging"
+    },
+    {
+      "id": "D",
+      "text": "D) Tagged ‘empty' and stowed separately from charged extinguishers"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 2
+}

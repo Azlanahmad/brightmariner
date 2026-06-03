@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q24",
+  "text": "Foam Fixed Fire Fighting System is used in which type of Vessels?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Oil Tanker"
+    },
+    {
+      "id": "B",
+      "text": "B) Container Ship"
+    },
+    {
+      "id": "C",
+      "text": "C) Gas Carriers"
+    },
+    {
+      "id": "D",
+      "text": "D) Bulk Carriers"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 1
+}

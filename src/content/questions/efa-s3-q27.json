@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q27",
+  "text": "When is the best time to administer CPR?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) As soon as possible after a cardiac incident"
+    },
+    {
+      "id": "B",
+      "text": "B) Only after the victim has been moved to a safe location"
+    },
+    {
+      "id": "C",
+      "text": "C) When the victim's heart rate is below 60 beats per minute"
+    },
+    {
+      "id": "D",
+      "text": "D) When the victim's breathing is shallow or labored"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 3
+}

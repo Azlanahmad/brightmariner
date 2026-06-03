@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q1",
+  "text": "A carbon dioxide fire extinguisher is required to be recharged if the weight loss exceeds what percentage of the weight of the charge?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) One percent"
+    },
+    {
+      "id": "B",
+      "text": "B) Five percent"
+    },
+    {
+      "id": "C",
+      "text": "C) Seven percent"
+    },
+    {
+      "id": "D",
+      "text": "D) Ten percent"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 3
+}

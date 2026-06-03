@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q3",
+  "text": "What is the minimum capacity of emergency fire pumps in meter cube per hour?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 15 meter cube per hour"
+    },
+    {
+      "id": "B",
+      "text": "B) 20 meter cube per hour"
+    },
+    {
+      "id": "C",
+      "text": "C) 25 meter cube per hour"
+    },
+    {
+      "id": "D",
+      "text": "D) 30 meter cube per hour"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 1
+}

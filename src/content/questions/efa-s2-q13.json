@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q13",
+  "text": "First, second, and third-degree burns are classified according to the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Area of the body involved"
+    },
+    {
+      "id": "B",
+      "text": "B) Source of heat causing the burn"
+    },
+    {
+      "id": "C",
+      "text": "C) Layers of skin affected"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 2
+}

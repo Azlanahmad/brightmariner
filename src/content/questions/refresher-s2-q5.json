@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q5",
+  "text": "Which of the listed extinguishing agents is NOT suitable for fighting a liquid paint fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Dry chemical"
+    },
+    {
+      "id": "B",
+      "text": "B) Foam"
+    },
+    {
+      "id": "C",
+      "text": "C) Water"
+    },
+    {
+      "id": "D",
+      "text": "D) Carbon dioxide"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 2
+}

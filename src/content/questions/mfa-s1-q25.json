@@ -1,0 +1,25 @@
+{
+  "id": "mfa-s1-q25",
+  "text": "A severe blow to or a heavy fall on the upper part of the abdomen (solar plexus) can upset the regularity of breathing. What are the symptoms and signs?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The casualty is speaking in a very loud manner"
+    },
+    {
+      "id": "B",
+      "text": "B) The casualty may start sweating profusely and develop a fever"
+    },
+    {
+      "id": "C",
+      "text": "C) The casualty feels very hungry"
+    },
+    {
+      "id": "D",
+      "text": "D) Difficulty in breathing in, and the casualty may be unable to speak"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 1
+}

@@ -1,0 +1,111 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const allQuestions = await getCollection('questions');
+const courseIds = [...new Set(allQuestions.map(q => q.data.courseId))];
+
+const categories = [
+    {
+        name: 'STCW Basic Modular',
+        courses: [
+            { id: 'efa', name: 'Elementary First Aid (EFA)' },
+            { id: 'fpff', name: 'Fire Prevention & Fire Fighting (FPFF)' },
+            { id: 'pst', name: 'Personal Survival Techniques (PST)' },
+            { id: 'pssr', name: 'Personal Safety & Social Responsibilities (PSSR)' },
+            { id: 'stsdsd', name: 'Security Training for Seafarers (STSDSD)' },
+        ]
+    },
+    {
+        name: 'STCW Advanced',
+        courses: [
+            { id: 'aff', name: 'Advanced Fire Fighting (AFF)' },
+            { id: 'pscrb', name: 'Proficiency in Survival Craft (PSCRB)' },
+            { id: 'mfa', name: 'Medical First Aid (MFA)' },
+        ]
+    },
+    {
+        name: 'Tanker Courses',
+        courses: [
+            { id: 'tasco', name: 'Advanced Oil Tanker Operations (TASCO)' },
+        ]
+    },
+    {
+        name: 'Refresher Courses',
+        courses: [
+            { id: 'rfpff', name: 'Refresher FPFF' },
+        ]
+    }
+];
+
+// Filter out categories that have no courses with questions
+const activeCategories = categories.map(cat => ({
+    ...cat,
+    courses: cat.courses.filter(course => courseIds.includes(course.id))
+})).filter(cat => cat.courses.length > 0);
+---
+
+<Layout title="MCQ Practice | BrightMariner">
+    <div class="py-24 px-6 lg:px-8 bg-canvas-soft min-h-[calc(100vh-64px)]">
+        <div class="max-w-5xl mx-auto">
+            <header class="mb-16">
+                <h1 class="text-4xl font-semibold tracking-tight text-ink mb-4">MCQ Practice Room</h1>
+                <p class="text-body text-lg max-w-2xl">
+                    Select a course to start your practice. Our questions are curated from the latest DG Shipping exit exams to ensure your success.
+                </p>
+            </header>
+
+            <div class="space-y-16">
+                {activeCategories.map(category => (
+                    <section>
+                        <h2 class="text-xs font-mono uppercase tracking-widest text-mute mb-8 flex items-center gap-4">
+                            {category.name}
+                            <div class="h-px flex-grow bg-hairline"></div>
+                        </h2>
+                        
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                            {category.courses.map(course => (
+                                <a href={`/mcq/${course.id}`} class="group flex items-center justify-between p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all">
+                                    <div class="flex flex-col gap-1">
+                                        <h3 class="text-lg font-medium text-ink group-hover:text-primary transition-colors">{course.name}</h3>
+                                        <div class="flex items-center gap-3">
+                                            <span class="text-xs text-mute">{allQuestions.filter(q => q.data.courseId === course.id).length} Questions</span>
+                                            <div class="w-1 h-1 rounded-full bg-hairline"></div>
+                                            <span class="text-xs text-mute">Latest 2024-25</span>
+                                        </div>
+                                    </div>
+                                    <div class="w-10 h-10 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all">
+                                        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                                        </svg>
+                                    </div>
+                                </a>
+                            ))}
+                        </div>
+                    </section>
+                ))}
+            </div>
+            
+            {courseIds.filter(id => !categories.flatMap(c => c.courses).some(c => c.id === id)).length > 0 && (
+                <section class="mt-16">
+                    <h2 class="text-xs font-mono uppercase tracking-widest text-mute mb-8 flex items-center gap-4">
+                        Other Modules
+                        <div class="h-px flex-grow bg-hairline"></div>
+                    </h2>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        {courseIds.filter(id => !categories.flatMap(c => c.courses).some(c => c.id === id)).map(id => (
+                            <a href={`/mcq/${id}`} class="group flex items-center justify-between p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all">
+                                <h3 class="text-lg font-medium text-ink group-hover:text-primary transition-colors">{id.toUpperCase()} Practice</h3>
+                                <div class="w-10 h-10 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all">
+                                    <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                                    </svg>
+                                </div>
+                            </a>
+                        ))}
+                    </div>
+                </section>
+            )}
+        </div>
+    </div>
+</Layout>

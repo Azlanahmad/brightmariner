@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q18",
+  "text": "The visible range of Hand Flare in night time?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 10 NM"
+    },
+    {
+      "id": "B",
+      "text": "B) 25 NM"
+    },
+    {
+      "id": "C",
+      "text": "C) 30 NM"
+    },
+    {
+      "id": "D",
+      "text": "D) 40 NM"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 1
+}

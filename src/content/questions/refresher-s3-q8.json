@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q8",
+  "text": "What is the most vulnerable part of the fire main system?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The fire pumps"
+    },
+    {
+      "id": "B",
+      "text": "B) Exposed hard piping"
+    },
+    {
+      "id": "C",
+      "text": "C) The hydrant valves"
+    },
+    {
+      "id": "D",
+      "text": "D) The fire hose"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 3
+}

@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q3",
+  "text": "The term \"security level\" refers to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The degree of risk that a security incident will occur"
+    },
+    {
+      "id": "B",
+      "text": "B) The level of casualties"
+    },
+    {
+      "id": "C",
+      "text": "C) The level of danger"
+    },
+    {
+      "id": "D",
+      "text": "D) The probability of an attack"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "stsdsd",
+  "set": 1
+}

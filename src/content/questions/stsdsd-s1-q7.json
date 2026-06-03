@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q7",
+  "text": "To meet the requirements of the ISPS Code, the most effective and practical methods used by port authorities for surveillance is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Dedicated task force to bolster security"
+    },
+    {
+      "id": "B",
+      "text": "B) Use of security cameras"
+    },
+    {
+      "id": "C",
+      "text": "C) Use of thermal cameras"
+    },
+    {
+      "id": "D",
+      "text": "D) Trained security staff"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 1
+}

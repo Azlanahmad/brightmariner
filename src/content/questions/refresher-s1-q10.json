@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q10",
+  "text": "Maximum temperature of the unexposed side of a B class division:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 300 degrees centigrade"
+    },
+    {
+      "id": "B",
+      "text": "B) 350 degrees centigrade"
+    },
+    {
+      "id": "C",
+      "text": "C) 400 degrees centigrade"
+    },
+    {
+      "id": "D",
+      "text": "D) 250 degrees centigrade"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 1
+}

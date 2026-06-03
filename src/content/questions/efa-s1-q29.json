@@ -1,0 +1,17 @@
+{
+  "id": "efa-s1-q29",
+  "text": "If 15% of the body is affected by second-degree burns, you should take the victim to the hospital.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 1
+}

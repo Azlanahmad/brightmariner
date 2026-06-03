@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q7",
+  "text": "What is the role of a fire blanket in firefighting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To smother small fires by cutting off the oxygen supply"
+    },
+    {
+      "id": "B",
+      "text": "B) To cool down hot surfaces in a fire-affected area"
+    },
+    {
+      "id": "C",
+      "text": "C) To create a barrier against radiant heat"
+    },
+    {
+      "id": "D",
+      "text": "D) To provide an escape route for trapped personnel"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 1
+}

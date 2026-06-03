@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q14",
+  "text": "The treatment for fever is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Aspirin"
+    },
+    {
+      "id": "B",
+      "text": "B) Ibuprofen"
+    },
+    {
+      "id": "C",
+      "text": "C) Acetaminophen"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 3
+}

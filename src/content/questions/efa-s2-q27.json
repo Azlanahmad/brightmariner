@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q27",
+  "text": "If an AED is available but does not have child pads or child energy settings, what should you do for a six-year-old non-responsive victim?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Perform CPR but do not use the AED"
+    },
+    {
+      "id": "B",
+      "text": "B) Use the AED but only apply one pad"
+    },
+    {
+      "id": "C",
+      "text": "C) Use the AED in adult mode"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 2
+}

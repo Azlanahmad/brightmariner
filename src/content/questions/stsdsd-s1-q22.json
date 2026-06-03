@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q22",
+  "text": "To ensure ship's personnel are doing their security duties properly, one must carry out:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Continuous survey"
+    },
+    {
+      "id": "B",
+      "text": "B) On-scene security survey"
+    },
+    {
+      "id": "C",
+      "text": "C) Intermediate survey"
+    },
+    {
+      "id": "D",
+      "text": "D) Surprise survey"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "stsdsd",
+  "set": 1
+}

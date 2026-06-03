@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q2",
+  "text": "In topographic anatomy, the term lateral means:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Towards the midline of the body"
+    },
+    {
+      "id": "B",
+      "text": "B) Away from the midline of the body"
+    },
+    {
+      "id": "C",
+      "text": "C) Above the midline of the body"
+    },
+    {
+      "id": "D",
+      "text": "D) Below the midline of the body"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q16",
+  "text": "What is the duration of EEBD?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 5 Min."
+    },
+    {
+      "id": "B",
+      "text": "B) 8 Min."
+    },
+    {
+      "id": "C",
+      "text": "C) 10 Min."
+    },
+    {
+      "id": "D",
+      "text": "D) 12 Min."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q19",
+  "text": "What is the duration of EEBD?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 05 mins"
+    },
+    {
+      "id": "B",
+      "text": "B) 8 mins"
+    },
+    {
+      "id": "C",
+      "text": "C) 12 mins"
+    },
+    {
+      "id": "D",
+      "text": "D) 10 mins"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 3
+}

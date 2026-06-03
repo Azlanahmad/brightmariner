@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q12",
+  "text": "What is the maximum weight of a portable extinguisher?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 16 kgs"
+    },
+    {
+      "id": "B",
+      "text": "B) 25 kgs"
+    },
+    {
+      "id": "C",
+      "text": "C) 12 kgs"
+    },
+    {
+      "id": "D",
+      "text": "D) 23 kgs"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 1
+}

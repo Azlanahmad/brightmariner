@@ -1,0 +1,21 @@
+{
+  "id": "pssr-s1-q6",
+  "text": "The receiver misunderstands the sender's message and:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) This could lead to effective communication"
+    },
+    {
+      "id": "B",
+      "text": "B) This could lead to a barrier to effective communication"
+    },
+    {
+      "id": "C",
+      "text": "C) This could lead to wonderful communication"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 1
+}

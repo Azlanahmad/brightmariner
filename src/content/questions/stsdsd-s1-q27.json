@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q27",
+  "text": "Complaints of security incidents on board do not require:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Periodic testing of communication equipment"
+    },
+    {
+      "id": "B",
+      "text": "B) Ship Security Plan to be displayed"
+    },
+    {
+      "id": "C",
+      "text": "C) Immediate investigation"
+    },
+    {
+      "id": "D",
+      "text": "D) Reporting to the port facility"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "stsdsd",
+  "set": 1
+}

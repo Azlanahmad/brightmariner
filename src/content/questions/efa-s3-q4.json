@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q4",
+  "text": "Mouth-to-nose respiration should be used only when:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The victim is unconscious"
+    },
+    {
+      "id": "B",
+      "text": "B) The victim has a severe head injury"
+    },
+    {
+      "id": "C",
+      "text": "C) The victim has a broken jaw"
+    },
+    {
+      "id": "D",
+      "text": "D) It is impossible to open the victim's mouth"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "efa",
+  "set": 3
+}

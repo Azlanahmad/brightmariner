@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q13",
+  "text": "Heat removal how it stops FIRE?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Cooling"
+    },
+    {
+      "id": "B",
+      "text": "B) Inhibition"
+    },
+    {
+      "id": "C",
+      "text": "C) Starvation"
+    },
+    {
+      "id": "D",
+      "text": "D) Smothering"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 1
+}

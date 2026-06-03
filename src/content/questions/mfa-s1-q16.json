@@ -1,0 +1,25 @@
+{
+  "id": "mfa-s1-q16",
+  "text": "The best way to control severe bleeding is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Raise the bleeding part above the level of the head"
+    },
+    {
+      "id": "B",
+      "text": "B) Direct pressure over the wound"
+    },
+    {
+      "id": "C",
+      "text": "C) Application of a tourniquet"
+    },
+    {
+      "id": "D",
+      "text": "D) Direct pressure on a pressure point"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 1
+}

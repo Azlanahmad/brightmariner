@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q24",
+  "text": "Which firefighting equipment is commonly used to cut ventilation openings in ship compartments?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Fire axe"
+    },
+    {
+      "id": "B",
+      "text": "B) Water fog nozzle"
+    },
+    {
+      "id": "C",
+      "text": "C) Thermal imaging camera"
+    },
+    {
+      "id": "D",
+      "text": "D) Hydraulic rescue tool"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aff",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q8",
+  "text": "Infant CPR is administered to any child under the age of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 6 months"
+    },
+    {
+      "id": "B",
+      "text": "B) 12 months"
+    },
+    {
+      "id": "C",
+      "text": "C) 18 months"
+    },
+    {
+      "id": "D",
+      "text": "D) 24 months"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 3
+}

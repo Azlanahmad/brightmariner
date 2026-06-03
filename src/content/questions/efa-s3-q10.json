@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q10",
+  "text": "To flush an eye that has been exposed to a chemical, hold the affected eye:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Higher than the unaffected eye"
+    },
+    {
+      "id": "B",
+      "text": "B) Lower than the unaffected eye"
+    },
+    {
+      "id": "C",
+      "text": "C) At the same level as the unaffected eye"
+    },
+    {
+      "id": "D",
+      "text": "D) It doesn't matter"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 3
+}

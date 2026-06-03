@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q28",
+  "text": "In which language is the FIRE CONTROL PLAN written onboard?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) French"
+    },
+    {
+      "id": "B",
+      "text": "B) English"
+    },
+    {
+      "id": "C",
+      "text": "C) Spanish"
+    },
+    {
+      "id": "D",
+      "text": "D) Any local language"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "refresher",
+  "set": 3
+}

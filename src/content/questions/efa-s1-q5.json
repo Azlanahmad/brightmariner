@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q5",
+  "text": "Which system is responsible for the fight-or-flight response?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Sympathetic nervous system"
+    },
+    {
+      "id": "B",
+      "text": "B) Parasympathetic nervous system"
+    },
+    {
+      "id": "C",
+      "text": "C) Central nervous system"
+    },
+    {
+      "id": "D",
+      "text": "D) Endocrine system"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 1
+}

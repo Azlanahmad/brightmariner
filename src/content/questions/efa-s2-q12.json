@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q12",
+  "text": "The major cause of shock in burn victims is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The high level of pain"
+    },
+    {
+      "id": "B",
+      "text": "B) Emotional stress"
+    },
+    {
+      "id": "C",
+      "text": "C) Massive loss of fluid to the burnt area"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 2
+}

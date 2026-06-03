@@ -1,0 +1,25 @@
+{
+  "id": "mfa-s1-q28",
+  "text": "A casualty suddenly loses consciousness and falls to the ground letting out a strange cry. The patient is red-blue in the face and froth may appear around the mouth. You are witnessing a major epileptic attack. What should you do?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Move the casualty into a sit-up position and put something in the person's mouth to protect the tongue"
+    },
+    {
+      "id": "B",
+      "text": "B) Forcibly restrain and try to wake the casualty"
+    },
+    {
+      "id": "C",
+      "text": "C) Loosen tight clothing, ask all unnecessary bystanders to leave, and carefully place something soft under the head. If the casualty is unconscious, place the person in the Recovery position"
+    },
+    {
+      "id": "D",
+      "text": "D) Give the casualty a lot to drink and keep talking to the person at all times"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 1
+}

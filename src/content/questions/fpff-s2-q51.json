@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q51",
+  "text": "Foam tends to extinguish fire by",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Chemically absorbing the oxygen"
+    },
+    {
+      "id": "B",
+      "text": "B) Smothering the burning material"
+    },
+    {
+      "id": "C",
+      "text": "C) Releasing large amount of CO2"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 2
+}

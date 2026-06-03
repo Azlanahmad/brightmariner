@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q7",
+  "text": "Which of the following is a sign of severe airway obstruction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Forceful cough"
+    },
+    {
+      "id": "B",
+      "text": "B) Wheezing"
+    },
+    {
+      "id": "C",
+      "text": "C) High-pitched inhalation noise"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "efa",
+  "set": 3
+}

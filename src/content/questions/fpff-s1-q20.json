@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q20",
+  "text": "Automatic CO2 release system is for which spaces?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Bridge"
+    },
+    {
+      "id": "B",
+      "text": "B) Main Deck"
+    },
+    {
+      "id": "C",
+      "text": "C) Engine Room"
+    },
+    {
+      "id": "D",
+      "text": "D) None of Above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 1
+}

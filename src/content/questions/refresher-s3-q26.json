@@ -1,0 +1,21 @@
+{
+  "id": "refresher-s3-q26",
+  "text": "The color coding of a portable extinguisher is",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Signal Red"
+    },
+    {
+      "id": "B",
+      "text": "B) Blue"
+    },
+    {
+      "id": "C",
+      "text": "C) Black"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 3
+}

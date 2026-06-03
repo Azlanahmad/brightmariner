@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q19",
+  "text": "Is it advisable to cover a tourniquet with clothes or bandages?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Yes"
+    },
+    {
+      "id": "B",
+      "text": "B) No"
+    },
+    {
+      "id": "C",
+      "text": "C) Only in an emergency"
+    },
+    {
+      "id": "D",
+      "text": "D) It doesn't matter"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 3
+}

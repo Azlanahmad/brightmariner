@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q3",
+  "text": "How do you operate a portable CO2 fire extinguisher?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Point the horn down"
+    },
+    {
+      "id": "B",
+      "text": "B) Turn the cylinder upside-down"
+    },
+    {
+      "id": "C",
+      "text": "C) Break the rupture disc"
+    },
+    {
+      "id": "D",
+      "text": "D) Pull pin, squeeze grip"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 3
+}

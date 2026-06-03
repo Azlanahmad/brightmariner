@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q25",
+  "text": "What are splints made of?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Wood"
+    },
+    {
+      "id": "B",
+      "text": "B) Cardboard"
+    },
+    {
+      "id": "C",
+      "text": "C) Clean plastic"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 1
+}

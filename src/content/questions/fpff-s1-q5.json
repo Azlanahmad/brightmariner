@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q5",
+  "text": "What kind of foam used in engine room?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 1:500"
+    },
+    {
+      "id": "B",
+      "text": "B) 1:1000"
+    },
+    {
+      "id": "C",
+      "text": "C) 1:200"
+    },
+    {
+      "id": "D",
+      "text": "D) 1:100"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 1
+}

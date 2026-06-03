@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q13",
+  "text": "Class A fire extinguisher is best used on:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Solids"
+    },
+    {
+      "id": "B",
+      "text": "B) Liquids"
+    },
+    {
+      "id": "C",
+      "text": "C) Gases"
+    },
+    {
+      "id": "D",
+      "text": "D) Metals"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 1
+}

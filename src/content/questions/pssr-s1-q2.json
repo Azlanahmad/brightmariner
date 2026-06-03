@@ -1,0 +1,17 @@
+{
+  "id": "pssr-s1-q2",
+  "text": "Loose gear should be lashed in front of the freezing ports so it will not roll about the decks.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 1
+}

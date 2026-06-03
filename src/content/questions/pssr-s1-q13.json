@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q13",
+  "text": "What governs safe procedures at work?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The International Convention on Standards of Training, Certification, and Watchkeeping (STCW)"
+    },
+    {
+      "id": "B",
+      "text": "B) International Safety Management (ISM) Code"
+    },
+    {
+      "id": "C",
+      "text": "C) Occupational Safety and Health Act (OSHA)"
+    },
+    {
+      "id": "D",
+      "text": "D) The Code of Safe Working Practices"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q18",
+  "text": "Which of the following should be done for a crew member experiencing a heat-related illness?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Apply cool, wet cloths to the body"
+    },
+    {
+      "id": "B",
+      "text": "B) Give the victim plenty of fluids to drink"
+    },
+    {
+      "id": "C",
+      "text": "C) Move the victim to a cool, shaded area"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "efa",
+  "set": 3
+}

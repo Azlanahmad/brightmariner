@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q8",
+  "text": "When administering artificial respiration to an adult, the breathing cycle should be repeated about:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 12 to 15 times per minute"
+    },
+    {
+      "id": "B",
+      "text": "B) 18 to 20 times per minute"
+    },
+    {
+      "id": "C",
+      "text": "C) As fast as possible"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 2
+}

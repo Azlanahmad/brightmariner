@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q12",
+  "text": "You suspect a head and neck injury in a victim who is unresponsive and not breathing. How would you open the airway to give breaths?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Tilt the head back and lift the chin"
+    },
+    {
+      "id": "B",
+      "text": "B) Jaw thrust technique"
+    },
+    {
+      "id": "C",
+      "text": "C) Use a suction device"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 1
+}

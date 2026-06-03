@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q16",
+  "text": "You should be most concerned about a possible explosion or fire in fuel tanks:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) During fueling when the fuel first strikes the tank bottom"
+    },
+    {
+      "id": "B",
+      "text": "B) During fueling when the fuel strikes fuel already in the tank"
+    },
+    {
+      "id": "C",
+      "text": "C) When underway as the fuel is moved by wave action"
+    },
+    {
+      "id": "D",
+      "text": "D) Shortly after fueling when fuel vapors gather"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 2
+}

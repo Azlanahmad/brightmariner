@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q6",
+  "text": "Dry Chemical Powder Extinguisher System is?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Smothering"
+    },
+    {
+      "id": "B",
+      "text": "B) Flame Inhibitor"
+    },
+    {
+      "id": "C",
+      "text": "C) Fire Retardant"
+    },
+    {
+      "id": "D",
+      "text": "D) None of Above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q20",
+  "text": "You notice smoke coming from an open laundry room doorway. After activating the fire alarm, which of the following would you do FIRST?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Attempt to determine what is burning."
+    },
+    {
+      "id": "B",
+      "text": "B) Acquire the nearest self-contained breathing apparatus."
+    },
+    {
+      "id": "C",
+      "text": "C) Break out the nearest fire hose."
+    },
+    {
+      "id": "D",
+      "text": "D) Wait for the fire team to arrive and assist as directed."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 2
+}

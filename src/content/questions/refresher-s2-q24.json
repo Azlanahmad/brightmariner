@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q24",
+  "text": "The high velocity fog tip used with the all-purpose firefighting nozzle should always be:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Stowed separately in a clip or rack at each fire station"
+    },
+    {
+      "id": "B",
+      "text": "B) Attached to the all-purpose nozzle by a chain"
+    },
+    {
+      "id": "C",
+      "text": "C) Coated with heavy grease to prevent corrosion"
+    },
+    {
+      "id": "D",
+      "text": "D) Painted red to be identified as emergency equipment"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "refresher",
+  "set": 2
+}

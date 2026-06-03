@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q22",
+  "text": "You feel a sudden short pain in the bottom of your left foot. You look at the bottom of your left shoe and see a tack sticking in your shoe. What type of wound do you probably have?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Abrasion"
+    },
+    {
+      "id": "B",
+      "text": "B) Laceration"
+    },
+    {
+      "id": "C",
+      "text": "C) Puncture"
+    },
+    {
+      "id": "D",
+      "text": "D) Avulsion"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 1
+}

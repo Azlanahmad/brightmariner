@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q15",
+  "text": "A crew member suffering from hypothermia should be given:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) A small dose of alcohol"
+    },
+    {
+      "id": "B",
+      "text": "B) Treatment for shock"
+    },
+    {
+      "id": "C",
+      "text": "C) A large meal"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 2
+}

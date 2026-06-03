@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q16",
+  "text": "What is the purpose of a flame arrester in firefighting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To control the spread of flammable liquids"
+    },
+    {
+      "id": "B",
+      "text": "B) To arrest the progression of flames in a compartment"
+    },
+    {
+      "id": "C",
+      "text": "C) To provide visual cues during firefighting operations"
+    },
+    {
+      "id": "D",
+      "text": "D) To enhance communication among firefighters"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 1
+}

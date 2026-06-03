@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q25",
+  "text": "Maximum temperature of unexpected side of B- Class Divisions is?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 350"
+    },
+    {
+      "id": "B",
+      "text": "B) 400"
+    },
+    {
+      "id": "C",
+      "text": "C) 225"
+    },
+    {
+      "id": "D",
+      "text": "D) 300"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 1
+}

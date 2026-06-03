@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q15",
+  "text": "Automatic fire dampers in ventilation systems are operated by use of",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Heat or smoke detectors"
+    },
+    {
+      "id": "B",
+      "text": "B) CO2 system pressure switches"
+    },
+    {
+      "id": "C",
+      "text": "C) Remotely operated valves"
+    },
+    {
+      "id": "D",
+      "text": "D) Fusible links"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 3
+}

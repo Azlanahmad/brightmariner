@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q14",
+  "text": "Symptoms of heatstroke are:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Cold and moist skin, high body temperature"
+    },
+    {
+      "id": "B",
+      "text": "B) Cold and dry skin, low body temperature"
+    },
+    {
+      "id": "C",
+      "text": "C) Hot and moist skin, high body temperature"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 2
+}

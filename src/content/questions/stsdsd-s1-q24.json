@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q24",
+  "text": "The protection of people is called:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Ship security"
+    },
+    {
+      "id": "B",
+      "text": "B) Human security"
+    },
+    {
+      "id": "C",
+      "text": "C) Crew security"
+    },
+    {
+      "id": "D",
+      "text": "D) Physical security"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "stsdsd",
+  "set": 1
+}

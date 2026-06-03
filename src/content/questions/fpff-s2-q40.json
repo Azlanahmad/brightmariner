@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q40",
+  "text": "Hazard in Accommodation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Furnishing and Personal effects"
+    },
+    {
+      "id": "B",
+      "text": "B) Cigarette smoking"
+    },
+    {
+      "id": "C",
+      "text": "C) Defective electrical connection"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 2
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q20",
+  "text": "Compared to oil tankers, chemical tankers are:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) More complex to operate"
+    },
+    {
+      "id": "B",
+      "text": "B) Less complex to operate"
+    },
+    {
+      "id": "C",
+      "text": "C) As large as oil tankers"
+    },
+    {
+      "id": "D",
+      "text": "D) Capable of carrying only one grade of chemical"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pssr",
+  "set": 1
+}

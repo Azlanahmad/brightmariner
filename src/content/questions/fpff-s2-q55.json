@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q55",
+  "text": "Which is the best Fire Extinguisher for Electrical Fires?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) CO2"
+    },
+    {
+      "id": "B",
+      "text": "B) Foam"
+    },
+    {
+      "id": "C",
+      "text": "C) Water"
+    },
+    {
+      "id": "D",
+      "text": "D) DCP"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 2
+}

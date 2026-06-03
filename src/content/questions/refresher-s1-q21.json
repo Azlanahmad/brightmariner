@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q21",
+  "text": "How should the painter of a life raft, which is fitted with an HRU, be secured to the ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Secured via a weak link to a secure point."
+    },
+    {
+      "id": "B",
+      "text": "B) Secured to a part of the hydrostatic release unit that is designed to break free."
+    },
+    {
+      "id": "C",
+      "text": "C) It should not be secured in any way."
+    },
+    {
+      "id": "D",
+      "text": "D) Directly to a secure point on the ship."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 1
+}

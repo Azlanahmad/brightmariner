@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q5",
+  "text": "To prevent a pirate attack, the first line of defense is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Proper lookout"
+    },
+    {
+      "id": "B",
+      "text": "B) Maximize the speed of your vessel"
+    },
+    {
+      "id": "C",
+      "text": "C) Seal all entrances to accommodation"
+    },
+    {
+      "id": "D",
+      "text": "D) Early detection"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "stsdsd",
+  "set": 1
+}

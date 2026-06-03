@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q9",
+  "text": "An unconscious seaman is lying on his back and not breathing. What is the first thing you do?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Check for a pulse"
+    },
+    {
+      "id": "B",
+      "text": "B) Give rescue breaths"
+    },
+    {
+      "id": "C",
+      "text": "C) Tilt his head back as far as it will go"
+    },
+    {
+      "id": "D",
+      "text": "D) Call for help"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 1
+}

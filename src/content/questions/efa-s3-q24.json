@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q24",
+  "text": "The type of shock that is caused by a severe infection is called:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Cardiogenic shock"
+    },
+    {
+      "id": "B",
+      "text": "B) Hypovolemic shock"
+    },
+    {
+      "id": "C",
+      "text": "C) Septic shock"
+    },
+    {
+      "id": "D",
+      "text": "D) Anaphylactic shock"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 3
+}

@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q22",
+  "text": "Class-C Fire Extinguisher is best used on?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Solid"
+    },
+    {
+      "id": "B",
+      "text": "B) Metal"
+    },
+    {
+      "id": "C",
+      "text": "C) Electrical"
+    },
+    {
+      "id": "D",
+      "text": "D) Gas"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 1
+}

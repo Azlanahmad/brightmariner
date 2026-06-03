@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q10",
+  "text": "A vessel's fire control plan shall be",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Posted every 150 feet along the most continuous deck on the vessel"
+    },
+    {
+      "id": "B",
+      "text": "B) Permanently posted for the guidance of ship's officers"
+    },
+    {
+      "id": "C",
+      "text": "C) Given to each crew member in booklet form"
+    },
+    {
+      "id": "D",
+      "text": "D) Translated into three languages: English, French and Spanish"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "refresher",
+  "set": 3
+}

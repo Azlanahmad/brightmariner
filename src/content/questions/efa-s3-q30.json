@@ -1,0 +1,21 @@
+{
+  "id": "efa-s3-q30",
+  "text": "The onset of shock in infants and children:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) May be sudden and severe"
+    },
+    {
+      "id": "B",
+      "text": "B) Is no different than in adults"
+    },
+    {
+      "id": "C",
+      "text": "C) Usually results from cardiac problems"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 3
+}

@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q16",
+  "text": "What is the average heartbeat of an adult at rest?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 50-60 beats per minute"
+    },
+    {
+      "id": "B",
+      "text": "B) 60-100 beats per minute"
+    },
+    {
+      "id": "C",
+      "text": "C) 100-120 beats per minute"
+    },
+    {
+      "id": "D",
+      "text": "D) 120-140 beats per minute"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 3
+}

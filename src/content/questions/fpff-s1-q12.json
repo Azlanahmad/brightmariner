@@ -1,0 +1,17 @@
+{
+  "id": "fpff-s1-q12",
+  "text": "Full form of AFFF is \"AQUEOUS FILM FORMING FOAM\"",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 1
+}

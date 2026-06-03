@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q10",
+  "text": "If you suspect a head or neck injury, you should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Move the victim as quickly as possible"
+    },
+    {
+      "id": "B",
+      "text": "B) Support the head and neck in the position found"
+    },
+    {
+      "id": "C",
+      "text": "C) Try to straighten the victim's neck"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 1
+}

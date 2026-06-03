@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q11",
+  "text": "In advanced firefighting, what is the primary function of a fire axe?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Ventilating smoke from the compartment"
+    },
+    {
+      "id": "B",
+      "text": "B) Cutting through bulkheads and doors"
+    },
+    {
+      "id": "C",
+      "text": "C) Spraying water in a concentrated stream"
+    },
+    {
+      "id": "D",
+      "text": "D) Applying foam to the fire"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q12",
+  "text": "The person ultimately responsible for the security of the ship is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The Master"
+    },
+    {
+      "id": "B",
+      "text": "B) The Chief Officer"
+    },
+    {
+      "id": "C",
+      "text": "C) The Security Officer"
+    },
+    {
+      "id": "D",
+      "text": "D) The Company Security Officer"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "stsdsd",
+  "set": 1
+}

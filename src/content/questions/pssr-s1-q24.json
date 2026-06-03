@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q24",
+  "text": "Self-induced stress is mainly due to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Family"
+    },
+    {
+      "id": "B",
+      "text": "B) Personality"
+    },
+    {
+      "id": "C",
+      "text": "C) Economy"
+    },
+    {
+      "id": "D",
+      "text": "D) Health"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 1
+}

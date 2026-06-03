@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q19",
+  "text": "A shipmate suffers a heart attack and stops breathing. You must:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Immediately give a stimulant by force if necessary"
+    },
+    {
+      "id": "B",
+      "text": "B) Make the victim comfortable in a bunk"
+    },
+    {
+      "id": "C",
+      "text": "C) Immediately start CPR"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 2
+}

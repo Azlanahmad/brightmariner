@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q16",
+  "text": "How often should rescue boards be launched with their assigned crew and manning water?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Every month"
+    },
+    {
+      "id": "B",
+      "text": "B) Every week"
+    },
+    {
+      "id": "C",
+      "text": "C) Once in three months"
+    },
+    {
+      "id": "D",
+      "text": "D) Once in two weeks"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 1
+}

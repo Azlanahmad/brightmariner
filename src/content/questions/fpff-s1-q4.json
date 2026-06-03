@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q4",
+  "text": "Fire triangle fill-up the blanks",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Fuel"
+    },
+    {
+      "id": "B",
+      "text": "B) Oxygen"
+    },
+    {
+      "id": "C",
+      "text": "C) Heat"
+    },
+    {
+      "id": "D",
+      "text": "D) All of Above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 1
+}

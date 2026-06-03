@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q1",
+  "text": "Fire Triangle Fill up the blanks",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Fuel"
+    },
+    {
+      "id": "B",
+      "text": "B) Heat"
+    },
+    {
+      "id": "C",
+      "text": "C) Oxygen"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 1
+}

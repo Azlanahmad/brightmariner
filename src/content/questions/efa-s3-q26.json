@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q26",
+  "text": "If you want to be a first aider at work, you should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Take a first aid course"
+    },
+    {
+      "id": "B",
+      "text": "B) Get certified in CPR"
+    },
+    {
+      "id": "C",
+      "text": "C) Arrange for your employer to put you on a first aiders course"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "efa",
+  "set": 3
+}

@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q12",
+  "text": "What does the term \"fire tetrahedron\" refer to in the context of firefighting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) A four-sided firefighting tool"
+    },
+    {
+      "id": "B",
+      "text": "B) The four elements required for combustion"
+    },
+    {
+      "id": "C",
+      "text": "C) A specialized firefighting drill"
+    },
+    {
+      "id": "D",
+      "text": "D) A geometric shape used in fire suppression"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 1
+}

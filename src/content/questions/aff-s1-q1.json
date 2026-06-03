@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q1",
+  "text": "What is the primary purpose of boundary cooling during a fire on a ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To minimize smoke production"
+    },
+    {
+      "id": "B",
+      "text": "B) To prevent fire spread by cooling adjacent surfaces"
+    },
+    {
+      "id": "C",
+      "text": "C) To increase the temperature inside the compartment"
+    },
+    {
+      "id": "D",
+      "text": "D) To accelerate the combustion process"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 1
+}

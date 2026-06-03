@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q8",
+  "text": "In the context of firefighting, what does the acronym PASS stand for?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Pressure Application Safety System"
+    },
+    {
+      "id": "B",
+      "text": "B) Portable Aqueous Suppression System"
+    },
+    {
+      "id": "C",
+      "text": "C) Pull, Aim, Squeeze, Sweep"
+    },
+    {
+      "id": "D",
+      "text": "D) Primary Air Supply Source"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 1
+}

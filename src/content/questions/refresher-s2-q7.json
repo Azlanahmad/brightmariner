@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q7",
+  "text": "The extinguishing agent most effective for combating wood fires is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Water"
+    },
+    {
+      "id": "B",
+      "text": "B) Carbon dioxide"
+    },
+    {
+      "id": "C",
+      "text": "C) Foam"
+    },
+    {
+      "id": "D",
+      "text": "D) Dry chemical"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 2
+}

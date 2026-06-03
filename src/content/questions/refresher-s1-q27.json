@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q27",
+  "text": "What is the fourth component of a fire tetrahedron?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Molecular chain reaction"
+    },
+    {
+      "id": "B",
+      "text": "B) Inhibition"
+    },
+    {
+      "id": "C",
+      "text": "C) Fire reaction"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 1
+}

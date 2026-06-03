@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q15",
+  "text": "In the context of fire safety, what does the acronym \"RECAAR\" stand for?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Rapid Escape and Control Against Radiant heat"
+    },
+    {
+      "id": "B",
+      "text": "B) Rescue, Evacuation, and Containment of Aerial Risks"
+    },
+    {
+      "id": "C",
+      "text": "C) Response, Escape, and Control Against Adverse Reactions"
+    },
+    {
+      "id": "D",
+      "text": "D) Rescue, Evacuation, Containment, Assessment, and Recovery"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aff",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q25",
+  "text": "The extinguisher that can be used for class F or class K fires is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) CO2"
+    },
+    {
+      "id": "B",
+      "text": "B) Dry chemical powder"
+    },
+    {
+      "id": "C",
+      "text": "C) Foam"
+    },
+    {
+      "id": "D",
+      "text": "D) Wet chemical"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 1
+}

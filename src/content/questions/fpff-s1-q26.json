@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q26",
+  "text": "Foam Extinguisher work on?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Smothering"
+    },
+    {
+      "id": "B",
+      "text": "B) Starvation"
+    },
+    {
+      "id": "C",
+      "text": "C) Cooling"
+    },
+    {
+      "id": "D",
+      "text": "D) Inhibition"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 1
+}

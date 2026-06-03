@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q43",
+  "text": "Substances involving wood, plastic and paper are classified as?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Class A fire"
+    },
+    {
+      "id": "B",
+      "text": "B) Class B fire"
+    },
+    {
+      "id": "C",
+      "text": "C) Class C fire"
+    },
+    {
+      "id": "D",
+      "text": "D) Class D fire"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 2
+}

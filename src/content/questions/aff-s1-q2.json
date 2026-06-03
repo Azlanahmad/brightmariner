@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q2",
+  "text": "In advanced firefighting, what is the purpose of using a Class A foam?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To cool down hot surfaces"
+    },
+    {
+      "id": "B",
+      "text": "B) To suppress flammable gas release"
+    },
+    {
+      "id": "C",
+      "text": "C) To control oil and fuel fires"
+    },
+    {
+      "id": "D",
+      "text": "D) To neutralize acidic fumes"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 1
+}

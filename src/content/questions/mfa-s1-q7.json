@@ -1,0 +1,25 @@
+{
+  "id": "mfa-s1-q7",
+  "text": "One sign that a bandage may be too tight after completing compress bandage is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Blue color of the skin above the bandage"
+    },
+    {
+      "id": "B",
+      "text": "B) Swelling below the bandage and heavy pain"
+    },
+    {
+      "id": "C",
+      "text": "C) Heartbeat increases and a dizzy feeling"
+    },
+    {
+      "id": "D",
+      "text": "D) Swelling above the bandage"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 1
+}

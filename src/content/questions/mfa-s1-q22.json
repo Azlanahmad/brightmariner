@@ -1,0 +1,25 @@
+{
+  "id": "mfa-s1-q22",
+  "text": "You witness a man getting electric current through his body and is stuck to the dangerous area. It is impossible to switch off the current by any main switch. How do you break the current safely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Stand on dry insulating material and pull the person away with isolating material"
+    },
+    {
+      "id": "B",
+      "text": "B) Just take the casualty in your arms and pull the person away"
+    },
+    {
+      "id": "C",
+      "text": "C) Apply fish oil on your hands and cut the cords by the use of any metallic pliers"
+    },
+    {
+      "id": "D",
+      "text": "D) Call the electrician immediately"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 1
+}

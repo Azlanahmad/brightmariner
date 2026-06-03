@@ -1,0 +1,17 @@
+{
+  "id": "efa-s1-q28",
+  "text": "For second-degree burns, you can break the blister and serve.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 1
+}

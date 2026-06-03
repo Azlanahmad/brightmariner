@@ -1,0 +1,25 @@
+{
+  "id": "mfa-s1-q20",
+  "text": "The Recovery Position is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The patient is seated in a position with the head kept as low as possible"
+    },
+    {
+      "id": "B",
+      "text": "B) The patient is placed in a 'face-to-the-floor' position with arms and legs arranged in order to stabilize this position"
+    },
+    {
+      "id": "C",
+      "text": "C) The patient is placed flat on a bed"
+    },
+    {
+      "id": "D",
+      "text": "D) The patient is seated in an upright position and with the arms and legs arranged in order to keep this position stable"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q16",
+  "text": "Corrective actions should be taken when:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) A security incident occurs"
+    },
+    {
+      "id": "B",
+      "text": "B) A security drill is not conducted as planned"
+    },
+    {
+      "id": "C",
+      "text": "C) A vulnerability in the security system is identified"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "stsdsd",
+  "set": 1
+}

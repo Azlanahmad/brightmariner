@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q23",
+  "text": "If restricted visibility is encountered in an accommodation fire, you would",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Carry a torch"
+    },
+    {
+      "id": "B",
+      "text": "B) Stand up straight to keep your head above the smoke"
+    },
+    {
+      "id": "C",
+      "text": "C) Use a fan to blow the smoke and flames"
+    },
+    {
+      "id": "D",
+      "text": "D) Rig lifelines to assist a retreat"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 3
+}

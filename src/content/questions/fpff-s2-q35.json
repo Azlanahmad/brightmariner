@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q35",
+  "text": "The basic fire theory says that a fire needs 4 main elements in order to start: Heat, Fuel, Oxygen and ____?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Hydrogen Sulphide"
+    },
+    {
+      "id": "B",
+      "text": "B) Carbon-dioxide"
+    },
+    {
+      "id": "C",
+      "text": "C) A chain reaction"
+    },
+    {
+      "id": "D",
+      "text": "D) Benzene"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 2
+}

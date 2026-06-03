@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q22",
+  "text": "Before lifting a lifeboat from water, it must be ensured that:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The bottom plug is shipped."
+    },
+    {
+      "id": "B",
+      "text": "B) Fall wires are clear and looped securely."
+    },
+    {
+      "id": "C",
+      "text": "C) The engine is going astern."
+    },
+    {
+      "id": "D",
+      "text": "D) The anchor is streamed."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "refresher",
+  "set": 1
+}

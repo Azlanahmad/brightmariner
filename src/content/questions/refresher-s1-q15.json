@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q15",
+  "text": "Automatic CO2 release system is for which space?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Accommodation"
+    },
+    {
+      "id": "B",
+      "text": "B) Main deck"
+    },
+    {
+      "id": "C",
+      "text": "C) Engine room"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mfa-s1-q21",
+  "text": "What do you call the method used for bone-soft part injuries?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) REHAB-method"
+    },
+    {
+      "id": "B",
+      "text": "B) ABC-method"
+    },
+    {
+      "id": "C",
+      "text": "C) First Aid-method"
+    },
+    {
+      "id": "D",
+      "text": "D) ICE-method"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 1
+}

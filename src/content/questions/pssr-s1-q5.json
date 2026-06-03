@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q5",
+  "text": "What is the life-saving signal at day for \"you are seen-assistance will be given as soon as possible\"?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Green star rocket"
+    },
+    {
+      "id": "B",
+      "text": "B) Red star rocket"
+    },
+    {
+      "id": "C",
+      "text": "C) Orange smoke signal"
+    },
+    {
+      "id": "D",
+      "text": "D) Horizontal motion of a flag"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 1
+}

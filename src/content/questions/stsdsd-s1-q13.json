@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q13",
+  "text": "Security drills should be conducted:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Monthly"
+    },
+    {
+      "id": "B",
+      "text": "B) Quarterly"
+    },
+    {
+      "id": "C",
+      "text": "C) Annually"
+    },
+    {
+      "id": "D",
+      "text": "D) As per the Ship Security Plan (SSP)"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "stsdsd",
+  "set": 1
+}

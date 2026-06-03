@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q9",
+  "text": "An atraumatic splint could be used for which of the following injuries?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) A mid-shaft femur fracture"
+    },
+    {
+      "id": "B",
+      "text": "B) An ankle sprain"
+    },
+    {
+      "id": "C",
+      "text": "C) A wrist fracture"
+    },
+    {
+      "id": "D",
+      "text": "D) A rib fracture"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 3
+}

@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q16",
+  "text": "If passengers are on board when an abandon ship drill is carried out, they should",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Take part"
+    },
+    {
+      "id": "B",
+      "text": "B) Watch"
+    },
+    {
+      "id": "C",
+      "text": "C) Go to their quarters"
+    },
+    {
+      "id": "D",
+      "text": "D) Stay out of the way and do what they want"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 3
+}

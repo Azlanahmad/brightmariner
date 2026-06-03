@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q4",
+  "text": "Which firefighting equipment is specifically designed for use in confined spaces onboard a ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Fire hoses"
+    },
+    {
+      "id": "B",
+      "text": "B) Breathing apparatus"
+    },
+    {
+      "id": "C",
+      "text": "C) Foam monitors"
+    },
+    {
+      "id": "D",
+      "text": "D) Fire extinguishers"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q1",
+  "text": "Which dangerous condition should be kept in mind after using a 15-pound CO2 fire extinguisher on a small oil fire on the engine room floor plates?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Possible suffocation from the CO2 gas."
+    },
+    {
+      "id": "B",
+      "text": "B) Forgetting to secure the engine room ventilation system."
+    },
+    {
+      "id": "C",
+      "text": "C) CO2 gas being drawn into nearby engine or air compressor intakes."
+    },
+    {
+      "id": "D",
+      "text": "D) Rekindling of the fire."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 2
+}

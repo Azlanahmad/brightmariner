@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q59",
+  "text": "If passengers are onboard when an Abandon Ship drill is carried out, they should_____?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Watch"
+    },
+    {
+      "id": "B",
+      "text": "B) Stay out of the way and do what they want"
+    },
+    {
+      "id": "C",
+      "text": "C) Take Part"
+    },
+    {
+      "id": "D",
+      "text": "D) Go to their quarters"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 2
+}

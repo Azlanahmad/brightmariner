@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q10",
+  "text": "Bleeding from a vein is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Dark red and has a steady flow"
+    },
+    {
+      "id": "B",
+      "text": "B) Bright red and slow"
+    },
+    {
+      "id": "C",
+      "text": "C) Bright red and squirting"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 2
+}

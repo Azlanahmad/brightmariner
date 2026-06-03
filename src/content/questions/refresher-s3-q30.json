@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q30",
+  "text": "What is the maximum weight of a portable fire extinguisher?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 16 Kg"
+    },
+    {
+      "id": "B",
+      "text": "B) 25 Kg"
+    },
+    {
+      "id": "C",
+      "text": "C) 12 Kg"
+    },
+    {
+      "id": "D",
+      "text": "D) 23 Kg"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 3
+}

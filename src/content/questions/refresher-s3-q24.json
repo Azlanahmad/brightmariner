@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q24",
+  "text": "Firefighters should come back from the area",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) After 10 mins of firefighting"
+    },
+    {
+      "id": "B",
+      "text": "B) Upon instruction from another firefighter"
+    },
+    {
+      "id": "C",
+      "text": "C) Upon hearing the warning sound from SCBA"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 3
+}

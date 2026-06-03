@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q5",
+  "text": "What is the primary purpose of the International Shore Connection (ISC) on a ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To supply freshwater to the crew"
+    },
+    {
+      "id": "B",
+      "text": "B) To connect with the shore power supply"
+    },
+    {
+      "id": "C",
+      "text": "C) To facilitate shore-based firefighting assistance"
+    },
+    {
+      "id": "D",
+      "text": "D) To enhance communication with nearby vessels"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 1
+}

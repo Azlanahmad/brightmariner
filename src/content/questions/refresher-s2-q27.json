@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q27",
+  "text": "The primary function(s) of an automatic sprinkler system is(are) to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Extinguish the fire which triggers it"
+    },
+    {
+      "id": "B",
+      "text": "B) Limit the spread of fire and control the amount of heat produced"
+    },
+    {
+      "id": "C",
+      "text": "C) Protect people in the areas which have sprinkler heads"
+    },
+    {
+      "id": "D",
+      "text": "D) Alert the crew to the fire"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "refresher",
+  "set": 2
+}

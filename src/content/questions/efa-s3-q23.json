@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q23",
+  "text": "Difficulty breathing may be a sign of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Heart attack"
+    },
+    {
+      "id": "B",
+      "text": "B) Asthma attack"
+    },
+    {
+      "id": "C",
+      "text": "C) Anaphylaxis"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "efa",
+  "set": 3
+}

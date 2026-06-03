@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q15",
+  "text": "If there is no response from the crew when you are doing the primary survey, you should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Call 108 and return to the crew"
+    },
+    {
+      "id": "B",
+      "text": "B) Give rescue breaths"
+    },
+    {
+      "id": "C",
+      "text": "C) Check for a pulse"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 1
+}

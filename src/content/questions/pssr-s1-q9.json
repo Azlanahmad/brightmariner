@@ -1,0 +1,21 @@
+{
+  "id": "pssr-s1-q9",
+  "text": "Name two officers who liaise with each other to try out the steering gear:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Chief engineer and chief officer"
+    },
+    {
+      "id": "B",
+      "text": "B) Second engineer and second officer"
+    },
+    {
+      "id": "C",
+      "text": "C) Third engineer and third officer"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 1
+}

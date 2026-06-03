@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q28",
+  "text": "Irrigate an eye with:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Diluted vinegar"
+    },
+    {
+      "id": "B",
+      "text": "B) Saline solution"
+    },
+    {
+      "id": "C",
+      "text": "C) An appropriate chemical antidote"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 2
+}

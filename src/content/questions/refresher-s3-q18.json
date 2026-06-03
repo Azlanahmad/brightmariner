@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q18",
+  "text": "Which type of extinguisher is hard to recharge onboard?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) CO2"
+    },
+    {
+      "id": "B",
+      "text": "B) DCP"
+    },
+    {
+      "id": "C",
+      "text": "C) FOAM"
+    },
+    {
+      "id": "D",
+      "text": "D) WATER TYPE"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 3
+}

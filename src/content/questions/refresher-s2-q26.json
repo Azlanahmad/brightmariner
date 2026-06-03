@@ -1,0 +1,21 @@
+{
+  "id": "refresher-s2-q26",
+  "text": "The outlet at a fire hydrant may be positioned anywhere from horizontal to pointing:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 45° upward"
+    },
+    {
+      "id": "B",
+      "text": "B) Vertically upward"
+    },
+    {
+      "id": "C",
+      "text": "C) Vertically downward"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 2
+}

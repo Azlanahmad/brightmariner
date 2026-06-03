@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q22",
+  "text": "Can you use an adult AED on an infant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Yes"
+    },
+    {
+      "id": "B",
+      "text": "B) No"
+    },
+    {
+      "id": "C",
+      "text": "C) Only if the infant is at least 6 months old"
+    },
+    {
+      "id": "D",
+      "text": "D) Only if the infant is at least 1 year old"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 3
+}

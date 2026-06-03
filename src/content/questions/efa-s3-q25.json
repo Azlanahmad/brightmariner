@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q25",
+  "text": "After discovering a possible fracture, you should assess which of the following before and after splinting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Capillary refill, pulse, and sensation"
+    },
+    {
+      "id": "B",
+      "text": "B) Blood pressure, heart rate, and respiratory rate"
+    },
+    {
+      "id": "C",
+      "text": "C) Level of consciousness, pupil response, and motor function"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 3
+}

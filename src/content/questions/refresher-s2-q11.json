@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q11",
+  "text": "To prevent the spread of fire by convection you should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Cool the bulkhead around the fire"
+    },
+    {
+      "id": "B",
+      "text": "B) Remove combustibles from direct exposure"
+    },
+    {
+      "id": "C",
+      "text": "C) Close all openings to the area"
+    },
+    {
+      "id": "D",
+      "text": "D) Shut off all electrical power"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 2
+}

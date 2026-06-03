@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q1",
+  "text": "One can ensure structural security by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Sealing off the ship"
+    },
+    {
+      "id": "B",
+      "text": "B) Limiting Access Points"
+    },
+    {
+      "id": "C",
+      "text": "C) Locking all doors"
+    },
+    {
+      "id": "D",
+      "text": "D) Limiting entry into the ship"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 1
+}

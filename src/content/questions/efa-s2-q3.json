@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q3",
+  "text": "A person who gets battery acid in an eye should immediately wash the eye with:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Boric acid solution"
+    },
+    {
+      "id": "B",
+      "text": "B) Water"
+    },
+    {
+      "id": "C",
+      "text": "C) Baking soda solution"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 2
+}

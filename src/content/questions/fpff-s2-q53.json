@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q53",
+  "text": "What is the color coding of portable DCP type extinguisher?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Black"
+    },
+    {
+      "id": "B",
+      "text": "B) Yellow"
+    },
+    {
+      "id": "C",
+      "text": "C) Blue"
+    },
+    {
+      "id": "D",
+      "text": "D) Signal Red"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 2
+}

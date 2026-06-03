@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q9",
+  "text": "Ship Security Assessments are the responsibility of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) PFSO"
+    },
+    {
+      "id": "B",
+      "text": "B) SSO"
+    },
+    {
+      "id": "C",
+      "text": "C) Designated person"
+    },
+    {
+      "id": "D",
+      "text": "D) CSO (Company Security Officer)"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "stsdsd",
+  "set": 1
+}

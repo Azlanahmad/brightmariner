@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q21",
+  "text": "There are two disadvantages to CO2 when used as a total flooding firefighting agent. One of them is extinguishing concentration will not support human life and",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The lack of cooling effect on heated materials"
+    },
+    {
+      "id": "B",
+      "text": "B) It breaks down under extreme heat to form poisonous gases"
+    },
+    {
+      "id": "C",
+      "text": "C) It cannot be used in a dead ship situation without electrical power available to CO2 pump"
+    },
+    {
+      "id": "D",
+      "text": "D) There is no effect on class A fire even in an enclosed space"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 3
+}

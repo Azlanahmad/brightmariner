@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q16",
+  "text": "\"Human elements\" in a ship means:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Human behavior"
+    },
+    {
+      "id": "B",
+      "text": "B) Human relationship"
+    },
+    {
+      "id": "C",
+      "text": "C) Human interaction"
+    },
+    {
+      "id": "D",
+      "text": "D) Human error"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 1
+}

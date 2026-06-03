@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q23",
+  "text": "In the context of advanced firefighting, what is the purpose of a water curtain?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To create a barrier against radiant heat"
+    },
+    {
+      "id": "B",
+      "text": "B) To supply water to firefighting hoses"
+    },
+    {
+      "id": "C",
+      "text": "C) To generate foam for liquid fires"
+    },
+    {
+      "id": "D",
+      "text": "D) To create a visual signal for distress"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 1
+}

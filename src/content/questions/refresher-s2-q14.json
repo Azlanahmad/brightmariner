@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q14",
+  "text": "Immediately after a class \"B\" fire has been extinguished by the use of foam, crewmen should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Carefully apply a low velocity fog over the foam blanket"
+    },
+    {
+      "id": "B",
+      "text": "B) Wade through the foam blanket to evenly distribute the foam"
+    },
+    {
+      "id": "C",
+      "text": "C) Be careful not to disturb the foam blanket"
+    },
+    {
+      "id": "D",
+      "text": "D) Sweep the foam blanket overboard and secure firefighting equipment"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 2
+}

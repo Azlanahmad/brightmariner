@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q16",
+  "text": "Which procedure should not be done for a person who has fainted?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Revive the person with smelling salts"
+    },
+    {
+      "id": "B",
+      "text": "B) Loosen the clothing"
+    },
+    {
+      "id": "C",
+      "text": "C) Give pain reliever"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 2
+}

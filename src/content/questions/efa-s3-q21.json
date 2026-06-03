@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q21",
+  "text": "What do you do after giving rescue breaths to an unconscious adult?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Check for a pulse"
+    },
+    {
+      "id": "B",
+      "text": "B) Continue rescue breaths"
+    },
+    {
+      "id": "C",
+      "text": "C) Assess the victim's pupils"
+    },
+    {
+      "id": "D",
+      "text": "D) Administer CPR"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 3
+}

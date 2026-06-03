@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q3",
+  "text": "The most likely location for a liquid cargo fire to occur on a tanker would be?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) In the midships house"
+    },
+    {
+      "id": "B",
+      "text": "B) At the main deck manifold"
+    },
+    {
+      "id": "C",
+      "text": "C) At the vent header"
+    },
+    {
+      "id": "D",
+      "text": "D) In the pump room"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 1
+}

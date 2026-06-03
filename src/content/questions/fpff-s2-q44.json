@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q44",
+  "text": "Fire is the process of combustion accompanied by the rapid release of heat and ____?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Light"
+    },
+    {
+      "id": "B",
+      "text": "B) Energy"
+    },
+    {
+      "id": "C",
+      "text": "C) Destruction"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 2
+}

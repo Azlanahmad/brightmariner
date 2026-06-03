@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q20",
+  "text": "You have a casualty who is not breathing but has injuries to the face that prevent you from performing mouth-to-mouth resuscitation. What do you do?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Perform chest compressions only at a rate of 100-120 per minute"
+    },
+    {
+      "id": "B",
+      "text": "B) Attempt to open the victim's mouth using a jaw thrust maneuver"
+    },
+    {
+      "id": "C",
+      "text": "C) Give rescue breaths through the nose"
+    },
+    {
+      "id": "D",
+      "text": "D) Call for immediate medical assistance"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 3
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fpff-s2-q46",
+  "text": "Portable extinguisher should not be more than 13 kg.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 2
+}

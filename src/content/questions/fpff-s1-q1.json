@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q1",
+  "text": "In the event of a fire, the doors to stair tower must be closed to prevent the spread of fire by what?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Convection"
+    },
+    {
+      "id": "B",
+      "text": "B) Conduction"
+    },
+    {
+      "id": "C",
+      "text": "C) Radiation"
+    },
+    {
+      "id": "D",
+      "text": "D) Ventilation"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 1
+}

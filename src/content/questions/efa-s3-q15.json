@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q15",
+  "text": "Hypovolemic shock results from:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Decreased volume of blood"
+    },
+    {
+      "id": "B",
+      "text": "B) An allergic reaction"
+    },
+    {
+      "id": "C",
+      "text": "C) A heart attack"
+    },
+    {
+      "id": "D",
+      "text": "D) A stroke"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 3
+}

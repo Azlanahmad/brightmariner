@@ -1,0 +1,21 @@
+{
+  "id": "refresher-s3-q17",
+  "text": "The locker or space containing the self-contained breathing apparatus must be",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Located in close proximity to the bridge"
+    },
+    {
+      "id": "B",
+      "text": "B) Equipped with battery powered emergency lighting"
+    },
+    {
+      "id": "C",
+      "text": "C) Marked \"SELF-CONTAINED BREATHING APPARATUS\""
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 3
+}

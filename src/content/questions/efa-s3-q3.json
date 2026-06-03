@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q3",
+  "text": "You can best control the swelling and pain of an ankle sprain by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Rest, immobilization, application of cold, and elevation (RICE)"
+    },
+    {
+      "id": "B",
+      "text": "B) Applying a compression bandage"
+    },
+    {
+      "id": "C",
+      "text": "C) Taking over-the-counter pain medication"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 3
+}

@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q19",
+  "text": "Practicable how often shall Rescue Boats to be launched with their assigned crew and Maneuvered in Water?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Every Week"
+    },
+    {
+      "id": "B",
+      "text": "B) Every Month"
+    },
+    {
+      "id": "C",
+      "text": "C) Once in Three Month"
+    },
+    {
+      "id": "D",
+      "text": "D) Every Year"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 1
+}

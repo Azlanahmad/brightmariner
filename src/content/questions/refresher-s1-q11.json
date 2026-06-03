@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q11",
+  "text": "DCP firefighting system is used in which types of vessels?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Oil tankers"
+    },
+    {
+      "id": "B",
+      "text": "B) Chemical tankers"
+    },
+    {
+      "id": "C",
+      "text": "C) Bulk carriers"
+    },
+    {
+      "id": "D",
+      "text": "D) Gas carriers"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 1
+}

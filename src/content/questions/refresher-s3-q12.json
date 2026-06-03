@@ -1,0 +1,21 @@
+{
+  "id": "refresher-s3-q12",
+  "text": "Which of the following statements is true concerning fire hose stations used in the engine room of a tanker or cargo vessel?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) It must be marked in red letters two inches high"
+    },
+    {
+      "id": "B",
+      "text": "B) National Standard fire hose coupling threads shall be used"
+    },
+    {
+      "id": "C",
+      "text": "C) In heavy weather, the hose may be removed temporarily from the hydrant"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "refresher",
+  "set": 3
+}

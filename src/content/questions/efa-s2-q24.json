@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q24",
+  "text": "You have tried to control a victim's forearm bleeding with direct pressure and elevation, but the bleeding does not stop. Where would you apply pressure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Outside the arm midway between the shoulder and the elbow"
+    },
+    {
+      "id": "B",
+      "text": "B) On the inside of the elbow"
+    },
+    {
+      "id": "C",
+      "text": "C) Inside the arm between the shoulder and elbow"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 2
+}

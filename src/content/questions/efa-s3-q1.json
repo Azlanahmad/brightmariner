@@ -1,0 +1,17 @@
+{
+  "id": "efa-s3-q1",
+  "text": "In order to assess for a pulse in an adult crew, you would assess for the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Carotid pulse for 5-10 seconds"
+    },
+    {
+      "id": "B",
+      "text": "B) Radial pulse for 5-10 seconds"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 3
+}

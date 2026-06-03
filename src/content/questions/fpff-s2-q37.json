@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q37",
+  "text": "The letters A, B and C on the portable fire extinguisher represent what?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) How much chemical it holds"
+    },
+    {
+      "id": "B",
+      "text": "B) The first 3 letters of the extinguisher"
+    },
+    {
+      "id": "C",
+      "text": "C) Type of fire on which it can be used"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 2
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q18",
+  "text": "Displacement refers to the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Cubic capacity of a vessel"
+    },
+    {
+      "id": "B",
+      "text": "B) Deadweight carrying capacity of a vessel"
+    },
+    {
+      "id": "C",
+      "text": "C) Gross tonnage of a vessel"
+    },
+    {
+      "id": "D",
+      "text": "D) Number of long tons of water displaced by a vessel afloat"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 1
+}

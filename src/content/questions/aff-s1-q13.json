@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q13",
+  "text": "In the event of an electrical fire onboard, which firefighting equipment is specifically designed for use?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) CO2 (Carbon Dioxide) extinguisher"
+    },
+    {
+      "id": "B",
+      "text": "B) Foam extinguisher"
+    },
+    {
+      "id": "C",
+      "text": "C) Dry powder extinguisher"
+    },
+    {
+      "id": "D",
+      "text": "D) Water mist extinguisher"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 1
+}

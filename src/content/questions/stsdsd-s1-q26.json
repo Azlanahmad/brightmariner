@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q26",
+  "text": "The mandatory requirements of the ISPS Code are contained in:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Conference resolutions"
+    },
+    {
+      "id": "B",
+      "text": "B) Part A"
+    },
+    {
+      "id": "C",
+      "text": "C) Part B"
+    },
+    {
+      "id": "D",
+      "text": "D) Introduction"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 1
+}

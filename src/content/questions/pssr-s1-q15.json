@@ -1,0 +1,21 @@
+{
+  "id": "pssr-s1-q15",
+  "text": "What is the key to leadership?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Taking authority"
+    },
+    {
+      "id": "B",
+      "text": "B) Taking responsibility"
+    },
+    {
+      "id": "C",
+      "text": "C) Effective communication"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 1
+}

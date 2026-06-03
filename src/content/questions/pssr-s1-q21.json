@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q21",
+  "text": "In the concept of ship handling, what would be the definition of shallow water?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Water depth of less than twice a vessel's draft"
+    },
+    {
+      "id": "B",
+      "text": "B) Water depth of less than 1-1/2 times a vessel's draft"
+    },
+    {
+      "id": "C",
+      "text": "C) Under keel clearance of twice a vessel's draft"
+    },
+    {
+      "id": "D",
+      "text": "D) Under keel clearance of less than 10 feet"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 1
+}

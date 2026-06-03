@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q29",
+  "text": "When fuel oil is being topped off during bunkering operations, the tank valve should be closed:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Slowly to prevent surge stresses"
+    },
+    {
+      "id": "B",
+      "text": "B) To prevent gas from escaping through the pressure-vacuum relief valves"
+    },
+    {
+      "id": "C",
+      "text": "C) After the shore pumps are stopped"
+    },
+    {
+      "id": "D",
+      "text": "D) Rapidly to prevent overflow"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pssr",
+  "set": 1
+}

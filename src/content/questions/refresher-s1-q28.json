@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q28",
+  "text": "What is the color coding of a portable water extinguisher?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Cream"
+    },
+    {
+      "id": "B",
+      "text": "B) Yellow"
+    },
+    {
+      "id": "C",
+      "text": "C) Blue"
+    },
+    {
+      "id": "D",
+      "text": "D) Signal red"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 1
+}

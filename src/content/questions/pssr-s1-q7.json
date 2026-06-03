@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q7",
+  "text": "Empathetic listening helps you to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Improve mutual understanding and trust"
+    },
+    {
+      "id": "B",
+      "text": "B) Improve mutual understanding"
+    },
+    {
+      "id": "C",
+      "text": "C) Improve mutual understanding and feeling"
+    },
+    {
+      "id": "D",
+      "text": "D) Improve trust and friendship"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pssr",
+  "set": 1
+}

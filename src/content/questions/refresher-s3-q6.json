@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q6",
+  "text": "Multiple fire pumps may be used for other purposes provided that one pump is",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) On line to the fire main"
+    },
+    {
+      "id": "B",
+      "text": "B) Kept available for use on the fire main at all times"
+    },
+    {
+      "id": "C",
+      "text": "C) Capable of being connected to the fire main"
+    },
+    {
+      "id": "D",
+      "text": "D) Rated at or above 125 psi"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "refresher",
+  "set": 3
+}

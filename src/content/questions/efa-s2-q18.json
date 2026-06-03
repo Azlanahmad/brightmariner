@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q18",
+  "text": "While administering artificial respiration, it is most important to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Monitor blood pressure"
+    },
+    {
+      "id": "B",
+      "text": "B) Clear airways"
+    },
+    {
+      "id": "C",
+      "text": "C) Use the rhythmic pressure method"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 2
+}

@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q6",
+  "text": "Which extinguishing agent is most effective on a mattress fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) CO2"
+    },
+    {
+      "id": "B",
+      "text": "B) Foam"
+    },
+    {
+      "id": "C",
+      "text": "C) Dry Chemical"
+    },
+    {
+      "id": "D",
+      "text": "D) Water"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 2
+}

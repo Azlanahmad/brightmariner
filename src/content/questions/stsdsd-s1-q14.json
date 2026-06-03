@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q14",
+  "text": "A security breach investigation should include:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Interviews with witnesses"
+    },
+    {
+      "id": "B",
+      "text": "B) Examination of evidence"
+    },
+    {
+      "id": "C",
+      "text": "C) Review of security procedures"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "stsdsd",
+  "set": 1
+}

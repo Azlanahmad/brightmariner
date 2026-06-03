@@ -18,6 +18,14 @@
     "fast-xml-parser": "^5.8.0"
   },
   "devDependencies": {
-    "pagefind": "^1.5.2"
+    "@astrojs/react": "^5.0.7",
+    "@tailwindcss/vite": "^4.3.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.17.0",
+    "pagefind": "^1.5.2",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "tailwind-merge": "^3.6.0",
+    "tailwindcss": "^4.3.0"
   }
 }

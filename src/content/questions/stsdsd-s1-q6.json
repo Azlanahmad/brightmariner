@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q6",
+  "text": "IMO introduced the ISPS Code and made it mandatory to enhance security in:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) July 2004"
+    },
+    {
+      "id": "B",
+      "text": "B) December 2002"
+    },
+    {
+      "id": "C",
+      "text": "C) July 1998"
+    },
+    {
+      "id": "D",
+      "text": "D) After the 9/11 incident"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "stsdsd",
+  "set": 1
+}

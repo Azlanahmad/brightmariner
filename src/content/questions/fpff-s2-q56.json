@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q56",
+  "text": "Fire Extinguish system required for propelling machines and diesel-driven motor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Hyper Mist"
+    },
+    {
+      "id": "B",
+      "text": "B) CO2"
+    },
+    {
+      "id": "C",
+      "text": "C) DCP"
+    },
+    {
+      "id": "D",
+      "text": "D) Foam"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 2
+}

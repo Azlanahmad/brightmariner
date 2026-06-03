@@ -1,0 +1,17 @@
+{
+  "id": "efa-s2-q1",
+  "text": "An unconscious person should not be placed in a position with the head lower than the body.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Given an inhalation stimulant"
+    },
+    {
+      "id": "B",
+      "text": "B) Given something to drink"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 2
+}

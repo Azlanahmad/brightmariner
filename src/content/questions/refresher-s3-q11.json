@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q11",
+  "text": "The muster list shows each rig hand's muster station, his duties during abandonment, basic instructions, and",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) All emergency signals"
+    },
+    {
+      "id": "B",
+      "text": "B) Instructions for lowering the survival craft"
+    },
+    {
+      "id": "C",
+      "text": "C) The time each weekly drill will be held"
+    },
+    {
+      "id": "D",
+      "text": "D) Work schedule"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 3
+}

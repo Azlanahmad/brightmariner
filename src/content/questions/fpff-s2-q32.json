@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q32",
+  "text": "Cooling is the method of fire fighting by limitation of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Molecular Chain reaction"
+    },
+    {
+      "id": "B",
+      "text": "B) Temperature"
+    },
+    {
+      "id": "C",
+      "text": "C) Fuel"
+    },
+    {
+      "id": "D",
+      "text": "D) Air"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 2
+}

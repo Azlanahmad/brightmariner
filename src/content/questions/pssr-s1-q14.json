@@ -1,0 +1,21 @@
+{
+  "id": "pssr-s1-q14",
+  "text": "How do you combat harassment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) By being assertive"
+    },
+    {
+      "id": "B",
+      "text": "B) By reporting harassing behavior to your superiors"
+    },
+    {
+      "id": "C",
+      "text": "C) By confronting the harasser"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 1
+}

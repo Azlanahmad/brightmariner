@@ -1,0 +1,17 @@
+{
+  "id": "refresher-s1-q9",
+  "text": "Class B bulkheads are classified as B15 and B0. True or False?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 1
+}

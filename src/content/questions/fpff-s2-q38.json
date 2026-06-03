@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q38",
+  "text": "Fire Plan tells what action to take in emergency situation by?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The shore fire man"
+    },
+    {
+      "id": "B",
+      "text": "B) The crew"
+    },
+    {
+      "id": "C",
+      "text": "C) The Paramedics"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 2
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mfa-s1-q3",
+  "text": "The correct ratio of compression to ventilation for two rescuer CPR on a child is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 5:1"
+    },
+    {
+      "id": "B",
+      "text": "B) 5:2"
+    },
+    {
+      "id": "C",
+      "text": "C) 15:1"
+    },
+    {
+      "id": "D",
+      "text": "D) 15:2"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 1
+}

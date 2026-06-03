@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q10",
+  "text": "Which type of Extinguisher is danger to recharge onboard?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) DCP"
+    },
+    {
+      "id": "B",
+      "text": "B) CO2"
+    },
+    {
+      "id": "C",
+      "text": "C) FOAM"
+    },
+    {
+      "id": "D",
+      "text": "D) None of Above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 1
+}

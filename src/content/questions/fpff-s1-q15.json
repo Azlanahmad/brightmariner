@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q15",
+  "text": "What is the duration of SCBA Bottle for 1200 LTRS?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 15 Min."
+    },
+    {
+      "id": "B",
+      "text": "B) 20 Min."
+    },
+    {
+      "id": "C",
+      "text": "C) 30 Min."
+    },
+    {
+      "id": "D",
+      "text": "D) 45 Min"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 1
+}

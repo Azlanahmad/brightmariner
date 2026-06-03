@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q9",
+  "text": "What is the purpose of a fire screen in advanced firefighting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To protect firefighters from radiant heat"
+    },
+    {
+      "id": "B",
+      "text": "B) To separate different compartments for ventilation"
+    },
+    {
+      "id": "C",
+      "text": "C) To extinguish fires through a fine mist"
+    },
+    {
+      "id": "D",
+      "text": "D) To detect flammable gases"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q22",
+  "text": "Foam tends to extinguish fire by",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Smothering the burning material"
+    },
+    {
+      "id": "B",
+      "text": "B) Chemically absorbing oxygen"
+    },
+    {
+      "id": "C",
+      "text": "C) Releasing large amount of CO2"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 3
+}

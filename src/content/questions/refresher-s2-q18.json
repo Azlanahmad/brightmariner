@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q18",
+  "text": "Radiation can cause a fire to spread by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Transmitting the heat of a fire through the ship’s metal"
+    },
+    {
+      "id": "B",
+      "text": "B) Burning liquids flowing into another space"
+    },
+    {
+      "id": "C",
+      "text": "C) Heated gases flowing through ventilation systems"
+    },
+    {
+      "id": "D",
+      "text": "D) The transfer of heat across an unobstructed space"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 2
+}

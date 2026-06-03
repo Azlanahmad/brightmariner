@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q20",
+  "text": "What is the purpose of a fire control plan on a ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To outline emergency escape routes for passengers"
+    },
+    {
+      "id": "B",
+      "text": "B) To specify the locations of fire alarm pull stations"
+    },
+    {
+      "id": "C",
+      "text": "C) To provide guidance for controlling and suppressing fires"
+    },
+    {
+      "id": "D",
+      "text": "D) To identify the ship's navigation routes"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 1
+}

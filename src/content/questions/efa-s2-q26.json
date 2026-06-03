@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q26",
+  "text": "Shock is a condition where:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The respiratory system fails to deliver air to the lungs"
+    },
+    {
+      "id": "B",
+      "text": "B) The cardiovascular system fails to deliver blood to all parts of the body"
+    },
+    {
+      "id": "C",
+      "text": "C) All of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 2
+}

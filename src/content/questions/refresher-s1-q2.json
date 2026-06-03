@@ -1,0 +1,17 @@
+{
+  "id": "refresher-s1-q2",
+  "text": "Class A involves flammable liquids. True or False?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "refresher",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q26",
+  "text": "One of the most important factors determining the success of an organization is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Effective management"
+    },
+    {
+      "id": "B",
+      "text": "B) Continuous and positive profits"
+    },
+    {
+      "id": "C",
+      "text": "C) Performance of its employees"
+    },
+    {
+      "id": "D",
+      "text": "D) Methods to combat internal personnel stress"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 1
+}

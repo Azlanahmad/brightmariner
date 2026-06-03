@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q7",
+  "text": "Which of the following are considered crucial protective equipment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Gloves"
+    },
+    {
+      "id": "B",
+      "text": "B) Mask"
+    },
+    {
+      "id": "C",
+      "text": "C) Eye shield"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "efa",
+  "set": 1
+}

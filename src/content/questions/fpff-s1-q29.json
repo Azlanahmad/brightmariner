@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q29",
+  "text": "Minimum Capacity of Emergency Fire Pumps?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 10 m3/ Hrs"
+    },
+    {
+      "id": "B",
+      "text": "B) 15 m3/ Hrs"
+    },
+    {
+      "id": "C",
+      "text": "C) 20 m3/ Hrs"
+    },
+    {
+      "id": "D",
+      "text": "D) 25 m3/ Hrs"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 1
+}

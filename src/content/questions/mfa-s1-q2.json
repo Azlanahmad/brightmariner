@@ -1,0 +1,25 @@
+{
+  "id": "mfa-s1-q2",
+  "text": "What is the best position for a conscious casualty suffering from internal bleeding?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Laying down with legs raised"
+    },
+    {
+      "id": "B",
+      "text": "B) Lying flat down"
+    },
+    {
+      "id": "C",
+      "text": "C) Half-sitting position"
+    },
+    {
+      "id": "D",
+      "text": "D) Recovery position"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 1
+}

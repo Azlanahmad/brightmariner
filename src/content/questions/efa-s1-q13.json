@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q13",
+  "text": "Check the carotid artery for a pulse on:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The side of his neck"
+    },
+    {
+      "id": "B",
+      "text": "B) The wrist"
+    },
+    {
+      "id": "C",
+      "text": "C) The groin"
+    },
+    {
+      "id": "D",
+      "text": "D) The ankle"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q23",
+  "text": "Which of the following is NOT identified on the vessel's fire control plan?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Gas detector"
+    },
+    {
+      "id": "B",
+      "text": "B) Fire control plan"
+    },
+    {
+      "id": "C",
+      "text": "C) Fire and emergency signals"
+    },
+    {
+      "id": "D",
+      "text": "D) Dry chemical monitor"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 2
+}

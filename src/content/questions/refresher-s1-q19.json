@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q19",
+  "text": "What should be done in case of a fire on board?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Let the wind follow the fire to reduce oxygen."
+    },
+    {
+      "id": "B",
+      "text": "B) Let the stem be up against the wind."
+    },
+    {
+      "id": "C",
+      "text": "C) Continue on course and speed."
+    },
+    {
+      "id": "D",
+      "text": "D) Reduce speed, keep the fire zone leeward."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q30",
+  "text": "What is the length of a fireproof line of a self-contained air breathing apparatus?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 10 meters"
+    },
+    {
+      "id": "B",
+      "text": "B) 50 meters"
+    },
+    {
+      "id": "C",
+      "text": "C) 20 meters"
+    },
+    {
+      "id": "D",
+      "text": "D) 30 meters"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 1
+}

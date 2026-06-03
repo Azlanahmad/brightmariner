@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q3",
+  "text": "During a firefighting operation, what does the term \"smoke curtain\" refer to?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) A physical barrier to prevent the entry of firefighters"
+    },
+    {
+      "id": "B",
+      "text": "B) A cloud of water droplets to control temperature"
+    },
+    {
+      "id": "C",
+      "text": "C) A curtain made of fire-resistant material to contain smoke"
+    },
+    {
+      "id": "D",
+      "text": "D) A warning signal for evacuation"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 1
+}

@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q17",
+  "text": "First aid means:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Medical treatment of an accident"
+    },
+    {
+      "id": "B",
+      "text": "B) Setting of broken bones"
+    },
+    {
+      "id": "C",
+      "text": "C) Emergency treatment at the scene of the injury"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 2
+}

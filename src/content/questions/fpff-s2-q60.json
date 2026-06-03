@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q60",
+  "text": "Which statement about firefighting foam is true?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To be most effective, Foam should be directed at the base of the fire"
+    },
+    {
+      "id": "B",
+      "text": "B) Foam conducts electricity"
+    },
+    {
+      "id": "C",
+      "text": "C) Foam is most effective on burning liquids which are flowing"
+    },
+    {
+      "id": "D",
+      "text": "D) Foam can only be used to extinguish Class A Fire"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 2
+}

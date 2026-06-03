@@ -1,0 +1,21 @@
+{
+  "id": "pssr-s1-q8",
+  "text": "The problem of misunderstanding can be eliminated by providing ____ to the clients while explaining the process.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Examples"
+    },
+    {
+      "id": "B",
+      "text": "B) Theories"
+    },
+    {
+      "id": "C",
+      "text": "C) Sample"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pssr",
+  "set": 1
+}

@@ -1,0 +1,52 @@
+---
+const courses = [
+  { id: 'efa', name: 'Elementary First Aid', category: 'STCW Basic', icon: '🩺' },
+  { id: 'fpff', name: 'Fire Prevention & Fire Fighting', category: 'STCW Basic', icon: '🔥' },
+  { id: 'pst', name: 'Personal Survival Techniques', category: 'STCW Basic', icon: '⚓' },
+  { id: 'pssr', name: 'Personal Safety & Social Responsibilities', category: 'STCW Basic', icon: '🛡️' },
+  { id: 'stsdsd', name: 'Security Training for Seafarers with Designated Security Duties', category: 'STCW Basic', icon: '🔒' },
+  { id: 'aff', name: 'Advanced Fire Fighting', category: 'STCW Advanced', icon: '🚒' },
+  { id: 'pscrb', name: 'Proficiency in Survival Craft and Rescue Boats', category: 'STCW Advanced', icon: '🚣' },
+  { id: 'mfa', name: 'Medical First Aid', category: 'STCW Advanced', icon: '💊' },
+  { id: 'tasco', name: 'Advanced Training for Oil Tanker Cargo Operations', category: 'STCW Advanced', icon: '🛢️' },
+];
+---
+
+<section class="py-24 px-6 lg:px-8 bg-canvas">
+  <div class="max-w-(--page-width) mx-auto">
+    <div class="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-12">
+        <div>
+            <h2 class="text-3xl font-semibold tracking-tight text-ink mb-2">Available Courses</h2>
+            <p class="text-body text-lg">Select a course to start practicing exam questions.</p>
+        </div>
+        <a href="/courses" class="text-sm font-medium text-link hover:underline">View all courses →</a>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {courses.map(course => (
+        <a href={`/mcq/${course.id}`} class="group block p-6 bg-canvas border border-hairline rounded-lg hover:border-ink hover:shadow-lg transition-all">
+          <div class="flex items-start justify-between mb-4">
+            <span class="text-3xl">{course.icon}</span>
+            <span class="text-[10px] font-mono uppercase tracking-wider text-mute px-2 py-1 bg-canvas-soft border border-hairline rounded-full group-hover:border-hairline-strong transition-colors">
+              {course.category}
+            </span>
+          </div>
+          <h3 class="text-xl font-semibold text-ink group-hover:text-primary transition-colors">{course.name}</h3>
+          <p class="text-sm text-body mt-2">Practice updated 2024-2025 exam questions with detailed explanations.</p>
+          <div class="mt-6 flex items-center text-sm font-medium text-ink">
+            Start Practice
+            <svg class="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</section>
+
+<style>
+    :root {
+        --page-width: 1400px;
+    }
+</style>

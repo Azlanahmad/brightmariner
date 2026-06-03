@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q54",
+  "text": "Fire alarm is...?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Continuous ringing"
+    },
+    {
+      "id": "B",
+      "text": "B) Verbal order by master"
+    },
+    {
+      "id": "C",
+      "text": "C) 7 short blast followed by 1 long blast"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 2
+}

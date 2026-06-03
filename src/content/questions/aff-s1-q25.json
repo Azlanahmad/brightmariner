@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q25",
+  "text": "During a shipboard firefighting operation, what is the primary purpose of a positive pressure breathing apparatus (PPBA)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To supply fresh air to the compartment"
+    },
+    {
+      "id": "B",
+      "text": "B) To prevent smoke from entering the mask"
+    },
+    {
+      "id": "C",
+      "text": "C) To maintain positive pressure inside the mask"
+    },
+    {
+      "id": "D",
+      "text": "D) To enhance communication among firefighters"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 1
+}

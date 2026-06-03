@@ -1,0 +1,25 @@
+{
+  "id": "efa-s3-q12",
+  "text": "Dressings and pads are used to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Help control bleeding and keep germs out"
+    },
+    {
+      "id": "B",
+      "text": "B) Immobilize injuries"
+    },
+    {
+      "id": "C",
+      "text": "C) Provide warmth"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 3
+}

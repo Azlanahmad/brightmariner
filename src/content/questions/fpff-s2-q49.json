@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q49",
+  "text": "If restricted visibility encountered in an accommodation fire, you would",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Carry a torch"
+    },
+    {
+      "id": "B",
+      "text": "B) Stand up straight to keep your head above smoke"
+    },
+    {
+      "id": "C",
+      "text": "C) Use of a fan to blow smoke and flames"
+    },
+    {
+      "id": "D",
+      "text": "D) Rig lifelines to assist a retreat"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 2
+}

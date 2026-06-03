@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q18",
+  "text": "The visible range of parachute flares at nighttime is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 8 nautical miles"
+    },
+    {
+      "id": "B",
+      "text": "B) 10 nautical miles"
+    },
+    {
+      "id": "C",
+      "text": "C) 15 nautical miles"
+    },
+    {
+      "id": "D",
+      "text": "D) 25 nautical miles"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 1
+}

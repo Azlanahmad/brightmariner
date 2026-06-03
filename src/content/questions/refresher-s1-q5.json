@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q5",
+  "text": "What is the color of light used for smaller boats?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Green"
+    },
+    {
+      "id": "B",
+      "text": "B) Yellow"
+    },
+    {
+      "id": "C",
+      "text": "C) White"
+    },
+    {
+      "id": "D",
+      "text": "D) Blue"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 1
+}

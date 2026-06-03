@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q24",
+  "text": "A self-contained air breathing apparatus bottle with 1200 liters of air will last for how many minutes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 20 minutes"
+    },
+    {
+      "id": "B",
+      "text": "B) 25 minutes"
+    },
+    {
+      "id": "C",
+      "text": "C) 30 minutes"
+    },
+    {
+      "id": "D",
+      "text": "D) 45 minutes"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 1
+}

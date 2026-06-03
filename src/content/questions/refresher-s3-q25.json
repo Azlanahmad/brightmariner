@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q25",
+  "text": "In portable fire extinguishers, PASS stands for",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Pass, Aim, Squeeze, Sweep"
+    },
+    {
+      "id": "B",
+      "text": "B) Pass, Aim, Shut, Sit"
+    },
+    {
+      "id": "C",
+      "text": "C) Pass, At, Sure, Speed"
+    },
+    {
+      "id": "D",
+      "text": "D) Pull, Aim, Squeeze, Sweep"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "refresher",
+  "set": 3
+}

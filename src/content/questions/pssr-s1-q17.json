@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q17",
+  "text": "The windlass is located at:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The stern of the ship"
+    },
+    {
+      "id": "B",
+      "text": "B) The forecastle of the ship"
+    },
+    {
+      "id": "C",
+      "text": "C) Amidships"
+    },
+    {
+      "id": "D",
+      "text": "D) The engine room"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 1
+}

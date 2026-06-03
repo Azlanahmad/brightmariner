@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q6",
+  "text": "In advanced firefighting, what is the purpose of using a water fog nozzle?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To create a dense fog for cooling purposes"
+    },
+    {
+      "id": "B",
+      "text": "B) To increase the range of water projection"
+    },
+    {
+      "id": "C",
+      "text": "C) To generate a fine mist for fire suppression"
+    },
+    {
+      "id": "D",
+      "text": "D) To create a visual signal for distress"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 1
+}

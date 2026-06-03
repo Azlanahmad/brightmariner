@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s1-q4",
+  "text": "What is the best fire extinguisher for electrical fires?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) CO2"
+    },
+    {
+      "id": "B",
+      "text": "B) Foam"
+    },
+    {
+      "id": "C",
+      "text": "C) Water"
+    },
+    {
+      "id": "D",
+      "text": "D) DCP"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 1
+}

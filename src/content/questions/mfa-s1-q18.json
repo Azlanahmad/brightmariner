@@ -1,0 +1,25 @@
+{
+  "id": "mfa-s1-q18",
+  "text": "The unconscious or recovery position is used to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Ease the pain of broken bones"
+    },
+    {
+      "id": "B",
+      "text": "B) Minimize nose bleeding"
+    },
+    {
+      "id": "C",
+      "text": "C) Prevent the casualty from drowning in his own vomit"
+    },
+    {
+      "id": "D",
+      "text": "D) Correct for any spinal injury"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 1
+}

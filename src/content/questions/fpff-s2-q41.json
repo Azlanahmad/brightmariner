@@ -1,0 +1,17 @@
+{
+  "id": "fpff-s2-q41",
+  "text": "Fire Patrol to be done on Passenger vessels carrying more than 36 passengers?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 2
+}

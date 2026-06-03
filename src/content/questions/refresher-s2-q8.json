@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q8",
+  "text": "You are fighting a fire in a watertight compartment using hoses and river water. Stability may be reduced because of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Progressive down flooding"
+    },
+    {
+      "id": "B",
+      "text": "B) Reduction of water in the storage tanks"
+    },
+    {
+      "id": "C",
+      "text": "C) Increase in free surface which reduces the metacentric height"
+    },
+    {
+      "id": "D",
+      "text": "D) Reduction of KG to the minimum allowable"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "refresher",
+  "set": 2
+}

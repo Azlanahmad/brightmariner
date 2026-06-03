@@ -1,0 +1,25 @@
+{
+  "id": "mfa-s1-q9",
+  "text": "The treatment of electrical burns is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Remove loose skin and apply ointment. Don't secure with a bandage"
+    },
+    {
+      "id": "B",
+      "text": "B) Apply lotions and ointment to the injured area and secure with a bandage"
+    },
+    {
+      "id": "C",
+      "text": "C) Place sterile dressing over the burn and secure with a bandage"
+    },
+    {
+      "id": "D",
+      "text": "D) Break blisters and secure with a bandage"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 1
+}

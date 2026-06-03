@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q14",
+  "text": "Fainting happens when:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The heart stops beating"
+    },
+    {
+      "id": "B",
+      "text": "B) The brain does not get enough blood with oxygen"
+    },
+    {
+      "id": "C",
+      "text": "C) The person is dehydrated"
+    },
+    {
+      "id": "D",
+      "text": "D) The person is anxious"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "efa",
+  "set": 1
+}

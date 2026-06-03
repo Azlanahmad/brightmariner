@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q52",
+  "text": "What is your first action on seeing fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Go to the muster station"
+    },
+    {
+      "id": "B",
+      "text": "B) Extinguish the fire immediately"
+    },
+    {
+      "id": "C",
+      "text": "C) Try on alarm and try to make an initial attempt"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 2
+}

@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q23",
+  "text": "What is the maximum weight of a Portable Extinguisher?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 5 KG"
+    },
+    {
+      "id": "B",
+      "text": "B) 9 KG"
+    },
+    {
+      "id": "C",
+      "text": "C) 15 KG"
+    },
+    {
+      "id": "D",
+      "text": "D) 23 KG"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 1
+}

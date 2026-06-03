@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q7",
+  "text": "Fire Plan Location is?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Bridge"
+    },
+    {
+      "id": "B",
+      "text": "B) Port and STBD side entrance"
+    },
+    {
+      "id": "C",
+      "text": "C) Midships"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 1
+}

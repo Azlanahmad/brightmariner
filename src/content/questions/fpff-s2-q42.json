@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s2-q42",
+  "text": "Electricity switch board fire with power on, what type of extinguisher to be used?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) DCP"
+    },
+    {
+      "id": "B",
+      "text": "B) Water"
+    },
+    {
+      "id": "C",
+      "text": "C) Foam"
+    },
+    {
+      "id": "D",
+      "text": "D) Carbon-dioxide"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 2
+}

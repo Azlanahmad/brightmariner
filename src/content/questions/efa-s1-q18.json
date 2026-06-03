@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q18",
+  "text": "What is the proper rate of chest compressions in CPR?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 60 per minute"
+    },
+    {
+      "id": "B",
+      "text": "B) 80 per minute"
+    },
+    {
+      "id": "C",
+      "text": "C) 100 per minute"
+    },
+    {
+      "id": "D",
+      "text": "D) 120 per minute"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q20",
+  "text": "When giving care for external bleeding, what should you do first?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Apply direct pressure"
+    },
+    {
+      "id": "B",
+      "text": "B) Elevate the limb"
+    },
+    {
+      "id": "C",
+      "text": "C) Apply a tourniquet"
+    },
+    {
+      "id": "D",
+      "text": "D) Call for help"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 1
+}

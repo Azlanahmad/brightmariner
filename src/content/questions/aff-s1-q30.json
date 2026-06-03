@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q30",
+  "text": "In advanced firefighting, what is the primary purpose of a fire-resistant bulkhead?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To provide a visual barrier against smoke"
+    },
+    {
+      "id": "B",
+      "text": "B) To contain the spread of fire within compartments"
+    },
+    {
+      "id": "C",
+      "text": "C) To enhance communication among firefighting teams"
+    },
+    {
+      "id": "D",
+      "text": "D) To store firefighting equipment safely"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q11",
+  "text": "When a victim is having a neck injury, you should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Hold his head still"
+    },
+    {
+      "id": "B",
+      "text": "B) Move his head gently"
+    },
+    {
+      "id": "C",
+      "text": "C) Try to align his head and neck"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 1
+}

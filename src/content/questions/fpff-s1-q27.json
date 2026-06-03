@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q27",
+  "text": "How many hours diesel driven Fire Pump should run?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 14 Hrs"
+    },
+    {
+      "id": "B",
+      "text": "B) 16 Hrs"
+    },
+    {
+      "id": "C",
+      "text": "C) 18 Hrs"
+    },
+    {
+      "id": "D",
+      "text": "D) 20 Hrs"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q16",
+  "text": "Shock is the condition where:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The body loses a lot of blood"
+    },
+    {
+      "id": "B",
+      "text": "B) The person is dehydrated"
+    },
+    {
+      "id": "C",
+      "text": "C) The cardiovascular system fails to deliver blood to all parts of the body"
+    },
+    {
+      "id": "D",
+      "text": "D) The person is in pain"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 1
+}

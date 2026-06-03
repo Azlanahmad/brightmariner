@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q17",
+  "text": "During a shipboard fire emergency, what is the primary purpose of the muster list?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To account for all personnel and passengers"
+    },
+    {
+      "id": "B",
+      "text": "B) To provide instructions for firefighting techniques"
+    },
+    {
+      "id": "C",
+      "text": "C) To allocate firefighting responsibilities"
+    },
+    {
+      "id": "D",
+      "text": "D) To identify the location of fire hydrants"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q19",
+  "text": "To prevent the spread of fire by conduction, you should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Cool the bulkheads around the fire"
+    },
+    {
+      "id": "B",
+      "text": "B) Remove combustibles from direct exposure"
+    },
+    {
+      "id": "C",
+      "text": "C) Close all openings to the area"
+    },
+    {
+      "id": "D",
+      "text": "D) Shut off all electric power"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 2
+}

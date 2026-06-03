@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q23",
+  "text": "Physical stress:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Rarely causes emotional stress"
+    },
+    {
+      "id": "B",
+      "text": "B) Is often a symptom of emotional stress"
+    },
+    {
+      "id": "C",
+      "text": "C) Rarely is connected to diet"
+    },
+    {
+      "id": "D",
+      "text": "D) Is often found in people who exercise regularly"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 1
+}

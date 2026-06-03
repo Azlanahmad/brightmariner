@@ -1,0 +1,25 @@
+{
+  "id": "mfa-s1-q30",
+  "text": "When acting as a watcher or lookout at a cargo hold and men below show signs of distress, what must you do?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Raise the alarm immediately"
+    },
+    {
+      "id": "B",
+      "text": "B) Try to rescue them yourself"
+    },
+    {
+      "id": "C",
+      "text": "C) Lower additional breathing equipment"
+    },
+    {
+      "id": "D",
+      "text": "D) Don a B.A. set and enter the space"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 1
+}

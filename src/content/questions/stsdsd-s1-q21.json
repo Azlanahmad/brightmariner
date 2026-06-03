@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q21",
+  "text": "Security measures are not necessarily extended by the contracting governments for:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Offshore supply vessels (OSVs)"
+    },
+    {
+      "id": "B",
+      "text": "B) Fishing vessels"
+    },
+    {
+      "id": "C",
+      "text": "C) Passenger and cargo ships in coastal trade"
+    },
+    {
+      "id": "D",
+      "text": "D) Naval vessels"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 1
+}

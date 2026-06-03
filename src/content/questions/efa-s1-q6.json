@@ -1,0 +1,25 @@
+{
+  "id": "efa-s1-q6",
+  "text": "What is the correct sequence for the primary survey?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) D-R-A-B-C"
+    },
+    {
+      "id": "B",
+      "text": "B) A-B-C-D-R"
+    },
+    {
+      "id": "C",
+      "text": "C) R-A-B-C-D"
+    },
+    {
+      "id": "D",
+      "text": "D) D-A-B-C-R"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 1
+}

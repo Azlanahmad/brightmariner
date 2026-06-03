@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q4",
+  "text": "Controlling embarkation of persons and their effects is done by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Visitor control, personal effects, and body searches"
+    },
+    {
+      "id": "B",
+      "text": "B) Baggage control, personal effects, and body searches"
+    },
+    {
+      "id": "C",
+      "text": "C) Access control, personal effects, and body searches"
+    },
+    {
+      "id": "D",
+      "text": "D) CCTV control, personal effects, and baggage control"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "stsdsd",
+  "set": 1
+}

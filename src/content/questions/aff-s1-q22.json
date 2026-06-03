@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q22",
+  "text": "During a shipboard firefighting operation, what is the primary function of a portable gas detector?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To locate fire hydrants"
+    },
+    {
+      "id": "B",
+      "text": "B) To identify flammable gases"
+    },
+    {
+      "id": "C",
+      "text": "C) To measure ambient temperature"
+    },
+    {
+      "id": "D",
+      "text": "D) To monitor radio communication"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 1
+}

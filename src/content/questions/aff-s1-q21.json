@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q21",
+  "text": "What is the purpose of a deluge system in shipboard firefighting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To deliver a high-pressure water mist"
+    },
+    {
+      "id": "B",
+      "text": "B) To flood a compartment with water rapidly"
+    },
+    {
+      "id": "C",
+      "text": "C) To control electrical fires with a dry powder"
+    },
+    {
+      "id": "D",
+      "text": "D) To generate foam for flammable liquid fires"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 1
+}

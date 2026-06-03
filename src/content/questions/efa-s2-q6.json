@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q6",
+  "text": "A shipmate chokes suddenly, cannot speak, and starts to turn blue. You should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Perform the Heimlich maneuver"
+    },
+    {
+      "id": "B",
+      "text": "B) Make the victim lie down with the feet elevated to get blood to the brain"
+    },
+    {
+      "id": "C",
+      "text": "C) Immediately administer CPR"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "efa",
+  "set": 2
+}

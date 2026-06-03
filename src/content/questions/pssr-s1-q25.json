@@ -1,0 +1,25 @@
+{
+  "id": "pssr-s1-q25",
+  "text": "Balancing life goals, taking control of thoughts and emotions, and managing schedules are all components of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Identifying sources of stress"
+    },
+    {
+      "id": "B",
+      "text": "B) Being practical"
+    },
+    {
+      "id": "C",
+      "text": "C) Taking control"
+    },
+    {
+      "id": "D",
+      "text": "D) Coping with stress"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 1
+}

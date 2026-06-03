@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q20",
+  "text": "The Global Integrated Shipping Information System (GIS) is accessible to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) IMO members"
+    },
+    {
+      "id": "B",
+      "text": "B) International Maritime Bureau"
+    },
+    {
+      "id": "C",
+      "text": "C) Contracting governments"
+    },
+    {
+      "id": "D",
+      "text": "D) Ship owners"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "stsdsd",
+  "set": 1
+}

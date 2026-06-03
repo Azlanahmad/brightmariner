@@ -1,0 +1,25 @@
+{
+  "id": "fpff-s1-q8",
+  "text": "Class A Fire Extinguisher is best used on?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Liquids"
+    },
+    {
+      "id": "B",
+      "text": "B) Solids"
+    },
+    {
+      "id": "C",
+      "text": "C) Gas"
+    },
+    {
+      "id": "D",
+      "text": "D) Metals"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s3-q2",
+  "text": "Fire hydrant valves on a crude oil tanker shall be isolated from the crude oil washing system by",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Spade blanks"
+    },
+    {
+      "id": "B",
+      "text": "B) Face blanks"
+    },
+    {
+      "id": "C",
+      "text": "C) Non-return valves"
+    },
+    {
+      "id": "D",
+      "text": "D) Automatic closing valves"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 3
+}

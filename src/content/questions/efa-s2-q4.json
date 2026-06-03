@@ -1,0 +1,21 @@
+{
+  "id": "efa-s2-q4",
+  "text": "A person who gets something in his or her eye and you see that it is not embedded, you can:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Get them to rub their eye until the object is gone"
+    },
+    {
+      "id": "B",
+      "text": "B) Remove it with a match or toothpick"
+    },
+    {
+      "id": "C",
+      "text": "C) Remove it with a moist cotton-tipped applicator"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "efa",
+  "set": 2
+}

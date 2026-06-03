@@ -1,0 +1,25 @@
+{
+  "id": "stsdsd-s1-q11",
+  "text": "A security alert should be issued:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Immediately upon detection of a security threat"
+    },
+    {
+      "id": "B",
+      "text": "B) Only after confirming the threat"
+    },
+    {
+      "id": "C",
+      "text": "C) When the ship is in territorial waters"
+    },
+    {
+      "id": "D",
+      "text": "D) At the discretion of the Master"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "stsdsd",
+  "set": 1
+}

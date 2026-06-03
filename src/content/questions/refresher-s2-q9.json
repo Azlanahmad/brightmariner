@@ -1,0 +1,25 @@
+{
+  "id": "refresher-s2-q9",
+  "text": "When used to fight fire, carbon dioxide:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Is effective if used promptly on an oil fire"
+    },
+    {
+      "id": "B",
+      "text": "B) Has a greater cooling effect than water"
+    },
+    {
+      "id": "C",
+      "text": "C) Is lighter than air"
+    },
+    {
+      "id": "D",
+      "text": "D) Is harmless to cargo and crew"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "refresher",
+  "set": 2
+}

@@ -1,0 +1,25 @@
+{
+  "id": "aff-s1-q19",
+  "text": "Which firefighting agent is commonly used to suppress fires involving flammable metals?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Water"
+    },
+    {
+      "id": "B",
+      "text": "B) Foam"
+    },
+    {
+      "id": "C",
+      "text": "C) Dry powder"
+    },
+    {
+      "id": "D",
+      "text": "D) CO2 (Carbon Dioxide)"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 1
+}
