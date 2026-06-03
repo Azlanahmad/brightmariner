@@ -1,0 +1,10 @@
+# Redirect old RSS feed url to Astro RSS feed url
+/feed/                  /rss.xml                301
+/feed                   /rss.xml                301
+
+# Redirect custom uploads directory if you migrate them to public assets
+# /wp-content/uploads/*   /assets/images/:splat   301
+
+# Add any custom redirects for posts whose slugs changed
+# Example:
+# /old-url-slug/         /new-url-slug/          301

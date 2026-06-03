@@ -1,0 +1,100 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import Comments from '../components/Comments.astro';
+
+// 1. Generate static paths for every post slug
+export async function getStaticPaths() {
+	const postEntries = await getCollection('posts');
+	return postEntries.map(entry => ({
+		params: { slug: entry.id },
+		props: { entry },
+	}));
+}
+
+// 2. Fetch data via props
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+<Layout 
+	title={`${entry.data.title} - Bright Mariner`}
+	description={entry.data.description}
+	image={entry.data.image}
+>
+	<main class="post-container">
+		<article class="article">
+			<header class="header">
+				<time datetime={entry.data.date.toISOString()}>
+					{entry.data.date.toLocaleDateString('en-US', {
+						year: 'numeric',
+						month: 'long',
+						day: 'numeric'
+					})}
+				</time>
+				<h1 class="title">{entry.data.title}</h1>
+			</header>
+
+			<hr class="divider" />
+
+			<div class="content">
+				<Content />
+			</div>
+
+			<!-- Dynamic Giscus Comment Section -->
+			<Comments />
+		</article>
+	</main>
+</Layout>
+
+<style>
+	.post-container {
+		max-width: 720px;
+		margin: 0 auto;
+		padding: 40px 20px;
+	}
+	.article {
+		background: #ffffff;
+		padding: 32px;
+		border-radius: 8px;
+		border: 1px solid #ebebeb;
+		box-shadow: 0px 2px 2px #0000000a;
+	}
+	.header {
+		margin-bottom: 24px;
+	}
+	time {
+		font-family: monospace;
+		font-size: 13px;
+		color: #888888;
+	}
+	.title {
+		margin-top: 8px;
+		margin-bottom: 0;
+		font-size: 32px;
+		font-weight: 600;
+		line-height: 1.25;
+		letter-spacing: -0.8px;
+		color: #171717;
+	}
+	.divider {
+		border: 0;
+		border-top: 1px solid #ebebeb;
+		margin: 24px 0;
+	}
+	.content {
+		line-height: 1.6;
+		font-size: 16px;
+		color: #4d4d4d;
+	}
+	.content :global(h2) {
+		font-size: 24px;
+		font-weight: 600;
+		color: #171717;
+		margin-top: 32px;
+		margin-bottom: 16px;
+		letter-spacing: -0.5px;
+	}
+	.content :global(p) {
+		margin-bottom: 20px;
+	}
+</style>
