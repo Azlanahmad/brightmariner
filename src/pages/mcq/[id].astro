@@ -7,14 +7,15 @@ export async function getStaticPaths() {
   const courseIds = [...new Set(allQuestions.map(q => q.data.courseId))].filter(id => id !== 'aff');
   
   return courseIds.map(id => ({
-    params: { id },
+    params: { id: `${id}-exit-exam-questions-answers` },
   }));
 }
 
 const { id } = Astro.params;
+const baseCourseId = id.replace('-exit-exam-questions-answers', '');
 const allQuestions = await getCollection('questions');
 const courseQuestions = allQuestions
-    .filter(q => q.data.courseId === id);
+    .filter(q => q.data.courseId === baseCourseId);
 
 // Determine sets: Use the 'set' field from data if available, otherwise fallback to groups of 30
 const uniqueSetsInData = [...new Set(courseQuestions.map(q => q.data.set).filter(Boolean))];
@@ -44,7 +45,7 @@ const courseNames: Record<string, string> = {
     'rfpff': 'Refresher FPFF'
 };
 
-const courseName = courseNames[id as string] || id?.toUpperCase();
+const courseName = courseNames[baseCourseId as string] || baseCourseId?.toUpperCase();
 
 const title = `${courseName} Exit Exam MCQ Questions & Answers | Bright Mariner`;
 const description = `Practice ${courseName} exit exam questions and answers. Access multiple sets of updated STCW MCQs for DG Shipping exams. Improve your preparation with Bright Mariner.`;
@@ -83,13 +84,13 @@ const description = `Practice ${courseName} exit exam questions and answers. Acc
             <nav class="flex items-center gap-2 text-xs font-mono uppercase tracking-widest text-mute mb-8">
                 <a href="/mcq" class="hover:text-ink transition-colors">Practice</a>
                 <span>/</span>
-                <span class="text-ink">{id}</span>
+                <span class="text-ink">{baseCourseId}</span>
             </nav>
 
             <header class="mb-16">
                 <h1 class="text-4xl font-semibold tracking-tight text-ink mb-4">{courseName}</h1>
                 <p class="text-body text-lg max-w-2xl">
-                    {id === 'mfa' 
+                    {baseCourseId === 'mfa' 
                         ? "Most asked questions in MFA Exit exam. More than 25 questions comes from these sets in exit exam. MFA exit exam questions based on DG exit Exam"
                         : "Practicing in sets of 30 questions helps improve focus and retention. Choose a set to begin."}
                 </p>

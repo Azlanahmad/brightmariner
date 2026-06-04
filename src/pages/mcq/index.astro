@@ -84,7 +84,7 @@ const activeCategories = categories.map(cat => ({
                         
                         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                             {category.courses.map(course => (
-                                <a href={`/mcq/${course.id}`} class="group flex items-center justify-between p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all">
+                                <a href={`/mcq/${course.id}-exit-exam-questions-answers`} class="group flex items-center justify-between p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all">
                                     <div class="flex flex-col gap-1">
                                         <h3 class="text-lg font-medium text-ink group-hover:text-primary transition-colors">{course.name}</h3>
                                         <div class="flex items-center gap-3">
@@ -113,7 +113,7 @@ const activeCategories = categories.map(cat => ({
                     </h2>
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                         {courseIds.filter(id => !categories.flatMap(c => c.courses).some(c => c.id === id)).map(id => (
-                            <a href={`/mcq/${id}`} class="group flex items-center justify-between p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all">
+                            <a href={`/mcq/${id}-exit-exam-questions-answers`} class="group flex items-center justify-between p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all">
                                 <h3 class="text-lg font-medium text-ink group-hover:text-primary transition-colors">{id.toUpperCase()} Practice</h3>
                                 <div class="w-10 h-10 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all">
                                     <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">

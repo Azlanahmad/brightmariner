@@ -19,7 +19,7 @@ export async function getStaticPaths() {
     
     for (let setIdx = 1; setIdx <= numSets; setIdx++) {
       paths.push({
-        params: { id, set: setIdx.toString() },
+        params: { id: `${id}-exit-exam-questions-answers`, set: setIdx.toString() },
         props: { 
             questions: courseQuestions.slice((setIdx - 1) * setSize, setIdx * setSize).map(q => q.data),
             setNumber: setIdx,
@@ -34,6 +34,8 @@ export async function getStaticPaths() {
 
 const { id, set } = Astro.params;
 const { questions, setNumber, totalSets } = Astro.props;
+
+const baseCourseId = id.replace('-exit-exam-questions-answers', '');
 
 // Course ID to Name mapping
 const courseNames: Record<string, string> = {
@@ -50,7 +52,7 @@ const courseNames: Record<string, string> = {
     'rfpff': 'Refresher FPFF'
 };
 
-const courseName = courseNames[id as string] || id?.toUpperCase();
+const courseName = courseNames[baseCourseId as string] || baseCourseId?.toUpperCase();
 const title = `${courseName} Exit Exam MCQ Questions - Set ${setNumber} | Bright Mariner`;
 const description = `Practice ${courseName} exit exam questions Set ${setNumber}. Interactive STCW MCQ practice with instant feedback and explanations. Updated for 2026.`;
 ---
@@ -94,7 +96,7 @@ const description = `Practice ${courseName} exit exam questions Set ${setNumber}
             <nav class="flex items-center gap-2 text-xs font-mono uppercase tracking-widest text-mute mb-4">
                 <a href="/mcq" class="hover:text-ink transition-colors">Practice</a>
                 <span>/</span>
-                <a href={`/mcq/${id}`} class="hover:text-ink transition-colors">{id}</a>
+                <a href={`/mcq/${id}`} class="hover:text-ink transition-colors">{baseCourseId}</a>
                 <span>/</span>
                 <span class="text-ink">Set {setNumber}</span>
             </nav>

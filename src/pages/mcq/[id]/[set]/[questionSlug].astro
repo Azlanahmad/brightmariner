@@ -45,7 +45,7 @@ export async function getStaticPaths() {
       if (i > 0) {
         const prevQ = questions[i - 1];
         const prevSetNum = prevQ.data.set || Math.ceil(i / setSize);
-        prevUrl = `/mcq/${courseId}/${prevSetNum}/${slugify(prevQ.data.text)}-${prevQ.data.id}`;
+        prevUrl = `/mcq/${courseId}-exit-exam-questions-answers/${prevSetNum}/${slugify(prevQ.data.text)}-${prevQ.data.id}`;
       }
       
       // Determine next question URL
@@ -53,12 +53,12 @@ export async function getStaticPaths() {
       if (i < questions.length - 1) {
         const nextQ = questions[i + 1];
         const nextSetNum = nextQ.data.set || Math.ceil((i + 2) / setSize);
-        nextUrl = `/mcq/${courseId}/${nextSetNum}/${slugify(nextQ.data.text)}-${nextQ.data.id}`;
+        nextUrl = `/mcq/${courseId}-exit-exam-questions-answers/${nextSetNum}/${slugify(nextQ.data.text)}-${nextQ.data.id}`;
       }
       
       paths.push({
         params: { 
-          id: courseId, 
+          id: `${courseId}-exit-exam-questions-answers`, 
           set: setNum.toString(), 
           questionSlug 
         },
@@ -81,6 +81,8 @@ export async function getStaticPaths() {
 const { id, set, questionSlug } = Astro.params;
 const { question, questionId, setNumber, prevUrl, nextUrl, qIndex, totalInCourse } = Astro.props;
 
+const baseCourseId = id.replace('-exit-exam-questions-answers', '');
+
 // Course ID to Name mapping
 const courseNames: Record<string, string> = {
     'efa': 'Elementary First Aid (EFA)',
@@ -96,7 +98,7 @@ const courseNames: Record<string, string> = {
     'rfpff': 'Refresher FPFF'
 };
 
-const courseName = courseNames[id as string] || id?.toUpperCase();
+const courseName = courseNames[baseCourseId as string] || baseCourseId?.toUpperCase();
 const title = `${question.text.substring(0, 60)}... | ${courseName} MCQ Question | Bright Mariner`;
 const description = `Correct answer and explanation for the STCW exam question: "${question.text}". Learn and practice exam questions for ${courseName}.`;
 
@@ -197,7 +199,7 @@ const schemaGraph = {
             <nav class="flex items-center gap-2 text-xs font-mono uppercase tracking-widest text-mute mb-8 flex-wrap">
                 <a href="/mcq" class="hover:text-ink transition-colors">Practice</a>
                 <span>/</span>
-                <a href={`/mcq/${id}`} class="hover:text-ink transition-colors">{id}</a>
+                <a href={`/mcq/${id}`} class="hover:text-ink transition-colors">{baseCourseId}</a>
                 <span>/</span>
                 <a href={`/mcq/${id}/${set}`} class="hover:text-ink transition-colors">Set {set}</a>
                 <span>/</span>
@@ -208,7 +210,7 @@ const schemaGraph = {
                 <header class="mb-8">
                     <div class="flex items-center justify-between mb-4">
                         <span class="text-xs font-mono uppercase tracking-widest text-mute">Question {qIndex} of {totalInCourse}</span>
-                        <span class="text-xs px-2.5 py-1 bg-canvas-soft-2 text-ink border border-hairline rounded-full uppercase font-mono tracking-wider">{id} Exam</span>
+                        <span class="text-xs px-2.5 py-1 bg-canvas-soft-2 text-ink border border-hairline rounded-full uppercase font-mono tracking-wider">{baseCourseId} Exam</span>
                     </div>
                     <h1 class="text-2xl md:text-3xl font-semibold text-ink leading-snug">
                         {question.text}
