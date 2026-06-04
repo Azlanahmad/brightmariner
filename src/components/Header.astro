@@ -28,11 +28,82 @@ import ThemeToggle from './ThemeToggle.astro';
             <Search className="w-4 h-4" />
         </button>
         <ThemeToggle />
-        <a href="/login" class="px-3 py-1.5 text-sm font-medium text-ink hover:bg-canvas-soft-2 rounded-sm transition-colors">Log In</a>
-        <a href="/signup" class="px-3 py-1.5 text-sm font-medium bg-primary text-white rounded-sm hover:bg-primary/90 transition-colors">Sign Up</a>
+        <a href="/login" class="hidden sm:inline-block px-3 py-1.5 text-sm font-medium text-ink hover:bg-canvas-soft-2 rounded-sm transition-colors">Log In</a>
+        <a href="/signup" class="hidden sm:inline-block px-3 py-1.5 text-sm font-medium bg-primary text-white rounded-sm hover:bg-primary/90 transition-colors">Sign Up</a>
+        
+        <!-- Mobile Menu Toggle Button -->
+        <button id="mobile-menu-toggle" class="md:hidden p-2 text-body hover:text-ink hover:bg-canvas-soft-2 rounded-full transition-colors" aria-label="Toggle navigation menu" aria-expanded="false">
+            <svg id="menu-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg>
+            <svg id="close-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5 hidden"><line x1="18" x2="6" y1="6" y2="18"></line><line x1="6" x2="18" y1="6" y2="18"></line></svg>
+        </button>
+    </div>
+  </div>
+
+  <!-- Mobile Navigation Panel (Slides down from under the header) -->
+  <div id="mobile-nav" class="absolute top-16 left-0 w-full bg-canvas/95 backdrop-blur-md border-b border-hairline z-40 shadow-lg transform -translate-y-full invisible opacity-0 transition-all duration-200 ease-in-out md:hidden flex flex-col gap-4 p-6">
+    <nav class="flex flex-col gap-1">
+      <a href="/mcq" class="px-3 py-2 text-sm font-medium text-body hover:text-ink hover:bg-canvas-soft-2 rounded-md transition-colors">Practice</a>
+      <a href="/courses" class="px-3 py-2 text-sm font-medium text-body hover:text-ink hover:bg-canvas-soft-2 rounded-md transition-colors">Courses</a>
+      <a href="/blog" class="px-3 py-2 text-sm font-medium text-body hover:text-ink hover:bg-canvas-soft-2 rounded-md transition-colors">Blog</a>
+      <a href="/about-us" class="px-3 py-2 text-sm font-medium text-body hover:text-ink hover:bg-canvas-soft-2 rounded-md transition-colors">About</a>
+    </nav>
+    <div class="border-t border-hairline pt-4 flex flex-col gap-2 sm:hidden">
+      <a href="/login" class="w-full text-center px-3 py-2 text-sm font-medium text-ink hover:bg-canvas-soft-2 border border-hairline rounded-md transition-colors">Log In</a>
+      <a href="/signup" class="w-full text-center px-3 py-2 text-sm font-medium bg-primary text-white hover:bg-primary/90 rounded-md transition-colors">Sign Up</a>
     </div>
   </div>
 </header>
+
+<script>
+  function setupMobileMenu() {
+    const toggleBtn = document.getElementById('mobile-menu-toggle');
+    const mobileNav = document.getElementById('mobile-nav');
+    const menuIcon = document.getElementById('menu-icon');
+    const closeIcon = document.getElementById('close-icon');
+
+    if (!toggleBtn || !mobileNav || !menuIcon || !closeIcon) return;
+
+    let isOpen = false;
+
+    const toggleMenu = () => {
+      isOpen = !isOpen;
+      toggleBtn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+      
+      if (isOpen) {
+        mobileNav.classList.remove('-translate-y-full', 'invisible', 'opacity-0');
+        mobileNav.classList.add('translate-y-0', 'visible', 'opacity-100');
+        menuIcon.classList.add('hidden');
+        closeIcon.classList.remove('hidden');
+      } else {
+        mobileNav.classList.remove('translate-y-0', 'visible', 'opacity-100');
+        mobileNav.classList.add('-translate-y-full', 'invisible', 'opacity-0');
+        menuIcon.classList.remove('hidden');
+        closeIcon.classList.add('hidden');
+      }
+    };
+
+    // Close menu when viewport is resized to desktop width
+    const handleResize = () => {
+      if (window.innerWidth >= 768 && isOpen) {
+        isOpen = false;
+        toggleBtn.setAttribute('aria-expanded', 'false');
+        mobileNav.classList.remove('translate-y-0', 'visible', 'opacity-100');
+        mobileNav.classList.add('-translate-y-full', 'invisible', 'opacity-0');
+        menuIcon.classList.remove('hidden');
+        closeIcon.classList.add('hidden');
+      }
+    };
+
+    toggleBtn.addEventListener('click', toggleMenu);
+    window.addEventListener('resize', handleResize);
+  }
+
+  // Run on initial load
+  setupMobileMenu();
+
+  // Run on view transitions if enabled
+  document.addEventListener('astro:after-swap', setupMobileMenu);
+</script>
 
 <style>
     :root {
