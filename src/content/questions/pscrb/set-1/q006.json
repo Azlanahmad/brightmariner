@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q6",
+  "text": "When a person who has fallen overboard is being picked up by a rescue boat, the boat should normally approach with the wind",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) astern and the victim just off the bow"
+    },
+    {
+      "id": "B",
+      "text": "B) ahead and the victim just off the bow"
+    },
+    {
+      "id": "C",
+      "text": "C) just off the bow and the victim to windward"
+    },
+    {
+      "id": "D",
+      "text": "D) just off the bow and the victim to leeward"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

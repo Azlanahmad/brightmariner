@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q29",
+  "text": "To turn over an inflatable life raft that is upside down, you should pull on the",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) canopy"
+    },
+    {
+      "id": "B",
+      "text": "B) manropes"
+    },
+    {
+      "id": "C",
+      "text": "C) sea painter"
+    },
+    {
+      "id": "D",
+      "text": "D) righting strap"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

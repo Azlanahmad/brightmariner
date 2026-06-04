@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q14",
+  "text": "The working duration of man overboard smoke signal is",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 3 minutes"
+    },
+    {
+      "id": "B",
+      "text": "B) 5 minutes"
+    },
+    {
+      "id": "C",
+      "text": "C) 15 minutes"
+    },
+    {
+      "id": "D",
+      "text": "D) 10 minutes"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

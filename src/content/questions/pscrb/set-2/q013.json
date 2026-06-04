@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q13",
+  "text": "Your small vessel is broken down and rolling in heavy seas. You can reduce the possibility of capsizing by",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Rigging a sea anchor"
+    },
+    {
+      "id": "B",
+      "text": "B) Constantly shifting the rudder"
+    },
+    {
+      "id": "C",
+      "text": "C) Moving all personnel forward and low"
+    },
+    {
+      "id": "D",
+      "text": "D) Moving all personnel aft"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

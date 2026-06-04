@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q3",
+  "text": "What is the biggest danger to life when your vessel has collided with another ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Oil Pollution"
+    },
+    {
+      "id": "B",
+      "text": "B) Building of Compartments"
+    },
+    {
+      "id": "C",
+      "text": "C) Damage to the ship"
+    },
+    {
+      "id": "D",
+      "text": "D) Possibility of Capsizing"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q24",
+  "text": "How much is the maximum capacity of the life boat?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 20 persons"
+    },
+    {
+      "id": "B",
+      "text": "B) 100 persons"
+    },
+    {
+      "id": "C",
+      "text": "C) 150 persons"
+    },
+    {
+      "id": "D",
+      "text": "D) 60 persons"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

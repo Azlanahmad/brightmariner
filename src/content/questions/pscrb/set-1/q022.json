@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q22",
+  "text": "The \"off-load\" release system on a survival craft is designed to be activated",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) when there is no load on the cable"
+    },
+    {
+      "id": "B",
+      "text": "B) when there is a load on the cable"
+    },
+    {
+      "id": "C",
+      "text": "C) only when the doors are closed"
+    },
+    {
+      "id": "D",
+      "text": "D) when the engine is started"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

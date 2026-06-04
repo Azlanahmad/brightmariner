@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s4-q2",
+  "text": "The lamp on the top of a life raft canopy must operate continuously or flash at the specified rate for at least",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 8 hours"
+    },
+    {
+      "id": "B",
+      "text": "B) 2 hours"
+    },
+    {
+      "id": "C",
+      "text": "C) 12 hours"
+    },
+    {
+      "id": "D",
+      "text": "D) 4 hours"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 4,
+  "explanation": ""
+}

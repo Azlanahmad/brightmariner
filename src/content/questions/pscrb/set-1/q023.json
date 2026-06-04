@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q23",
+  "text": "A life line must be connected to the life raft",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) at the bow"
+    },
+    {
+      "id": "B",
+      "text": "B) at the stern"
+    },
+    {
+      "id": "C",
+      "text": "C) in the middle"
+    },
+    {
+      "id": "D",
+      "text": "D) all around"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q14",
+  "text": "If your vessel is equipped with inflatable life rafts, how should they be maintained?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Have your crew check them annually"
+    },
+    {
+      "id": "B",
+      "text": "B) They do not need any maintenance"
+    },
+    {
+      "id": "C",
+      "text": "C) Have them sent ashore to an approved maintenance facility annually"
+    },
+    {
+      "id": "D",
+      "text": "D) Have them serviced by the shipyard annually"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

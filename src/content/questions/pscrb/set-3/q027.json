@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q27",
+  "text": "As for regulations, a cargo ship of length less than 100 meters should have life buoys",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 8"
+    },
+    {
+      "id": "B",
+      "text": "B) 10"
+    },
+    {
+      "id": "C",
+      "text": "C) 12"
+    },
+    {
+      "id": "D",
+      "text": "D) 14"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

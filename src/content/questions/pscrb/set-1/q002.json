@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q2",
+  "text": "Which will be the worst of emergencies that you would face, if that happens?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Flooding"
+    },
+    {
+      "id": "B",
+      "text": "B) Collision"
+    },
+    {
+      "id": "C",
+      "text": "C) Grounding"
+    },
+    {
+      "id": "D",
+      "text": "D) Foundering"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

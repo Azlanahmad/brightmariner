@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q13",
+  "text": "The purpose for the bag or box on top of some survival craft is to",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) right the craft in case of capsizing"
+    },
+    {
+      "id": "B",
+      "text": "B) increase area for radar detection"
+    },
+    {
+      "id": "C",
+      "text": "C) act as a sail in case of a power loss"
+    },
+    {
+      "id": "D",
+      "text": "D) steady the craft in heavy seas"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

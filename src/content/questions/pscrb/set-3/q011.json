@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q11",
+  "text": "Which of the following is consumable",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Food ration"
+    },
+    {
+      "id": "B",
+      "text": "B) Drinking water"
+    },
+    {
+      "id": "C",
+      "text": "C) Anti-sea sickness tablets"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q30",
+  "text": "The purpose of the tripping line on a sea anchor is to",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) aid in casting off"
+    },
+    {
+      "id": "B",
+      "text": "B) direct the drift of the vessel"
+    },
+    {
+      "id": "C",
+      "text": "C) aid in its recovery"
+    },
+    {
+      "id": "D",
+      "text": "D) maintain maximum resistance to broaching"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

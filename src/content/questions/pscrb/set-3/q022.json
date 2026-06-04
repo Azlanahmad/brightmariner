@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q22",
+  "text": "The shelf life of EPIRB battery is",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 1 year"
+    },
+    {
+      "id": "B",
+      "text": "B) 3 to 5 years"
+    },
+    {
+      "id": "C",
+      "text": "C) 5 years"
+    },
+    {
+      "id": "D",
+      "text": "D) 10 years"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

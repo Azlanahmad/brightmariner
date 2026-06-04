@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q23",
+  "text": "How long will a parachute flare burn after it has been fired into the air?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Minimum of five minutes"
+    },
+    {
+      "id": "B",
+      "text": "B) Minimum of two minutes"
+    },
+    {
+      "id": "C",
+      "text": "C) Minimum of 30 seconds"
+    },
+    {
+      "id": "D",
+      "text": "D) Minimum of 40 seconds"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

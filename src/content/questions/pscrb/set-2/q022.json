@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q22",
+  "text": "As per the regulation life savings appliances need NOT to have?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Bright color with reflective tape"
+    },
+    {
+      "id": "B",
+      "text": "B) Resistant to sunlight"
+    },
+    {
+      "id": "C",
+      "text": "C) Ready accessible and easy to launch"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

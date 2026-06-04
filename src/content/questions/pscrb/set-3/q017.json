@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q17",
+  "text": "Which of the listed requirements do not correspond to the present regulation regarding weak link? weak link shall",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Be of sufficient strength to permit inflation of the life raft"
+    },
+    {
+      "id": "B",
+      "text": "B) Release the life raft at a depth of not more than 4 meters"
+    },
+    {
+      "id": "C",
+      "text": "C) Not break by force required to full the painter from the life raft container"
+    },
+    {
+      "id": "D",
+      "text": "D) Break under a strain of approximately 2.2 KN"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

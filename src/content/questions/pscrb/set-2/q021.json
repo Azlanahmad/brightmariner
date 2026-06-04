@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q21",
+  "text": "What should you do as soon as you enter a life raft?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Drink a gallon of water"
+    },
+    {
+      "id": "B",
+      "text": "B) Take anti sea sickness tablet"
+    },
+    {
+      "id": "C",
+      "text": "C) Use fishing tackle and fish"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

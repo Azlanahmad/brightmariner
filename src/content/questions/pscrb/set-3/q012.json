@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q12",
+  "text": "Life jacket light shall have a source of energy capable of providing luminous intensity of for a period of",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) .75 cd/8 hrs"
+    },
+    {
+      "id": "B",
+      "text": "B) .50 cd/8 hrs"
+    },
+    {
+      "id": "C",
+      "text": "C) .75 cd/6 hrs"
+    },
+    {
+      "id": "D",
+      "text": "D) .50 cd/ 6 hrs."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

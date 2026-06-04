@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q12",
+  "text": "What is placed on the underside of an inflatable liferaft to help prevent it from being skidded by the wind or overturned?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Ballast bags"
+    },
+    {
+      "id": "B",
+      "text": "B) A keel"
+    },
+    {
+      "id": "C",
+      "text": "C) Strikes"
+    },
+    {
+      "id": "D",
+      "text": "D) Sea anchor"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

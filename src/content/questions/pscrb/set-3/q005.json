@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q5",
+  "text": "Which gas is mostly used in filling the cylinder of inflatable life raft",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Oxygen"
+    },
+    {
+      "id": "B",
+      "text": "B) CO2"
+    },
+    {
+      "id": "C",
+      "text": "C) Nitrogen"
+    },
+    {
+      "id": "D",
+      "text": "D) Carbon mono oxide"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

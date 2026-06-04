@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q4",
+  "text": "\"Thermal protective aids\" are required for what percentage of the persons a survival craft is equipped to carry?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 10%"
+    },
+    {
+      "id": "B",
+      "text": "B) 50%"
+    },
+    {
+      "id": "C",
+      "text": "C) 75%"
+    },
+    {
+      "id": "D",
+      "text": "D) 100%"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q14",
+  "text": "Which statement concerning homing signals in the GMDSS is false?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) A homing signal provides a bearing for rescue personnel to follow to the signal's source"
+    },
+    {
+      "id": "B",
+      "text": "B) A homing signal is detected by the COSPAS-SARSAT satellites"
+    },
+    {
+      "id": "C",
+      "text": "C) A homing signal cannot be detected by a GPS receiver"
+    },
+    {
+      "id": "D",
+      "text": "D) A homing signal may be transmitted by equipment attached to the survival craft"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

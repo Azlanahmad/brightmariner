@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q12",
+  "text": "The immersion suit does not allow the body temperature to drop by more than when immersed for a period of when the water temperature is between 0 and 2 degrees",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 2 degrees, 4 hours"
+    },
+    {
+      "id": "B",
+      "text": "B) 2 degrees, 6 hours"
+    },
+    {
+      "id": "C",
+      "text": "C) 1 degree, 4 hours"
+    },
+    {
+      "id": "D",
+      "text": "D) 1 degree, 6 hours"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q1",
+  "text": "Good housekeeping is considered necessary for preventing accidents at sea, what is true regarding same?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Securing tools after work is not needed as we need them next day also"
+    },
+    {
+      "id": "B",
+      "text": "B) Engine room should be locked, when no one is inside"
+    },
+    {
+      "id": "C",
+      "text": "C) Wearing dirty clothes in a galley or mess room should be avoided"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

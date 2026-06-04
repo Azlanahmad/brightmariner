@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q24",
+  "text": "Your ship is sinking rapidly. A container containing an inflatable life raft has bobbed to the surface upon functioning of the hydrostatic release. Which action should you take?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Cut the painter so it will not pull the life raft container down."
+    },
+    {
+      "id": "B",
+      "text": "B) Swim away from the container so you will not be in danger as it goes down."
+    },
+    {
+      "id": "C",
+      "text": "C) Take no action because the painter will cause the life raft to inflate and open the container."
+    },
+    {
+      "id": "D",
+      "text": "D) Manually open the container and inflate the life raft with the hand pump."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s4-q6",
+  "text": "Which of the following is/are the SOLAS requirements for rocket parachute flare?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The rocket shall, when fired vertically, reach an altitude of not less than 300m"
+    },
+    {
+      "id": "B",
+      "text": "B) Burn uniformly with an average luminous intensity of not less than 30000 cd"
+    },
+    {
+      "id": "C",
+      "text": "C) Having a burning period of not less than 40s"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 4,
+  "explanation": ""
+}

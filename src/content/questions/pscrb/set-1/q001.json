@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q1",
+  "text": "You are picking up a person who has fallen overboard. A rescue boat should be maneuvered to normally approach the victim with the",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) victim to leeward"
+    },
+    {
+      "id": "B",
+      "text": "B) victim to windward"
+    },
+    {
+      "id": "C",
+      "text": "C) wind on your port side"
+    },
+    {
+      "id": "D",
+      "text": "D) wind on your starboard side"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q29",
+  "text": "Safety training on board to the personnel is provided as per the?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) SOLAS"
+    },
+    {
+      "id": "B",
+      "text": "B) MLC"
+    },
+    {
+      "id": "C",
+      "text": "C) ISM"
+    },
+    {
+      "id": "D",
+      "text": "D) STCW"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

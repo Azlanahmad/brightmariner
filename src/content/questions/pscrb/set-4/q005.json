@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s4-q5",
+  "text": "The duration of the buoyant smoke marker is",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 1 min"
+    },
+    {
+      "id": "B",
+      "text": "B) 10 min"
+    },
+    {
+      "id": "C",
+      "text": "C) 15 min"
+    },
+    {
+      "id": "D",
+      "text": "D) 3 min"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q25",
+  "text": "When floating, a life raft must be able to withstand repeated jumps onto it, both with and without the canopy erected, from a height above its floor of at least",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 18 meters"
+    },
+    {
+      "id": "B",
+      "text": "B) 10 meters"
+    },
+    {
+      "id": "C",
+      "text": "C) 4.5 meters"
+    },
+    {
+      "id": "D",
+      "text": "D) 20 meters"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

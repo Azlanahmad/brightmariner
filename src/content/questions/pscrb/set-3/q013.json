@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q13",
+  "text": "Which one of the listed requirements regarding the buoyant smoke signal doesn't respond to present regulation? The buoyant smoke signal shall",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Emit smoke for at least 3 min when floating in calm water"
+    },
+    {
+      "id": "B",
+      "text": "B) Continue to EMIT smoke when submerged in water image"
+    },
+    {
+      "id": "C",
+      "text": "C) Not be swamped in a seaway"
+    },
+    {
+      "id": "D",
+      "text": "D) Give a bright red during the inter emission time"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

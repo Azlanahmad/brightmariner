@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q30",
+  "text": "How many hand flares should each life raft normally carry?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 2"
+    },
+    {
+      "id": "B",
+      "text": "B) 4"
+    },
+    {
+      "id": "C",
+      "text": "C) 6"
+    },
+    {
+      "id": "D",
+      "text": "D) 10"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q6",
+  "text": "The duration of life jacket self-igniting light is",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 4 hours"
+    },
+    {
+      "id": "B",
+      "text": "B) 5 hours"
+    },
+    {
+      "id": "C",
+      "text": "C) 6 hours"
+    },
+    {
+      "id": "D",
+      "text": "D) 8 hours"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

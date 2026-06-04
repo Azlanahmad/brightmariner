@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q26",
+  "text": "How much is the duration of the hand flare for the time it works?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 60 seconds"
+    },
+    {
+      "id": "B",
+      "text": "B) 90 seconds"
+    },
+    {
+      "id": "C",
+      "text": "C) 5 seconds"
+    },
+    {
+      "id": "D",
+      "text": "D) 30 seconds"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q21",
+  "text": "The minimum length of lifeboat should be",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 7.3 meters"
+    },
+    {
+      "id": "B",
+      "text": "B) 8.5 meters"
+    },
+    {
+      "id": "C",
+      "text": "C) 3.8 meters"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

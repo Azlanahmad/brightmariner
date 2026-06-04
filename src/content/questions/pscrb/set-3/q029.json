@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q29",
+  "text": "Life raft equipment should have",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 2 buoyant rescue quoits attached not less than 30 m buoyant line"
+    },
+    {
+      "id": "B",
+      "text": "B) 2 buoyant rescue quoits attached not less than 15 m buoyant line"
+    },
+    {
+      "id": "C",
+      "text": "C) 1 buoyant rescue quoits attached not less than 30 m buoyant line"
+    },
+    {
+      "id": "D",
+      "text": "D) 1 buoyant rescue quoits attached not less than 15 m buoyant line"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

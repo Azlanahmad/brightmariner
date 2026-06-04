@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q18",
+  "text": "What is the first action in case of man overboard?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Throw a life buoy"
+    },
+    {
+      "id": "B",
+      "text": "B) Inform bridge"
+    },
+    {
+      "id": "C",
+      "text": "C) Raise alarm"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

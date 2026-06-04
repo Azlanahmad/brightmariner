@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q24",
+  "text": "VHF EPIRB is designed to be used in which area?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Area A1"
+    },
+    {
+      "id": "B",
+      "text": "B) Area A1-A2"
+    },
+    {
+      "id": "C",
+      "text": "C) Area A4"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

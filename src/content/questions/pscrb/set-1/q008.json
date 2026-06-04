@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q8",
+  "text": "If the hydrostatic release mechanism for an inflatable life raft is not periodically serviced and becomes inoperable, it will fail to",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) set the water lights on immersion"
+    },
+    {
+      "id": "B",
+      "text": "B) release the dye marker from the life raft"
+    },
+    {
+      "id": "C",
+      "text": "C) free the life raft from the vessel"
+    },
+    {
+      "id": "D",
+      "text": "D) break the seal on the carbon dioxide cylinder"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

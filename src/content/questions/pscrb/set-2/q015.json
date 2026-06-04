@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q15",
+  "text": "Which virtual distress signal is acceptable for daylight use only?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Hand-held red flare"
+    },
+    {
+      "id": "B",
+      "text": "B) Self-contained rocket-propelled parachute red flare"
+    },
+    {
+      "id": "C",
+      "text": "C) Hand-held orange smoke distress flare"
+    },
+    {
+      "id": "D",
+      "text": "D) Red aerial pyrotechnic flare"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

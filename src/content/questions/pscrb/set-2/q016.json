@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q16",
+  "text": "How can a SART's effective range be mixed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The SART should be placed in water immediately upon activation"
+    },
+    {
+      "id": "B",
+      "text": "B) The SART should be held as high as possible"
+    },
+    {
+      "id": "C",
+      "text": "C) Switch the SART into the \"high\" power position"
+    },
+    {
+      "id": "D",
+      "text": "D) If possible, the SART should be mounted horizontally so that its signal matches that of the searching radar signal"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q16",
+  "text": "Before lifting a life boat from the water, it must be ensured that",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Sea anchor is steamed"
+    },
+    {
+      "id": "B",
+      "text": "B) Engine id going astern"
+    },
+    {
+      "id": "C",
+      "text": "C) Bottom plug is shipped tight"
+    },
+    {
+      "id": "D",
+      "text": "D) Fall wires are clear and hooked securely"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

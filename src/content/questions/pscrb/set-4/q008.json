@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s4-q8",
+  "text": "Which of the following statements is true concerning life jackets?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Buoyant vests may be substituted for life jackets"
+    },
+    {
+      "id": "B",
+      "text": "B) Life jackets are designed to turn an unconscious person's face clear of water"
+    },
+    {
+      "id": "C",
+      "text": "C) Lifejackets must always be worn with the same side facing outwards to float"
+    },
+    {
+      "id": "D",
+      "text": "D) Lightly stained or faded life jackets will fall in the water and should not be used"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pscrb",
+  "set": 4,
+  "explanation": ""
+}

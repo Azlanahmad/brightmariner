@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s4-q1",
+  "text": "Which of the following regarding immersion suit is true?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) It's zip to be greased using manufacture recommended lubricants"
+    },
+    {
+      "id": "B",
+      "text": "B) It's fireproof"
+    },
+    {
+      "id": "C",
+      "text": "C) Both a and b"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 4,
+  "explanation": ""
+}

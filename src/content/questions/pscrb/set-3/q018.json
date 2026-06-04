@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q18",
+  "text": "What is the minimum number of crew required in rescue boats?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Two persons"
+    },
+    {
+      "id": "B",
+      "text": "B) Three persons"
+    },
+    {
+      "id": "C",
+      "text": "C) Five persons"
+    },
+    {
+      "id": "D",
+      "text": "D) Four persons"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

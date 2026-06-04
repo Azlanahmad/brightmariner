@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q20",
+  "text": "SART is the search and rescue radar transponder. How is this device activated?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) It has to be switched on by the master when the order to abandon ship is given"
+    },
+    {
+      "id": "B",
+      "text": "B) It has to be thrown into the sea where it will self-activate"
+    },
+    {
+      "id": "C",
+      "text": "C) It will be activated by the nearest coast station"
+    },
+    {
+      "id": "D",
+      "text": "D) It is carried into the survival craft and switched on by the occupants"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

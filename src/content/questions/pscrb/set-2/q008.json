@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q8",
+  "text": "How many buoyant smoke signals are available in life raft?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 2"
+    },
+    {
+      "id": "B",
+      "text": "B) 4"
+    },
+    {
+      "id": "C",
+      "text": "C) 6"
+    },
+    {
+      "id": "D",
+      "text": "D) 8"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

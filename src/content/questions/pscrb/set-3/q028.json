@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q28",
+  "text": "In cargo vessel what is the requirement of child life jacket?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 10%"
+    },
+    {
+      "id": "B",
+      "text": "B) 15%"
+    },
+    {
+      "id": "C",
+      "text": "C) 20%"
+    },
+    {
+      "id": "D",
+      "text": "D) 25%"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s4-q10",
+  "text": "Passenger vessels 240 meters and over in length should have",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 8 life buoys"
+    },
+    {
+      "id": "B",
+      "text": "B) 12 life buoys"
+    },
+    {
+      "id": "C",
+      "text": "C) 20 life buoys"
+    },
+    {
+      "id": "D",
+      "text": "D) 30 life buoys"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 4,
+  "explanation": ""
+}

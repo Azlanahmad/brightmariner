@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q6",
+  "text": "Regulations regarding lifeboats on board is best described by?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Two life boats on each side, with each having a carrying capacity of 125%"
+    },
+    {
+      "id": "B",
+      "text": "B) Lifeboat color can be any as available"
+    },
+    {
+      "id": "C",
+      "text": "C) Engine fitted on lifeboats should be air started"
+    },
+    {
+      "id": "D",
+      "text": "D) Lifeboats cannot be used as rescue boats"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

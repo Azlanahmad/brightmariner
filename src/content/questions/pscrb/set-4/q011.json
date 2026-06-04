@@ -1,0 +1,22 @@
+{
+  "id": "pscrb-s4-q11",
+  "text": "Sea anchor is used to reduce the of survival craft",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Fuel consumption"
+    },
+    {
+      "id": "B",
+      "text": "B) ETA"
+    },
+    {
+      "id": "C",
+      "text": "C) Drift rate"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 4,
+  "explanation": ""
+}

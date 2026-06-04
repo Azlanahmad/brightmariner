@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q1",
+  "text": "In normal conditions, in exterior spaces the minimum sound pressure levels for broadcasting emergency announcements shall be",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 50 DB"
+    },
+    {
+      "id": "B",
+      "text": "B) 100 DB"
+    },
+    {
+      "id": "C",
+      "text": "C) 75 DB"
+    },
+    {
+      "id": "D",
+      "text": "D) 80 DB"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

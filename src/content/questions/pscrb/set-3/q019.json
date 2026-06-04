@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q19",
+  "text": "Which of the listed requirements do not correspond to present regulations? The life raft shall have",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) A manually controlled lamp visible of at least two miles fitted at the top of the canopy"
+    },
+    {
+      "id": "B",
+      "text": "B) All entrances fitted with rigid boarding ramps for boarding the life raft at sea"
+    },
+    {
+      "id": "C",
+      "text": "C) Floor preventing the ingress of water"
+    },
+    {
+      "id": "D",
+      "text": "D) Manually controlled lamp fitted inside the life raft"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

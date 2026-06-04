@@ -1,0 +1,22 @@
+{
+  "id": "pscrb-s1-q25",
+  "text": "Limit switches on gravity davits should be tested by",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) the engineers, from a panel in the engine room"
+    },
+    {
+      "id": "B",
+      "text": "B) shutting off the current to the winch"
+    },
+    {
+      "id": "C",
+      "text": "C) pushing the switch lever arm while the winch is running"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

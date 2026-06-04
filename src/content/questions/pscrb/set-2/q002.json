@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q2",
+  "text": "Sea sickness is caused by rolling or rocking motions which affect the fluids in the",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Stomach"
+    },
+    {
+      "id": "B",
+      "text": "B) Lower intestine"
+    },
+    {
+      "id": "C",
+      "text": "C) Inner ear"
+    },
+    {
+      "id": "D",
+      "text": "D) Bladder"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

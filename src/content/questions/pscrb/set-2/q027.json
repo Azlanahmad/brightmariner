@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q27",
+  "text": "At what maximum list of a vessel, the life boat are designed to be launched",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Can be launched in calm weather only"
+    },
+    {
+      "id": "B",
+      "text": "B) 5-degree list"
+    },
+    {
+      "id": "C",
+      "text": "C) 10-degree list"
+    },
+    {
+      "id": "D",
+      "text": "D) Up to 20 degrees"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

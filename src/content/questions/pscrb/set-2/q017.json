@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q17",
+  "text": "Your vessel has 3 lifeboats on each side. The after most boat on the star board side is designated as boat number",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 6"
+    },
+    {
+      "id": "B",
+      "text": "B) 5"
+    },
+    {
+      "id": "C",
+      "text": "C) 3"
+    },
+    {
+      "id": "D",
+      "text": "D) 3 STARBOARD"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

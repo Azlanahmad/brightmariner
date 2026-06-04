@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q20",
+  "text": "If you must abandon a ship in VERY HEAVY SEAS, in a survival craft, when should you remove the safety pin and pull the hook release?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Immediately upon launching"
+    },
+    {
+      "id": "B",
+      "text": "B) One to three feet before first wave contact"
+    },
+    {
+      "id": "C",
+      "text": "C) Upon first wave contact"
+    },
+    {
+      "id": "D",
+      "text": "D) Only when waterborne"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q4",
+  "text": "The marine evacuation system shall be capable of transfer of persons from ship within",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 5 min in the case of a passenger ship"
+    },
+    {
+      "id": "B",
+      "text": "B) 10 min in the case of a passenger ship"
+    },
+    {
+      "id": "C",
+      "text": "C) 20 min in the case of a passenger ship"
+    },
+    {
+      "id": "D",
+      "text": "D) 30 min in the case of a passenger ship"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q3",
+  "text": "Luminous intensity of hand flares should not be less than",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 15000 CD"
+    },
+    {
+      "id": "B",
+      "text": "B) 20000 CD"
+    },
+    {
+      "id": "C",
+      "text": "C) 25000 CD"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

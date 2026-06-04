@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q10",
+  "text": "When making a permanent repair to an inflatable life raft using a repair kit, how long after the repair is made should you hold off 'topping up' the lost air?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) You do not have to hold off"
+    },
+    {
+      "id": "B",
+      "text": "B) 12 hours"
+    },
+    {
+      "id": "C",
+      "text": "C) 24 hours"
+    },
+    {
+      "id": "D",
+      "text": "D) 2 hours"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s4-q3",
+  "text": "The liquid in the wet card compass is a mixture of",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Distilled water and pure ethyl alcohol"
+    },
+    {
+      "id": "B",
+      "text": "B) Distilled water and isopropyl alcohol"
+    },
+    {
+      "id": "C",
+      "text": "C) Distilled water and methyl alcohol"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 4,
+  "explanation": ""
+}

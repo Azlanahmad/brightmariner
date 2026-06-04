@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q28",
+  "text": "At what maximum trim of a vessel, the lifeboats are designed to be launched",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 15 degrees"
+    },
+    {
+      "id": "B",
+      "text": "B) Calm weather"
+    },
+    {
+      "id": "C",
+      "text": "C) 10 degrees"
+    },
+    {
+      "id": "D",
+      "text": "D) 30 degrees"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

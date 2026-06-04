@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q30",
+  "text": "Hatches on the life boat are designed such that?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Watertight and can be opened and closed from both sides"
+    },
+    {
+      "id": "B",
+      "text": "B) Watertight and can be opened and closed from only inside"
+    },
+    {
+      "id": "C",
+      "text": "C) Self-closing type"
+    },
+    {
+      "id": "D",
+      "text": "D) Bolted type with watertight capabilities"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q11",
+  "text": "What prevents an inflated liferaft from being pulled under by a vessel which sinks in water over 100 feet in depth?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The hydrostatic release"
+    },
+    {
+      "id": "B",
+      "text": "B) Nothing"
+    },
+    {
+      "id": "C",
+      "text": "C) A Rottmer release"
+    },
+    {
+      "id": "D",
+      "text": "D) The weak link in the painter line"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

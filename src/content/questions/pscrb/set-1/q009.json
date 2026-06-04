@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q9",
+  "text": "If you are forced to abandon ship in a lifeboat, you should",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) remain in the immediate vicinity"
+    },
+    {
+      "id": "B",
+      "text": "B) head for the nearest land"
+    },
+    {
+      "id": "C",
+      "text": "C) head for the closest sea-lanes"
+    },
+    {
+      "id": "D",
+      "text": "D) vote on what to do, so all hands will have a part in the decision"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

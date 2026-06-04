@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q2",
+  "text": "How can you indicate that your vessel is distress?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Sounding five or more short and rapid blasts on the whistle"
+    },
+    {
+      "id": "B",
+      "text": "B) Continuously sounding the fog whistle"
+    },
+    {
+      "id": "C",
+      "text": "C) Displaying a large red flag"
+    },
+    {
+      "id": "D",
+      "text": "D) Displaying three black balls in a vertical line"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

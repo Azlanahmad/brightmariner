@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q5",
+  "text": "The maximum length of a rescue boat",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 8.5 meter"
+    },
+    {
+      "id": "B",
+      "text": "B) 7.3 meter"
+    },
+    {
+      "id": "C",
+      "text": "C) 3.8 meter"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q10",
+  "text": "How long SART operate in standby mode",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 8 hrs."
+    },
+    {
+      "id": "B",
+      "text": "B) 24 hrs."
+    },
+    {
+      "id": "C",
+      "text": "C) 96 hrs."
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

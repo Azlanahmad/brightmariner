@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s4-q9",
+  "text": "HELP position stands for",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Heat exchange lessening posture"
+    },
+    {
+      "id": "B",
+      "text": "B) Heat exchange lessening period"
+    },
+    {
+      "id": "C",
+      "text": "C) Heat exchange lessening point"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 4,
+  "explanation": ""
+}

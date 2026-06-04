@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q26",
+  "text": "Which equipment of the following SOLAS PACK B life raft does not have?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Fishing tackle + food + drinking water"
+    },
+    {
+      "id": "B",
+      "text": "B) Fishing tackle + drinking water + bailer"
+    },
+    {
+      "id": "C",
+      "text": "C) Fishing tackle + sea sick bags + drinking water"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

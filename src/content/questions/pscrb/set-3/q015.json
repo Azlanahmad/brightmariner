@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q15",
+  "text": "What is the \"Bowsing tackle\" as fitted on some lifeboats used for?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To secure bow of the lifeboat to the main deck bollards"
+    },
+    {
+      "id": "B",
+      "text": "B) To hold the lifeboat close to the embarkation deck"
+    },
+    {
+      "id": "C",
+      "text": "C) A stretcher for safe embarkation of injured persons"
+    },
+    {
+      "id": "D",
+      "text": "D) To hold the life boat alongside the ship after launching"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q26",
+  "text": "The hand brake of a lifeboat winch is",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) manually disengaged when hoisting a boat"
+    },
+    {
+      "id": "B",
+      "text": "B) applied by dropping the counterweighted lever"
+    },
+    {
+      "id": "C",
+      "text": "C) controlled by the centrifugal brake mechanism"
+    },
+    {
+      "id": "D",
+      "text": "D) automatically engaged if lowering speed is excessive"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

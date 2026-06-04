@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s4-q4",
+  "text": "The number of lifebuoys on a cargo ship of length less than 100 meters is",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 4"
+    },
+    {
+      "id": "B",
+      "text": "B) 6"
+    },
+    {
+      "id": "C",
+      "text": "C) 8"
+    },
+    {
+      "id": "D",
+      "text": "D) 10"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 4,
+  "explanation": ""
+}

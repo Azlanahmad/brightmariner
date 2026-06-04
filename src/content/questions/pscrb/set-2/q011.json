@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q11",
+  "text": "SART lithium battery voltage",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 2 V"
+    },
+    {
+      "id": "B",
+      "text": "B) 4 V"
+    },
+    {
+      "id": "C",
+      "text": "C) 5 V"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

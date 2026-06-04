@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q3",
+  "text": "An inflatable life raft is hand-launched by",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Removing the rubber packing strip"
+    },
+    {
+      "id": "B",
+      "text": "B) Pulling a cord"
+    },
+    {
+      "id": "C",
+      "text": "C) Throwing the center container overboard"
+    },
+    {
+      "id": "D",
+      "text": "D) Cutting the wire restraining bands"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

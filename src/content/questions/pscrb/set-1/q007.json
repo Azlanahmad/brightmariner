@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q7",
+  "text": "A person has fallen overboard and is being picked up with a rescue boat. If the person appears in danger of drowning, the rescue boat should be maneuvered to make",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) An approach from leeward"
+    },
+    {
+      "id": "B",
+      "text": "B) an approach from windward"
+    },
+    {
+      "id": "C",
+      "text": "C) the most direct approach"
+    },
+    {
+      "id": "D",
+      "text": "D) an approach across the wind"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q19",
+  "text": "The marine evacuation system shall be capable of deployment",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) by one person"
+    },
+    {
+      "id": "B",
+      "text": "B) by two persons"
+    },
+    {
+      "id": "C",
+      "text": "C) by three persons"
+    },
+    {
+      "id": "D",
+      "text": "D) by four persons"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

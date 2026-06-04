@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q23",
+  "text": "Davit of rescue boats due to limit switch how much before the end ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 10 inches"
+    },
+    {
+      "id": "B",
+      "text": "B) 2 inches"
+    },
+    {
+      "id": "C",
+      "text": "C) 1 inch"
+    },
+    {
+      "id": "D",
+      "text": "D) 15 inches"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

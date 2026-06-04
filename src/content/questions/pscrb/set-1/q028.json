@@ -1,0 +1,22 @@
+{
+  "id": "pscrb-s1-q28",
+  "text": "What is the purpose of the limit switch on gravity davits?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) To cut off the power when the davits hit the track safety stops"
+    },
+    {
+      "id": "B",
+      "text": "B) To stop the davits from going too fast"
+    },
+    {
+      "id": "C",
+      "text": "C) To cut off the power when the davits are about 12 inches or more from the track safety stops"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q10",
+  "text": "What is the range of SART for detecting aircraft?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 10 nm"
+    },
+    {
+      "id": "B",
+      "text": "B) 20 nm"
+    },
+    {
+      "id": "C",
+      "text": "C) 30 nm"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

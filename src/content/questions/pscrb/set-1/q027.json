@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q27",
+  "text": "The sea painter of an inflatable life raft should be",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) free running on deck"
+    },
+    {
+      "id": "B",
+      "text": "B) faked out next to the case"
+    },
+    {
+      "id": "C",
+      "text": "C) secured to a permanent object on deck via a weak link"
+    },
+    {
+      "id": "D",
+      "text": "D) stowed near the raft"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

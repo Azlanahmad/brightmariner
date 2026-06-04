@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q5",
+  "text": "If you reach shore in a life raft, the first thing to do is",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) drag the raft ashore and lash it down for shelter"
+    },
+    {
+      "id": "B",
+      "text": "B) find some wood for a fire"
+    },
+    {
+      "id": "C",
+      "text": "C) get the provisions out of the raft"
+    },
+    {
+      "id": "D",
+      "text": "D) set the raft back out to sea so someone may spot it"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

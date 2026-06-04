@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s4-q7",
+  "text": "The breaking strength of line throwing appliances should not be less than",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 2 KN"
+    },
+    {
+      "id": "B",
+      "text": "B) 4 KN"
+    },
+    {
+      "id": "C",
+      "text": "C) 6 KN"
+    },
+    {
+      "id": "D",
+      "text": "D) 8 KN"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 4,
+  "explanation": ""
+}

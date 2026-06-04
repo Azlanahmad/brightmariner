@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q25",
+  "text": "Frequency at which the SART operates",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 5 Ghz, 3 cm X band"
+    },
+    {
+      "id": "B",
+      "text": "B) 9 Ghz, 9 cm X band"
+    },
+    {
+      "id": "C",
+      "text": "C) 9 Ghz, 3 cm X band"
+    },
+    {
+      "id": "D",
+      "text": "D) 5 Ghz, 9 cm X band"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}

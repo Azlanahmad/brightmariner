@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q9",
+  "text": "Which code regulates the training manual",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) SOLAS under chapter II (2) and (3)"
+    },
+    {
+      "id": "B",
+      "text": "B) COSWP"
+    },
+    {
+      "id": "C",
+      "text": "C) Local regulation"
+    },
+    {
+      "id": "D",
+      "text": "D) ISPS code"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

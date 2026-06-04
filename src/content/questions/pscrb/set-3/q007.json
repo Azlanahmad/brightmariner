@@ -1,0 +1,22 @@
+{
+  "id": "pscrb-s3-q7",
+  "text": "SART works on which radar",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) S band"
+    },
+    {
+      "id": "B",
+      "text": "B) X band"
+    },
+    {
+      "id": "C",
+      "text": "C) Y Band"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

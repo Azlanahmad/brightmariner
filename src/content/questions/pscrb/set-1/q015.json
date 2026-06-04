@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q15",
+  "text": "On most makes of inflatable life rafts, the batteries to operate the light on the inside of rafts can be made to last longer by",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) unscrewing the bulb during daylight"
+    },
+    {
+      "id": "B",
+      "text": "B) operating the switch for the light"
+    },
+    {
+      "id": "C",
+      "text": "C) taking no action as there is no way of preserving power"
+    },
+    {
+      "id": "D",
+      "text": "D) taking no action as they shut off automatically in daylight"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

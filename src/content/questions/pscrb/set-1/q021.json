@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s1-q21",
+  "text": "Provided every effort is used to produce, as well as preserve body moisture content by avoiding perspiration, how long is it normally possible to survive without stored quantities of water?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Up to 3 days"
+    },
+    {
+      "id": "B",
+      "text": "B) 8 to 14 days"
+    },
+    {
+      "id": "C",
+      "text": "C) 15 to 20 days"
+    },
+    {
+      "id": "D",
+      "text": "D) 25 to 30 days"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pscrb",
+  "set": 1,
+  "explanation": ""
+}

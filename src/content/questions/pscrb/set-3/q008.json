@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s3-q8",
+  "text": "Which item in the life boat is a study material?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Instruction on how to survive"
+    },
+    {
+      "id": "B",
+      "text": "B) Sea sickness kit"
+    },
+    {
+      "id": "C",
+      "text": "C) Bailer"
+    },
+    {
+      "id": "D",
+      "text": "D) Heliograph"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pscrb",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pscrb-s2-q7",
+  "text": "The luminous intensity of a life jacket light",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 0.25 CD"
+    },
+    {
+      "id": "B",
+      "text": "B) 0.50 CD"
+    },
+    {
+      "id": "C",
+      "text": "C) 0.75 CD"
+    },
+    {
+      "id": "D",
+      "text": "D) 0.85 CD"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pscrb",
+  "set": 2,
+  "explanation": ""
+}
