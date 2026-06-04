@@ -1,5 +1,6 @@
 ---
 import { Search } from 'lucide-react';
+import ThemeToggle from './ThemeToggle.astro';
 ---
 
 <header class="sticky top-0 z-50 w-full bg-canvas/80 backdrop-blur-md border-b border-hairline h-16">
@@ -26,6 +27,7 @@ import { Search } from 'lucide-react';
         <button class="p-2 text-body hover:text-ink hover:bg-canvas-soft-2 rounded-full transition-colors">
             <Search className="w-4 h-4" />
         </button>
+        <ThemeToggle />
         <a href="/login" class="px-3 py-1.5 text-sm font-medium text-ink hover:bg-canvas-soft-2 rounded-sm transition-colors">Log In</a>
         <a href="/signup" class="px-3 py-1.5 text-sm font-medium bg-primary text-white rounded-sm hover:bg-primary/90 transition-colors">Sign Up</a>
     </div>

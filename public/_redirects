@@ -8,3 +8,5 @@
 # Add any custom redirects for posts whose slugs changed
 # Example:
 # /old-url-slug/         /new-url-slug/          301
+
+/aff-1/                 /mcq/aff/               301
