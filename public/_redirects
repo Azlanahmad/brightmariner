@@ -10,3 +10,8 @@
 # /old-url-slug/         /new-url-slug/          301
 
 /aff-1/                 /mcq/aff/               301
+/mfa-2/                 /mcq/mfa/               
+/stsdsd-1/              /mcq/stsdsd/              301
+/pst-1/                  /mcq/pst/                 301
+/aff-exit-exam-questions-ship-07/                 /mcq/aff/               301
+/refresher-fpff-exit-exam-questions-and-answers-rfpff/                 /mcq/rfpff/               301

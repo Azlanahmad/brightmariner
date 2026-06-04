@@ -1,0 +1,292 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const allQuestions = await getCollection('questions');
+  
+  // Sort questions to ensure stable set ordering
+  const sortedQuestions = [...allQuestions].sort((a, b) => a.id.localeCompare(b.id));
+  
+  // Group questions by courseId and set
+  const courseGroups: Record<string, typeof allQuestions> = {};
+  for (const q of sortedQuestions) {
+    const courseId = q.data.courseId;
+    if (!courseGroups[courseId]) {
+      courseGroups[courseId] = [];
+    }
+    courseGroups[courseId].push(q);
+  }
+  
+  const paths = [];
+  
+  const slugify = (text: string) => {
+    return text
+      .toLowerCase()
+      .replace(/[^\w\s-]/g, '')
+      .replace(/[\s_]+/g, '-')
+      .substring(0, 60)
+      .replace(/^-+|-+$/g, '');
+  };
+  
+  for (const courseId in courseGroups) {
+    const questions = courseGroups[courseId];
+    const setSize = 30;
+    
+    for (let i = 0; i < questions.length; i++) {
+      const q = questions[i];
+      const setNum = q.data.set || Math.ceil((i + 1) / setSize);
+      
+      const cleanText = slugify(q.data.text);
+      const questionSlug = `${cleanText}-${q.data.id}`;
+      
+      // Determine prev question URL
+      let prevUrl = null;
+      if (i > 0) {
+        const prevQ = questions[i - 1];
+        const prevSetNum = prevQ.data.set || Math.ceil(i / setSize);
+        prevUrl = `/mcq/${courseId}/${prevSetNum}/${slugify(prevQ.data.text)}-${prevQ.data.id}`;
+      }
+      
+      // Determine next question URL
+      let nextUrl = null;
+      if (i < questions.length - 1) {
+        const nextQ = questions[i + 1];
+        const nextSetNum = nextQ.data.set || Math.ceil((i + 2) / setSize);
+        nextUrl = `/mcq/${courseId}/${nextSetNum}/${slugify(nextQ.data.text)}-${nextQ.data.id}`;
+      }
+      
+      paths.push({
+        params: { 
+          id: courseId, 
+          set: setNum.toString(), 
+          questionSlug 
+        },
+        props: { 
+          question: q.data,
+          questionId: q.data.id,
+          setNumber: setNum,
+          prevUrl,
+          nextUrl,
+          qIndex: i + 1,
+          totalInCourse: questions.length
+        }
+      });
+    }
+  }
+  
+  return paths;
+}
+
+const { id, set, questionSlug } = Astro.params;
+const { question, questionId, setNumber, prevUrl, nextUrl, qIndex, totalInCourse } = Astro.props;
+
+// Course ID to Name mapping
+const courseNames: Record<string, string> = {
+    'efa': 'Elementary First Aid (EFA)',
+    'fpff': 'Fire Prevention & Fire Fighting (FPFF)',
+    'pst': 'Personal Survival Techniques (PST)',
+    'pssr': 'Personal Safety & Social Responsibilities (PSSR)',
+    'stsdsd': 'Security Training for Seafarers (STSDSD)',
+    'aff': 'Advanced Fire Fighting (AFF)',
+    'pscrb': 'Proficiency in Survival Craft (PSCRB)',
+    'mfa': 'Medical First Aid (MFA)',
+    'tasco': 'Advanced Training for Oil Tanker Cargo Operations (TASCO)',
+    'refresher': 'Refresher Course',
+    'rfpff': 'Refresher FPFF'
+};
+
+const courseName = courseNames[id as string] || id?.toUpperCase();
+const title = `${question.text.substring(0, 60)}... | ${courseName} MCQ Question | Bright Mariner`;
+const description = `Correct answer and explanation for the STCW exam question: "${question.text}". Learn and practice exam questions for ${courseName}.`;
+
+const canonicalURL = `https://brightmariner.com/mcq/${id}/${set}/${questionSlug}`;
+
+// Structured Data
+const correctOption = question.options.find(o => o.id === question.correctOptionId);
+const correctOptionText = correctOption ? correctOption.text : '';
+
+const qnaSchema = {
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": question.text,
+    "text": question.text,
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": `The correct answer is Option ${question.correctOptionId}: ${correctOptionText}. ${question.explanation || "This question is frequently asked in the DG Shipping exit exam."}`,
+      "upvoteCount": 1
+    }
+  }
+};
+
+const quizSchema = {
+  "@context": "https://schema.org",
+  "@type": "Quiz",
+  "name": `${courseName} Exit Exam Question`,
+  "hasPart": [
+    {
+      "@type": "Question",
+      "name": question.text,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": correctOptionText
+      },
+      "suggestedAnswer": question.options
+        .filter(o => o.id !== question.correctOptionId)
+        .map(o => ({
+          "@type": "Answer",
+          "text": o.text
+        }))
+    }
+  ]
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://brightmariner.com"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "MCQ Practice",
+      "item": "https://brightmariner.com/mcq"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": courseName,
+      "item": `https://brightmariner.com/mcq/${id}`
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": `Set ${setNumber}`,
+      "item": `https://brightmariner.com/mcq/${id}/${setNumber}`
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "name": `Question ${qIndex}`,
+      "item": canonicalURL
+    }
+  ]
+};
+
+const schemaGraph = {
+  "@context": "https://schema.org",
+  "@graph": [qnaSchema, quizSchema, breadcrumbSchema]
+};
+---
+
+<Layout title={title} description={description} canonicalURL={canonicalURL}>
+    <script type="application/ld+json" set:html={JSON.stringify(schemaGraph)} />
+
+    <div class="py-24 px-6 lg:px-8 bg-canvas-soft min-h-[calc(100vh-64px)]">
+        <div class="max-w-3xl mx-auto">
+            
+            <!-- Breadcrumbs -->
+            <nav class="flex items-center gap-2 text-xs font-mono uppercase tracking-widest text-mute mb-8 flex-wrap">
+                <a href="/mcq" class="hover:text-ink transition-colors">Practice</a>
+                <span>/</span>
+                <a href={`/mcq/${id}`} class="hover:text-ink transition-colors">{id}</a>
+                <span>/</span>
+                <a href={`/mcq/${id}/${set}`} class="hover:text-ink transition-colors">Set {set}</a>
+                <span>/</span>
+                <span class="text-ink">Question {qIndex}</span>
+            </nav>
+
+            <article class="bg-canvas border border-hairline rounded-2xl p-8 md:p-12 shadow-sm mb-8">
+                <header class="mb-8">
+                    <div class="flex items-center justify-between mb-4">
+                        <span class="text-xs font-mono uppercase tracking-widest text-mute">Question {qIndex} of {totalInCourse}</span>
+                        <span class="text-xs px-2.5 py-1 bg-canvas-soft-2 text-ink border border-hairline rounded-full uppercase font-mono tracking-wider">{id} Exam</span>
+                    </div>
+                    <h1 class="text-2xl md:text-3xl font-semibold text-ink leading-snug">
+                        {question.text}
+                    </h1>
+                </header>
+
+                <!-- Options List -->
+                <div class="space-y-4 mb-8">
+                    {question.options.map(option => {
+                        const isCorrect = option.id === question.correctOptionId;
+                        return (
+                            <div class={`flex items-start gap-4 p-5 rounded-xl border transition-all ${
+                                isCorrect 
+                                    ? "border-success bg-success/5 text-success-deep" 
+                                    : "border-hairline opacity-75"
+                            }`}>
+                                <span class={`w-6 h-6 rounded-full border flex items-center justify-center text-xs font-semibold shrink-0 mt-0.5 ${
+                                    isCorrect 
+                                        ? "border-success bg-success text-white" 
+                                        : "border-hairline text-mute"
+                                }`}>
+                                    {option.id}
+                                </span>
+                                <span class="text-base leading-relaxed">{option.text}</span>
+                                {isCorrect && (
+                                    <span class="ml-auto text-success flex items-center gap-1 text-sm font-semibold shrink-0 mt-0.5">
+                                        <svg class="w-5 h-5 fill-none stroke-current" stroke-width="2" viewBox="0 0 24 24">
+                                            <polyline points="20 6 9 17 4 12"></polyline>
+                                        </svg>
+                                        Correct
+                                    </span>
+                                )}
+                            </div>
+                        );
+                    })}
+                </div>
+
+                <!-- Explanation Section -->
+                <div class="p-6 bg-canvas-soft-2 border border-hairline rounded-xl">
+                    <h2 class="text-sm font-mono uppercase tracking-wider text-ink mb-3">Answer & Explanation</h2>
+                    <p class="text-body text-base leading-relaxed mb-4">
+                        The correct answer is <strong>Option {question.correctOptionId}</strong>: <em>{correctOptionText}</em>.
+                    </p>
+                    <p class="text-body text-sm leading-relaxed">
+                        {question.explanation || "This question is frequently asked in the DG Shipping exit exams for maritime courses. Practicing similar questions in the interactive simulator helps improve recall and exam success."}
+                    </p>
+                </div>
+            </article>
+
+            <!-- Navigation Links -->
+            <div class="flex items-center justify-between gap-4">
+                {prevUrl ? (
+                    <a href={prevUrl} class="px-6 py-2.5 bg-canvas border border-hairline text-ink text-sm font-medium rounded-full hover:bg-canvas-soft-2 transition-all flex items-center gap-2">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                            <polyline points="15 18 9 12 15 6"></polyline>
+                        </svg>
+                        Previous MCQ
+                    </a>
+                ) : (
+                    <div />
+                )}
+
+                <a href={`/mcq/${id}/${set}`} class="text-sm font-medium text-body hover:text-ink transition-colors px-4 py-2 hover:bg-canvas-soft-2 rounded-lg">
+                    Back to Practice Set {set}
+                </a>
+
+                {nextUrl ? (
+                    <a href={nextUrl} class="px-6 py-2.5 bg-primary text-white text-sm font-medium rounded-full hover:bg-primary/90 transition-all flex items-center gap-2 shadow-lg shadow-primary/10">
+                        Next MCQ
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                            <polyline points="9 18 15 12 9 6"></polyline>
+                        </svg>
+                    </a>
+                ) : (
+                    <div />
+                )}
+            </div>
+
+        </div>
+    </div>
+</Layout>
