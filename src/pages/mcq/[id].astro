@@ -4,7 +4,7 @@ import Layout from '../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
   const allQuestions = await getCollection('questions');
-  const courseIds = [...new Set(allQuestions.map(q => q.data.courseId))];
+  const courseIds = [...new Set(allQuestions.map(q => q.data.courseId))].filter(id => id !== 'aff');
   
   return courseIds.map(id => ({
     params: { id },
