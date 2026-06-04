@@ -89,7 +89,9 @@ const description = `Practice ${courseName} exit exam questions and answers. Acc
             <header class="mb-16">
                 <h1 class="text-4xl font-semibold tracking-tight text-ink mb-4">{courseName}</h1>
                 <p class="text-body text-lg max-w-2xl">
-                    Practicing in sets of 30 questions helps improve focus and retention. Choose a set to begin.
+                    {id === 'mfa' 
+                        ? "Most asked questions in MFA Exit exam. More than 25 questions comes from these sets in exit exam. MFA exit exam questions based on DG exit Exam"
+                        : "Practicing in sets of 30 questions helps improve focus and retention. Choose a set to begin."}
                 </p>
             </header>
 
