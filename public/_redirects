@@ -9,9 +9,43 @@
 # Example:
 # /old-url-slug/         /new-url-slug/          301
 
-/aff-1/                 /mcq/aff/               301
-/mfa-2/                 /mcq/mfa/               
-/stsdsd-1/              /mcq/stsdsd/              301
-/pst-1/                  /mcq/pst/                 301
-/aff-exit-exam-questions-ship-07/                 /mcq/aff/               301
-/refresher-fpff-exit-exam-questions-and-answers-rfpff/                 /mcq/rfpff/               301
+/aff-1/                 /mcq/aff-exit-exam-questions-answers/               301
+/mfa-2/                 /mcq/mfa-exit-exam-questions-answers/               301
+/stsdsd-1/              /mcq/stsdsd-exit-exam-questions-answers/              301
+/pst-1/                  /mcq/pst-exit-exam-questions-answers/                 301
+/aff-exit-exam-questions-ship-07/                 /mcq/aff-exit-exam-questions-answers/               301
+/refresher-fpff-exit-exam-questions-and-answers-rfpff/                 /mcq/rfpff-exit-exam-questions-answers/               301
+
+# Redirect old MCQ URLs to new exit-exam-questions-answers URLs
+/mcq/pscrb                   /mcq/pscrb-exit-exam-questions-answers/  301
+/mcq/pscrb/*                 /mcq/pscrb-exit-exam-questions-answers/:splat  301
+
+/mcq/efa                     /mcq/efa-exit-exam-questions-answers/  301
+/mcq/efa/*                   /mcq/efa-exit-exam-questions-answers/:splat  301
+
+/mcq/fpff                    /mcq/fpff-exit-exam-questions-answers/  301
+/mcq/fpff/*                  /mcq/fpff-exit-exam-questions-answers/:splat  301
+
+/mcq/pst                     /mcq/pst-exit-exam-questions-answers/  301
+/mcq/pst/*                   /mcq/pst-exit-exam-questions-answers/:splat  301
+
+/mcq/pssr                    /mcq/pssr-exit-exam-questions-answers/  301
+/mcq/pssr/*                  /mcq/pssr-exit-exam-questions-answers/:splat  301
+
+/mcq/stsdsd                  /mcq/stsdsd-exit-exam-questions-answers/  301
+/mcq/stsdsd/*                /mcq/stsdsd-exit-exam-questions-answers/:splat  301
+
+/mcq/aff                     /mcq/aff-exit-exam-questions-answers/  301
+/mcq/aff/*                   /mcq/aff-exit-exam-questions-answers/:splat  301
+
+/mcq/mfa                     /mcq/mfa-exit-exam-questions-answers/  301
+/mcq/mfa/*                   /mcq/mfa-exit-exam-questions-answers/:splat  301
+
+/mcq/tasco                   /mcq/tasco-exit-exam-questions-answers/  301
+/mcq/tasco/*                 /mcq/tasco-exit-exam-questions-answers/:splat  301
+
+/mcq/refresher               /mcq/refresher-exit-exam-questions-answers/  301
+/mcq/refresher/*             /mcq/refresher-exit-exam-questions-answers/:splat  301
+
+/mcq/rfpff                   /mcq/rfpff-exit-exam-questions-answers/  301
+/mcq/rfpff/*                 /mcq/rfpff-exit-exam-questions-answers/:splat  301
