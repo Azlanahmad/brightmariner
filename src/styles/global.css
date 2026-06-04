@@ -1,5 +1,4 @@
 @import "tailwindcss";
-@custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
   --color-primary: #171717;
@@ -31,21 +30,6 @@
   --radius-lg: 12px;
   --radius-xl: 16px;
   --radius-pill: 100px;
-}
-
-.dark {
-  --color-primary: #ffffff;
-  --color-on-primary: #000000;
-  --color-ink: #ededed;
-  --color-body: #a1a1a1;
-  --color-mute: #666666;
-  --color-hairline: #333333;
-  --color-hairline-strong: #444444;
-  --color-canvas: #0a0a0a;
-  --color-canvas-soft: #111111;
-  --color-canvas-soft-2: #1a1a1a;
-  --color-link: #3291ff;
-  --color-link-deep: #0070f3;
 }
 
 @layer base {
