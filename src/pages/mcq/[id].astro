@@ -1,7 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
-import PracticeRoom from '../../components/PracticeRoom';
 
 export async function getStaticPaths() {
   const allQuestions = await getCollection('questions');
@@ -15,8 +14,11 @@ export async function getStaticPaths() {
 const { id } = Astro.params;
 const allQuestions = await getCollection('questions');
 const courseQuestions = allQuestions
-    .filter(q => q.data.courseId === id)
-    .map(q => q.data);
+    .filter(q => q.data.courseId === id);
+
+const setSize = 30;
+const numSets = Math.ceil(courseQuestions.length / setSize);
+const sets = Array.from({ length: numSets }, (_, i) => i + 1);
 
 // Course ID to Name mapping
 const courseNames: Record<string, string> = {
@@ -36,15 +38,45 @@ const courseNames: Record<string, string> = {
 const courseName = courseNames[id as string] || id?.toUpperCase();
 ---
 
-<Layout title={`${courseName} Practice | BrightMariner`}>
-    <div class="min-h-[calc(100vh-64px)] bg-canvas-soft">
-        {courseQuestions.length > 0 ? (
-            <PracticeRoom client:load questions={courseQuestions} courseName={courseName} />
-        ) : (
-            <div class="flex flex-col items-center justify-center py-32">
-                <h1 class="text-2xl font-semibold mb-4 text-ink">No questions found for this course.</h1>
-                <a href="/mcq" class="text-link hover:underline">Back to MCQ Practice</a>
+<Layout title={`${courseName} Practice Sets | BrightMariner`}>
+    <div class="py-24 px-6 lg:px-8 bg-canvas-soft min-h-[calc(100vh-64px)]">
+        <div class="max-w-5xl mx-auto">
+            <nav class="flex items-center gap-2 text-xs font-mono uppercase tracking-widest text-mute mb-8">
+                <a href="/mcq" class="hover:text-ink transition-colors">Practice</a>
+                <span>/</span>
+                <span class="text-ink">{id}</span>
+            </nav>
+
+            <header class="mb-16">
+                <h1 class="text-4xl font-semibold tracking-tight text-ink mb-4">{courseName}</h1>
+                <p class="text-body text-lg max-w-2xl">
+                    Practicing in sets of 30 questions helps improve focus and retention. Choose a set to begin.
+                </p>
+            </header>
+
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                {sets.map(setNum => (
+                    <a href={`/mcq/${id}/${setNum}`} class="group p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all">
+                        <div class="flex items-center justify-between mb-4">
+                            <span class="text-xs font-mono uppercase tracking-widest text-mute">Set {setNum}</span>
+                            <div class="w-8 h-8 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all">
+                                <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                                </svg>
+                            </div>
+                        </div>
+                        <h3 class="text-xl font-medium text-ink">Questions { (setNum - 1) * setSize + 1 } - { Math.min(setNum * setSize, courseQuestions.length) }</h3>
+                        <p class="text-sm text-body mt-2">Comprehensive practice set for {courseName}.</p>
+                    </a>
+                ))}
             </div>
-        )}
+            
+            {courseQuestions.length === 0 && (
+                <div class="flex flex-col items-center justify-center py-12">
+                    <h2 class="text-xl font-medium text-ink mb-4">No questions available yet.</h2>
+                    <a href="/mcq" class="text-link hover:underline">Back to MCQ Practice</a>
+                </div>
+            )}
+        </div>
     </div>
 </Layout>

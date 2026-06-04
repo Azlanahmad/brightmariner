@@ -1,0 +1,51 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+const allPosts = await getCollection('posts');
+const sortedPosts = allPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<Layout title="Blog | BrightMariner" description="Maritime insights, DG Shipping exam tips, and engineering guides.">
+    <div class="py-24 px-6 lg:px-8 bg-canvas-soft min-h-[calc(100vh-64px)]">
+        <div class="max-w-5xl mx-auto">
+            <header class="mb-16">
+                <h1 class="text-4xl font-semibold tracking-tight text-ink mb-4">Blog</h1>
+                <p class="text-body text-lg max-w-2xl">
+                    Stay updated with the latest news, exam tips, and technical guides for marine engineers and deck officers.
+                </p>
+            </header>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                {sortedPosts.map(post => (
+                    <a href={`/${post.id}/`} class="group bg-canvas border border-hairline rounded-xl overflow-hidden hover:border-ink transition-all hover:shadow-lg">
+                        {post.data.image && (
+                            <div class="aspect-video overflow-hidden">
+                                <img src={post.data.image} alt={post.data.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                            </div>
+                        )}
+                        <div class="p-6">
+                            <div class="flex items-center gap-2 mb-3">
+                                <span class="text-[10px] font-mono uppercase tracking-widest text-mute">
+                                    {new Date(post.data.date).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+                                </span>
+                            </div>
+                            <h2 class="text-xl font-semibold text-ink mb-3 group-hover:text-primary transition-colors leading-tight">
+                                {post.data.title}
+                            </h2>
+                            <p class="text-sm text-body line-clamp-3 mb-6">
+                                {post.data.description}
+                            </p>
+                            <div class="flex items-center text-sm font-medium text-ink">
+                                Read Article
+                                <svg class="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                                </svg>
+                            </div>
+                        </div>
+                    </a>
+                ))}
+            </div>
+        </div>
+    </div>
+</Layout>

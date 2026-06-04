@@ -1,0 +1,70 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import PracticeRoom from '../../../../components/PracticeRoom';
+
+export async function getStaticPaths() {
+  const allQuestions = await getCollection('questions');
+  const courseIds = [...new Set(allQuestions.map(q => q.data.courseId))];
+  
+  const paths = [];
+  
+  for (const id of courseIds) {
+    const courseQuestions = allQuestions
+        .filter(q => q.data.courseId === id)
+        .sort((a, b) => a.id.localeCompare(b.id)); // Sort by ID to ensure stable sets
+    
+    const setSize = 30;
+    const numSets = Math.ceil(courseQuestions.length / setSize);
+    
+    for (let setIdx = 1; setIdx <= numSets; setIdx++) {
+      paths.push({
+        params: { id, set: setIdx.toString() },
+        props: { 
+            questions: courseQuestions.slice((setIdx - 1) * setSize, setIdx * setSize).map(q => q.data),
+            setNumber: setIdx,
+            totalSets: numSets
+        }
+      });
+    }
+  }
+  
+  return paths;
+}
+
+const { id, set } = Astro.params;
+const { questions, setNumber, totalSets } = Astro.props;
+
+// Course ID to Name mapping
+const courseNames: Record<string, string> = {
+    'efa': 'Elementary First Aid (EFA)',
+    'fpff': 'Fire Prevention & Fire Fighting (FPFF)',
+    'pst': 'Personal Survival Techniques (PST)',
+    'pssr': 'Personal Safety & Social Responsibilities (PSSR)',
+    'stsdsd': 'Security Training for Seafarers (STSDSD)',
+    'aff': 'Advanced Fire Fighting (AFF)',
+    'pscrb': 'Proficiency in Survival Craft (PSCRB)',
+    'mfa': 'Medical First Aid (MFA)',
+    'tasco': 'Advanced Oil Tanker Operations (TASCO)',
+    'refresher': 'Refresher Course',
+    'rfpff': 'Refresher FPFF'
+};
+
+const courseName = courseNames[id as string] || id?.toUpperCase();
+const title = `${courseName} - Set ${setNumber} | BrightMariner`;
+---
+
+<Layout title={title}>
+    <div class="min-h-[calc(100vh-64px)] bg-canvas-soft">
+        <div class="max-w-3xl mx-auto pt-8 px-6">
+            <nav class="flex items-center gap-2 text-xs font-mono uppercase tracking-widest text-mute mb-4">
+                <a href="/mcq" class="hover:text-ink transition-colors">Practice</a>
+                <span>/</span>
+                <a href={`/mcq/${id}`} class="hover:text-ink transition-colors">{id}</a>
+                <span>/</span>
+                <span class="text-ink">Set {setNumber}</span>
+            </nav>
+        </div>
+        <PracticeRoom client:load questions={questions} courseName={`${courseName} (Set ${setNumber})`} />
+    </div>
+</Layout>
