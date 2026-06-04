@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q8",
+  "text": "A flail chest results when :",
+  "options": [
+    {
+      "id": "A",
+      "text": "Three ribs are broken on each side of the chest."
+    },
+    {
+      "id": "B",
+      "text": "Part of the spine becomes separated from the ribs."
+    },
+    {
+      "id": "C",
+      "text": "The breastbone is broken in three places."
+    },
+    {
+      "id": "D",
+      "text": "Several ribs are broken in more than one place."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

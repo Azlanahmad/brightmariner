@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q28",
+  "text": "Signs and symptoms of acute abdomen include:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Excessive hunger or thirst."
+    },
+    {
+      "id": "B",
+      "text": "Hypertension and brachycardia."
+    },
+    {
+      "id": "C",
+      "text": "Distension with rebound tenderness."
+    },
+    {
+      "id": "D",
+      "text": "Fever with deep, shallow breathing."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

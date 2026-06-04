@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q19",
+  "text": "Insulin is produced in the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Spleen."
+    },
+    {
+      "id": "B",
+      "text": "Liver."
+    },
+    {
+      "id": "C",
+      "text": "Pancreas."
+    },
+    {
+      "id": "D",
+      "text": "Gall bladder."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

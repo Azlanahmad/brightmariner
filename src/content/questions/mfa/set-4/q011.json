@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q11",
+  "text": "You have been called for an 81 year old unconscious male patient. He is in his living room. Despite the hot day, he is overly dressed. He is flushed and dry, extremely hot to touch. You suspect:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heat exhaustion."
+    },
+    {
+      "id": "B",
+      "text": "Stroke."
+    },
+    {
+      "id": "C",
+      "text": "Hyperglycemia."
+    },
+    {
+      "id": "D",
+      "text": "Heatstroke. Lifting and Carrying"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

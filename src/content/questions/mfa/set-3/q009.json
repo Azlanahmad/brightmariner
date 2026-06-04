@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q9",
+  "text": "Status epilepticus refers to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Normal seizure pattern in epilepsy."
+    },
+    {
+      "id": "B",
+      "text": "Seizures caused by a high fever."
+    },
+    {
+      "id": "C",
+      "text": "Continuous seizure activity."
+    },
+    {
+      "id": "D",
+      "text": "Seizures lasting longer than 2 minutes."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

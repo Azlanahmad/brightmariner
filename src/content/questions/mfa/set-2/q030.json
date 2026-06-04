@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q30",
+  "text": "During one-rescuer CPR for adults, the ratio of compressions to ventilations should be:",
+  "options": [
+    {
+      "id": "A",
+      "text": "5:1"
+    },
+    {
+      "id": "B",
+      "text": "15:2"
+    },
+    {
+      "id": "C",
+      "text": "30:2"
+    },
+    {
+      "id": "D",
+      "text": "35:2"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

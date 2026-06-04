@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q24",
+  "text": "The mammalian reflex refers to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "An increase in heart rate and respiration."
+    },
+    {
+      "id": "B",
+      "text": "A decrease in heart rate and dilation of blood vessels."
+    },
+    {
+      "id": "C",
+      "text": "An increase in heart rate and constriction of pupils."
+    },
+    {
+      "id": "D",
+      "text": "A decrease in heart rate and constriction of blood vessels."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

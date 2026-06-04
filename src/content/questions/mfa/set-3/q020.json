@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q20",
+  "text": "Shock is best defined as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inadequate circulation to the body’s tissues"
+    },
+    {
+      "id": "B",
+      "text": "Inadequate delivery of oxygen to the lungs"
+    },
+    {
+      "id": "C",
+      "text": "Inadequate elimination of waste products from the body."
+    },
+    {
+      "id": "D",
+      "text": "Inadequate amount of insulin."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

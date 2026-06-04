@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q29",
+  "text": "The most immediate serious complication associated with burns is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Shock"
+    },
+    {
+      "id": "B",
+      "text": "Infection"
+    },
+    {
+      "id": "C",
+      "text": "Scarring"
+    },
+    {
+      "id": "D",
+      "text": "Hypothermia"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

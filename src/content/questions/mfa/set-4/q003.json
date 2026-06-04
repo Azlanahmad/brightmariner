@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q3",
+  "text": "The acronym SHARP refers to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The assessment of the severity of a wound injury."
+    },
+    {
+      "id": "B",
+      "text": "Signs and symptoms used to determine the need to transport."
+    },
+    {
+      "id": "C",
+      "text": "The depth of a penetrating wound and potential damage."
+    },
+    {
+      "id": "D",
+      "text": "Signs of infection as assessed in wound injuries."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

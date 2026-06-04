@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q4",
+  "text": "When managing a possible spinal injury:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The cervical immobilization device is applied by the police."
+    },
+    {
+      "id": "B",
+      "text": "Transport the patient in the position of greatest comfort."
+    },
+    {
+      "id": "C",
+      "text": "Apply a cervical immobilization device before assessing the patient."
+    },
+    {
+      "id": "D",
+      "text": "Responders must provide initial stabilization by supporting the head and ensuring neutral alignment"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q21",
+  "text": "The most critical factor in defibrillation is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The time from collapse to defibrillation."
+    },
+    {
+      "id": "B",
+      "text": "The skill of the AED responder."
+    },
+    {
+      "id": "C",
+      "text": "The patient’s previous cardiac history."
+    },
+    {
+      "id": "D",
+      "text": "The type of defibrillator used."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

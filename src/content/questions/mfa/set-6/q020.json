@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q20",
+  "text": "The onset of shock in infants and children:",
+  "options": [
+    {
+      "id": "A",
+      "text": "May be sudden and severe."
+    },
+    {
+      "id": "B",
+      "text": "Is no different than adults."
+    },
+    {
+      "id": "C",
+      "text": "Usually progresses slowly."
+    },
+    {
+      "id": "D",
+      "text": "Usually results from cardiac problems."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

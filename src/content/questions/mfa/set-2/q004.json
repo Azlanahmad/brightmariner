@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q4",
+  "text": "The most important step in managing shock is to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Keep the patient warm."
+    },
+    {
+      "id": "B",
+      "text": "Give CPR as soon as possible."
+    },
+    {
+      "id": "C",
+      "text": "Give first aid for the illness or injury."
+    },
+    {
+      "id": "D",
+      "text": "Elevate the lower extremities."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

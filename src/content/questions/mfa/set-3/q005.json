@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q5",
+  "text": "When suctioning a non-breathing adult casualty, a first aider should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Apply suction as soon as the suction tip touches the mouth."
+    },
+    {
+      "id": "B",
+      "text": "Insert the suction tip deep into the larynx."
+    },
+    {
+      "id": "C",
+      "text": "Suction for no more than 15 seconds."
+    },
+    {
+      "id": "D",
+      "text": "Insert the tip with the curved side towards the tongue."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

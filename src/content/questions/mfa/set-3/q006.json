@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q6",
+  "text": "Which of the following devices provides the highest percentage of O2 delivery?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nasal cannula."
+    },
+    {
+      "id": "B",
+      "text": "Plastic face mask."
+    },
+    {
+      "id": "C",
+      "text": "Partial rebreathing mask."
+    },
+    {
+      "id": "D",
+      "text": "Non-rebreathing mask."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

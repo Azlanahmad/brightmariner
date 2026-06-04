@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q28",
+  "text": "You find a male patient with obvious difficulty breathing. He is using his neck muscles, and is cyanotic. There are red blotches on his chest, and his neck is swelling. You suspect :",
+  "options": [
+    {
+      "id": "A",
+      "text": "Anaphylaxis."
+    },
+    {
+      "id": "B",
+      "text": "Bronchitis."
+    },
+    {
+      "id": "C",
+      "text": "Emphysema."
+    },
+    {
+      "id": "D",
+      "text": "Asthma."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

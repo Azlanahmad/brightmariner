@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q8",
+  "text": "An industrial worker sustains a severe laceration to his forearm. Direct pressure to the wound fails to control the bleeding. The correct arterial pressure point to control the bleeding is the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carotid."
+    },
+    {
+      "id": "B",
+      "text": "Radial."
+    },
+    {
+      "id": "C",
+      "text": "Femoral."
+    },
+    {
+      "id": "D",
+      "text": "Brachial."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

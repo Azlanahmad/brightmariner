@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q1",
+  "text": "A guideline for normal systolic blood pressure in an adult male would be:",
+  "options": [
+    {
+      "id": "A",
+      "text": "50 plus the man's age up to 150 mm. Hg."
+    },
+    {
+      "id": "B",
+      "text": "65 plus the man's age up to 120 mm. Hg."
+    },
+    {
+      "id": "C",
+      "text": "80 plus the man's age up to 130 mm. Hg."
+    },
+    {
+      "id": "D",
+      "text": "100 plus the man's age up to 150 mm. Hg."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q18",
+  "text": "Urine is expelled from the body through the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Kidneys."
+    },
+    {
+      "id": "B",
+      "text": "Bladder."
+    },
+    {
+      "id": "C",
+      "text": "Ureters."
+    },
+    {
+      "id": "D",
+      "text": "Urethra."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

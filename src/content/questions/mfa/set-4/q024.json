@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q24",
+  "text": "If the patient has an open fracture responders should :",
+  "options": [
+    {
+      "id": "A",
+      "text": "Attempt to push bones back into the wound."
+    },
+    {
+      "id": "B",
+      "text": "Use bulky dressings to pad around the protruding bones ends."
+    },
+    {
+      "id": "C",
+      "text": "Apply pressure directly over the fracture to control bleeding."
+    },
+    {
+      "id": "D",
+      "text": "Apply a tourniquet above the fracture site."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s7-q7",
+  "text": "Ground guides or spotters should be situated:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Behind the vehicle on the driver side."
+    },
+    {
+      "id": "B",
+      "text": "On the front left side of the vehicle."
+    },
+    {
+      "id": "C",
+      "text": "Front and centre of the vehicle."
+    },
+    {
+      "id": "D",
+      "text": "On the front right side of the vehicle."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 7,
+  "explanation": ""
+}

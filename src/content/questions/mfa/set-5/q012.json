@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q12",
+  "text": "Muscles are attached to the bones by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ligaments."
+    },
+    {
+      "id": "B",
+      "text": "Meninges."
+    },
+    {
+      "id": "C",
+      "text": "Cartilage."
+    },
+    {
+      "id": "D",
+      "text": "Tendons."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

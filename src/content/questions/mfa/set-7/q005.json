@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s7-q5",
+  "text": "First aid stations must:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Be easily accessible to workers"
+    },
+    {
+      "id": "B",
+      "text": "Have a shower"
+    },
+    {
+      "id": "C",
+      "text": "Be at least 6 square meters in size"
+    },
+    {
+      "id": "D",
+      "text": "Have oxygen available Ambulance Operation/Maintenance"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 7,
+  "explanation": ""
+}

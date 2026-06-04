@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q8",
+  "text": "Contact dermatitis occurs when:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The skin comes in contact with a poisonous substance."
+    },
+    {
+      "id": "B",
+      "text": "A poison enters the eye of a contact lens wearer."
+    },
+    {
+      "id": "C",
+      "text": "Hot gases are inhaled."
+    },
+    {
+      "id": "D",
+      "text": "A poison is injected under the skin."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

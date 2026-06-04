@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q2",
+  "text": "Which one of the following is not a system of the body:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Respiratory."
+    },
+    {
+      "id": "B",
+      "text": "Musculoskeletal."
+    },
+    {
+      "id": "C",
+      "text": "Endocrine."
+    },
+    {
+      "id": "D",
+      "text": "Follicular."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

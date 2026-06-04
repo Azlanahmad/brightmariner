@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q17",
+  "text": "A worker has fallen from a six-foot ladder onto a concrete floor. You first action should be.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Take a SAMPLE history."
+    },
+    {
+      "id": "B",
+      "text": "Perform a secondary survey."
+    },
+    {
+      "id": "C",
+      "text": "Take charge and perform a scene survey."
+    },
+    {
+      "id": "D",
+      "text": "Asess the rate and quality of breathing."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

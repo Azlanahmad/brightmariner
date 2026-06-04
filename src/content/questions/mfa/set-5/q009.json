@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q9",
+  "text": "Carbon monoxide:",
+  "options": [
+    {
+      "id": "A",
+      "text": "May result from fires or automobile exhaust."
+    },
+    {
+      "id": "B",
+      "text": "Has a very distinct odour"
+    },
+    {
+      "id": "C",
+      "text": "Is not life-threatening."
+    },
+    {
+      "id": "D",
+      "text": "Requires the administration of low concentration O2."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

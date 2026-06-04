@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q1",
+  "text": "In the case of abdominal evisceration, the emergency responder should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Irrigate the wound before dressing it."
+    },
+    {
+      "id": "B",
+      "text": "Give oxygen by nasal canula."
+    },
+    {
+      "id": "C",
+      "text": "Dress the wound with a moist, sterile dressing"
+    },
+    {
+      "id": "D",
+      "text": "Gently reposition the organs in the abdominal cavity."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

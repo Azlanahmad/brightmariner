@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q3",
+  "text": "To correctly size an oropharyngeal airway place the flange at the corner of the mouth with the tip reaching:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The angle of the patient's jaw"
+    },
+    {
+      "id": "B",
+      "text": "The top of the patient's ear"
+    },
+    {
+      "id": "C",
+      "text": "The patient's earlobe"
+    },
+    {
+      "id": "D",
+      "text": "Two fingerswidth from the flange."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q17",
+  "text": "Which one of the following is considered a breach of duty:",
+  "options": [
+    {
+      "id": "A",
+      "text": "failure to obtain consent."
+    },
+    {
+      "id": "B",
+      "text": "failure to wear your name tag."
+    },
+    {
+      "id": "C",
+      "text": "inappropriate use of lights and siren."
+    },
+    {
+      "id": "D",
+      "text": "insubordination."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

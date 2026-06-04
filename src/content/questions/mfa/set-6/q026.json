@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q26",
+  "text": "In cases of near drowning:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The lungs are often filled with water and require deep suctioning."
+    },
+    {
+      "id": "B",
+      "text": "Laryngospasm prevents water from entering the lungs."
+    },
+    {
+      "id": "C",
+      "text": "Abdominal thrusts should always be performed before ventilating the patient."
+    },
+    {
+      "id": "D",
+      "text": "Manual suction devices are not powerful enough to remove water and fluids from the airway."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

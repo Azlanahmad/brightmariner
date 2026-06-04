@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s7-q15",
+  "text": "Lividity refers to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stiffening of the joints post mortem."
+    },
+    {
+      "id": "B",
+      "text": "Cooling of the body post mortem."
+    },
+    {
+      "id": "C",
+      "text": "Settling of blood in the body due to gravity."
+    },
+    {
+      "id": "D",
+      "text": "The beginning signs of decomposition."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 7,
+  "explanation": ""
+}

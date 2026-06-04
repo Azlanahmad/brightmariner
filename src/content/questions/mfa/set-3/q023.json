@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q23",
+  "text": "In the hypothermic patient you should limit the number of shocks to a maximum of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "1."
+    },
+    {
+      "id": "B",
+      "text": "2."
+    },
+    {
+      "id": "C",
+      "text": "3."
+    },
+    {
+      "id": "D",
+      "text": "4."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

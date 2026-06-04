@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q28",
+  "text": "When immobilizing a patient on a spine board, which part of the body is the first to be strapped?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chest"
+    },
+    {
+      "id": "B",
+      "text": "Pelvis"
+    },
+    {
+      "id": "C",
+      "text": "Legs"
+    },
+    {
+      "id": "D",
+      "text": "Head"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

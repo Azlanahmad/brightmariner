@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q14",
+  "text": "The white exterior portion of the eye is called the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pupil."
+    },
+    {
+      "id": "B",
+      "text": "Sclera."
+    },
+    {
+      "id": "C",
+      "text": "Cornea."
+    },
+    {
+      "id": "D",
+      "text": "Iris."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

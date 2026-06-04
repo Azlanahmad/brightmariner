@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q6",
+  "text": "When dealing with pelvic injuries you must always consider the possibility of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ruptured bladder."
+    },
+    {
+      "id": "B",
+      "text": "Ruptured spleen."
+    },
+    {
+      "id": "C",
+      "text": "Spinal injuries."
+    },
+    {
+      "id": "D",
+      "text": "Rib fractures."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

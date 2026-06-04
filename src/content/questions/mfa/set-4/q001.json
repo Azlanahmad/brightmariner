@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q1",
+  "text": "An abrasion is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A deep break in the skin involving significant bleeding."
+    },
+    {
+      "id": "B",
+      "text": "Partial or complete loss of a body part."
+    },
+    {
+      "id": "C",
+      "text": "The result of a sharp object driven through soft tissue."
+    },
+    {
+      "id": "D",
+      "text": "A scrape or rubbing away of the epidermis."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

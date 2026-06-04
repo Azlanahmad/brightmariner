@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q29",
+  "text": "Signs that a hernia is serious include:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pain and tenderness at site."
+    },
+    {
+      "id": "B",
+      "text": "Pale, ashen skin colour at site."
+    },
+    {
+      "id": "C",
+      "text": "Hernia can be pushed back into body."
+    },
+    {
+      "id": "D",
+      "text": "Hernia is above the diaphragm."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

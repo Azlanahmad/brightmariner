@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q7",
+  "text": "You suspect a patient's pain is due to a myocardial infarction rather than angina because the pain:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Is under the sternum."
+    },
+    {
+      "id": "B",
+      "text": "Radiates to the neck, jaw and arms."
+    },
+    {
+      "id": "C",
+      "text": "Is not relieved by rest or medication."
+    },
+    {
+      "id": "D",
+      "text": "Lasts for about 3 minutes."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q12",
+  "text": "Body mechanics refers to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Positioning and movement of the body"
+    },
+    {
+      "id": "B",
+      "text": "Number of rescuers needed to move a patient"
+    },
+    {
+      "id": "C",
+      "text": "A type of rescue carry"
+    },
+    {
+      "id": "D",
+      "text": "A special device to lift heavy loads"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

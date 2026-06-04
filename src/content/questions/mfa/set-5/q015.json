@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q15",
+  "text": "A skeletal injury to the lower back could result from direct trauma to the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cervical vertebrae."
+    },
+    {
+      "id": "B",
+      "text": "Thoracic vertebrae."
+    },
+    {
+      "id": "C",
+      "text": "Lumbar vertebrae."
+    },
+    {
+      "id": "D",
+      "text": "Coccygeal vertebrae."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

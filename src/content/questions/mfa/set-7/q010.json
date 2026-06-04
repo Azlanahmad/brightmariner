@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s7-q10",
+  "text": "Sublingual medication is given:",
+  "options": [
+    {
+      "id": "A",
+      "text": "By injection using an auto-injector."
+    },
+    {
+      "id": "B",
+      "text": "Under the patient’s tongue."
+    },
+    {
+      "id": "C",
+      "text": "By inhalation using a metered dose inhaler."
+    },
+    {
+      "id": "D",
+      "text": "As a tablet to be swallowed."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 7,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q18",
+  "text": "Immediately before a seizure, the patient experiences an unpleasant odour. This phase is referred to as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Clonic."
+    },
+    {
+      "id": "B",
+      "text": "Aura."
+    },
+    {
+      "id": "C",
+      "text": "Tonic."
+    },
+    {
+      "id": "D",
+      "text": "Postical."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

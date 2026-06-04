@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q6",
+  "text": "Typically in a triage system:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Those whose survival requires immediate care are classified level 3."
+    },
+    {
+      "id": "B",
+      "text": "Those with minor injuries but suffering extreme pain are classified level 1."
+    },
+    {
+      "id": "C",
+      "text": "Those in cardiac arrest or not breathing are classified level 2."
+    },
+    {
+      "id": "D",
+      "text": "Those who will survive if care is somewhat delayed are classified level 2."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

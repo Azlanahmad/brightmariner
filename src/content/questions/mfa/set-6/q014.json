@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q14",
+  "text": "An eighty-five year old lady has fallen down a flight of stairs. You suspect spinal injury and decide to put the patient on a spineboard. You should be aware that:",
+  "options": [
+    {
+      "id": "A",
+      "text": "It may be difficult to fit a cervical collar."
+    },
+    {
+      "id": "B",
+      "text": "Spinal curvature may make it difficult and uncomfortable to put the patient on the board."
+    },
+    {
+      "id": "C",
+      "text": "A K.E.D. is better for this patient."
+    },
+    {
+      "id": "D",
+      "text": "Because of her age, she may be more prone to vomitting."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

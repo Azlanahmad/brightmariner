@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s7-q13",
+  "text": "To manage severe toothaches, responders should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Advise the patient to chew on the other side of the mouth."
+    },
+    {
+      "id": "B",
+      "text": "Advise the patient to drink hot liquids to sooth discomfort."
+    },
+    {
+      "id": "C",
+      "text": "Advise the patient to suck on ice cubes to dull the pain."
+    },
+    {
+      "id": "D",
+      "text": "Extract the tooth with the assistance of a second responder."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 7,
+  "explanation": ""
+}

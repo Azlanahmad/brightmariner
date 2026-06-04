@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q22",
+  "text": "The AED will shock a patient:",
+  "options": [
+    {
+      "id": "A",
+      "text": "With a sinus rhythm."
+    },
+    {
+      "id": "B",
+      "text": "In asystole."
+    },
+    {
+      "id": "C",
+      "text": "In ventricular fibrillation."
+    },
+    {
+      "id": "D",
+      "text": "With pulseless electrical activity (PEA)."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

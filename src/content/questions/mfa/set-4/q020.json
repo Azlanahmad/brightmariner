@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q20",
+  "text": "After an extremity fracture has been immobilized, the responder should check for circulation:",
+  "options": [
+    {
+      "id": "A",
+      "text": "In the injured limb only."
+    },
+    {
+      "id": "B",
+      "text": "Distal to the injury."
+    },
+    {
+      "id": "C",
+      "text": "Proximal to the injury."
+    },
+    {
+      "id": "D",
+      "text": "At the site of the fracture. 20 Musculoskeletal - Lower Limbs"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

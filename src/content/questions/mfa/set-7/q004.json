@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s7-q4",
+  "text": "Provincial first aid legislation prescribes the contents of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "First aid boxes, first aid rooms and first aid manuals."
+    },
+    {
+      "id": "B",
+      "text": "First aid stations, training programs and equipment manufacturers."
+    },
+    {
+      "id": "C",
+      "text": "First aid boxes, first aid reports and record keeping."
+    },
+    {
+      "id": "D",
+      "text": "First aid boxes, first aid rooms and training."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 7,
+  "explanation": ""
+}

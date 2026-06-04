@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q2",
+  "text": "A rapid body survey should take no longer than:",
+  "options": [
+    {
+      "id": "A",
+      "text": "30 seconds"
+    },
+    {
+      "id": "B",
+      "text": "45 seconds"
+    },
+    {
+      "id": "C",
+      "text": "60 seconds"
+    },
+    {
+      "id": "D",
+      "text": "90 seconds"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

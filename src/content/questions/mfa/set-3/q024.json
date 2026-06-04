@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q24",
+  "text": "When transporting a patient, a shock should be administered:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Only in a vehicle that is properly grounded."
+    },
+    {
+      "id": "B",
+      "text": "Whenever the machine indicates shock necessary."
+    },
+    {
+      "id": "C",
+      "text": "When the vehicle is stopped."
+    },
+    {
+      "id": "D",
+      "text": "When the vehicle is travelling at less than 20 km per hour."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

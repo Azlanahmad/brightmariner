@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q13",
+  "text": "In a hazmat situation airway management and immobilzation are carried out in the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "hot zone"
+    },
+    {
+      "id": "B",
+      "text": "warm zone"
+    },
+    {
+      "id": "C",
+      "text": "cold zone"
+    },
+    {
+      "id": "D",
+      "text": "neutral zone"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q1",
+  "text": "Which one of the following changes in vital signs is characteristic of brain injury:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increase in pulse rate."
+    },
+    {
+      "id": "B",
+      "text": "Constant respiratory rate."
+    },
+    {
+      "id": "C",
+      "text": "increase in blood pressure."
+    },
+    {
+      "id": "D",
+      "text": "Decrease in blood pressure."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

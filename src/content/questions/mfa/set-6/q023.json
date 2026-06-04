@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q23",
+  "text": "A child with history of a sore throat, fever and painful swallowing, has breathing difficulties. You should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Arrange for immediate transport to a medical facility."
+    },
+    {
+      "id": "B",
+      "text": "Start mouth-to-mouth artificial respiration."
+    },
+    {
+      "id": "C",
+      "text": "Stand by and encourage coughing."
+    },
+    {
+      "id": "D",
+      "text": "Begin abdominal thrusts."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

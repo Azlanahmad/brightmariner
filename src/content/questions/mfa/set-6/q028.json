@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q28",
+  "text": "To reduce the risk of respiratory infection and pneumonia where medical care is delayed, responders should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Have the patient breathe deeply and cough."
+    },
+    {
+      "id": "B",
+      "text": "Provide the patient with adequate hydration."
+    },
+    {
+      "id": "C",
+      "text": "Position the patient in the position of comfort."
+    },
+    {
+      "id": "D",
+      "text": "Ensure the patient is kept warm and at rest."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

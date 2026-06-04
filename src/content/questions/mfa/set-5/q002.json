@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q2",
+  "text": "“Raccoon eyes” indicates:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Possible eye injury"
+    },
+    {
+      "id": "B",
+      "text": "Possible fracture of the jaw"
+    },
+    {
+      "id": "C",
+      "text": "Possible scalp laceration"
+    },
+    {
+      "id": "D",
+      "text": "Possible head injury"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

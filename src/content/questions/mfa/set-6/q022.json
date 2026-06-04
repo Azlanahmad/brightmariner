@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q22",
+  "text": "The responder who suspects a child to be the victim of abuse should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Question parents immediately."
+    },
+    {
+      "id": "B",
+      "text": "Focus on management of injuries to the child."
+    },
+    {
+      "id": "C",
+      "text": "Gather evidence and question bystanders."
+    },
+    {
+      "id": "D",
+      "text": "Immediately remove the child from parents or caregivers."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

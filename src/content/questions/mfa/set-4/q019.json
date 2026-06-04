@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q19",
+  "text": "Force on a joint may cause bone ends to come out of their proper position. This type of injury is called a:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sprain"
+    },
+    {
+      "id": "B",
+      "text": "Fracture"
+    },
+    {
+      "id": "C",
+      "text": "Dislocation"
+    },
+    {
+      "id": "D",
+      "text": "Strain"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

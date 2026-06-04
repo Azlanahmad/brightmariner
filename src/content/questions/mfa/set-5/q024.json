@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q24",
+  "text": "You discover a particle embedded in the casualty’s cornea. You should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Remove the particle with a moist corner of a facial tissue or clean cloth."
+    },
+    {
+      "id": "B",
+      "text": "Flush the eye with water for 10 minutes."
+    },
+    {
+      "id": "C",
+      "text": "Use a splinter forcep to remove the particle."
+    },
+    {
+      "id": "D",
+      "text": "Cover the eye and transport the casualty to medical help."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

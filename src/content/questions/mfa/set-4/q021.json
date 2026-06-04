@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q21",
+  "text": "The longest, strongest bone in the body is the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Humerus."
+    },
+    {
+      "id": "B",
+      "text": "Fibula."
+    },
+    {
+      "id": "C",
+      "text": "Tibia."
+    },
+    {
+      "id": "D",
+      "text": "Femur."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

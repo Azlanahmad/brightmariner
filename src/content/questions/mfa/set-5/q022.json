@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q22",
+  "text": "The best way to prevent a Critical Incident Stress situation from becoming worse is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ignore it."
+    },
+    {
+      "id": "B",
+      "text": "Be familiar with the signs and symptoms."
+    },
+    {
+      "id": "C",
+      "text": "Ensure early use of proper medication."
+    },
+    {
+      "id": "D",
+      "text": "Force the responder to talk about the situation."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q29",
+  "text": "When you are giving mouth-to-nose AR, you should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hold the casualty's mouth closed."
+    },
+    {
+      "id": "B",
+      "text": "Pinch the nostrils closed before blowing air into the casualty."
+    },
+    {
+      "id": "C",
+      "text": "Tilt the head back less than for the mouth-to-mouth method of AR."
+    },
+    {
+      "id": "D",
+      "text": "Keep the mouth and nose closed betweenbreaths."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

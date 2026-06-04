@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s7-q11",
+  "text": "Contraindications of a medication tell responders:",
+  "options": [
+    {
+      "id": "A",
+      "text": "When a medication should not be given to the patient."
+    },
+    {
+      "id": "B",
+      "text": "When the medication is commonly used for patients."
+    },
+    {
+      "id": "C",
+      "text": "The expected results of the medication."
+    },
+    {
+      "id": "D",
+      "text": "Actions that might not be desirable yet occur along with desired effects."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 7,
+  "explanation": ""
+}

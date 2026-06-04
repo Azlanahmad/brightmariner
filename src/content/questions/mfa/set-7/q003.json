@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s7-q3",
+  "text": "To give ear drops to an adult, the ear should be pulled:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Downward and backward."
+    },
+    {
+      "id": "B",
+      "text": "Downward and forward."
+    },
+    {
+      "id": "C",
+      "text": "Upward and backward."
+    },
+    {
+      "id": "D",
+      "text": "Upward and forward."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 7,
+  "explanation": ""
+}

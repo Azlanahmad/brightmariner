@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q10",
+  "text": "Your primary survey of a casualty involved in a serious car collision shows only that he is confused. Later you find his pulse rate at 140 and weak, his skin cold and clammy and his breathing irregular and gasping. These signs, along with the mechanism of injury, indicate:",
+  "options": [
+    {
+      "id": "A",
+      "text": "An oncoming faint."
+    },
+    {
+      "id": "B",
+      "text": "Emotional stress."
+    },
+    {
+      "id": "C",
+      "text": "Internal bleeding."
+    },
+    {
+      "id": "D",
+      "text": "Onset of diabetic coma."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

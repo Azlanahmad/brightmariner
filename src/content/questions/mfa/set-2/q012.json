@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q12",
+  "text": "Based on current research, which of the following statements about the AIDS virus is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It can be found in blood and semen."
+    },
+    {
+      "id": "B",
+      "text": "It can be transmitted by sharing eating utensils."
+    },
+    {
+      "id": "C",
+      "text": "It can be transmitted by shaking hands."
+    },
+    {
+      "id": "D",
+      "text": "It can be found in perspiration."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

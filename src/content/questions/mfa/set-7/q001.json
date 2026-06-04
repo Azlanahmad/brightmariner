@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s7-q1",
+  "text": "The maintenance of fluids and nutrition is key to extended patient care and can be provided by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Giving fluids and food to all patients regardless of MOI."
+    },
+    {
+      "id": "B",
+      "text": "Use small amounts of liquids and foods to determine whether the patient can tolerate the intake."
+    },
+    {
+      "id": "C",
+      "text": "Allow the patient to consume any foods they would like to make them feel more comfortable."
+    },
+    {
+      "id": "D",
+      "text": "Even if the patient is not thirsty or hungry the responder must insist on intake."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 7,
+  "explanation": ""
+}

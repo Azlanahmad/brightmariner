@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q27",
+  "text": "Irrigate eyes with:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Diluted vinegar."
+    },
+    {
+      "id": "B",
+      "text": "Saline solution."
+    },
+    {
+      "id": "C",
+      "text": "An appropriate chemical antidote."
+    },
+    {
+      "id": "D",
+      "text": "Sodium bicarbonate."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

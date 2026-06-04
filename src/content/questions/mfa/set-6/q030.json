@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q30",
+  "text": "When caring for wounds over extended periods, always:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Remove dressings and bandages regularly to check the wound."
+    },
+    {
+      "id": "B",
+      "text": "Clean wounds with antiseptic before applying dressings."
+    },
+    {
+      "id": "C",
+      "text": "Apply a tourniquet to prevent excessive bleeding."
+    },
+    {
+      "id": "D",
+      "text": "Check regularly for signs of infection or reduced circulation."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

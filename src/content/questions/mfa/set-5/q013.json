@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q13",
+  "text": "The appendix is located in which quadrant of the abdomen:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lower right."
+    },
+    {
+      "id": "B",
+      "text": "Upper right."
+    },
+    {
+      "id": "C",
+      "text": "Upper left."
+    },
+    {
+      "id": "D",
+      "text": "Lower left."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

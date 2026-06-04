@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q15",
+  "text": "Hypovolemic shock results from:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The body's reaction to a foreign protein."
+    },
+    {
+      "id": "B",
+      "text": "An overdose of insulin."
+    },
+    {
+      "id": "C",
+      "text": "Toxins produced by a severe infection."
+    },
+    {
+      "id": "D",
+      "text": "Decreased volume of the blood."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

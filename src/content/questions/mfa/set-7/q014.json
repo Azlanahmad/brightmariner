@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s7-q14",
+  "text": "When handling a knocked-out tooth you should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Place the tooth back in the patient's mouth."
+    },
+    {
+      "id": "B",
+      "text": "Place the tooth in a cup of milk."
+    },
+    {
+      "id": "C",
+      "text": "Wrap the tooth in dry gauze."
+    },
+    {
+      "id": "D",
+      "text": "Place the tooth in a mild acidic solution using vinegar."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 7,
+  "explanation": ""
+}

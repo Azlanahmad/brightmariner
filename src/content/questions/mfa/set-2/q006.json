@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q6",
+  "text": "The emergency responder is one link in the chain of services known as the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Emergency Patient Care (EPC) system."
+    },
+    {
+      "id": "B",
+      "text": "Emergency Medical Services (EMS) system."
+    },
+    {
+      "id": "C",
+      "text": "Professional Emergency Care (PEC) system."
+    },
+    {
+      "id": "D",
+      "text": "Community Medical Care (CMC) system."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

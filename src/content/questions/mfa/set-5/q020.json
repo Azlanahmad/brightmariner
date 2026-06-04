@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q20",
+  "text": "When communicating with patients:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stay at eye level & maintain eye contact."
+    },
+    {
+      "id": "B",
+      "text": "Stay as close to the patient as possible."
+    },
+    {
+      "id": "C",
+      "text": "Use medical terminology to enhance credibility."
+    },
+    {
+      "id": "D",
+      "text": "Hide facts if the situation is serious."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

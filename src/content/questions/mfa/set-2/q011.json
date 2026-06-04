@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q11",
+  "text": "For which one of the following infectious diseases is a vaccine presently available:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Herpes."
+    },
+    {
+      "id": "B",
+      "text": "AIDS."
+    },
+    {
+      "id": "C",
+      "text": "Mononucleosis."
+    },
+    {
+      "id": "D",
+      "text": "Hepatitis B."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

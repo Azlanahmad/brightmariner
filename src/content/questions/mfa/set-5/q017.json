@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q17",
+  "text": "Which one of the following is a function of the skin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Regulation of oxygen levels."
+    },
+    {
+      "id": "B",
+      "text": "Production of proteins."
+    },
+    {
+      "id": "C",
+      "text": "Regulation of body temperature."
+    },
+    {
+      "id": "D",
+      "text": "Removal of carbon dioxide."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

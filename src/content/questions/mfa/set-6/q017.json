@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q17",
+  "text": "When suctioning a newborn you should use:",
+  "options": [
+    {
+      "id": "A",
+      "text": "a bulb syringe."
+    },
+    {
+      "id": "B",
+      "text": "A V-Vac suction device."
+    },
+    {
+      "id": "C",
+      "text": "A straw."
+    },
+    {
+      "id": "D",
+      "text": "A battery powererd suction device."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

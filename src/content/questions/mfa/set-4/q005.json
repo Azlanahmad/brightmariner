@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q5",
+  "text": "Tetanus is a condition:",
+  "options": [
+    {
+      "id": "A",
+      "text": "That involves specific infection in the lower jaw."
+    },
+    {
+      "id": "B",
+      "text": "That only occurs in the third world."
+    },
+    {
+      "id": "C",
+      "text": "That is caused by a virus"
+    },
+    {
+      "id": "D",
+      "text": "That can be prevented by immunization."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

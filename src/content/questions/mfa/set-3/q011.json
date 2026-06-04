@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q11",
+  "text": "The recommended oxygen flow rate for nasal cannulae (nasal prongs) is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "1-6 litres/min."
+    },
+    {
+      "id": "B",
+      "text": "6-8 litres/min."
+    },
+    {
+      "id": "C",
+      "text": "8-12 litres/min."
+    },
+    {
+      "id": "D",
+      "text": "10-15 litres/min."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

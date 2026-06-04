@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s7-q16",
+  "text": "Later signs of death include:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Staining, milky corneas and flushed skin."
+    },
+    {
+      "id": "B",
+      "text": "Staining, lividity and decomposition."
+    },
+    {
+      "id": "C",
+      "text": "Rigor mortis, lividity and milky corneas."
+    },
+    {
+      "id": "D",
+      "text": "Rigor mortis, flushed skin and decomposition."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 7,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q7",
+  "text": "The acronym used to assist the emergency responder assessing the patient's level of responsiveness is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "SAMPLE."
+    },
+    {
+      "id": "B",
+      "text": "EMCA."
+    },
+    {
+      "id": "C",
+      "text": "OPQRST."
+    },
+    {
+      "id": "D",
+      "text": "AVPU."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

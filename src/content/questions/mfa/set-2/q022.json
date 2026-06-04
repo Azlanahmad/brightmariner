@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q22",
+  "text": "You are called for an asthma attack, treatments may include all except:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Metered dose inhaler"
+    },
+    {
+      "id": "B",
+      "text": "Bronchodilators"
+    },
+    {
+      "id": "C",
+      "text": "Nitroglycerin"
+    },
+    {
+      "id": "D",
+      "text": "Inhaled steroids"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

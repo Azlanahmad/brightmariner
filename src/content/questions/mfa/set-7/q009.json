@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s7-q9",
+  "text": "A patient refuses your care. You should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fill out and personally sign a \"Refusal of Care\" form."
+    },
+    {
+      "id": "B",
+      "text": "Proceed with patient assessment and management and ignore the refusal."
+    },
+    {
+      "id": "C",
+      "text": "Find a relative or family member to give you consent."
+    },
+    {
+      "id": "D",
+      "text": "Have the patient and a witness sign the \"Refusal of Care\" form."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 7,
+  "explanation": ""
+}

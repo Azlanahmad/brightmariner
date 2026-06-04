@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q12",
+  "text": "When aligning the head in the eyes-front neutral position, watch for:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pulse, movement, sensation."
+    },
+    {
+      "id": "B",
+      "text": "Crepitus, pain, resistance."
+    },
+    {
+      "id": "C",
+      "text": "Pain, circulation, retention."
+    },
+    {
+      "id": "D",
+      "text": "Tingling, numbness, paralysis."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q26",
+  "text": "Eye injuries that include lacerations:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Should be covered with clean, moist dressings."
+    },
+    {
+      "id": "B",
+      "text": "Iindicate possible skull fracture."
+    },
+    {
+      "id": "C",
+      "text": "Usually involve a great deal of bleeding."
+    },
+    {
+      "id": "D",
+      "text": "Require moderate pressure on the eye to control bleeding."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

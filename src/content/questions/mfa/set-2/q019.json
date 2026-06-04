@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q19",
+  "text": "The emergency responder should assume a head/spinal injury in any unwitnessed situation where the patient is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alert."
+    },
+    {
+      "id": "B",
+      "text": "Responsive to pain."
+    },
+    {
+      "id": "C",
+      "text": "Not breathing."
+    },
+    {
+      "id": "D",
+      "text": "Unresponsive."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q24",
+  "text": "Which one of the following conditions may mimic the signs of acute alcohol intoxication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypoglycemia"
+    },
+    {
+      "id": "B",
+      "text": "Congestive heart failure."
+    },
+    {
+      "id": "C",
+      "text": "Absence seizures."
+    },
+    {
+      "id": "D",
+      "text": "Anaphylactic shock."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

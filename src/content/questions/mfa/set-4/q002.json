@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q2",
+  "text": "A soft tissue injury resulting from the impact of a blunt object is called:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A laceration."
+    },
+    {
+      "id": "B",
+      "text": "An avulsion."
+    },
+    {
+      "id": "C",
+      "text": "A contusion."
+    },
+    {
+      "id": "D",
+      "text": "A concussion."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

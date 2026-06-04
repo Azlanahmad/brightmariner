@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q26",
+  "text": "A concussion is best described as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bruising or swelling of the spinal cord."
+    },
+    {
+      "id": "B",
+      "text": "Tearing of brain tissue."
+    },
+    {
+      "id": "C",
+      "text": "Pooling of blood in the brain."
+    },
+    {
+      "id": "D",
+      "text": "Temporary loss of brain function"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

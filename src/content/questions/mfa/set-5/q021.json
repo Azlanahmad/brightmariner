@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q21",
+  "text": "In cases of behavioural disorders, the responder should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Always use restraints."
+    },
+    {
+      "id": "B",
+      "text": "Give the patient a choice in the treatment"
+    },
+    {
+      "id": "C",
+      "text": "Play along with auditory or visual hallucinations."
+    },
+    {
+      "id": "D",
+      "text": "Force the patient to make decisions."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

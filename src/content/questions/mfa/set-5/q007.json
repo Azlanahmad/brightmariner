@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q7",
+  "text": "To properly measure a cervical collar, you:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Measure the distance from the ear lobe to the shoulder."
+    },
+    {
+      "id": "B",
+      "text": "Measure the distance from the corner of the mouth to the ear lobe."
+    },
+    {
+      "id": "C",
+      "text": "Measure the distance from the cheekbone to the shoulder blade."
+    },
+    {
+      "id": "D",
+      "text": "Measure the distance from the trapezius muscle to the angle of the jaw 22 Poisons, Bites and Stings"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

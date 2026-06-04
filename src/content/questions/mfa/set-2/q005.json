@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q5",
+  "text": "A small percentage of casualties with chronic obstructive pulmonary disease have hypoxic drive. These patients breathe because of a:",
+  "options": [
+    {
+      "id": "A",
+      "text": "High oxygen level."
+    },
+    {
+      "id": "B",
+      "text": "Low oxygen level."
+    },
+    {
+      "id": "C",
+      "text": "High carbon dioxide level."
+    },
+    {
+      "id": "D",
+      "text": "Low carbon dioxide level."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

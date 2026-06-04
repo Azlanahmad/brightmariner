@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q3",
+  "text": "Trauma to male and female genitalia:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Often involves significant bleeding."
+    },
+    {
+      "id": "B",
+      "text": "Is not usually painful because of protected nerve endings."
+    },
+    {
+      "id": "C",
+      "text": "Usually results in sterility."
+    },
+    {
+      "id": "D",
+      "text": "Often results in post-traumatic infection."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

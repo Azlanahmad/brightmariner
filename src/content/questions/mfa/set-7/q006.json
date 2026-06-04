@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s7-q6",
+  "text": "Footprints can best be described as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The area of contact between the road surface and the tires."
+    },
+    {
+      "id": "B",
+      "text": "The type of tread on the tire."
+    },
+    {
+      "id": "C",
+      "text": "Footsteps used to get into the back of the ambulance."
+    },
+    {
+      "id": "D",
+      "text": "Skid patterns on dry pavement."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 7,
+  "explanation": ""
+}

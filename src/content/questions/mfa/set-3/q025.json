@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q25",
+  "text": "When using an AED on a patient who is wearing a pacemaker, place the electrode pads:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Directly on pacemaker."
+    },
+    {
+      "id": "B",
+      "text": "Two inches away from pacemaker."
+    },
+    {
+      "id": "C",
+      "text": "Within one inch of the pacemaker."
+    },
+    {
+      "id": "D",
+      "text": "At least one inch away from pacemaker."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

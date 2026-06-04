@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q16",
+  "text": "The pulse point located in the upper portion of the thigh is called the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Popliteal."
+    },
+    {
+      "id": "B",
+      "text": "Femoral."
+    },
+    {
+      "id": "C",
+      "text": "Brachial."
+    },
+    {
+      "id": "D",
+      "text": "Temporal."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

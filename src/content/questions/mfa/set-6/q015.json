@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q15",
+  "text": "Which of the following is NOT a special consideration when assessing elderly patients:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Geriatric patients often have a reduced gag reflex."
+    },
+    {
+      "id": "B",
+      "text": "Radial pulses may be weakened by peripheral vascular disease."
+    },
+    {
+      "id": "C",
+      "text": "Patients may not show signs of fever even in cases of serious infection."
+    },
+    {
+      "id": "D",
+      "text": "Mental status often reflects a fear of emergency responders. 31 Emergency Childbirth"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

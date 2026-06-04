@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q26",
+  "text": "A condition where air builds up in the pleural space, collapses the lung and puts pressure on the heart is called:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Closed pneumothorax"
+    },
+    {
+      "id": "B",
+      "text": "Tension pneumothorax"
+    },
+    {
+      "id": "C",
+      "text": "Hemothorax"
+    },
+    {
+      "id": "D",
+      "text": "Open pneumothorax"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

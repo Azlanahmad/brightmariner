@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q25",
+  "text": "A traction splint could be used for which of the following injuries:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A fractured pelvis."
+    },
+    {
+      "id": "B",
+      "text": "An injured knee joint."
+    },
+    {
+      "id": "C",
+      "text": "A dislocated hip."
+    },
+    {
+      "id": "D",
+      "text": "A mid-shaft femur fracture."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q1",
+  "text": "The acronym SAMPLE stand for signs and symptoms, allergies, medications, past history, ________ and events.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Location of pain."
+    },
+    {
+      "id": "B",
+      "text": "Last bowel movement."
+    },
+    {
+      "id": "C",
+      "text": "Last meal."
+    },
+    {
+      "id": "D",
+      "text": "Latest related injury."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q26",
+  "text": "You have shocked a casualty and there are signs of circulation. You should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Remove the AED from the scene."
+    },
+    {
+      "id": "B",
+      "text": "Leave the AED attached to the casualty."
+    },
+    {
+      "id": "C",
+      "text": "Disconnect the cables from the AED."
+    },
+    {
+      "id": "D",
+      "text": "Remove the pads from the chest. 15 Burns"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

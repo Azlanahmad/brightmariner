@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q5",
+  "text": "At the scene of a MCI:",
+  "options": [
+    {
+      "id": "A",
+      "text": "All patients are assessed quickly and triaged."
+    },
+    {
+      "id": "B",
+      "text": "Only conscious patients are assessed."
+    },
+    {
+      "id": "C",
+      "text": "Patients without a detectable pulse are given the highest priority."
+    },
+    {
+      "id": "D",
+      "text": "All patients are transported immediately."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

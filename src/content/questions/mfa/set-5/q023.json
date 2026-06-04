@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q23",
+  "text": "Remove a contact lense only if:",
+  "options": [
+    {
+      "id": "A",
+      "text": "There is a chemical burn to the eye."
+    },
+    {
+      "id": "B",
+      "text": "The eyeball is injured."
+    },
+    {
+      "id": "C",
+      "text": "Transport time is short."
+    },
+    {
+      "id": "D",
+      "text": "The casualty is wearing hard lenses."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

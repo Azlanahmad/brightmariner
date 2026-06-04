@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q11",
+  "text": "The external layer of the skin is called::",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cutaneous tissue."
+    },
+    {
+      "id": "B",
+      "text": "Dermis."
+    },
+    {
+      "id": "C",
+      "text": "Adipose tissue."
+    },
+    {
+      "id": "D",
+      "text": "Epidermis."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

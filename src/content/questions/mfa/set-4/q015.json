@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q15",
+  "text": "Crepitus is:",
+  "options": [
+    {
+      "id": "A",
+      "text": ". Poor distal circulation"
+    },
+    {
+      "id": "B",
+      "text": "A grating sound caused by bone ends rubbing together"
+    },
+    {
+      "id": "C",
+      "text": "A type of splint"
+    },
+    {
+      "id": "D",
+      "text": "A type of fracture"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

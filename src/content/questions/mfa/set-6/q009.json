@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q9",
+  "text": "The factor which indicates a drug related emergency is life-threatening is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Altered mental status."
+    },
+    {
+      "id": "B",
+      "text": "Dilated pupils slow to respond to light."
+    },
+    {
+      "id": "C",
+      "text": "Lack of coordination and slurred speech."
+    },
+    {
+      "id": "D",
+      "text": "High, low or irregular pulse."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q16",
+  "text": "A conscious casualty who has suffered a stroke becomes unconscious. To keep his airway open and help him breathe, you should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Turn him into the recovery position with his unaffected side down."
+    },
+    {
+      "id": "B",
+      "text": "Place him in a semisitting position."
+    },
+    {
+      "id": "C",
+      "text": "Turn him into the recovery position with his unaffected side up."
+    },
+    {
+      "id": "D",
+      "text": "Place him on his back."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

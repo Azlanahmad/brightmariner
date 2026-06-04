@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q2",
+  "text": "\"Referred pain\":",
+  "options": [
+    {
+      "id": "A",
+      "text": "Occurs when the sensation of pain is delayed."
+    },
+    {
+      "id": "B",
+      "text": "Results when the two nervous systems come into contact."
+    },
+    {
+      "id": "C",
+      "text": "Is the symptomatic description of pain by the patient."
+    },
+    {
+      "id": "D",
+      "text": "Is the description of pain as recorded on the patient care report."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q19",
+  "text": "One of the most difficult things to assess in infants and young children is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Blood pressure."
+    },
+    {
+      "id": "B",
+      "text": "Pain."
+    },
+    {
+      "id": "C",
+      "text": "Adequate perfusion."
+    },
+    {
+      "id": "D",
+      "text": "Level of consciousness."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

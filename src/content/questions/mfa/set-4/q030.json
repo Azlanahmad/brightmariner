@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q30",
+  "text": "The Glasgow Coma Scale measures three basic functions. They are:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Eye, verbal and motor responses."
+    },
+    {
+      "id": "B",
+      "text": "Pulse rate, speech, involuntary movement."
+    },
+    {
+      "id": "C",
+      "text": "Pulse rate, respiration rate, eye response."
+    },
+    {
+      "id": "D",
+      "text": "Respiration rate, eye response, voluntary movement."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

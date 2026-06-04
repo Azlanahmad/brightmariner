@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q27",
+  "text": "You have been helping at a water rescue when one of the divers begins to have problems. You suspect air embolism. This patient should receive:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oxygen at 15 lpm."
+    },
+    {
+      "id": "B",
+      "text": "Oxygen at 6 lpm."
+    },
+    {
+      "id": "C",
+      "text": "Epinepherine."
+    },
+    {
+      "id": "D",
+      "text": "Inhaled steroids."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

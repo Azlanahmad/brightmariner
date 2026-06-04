@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q16",
+  "text": "Crowning occurs:",
+  "options": [
+    {
+      "id": "A",
+      "text": "In the first stage of labour."
+    },
+    {
+      "id": "B",
+      "text": "In the second stage of labour."
+    },
+    {
+      "id": "C",
+      "text": "In the third stage of labour."
+    },
+    {
+      "id": "D",
+      "text": "In the fourth stage of pregnancy."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

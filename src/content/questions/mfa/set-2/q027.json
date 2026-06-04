@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q27",
+  "text": "Oxygen humidification is recommended if you are administering oxygen for longer than:",
+  "options": [
+    {
+      "id": "A",
+      "text": "15 minutes."
+    },
+    {
+      "id": "B",
+      "text": "30 minutes."
+    },
+    {
+      "id": "C",
+      "text": "60 minutes."
+    },
+    {
+      "id": "D",
+      "text": "90 minutes."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

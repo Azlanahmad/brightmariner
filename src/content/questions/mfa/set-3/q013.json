@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q13",
+  "text": "Manual support of the head and neck of the patient with suspected spinal injury can be released:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Once the breathing has been checked."
+    },
+    {
+      "id": "B",
+      "text": "When a hard collar has been applied."
+    },
+    {
+      "id": "C",
+      "text": "If the patient is unconscious."
+    },
+    {
+      "id": "D",
+      "text": "When the patient is fully immobilized to a backboard."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

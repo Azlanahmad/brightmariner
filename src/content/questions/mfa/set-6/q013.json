@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q13",
+  "text": "Which one of the following is the best way to assess dehydration in the elderly:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Check the mucous membranes in the eyes and mouth."
+    },
+    {
+      "id": "B",
+      "text": "Check skin condition."
+    },
+    {
+      "id": "C",
+      "text": "Take an oral temperature."
+    },
+    {
+      "id": "D",
+      "text": "Assess the pulse rate."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

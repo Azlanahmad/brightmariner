@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q27",
+  "text": "You are examining the head of an infant who has been involved in a car crash. You need to be aware of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Soft spots in the infant’s skull."
+    },
+    {
+      "id": "B",
+      "text": "Infant’s pupils react differently than adults."
+    },
+    {
+      "id": "C",
+      "text": "Whether or not the infant can cry forcefully."
+    },
+    {
+      "id": "D",
+      "text": "The startle reflex."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

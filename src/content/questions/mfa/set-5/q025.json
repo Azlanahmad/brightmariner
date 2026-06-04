@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q25",
+  "text": "Signs and symptoms of intense light burns to the eyes include:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bleeding from the conjunctiva."
+    },
+    {
+      "id": "B",
+      "text": "Gritty feeling in the eyes."
+    },
+    {
+      "id": "C",
+      "text": "Lacerations to the globe."
+    },
+    {
+      "id": "D",
+      "text": "Discolouration of the orbits."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

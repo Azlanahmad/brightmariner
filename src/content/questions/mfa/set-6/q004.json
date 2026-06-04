@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q4",
+  "text": "The priorities of MCIs include all but one of the following.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Overestimating the resources that may be required."
+    },
+    {
+      "id": "B",
+      "text": "Comprehensive care of all patients."
+    },
+    {
+      "id": "C",
+      "text": "Planning for the positioning of all vehicles."
+    },
+    {
+      "id": "D",
+      "text": "Arranging for advanced level care providers at the scene."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

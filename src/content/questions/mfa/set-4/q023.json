@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q23",
+  "text": "You can best control the swelling and pain of an ankle sprain by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tight bandages and a heating pad."
+    },
+    {
+      "id": "B",
+      "text": "Rest, immbolization, application of cold, and elevation."
+    },
+    {
+      "id": "C",
+      "text": "Rigid splints and bandages"
+    },
+    {
+      "id": "D",
+      "text": "Compression, elevation and application of heat."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

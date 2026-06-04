@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q14",
+  "text": "To prepare a completely amputated part of the body for transportation to hospital with the casualty, you should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Place it in a clean plastic bag filled with cold water."
+    },
+    {
+      "id": "B",
+      "text": "Wrap it in clean, moist dressings and keep it cool."
+    },
+    {
+      "id": "C",
+      "text": "Wash it off and place it into a bag of crushed ice."
+    },
+    {
+      "id": "D",
+      "text": "Wrap it in clean, moist dressings and keep it at body temperature."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

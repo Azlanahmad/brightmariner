@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q12",
+  "text": "An essential element of a responder’s verbal report includes:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The name of the patient."
+    },
+    {
+      "id": "B",
+      "text": "The patient’s telephone number."
+    },
+    {
+      "id": "C",
+      "text": "The time of the incident."
+    },
+    {
+      "id": "D",
+      "text": "The patient’s response to the care given"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

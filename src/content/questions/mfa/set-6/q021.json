@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q21",
+  "text": "Assessments of children should take into consideration:",
+  "options": [
+    {
+      "id": "A",
+      "text": "No splints should be used since all are designed for adult patients."
+    },
+    {
+      "id": "B",
+      "text": "Abdominal injuries are less serious since muscles are less developed."
+    },
+    {
+      "id": "C",
+      "text": "The skull has not completely fused, so head injuries are uncommon."
+    },
+    {
+      "id": "D",
+      "text": "Chest injury is likely to involve organs without damage to ribs."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

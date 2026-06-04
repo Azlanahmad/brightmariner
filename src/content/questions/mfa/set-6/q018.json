@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q18",
+  "text": "To help control bleeding after the baby is born:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pack the vagina with pads."
+    },
+    {
+      "id": "B",
+      "text": "Massage the mother’s uterus."
+    },
+    {
+      "id": "C",
+      "text": "Elevate the mother’s legs above heart level."
+    },
+    {
+      "id": "D",
+      "text": "Place the mother on her right side. 32 Pediatric Emergencies"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

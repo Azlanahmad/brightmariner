@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q25",
+  "text": "Which one of the following breathing diseases is included in C.O.P.D.:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Croup."
+    },
+    {
+      "id": "B",
+      "text": "Hyperventilation"
+    },
+    {
+      "id": "C",
+      "text": "Emphysema."
+    },
+    {
+      "id": "D",
+      "text": "Dyspnea"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

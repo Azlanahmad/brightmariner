@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q3",
+  "text": "You are called to the scene of a motorcycle crash. The rider is dazed and walking around. You should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Suspect spinal injury and manage accordingly."
+    },
+    {
+      "id": "B",
+      "text": "Not worry about spinal injury because the person is mobile."
+    },
+    {
+      "id": "C",
+      "text": "Advise the person to lie down in case of fainting."
+    },
+    {
+      "id": "D",
+      "text": "Determine the chief complaint and provide first aid for it."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

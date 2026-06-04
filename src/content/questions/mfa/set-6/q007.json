@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q7",
+  "text": "The most knowledgable responder in the first ambulance is generally assigned to role of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Incident manager."
+    },
+    {
+      "id": "B",
+      "text": "Triage officer."
+    },
+    {
+      "id": "C",
+      "text": "Staging officer."
+    },
+    {
+      "id": "D",
+      "text": "Communications officer."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

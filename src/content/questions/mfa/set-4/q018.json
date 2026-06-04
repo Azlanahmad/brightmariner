@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q18",
+  "text": "In the case of suspected fracture of the clavicle, emergency responders should use:",
+  "options": [
+    {
+      "id": "A",
+      "text": "An arm sling supported with broad bandages."
+    },
+    {
+      "id": "B",
+      "text": "A St. John tubular sling tied on the injured side."
+    },
+    {
+      "id": "C",
+      "text": "A St. John tubular sling tied on the uninjured side."
+    },
+    {
+      "id": "D",
+      "text": "Rigid splints to support the arm and support the shoulder."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

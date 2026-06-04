@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q9",
+  "text": "The body loses heat in a variety of ways including:",
+  "options": [
+    {
+      "id": "A",
+      "text": "radiation, conduction, evaporation and respiration."
+    },
+    {
+      "id": "B",
+      "text": "radiation, refrigeration, evaporation and conduction."
+    },
+    {
+      "id": "C",
+      "text": "conduction, convection, evaporation and refrigeration."
+    },
+    {
+      "id": "D",
+      "text": "submersion, convection, radiation and respiration."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

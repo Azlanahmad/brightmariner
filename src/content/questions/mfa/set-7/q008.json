@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s7-q8",
+  "text": "When completing the patient narrative:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Try to establish an accurate diagnosis."
+    },
+    {
+      "id": "B",
+      "text": "Record the signs and symptoms as accurately as possible."
+    },
+    {
+      "id": "C",
+      "text": "Do not include negative data."
+    },
+    {
+      "id": "D",
+      "text": "Always use medical terminology."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 7,
+  "explanation": ""
+}

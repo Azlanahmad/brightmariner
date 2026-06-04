@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q30",
+  "text": "A man is filling a gas tank on a generator when it bursts into flames. The caualty has a hoarse voice, he is blistered around the mouth and nose and both arms are reddened. You should classify this burn as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Critical"
+    },
+    {
+      "id": "B",
+      "text": "Superficial"
+    },
+    {
+      "id": "C",
+      "text": "Moderate"
+    },
+    {
+      "id": "D",
+      "text": "Minor 16 Wound Management"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

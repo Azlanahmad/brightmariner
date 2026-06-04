@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q10",
+  "text": "OPQRST is used to assess:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pain"
+    },
+    {
+      "id": "B",
+      "text": "Level of consciousness"
+    },
+    {
+      "id": "C",
+      "text": "Vision"
+    },
+    {
+      "id": "D",
+      "text": "Hearing"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

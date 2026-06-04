@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q30",
+  "text": "Which one of the following is not crucial in cases of abdominal distress:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Establish the cause of the pain."
+    },
+    {
+      "id": "B",
+      "text": "Give oxygen by non-rebreather mask."
+    },
+    {
+      "id": "C",
+      "text": "Be prepared to deal with vomiting."
+    },
+    {
+      "id": "D",
+      "text": "Monitor the patient for signs of hypovolemic shock."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

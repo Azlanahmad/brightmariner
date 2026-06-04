@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q14",
+  "text": "During the primary assessment of a responsive adult patient, you detect a breathing rate of 28 breaths per minute. You would categorize this as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Above normal."
+    },
+    {
+      "id": "B",
+      "text": "Below normal."
+    },
+    {
+      "id": "C",
+      "text": "Normal."
+    },
+    {
+      "id": "D",
+      "text": "Indeterminate."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q20",
+  "text": "The secondary assessment of the patient consists of a head to toe examination and a check of the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pressure points."
+    },
+    {
+      "id": "B",
+      "text": "Procedures for administering CPR."
+    },
+    {
+      "id": "C",
+      "text": "Manual stabilization of the head."
+    },
+    {
+      "id": "D",
+      "text": "Vital signs."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

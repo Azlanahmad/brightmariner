@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q17",
+  "text": "A worker has had his hand caught in a car door. You suspect several fractured bones in the hand. The hand should be splinted:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flat against the splint."
+    },
+    {
+      "id": "B",
+      "text": "In a tight fist position."
+    },
+    {
+      "id": "C",
+      "text": "With the fingers taped together."
+    },
+    {
+      "id": "D",
+      "text": "In the position of function."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

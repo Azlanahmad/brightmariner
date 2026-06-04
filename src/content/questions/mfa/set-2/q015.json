@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q15",
+  "text": "A blood-soaked dressing on the arm indicates that bleeding has not yet been controlled. You should now:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Remove the dressing and check the wound."
+    },
+    {
+      "id": "B",
+      "text": "Apply pressure to the femoral artery."
+    },
+    {
+      "id": "C",
+      "text": "Place a clean dressing on top and apply more pressure."
+    },
+    {
+      "id": "D",
+      "text": "Apply a tourniquet."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

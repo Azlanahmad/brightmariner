@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s7-q2",
+  "text": "When administering medication, responders should consider that:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Right medication, right amount, right person, right time, right method."
+    },
+    {
+      "id": "B",
+      "text": "Right nutrition, , right method, right time, right person, right amount"
+    },
+    {
+      "id": "C",
+      "text": "Right medication, right action, right person, right time, right responsibility"
+    },
+    {
+      "id": "D",
+      "text": "Right medication, right amount, right person, right responsibility, right action"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 7,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q27",
+  "text": "Burns that involve all layers of the skin are:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Superficial."
+    },
+    {
+      "id": "B",
+      "text": "Partial thickness."
+    },
+    {
+      "id": "C",
+      "text": "Full thickness."
+    },
+    {
+      "id": "D",
+      "text": "First degree."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

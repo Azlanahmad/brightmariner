@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q18",
+  "text": "To determine whether a c-spine injury has occurred, you should think about the Mechanism of Injury. This can best be described as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The force that causes the injury and the way it acts on the body."
+    },
+    {
+      "id": "B",
+      "text": "The circumstances after the injury."
+    },
+    {
+      "id": "C",
+      "text": "The weather conditions at the time of the incident."
+    },
+    {
+      "id": "D",
+      "text": "The area of the body that is injured"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

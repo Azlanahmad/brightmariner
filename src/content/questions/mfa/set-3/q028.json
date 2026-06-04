@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q28",
+  "text": "In determining the amount of body surface burned, the area of the palm of the hand represents ____ % of the body surface.",
+  "options": [
+    {
+      "id": "A",
+      "text": "One"
+    },
+    {
+      "id": "B",
+      "text": "Two"
+    },
+    {
+      "id": "C",
+      "text": "Five"
+    },
+    {
+      "id": "D",
+      "text": "Nine"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

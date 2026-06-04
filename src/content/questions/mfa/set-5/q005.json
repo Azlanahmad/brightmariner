@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q5",
+  "text": "A helmet must be removed from a patient:",
+  "options": [
+    {
+      "id": "A",
+      "text": "If there are no airway or breathing problems."
+    },
+    {
+      "id": "B",
+      "text": "If the patient will be immobilized to a long spinal immobilizaton device."
+    },
+    {
+      "id": "C",
+      "text": "When the helmet has a face mask that interferes with the responder’s ability to assist with ventilations"
+    },
+    {
+      "id": "D",
+      "text": "It is a full- face helmet."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q11",
+  "text": "The most accurate source of time for reporting purposes is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The responder’s watch."
+    },
+    {
+      "id": "B",
+      "text": "The dispatch unit."
+    },
+    {
+      "id": "C",
+      "text": "The local radio station."
+    },
+    {
+      "id": "D",
+      "text": "The patient’s watch."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

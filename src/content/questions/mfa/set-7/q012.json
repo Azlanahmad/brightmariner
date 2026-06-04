@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s7-q12",
+  "text": "The ACTION of the drug refers to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The harmful effects."
+    },
+    {
+      "id": "B",
+      "text": "The side effects."
+    },
+    {
+      "id": "C",
+      "text": "The expected effects."
+    },
+    {
+      "id": "D",
+      "text": "The method of administration."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 7,
+  "explanation": ""
+}

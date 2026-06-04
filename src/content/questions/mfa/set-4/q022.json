@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q22",
+  "text": "Effective immobilization of the tibia includes immobilization of the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Knee, tibia, fibula and ankle."
+    },
+    {
+      "id": "B",
+      "text": "Femur, knee, tibia and ankle."
+    },
+    {
+      "id": "C",
+      "text": "Femur and ankle."
+    },
+    {
+      "id": "D",
+      "text": "Hip, femur, knee, tibia and ankle."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

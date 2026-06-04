@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q25",
+  "text": "Three common scuba related emergencies are:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Air embolism, decompression sickness and mammalian reflex."
+    },
+    {
+      "id": "B",
+      "text": "Air embolism, decompression sickness and barotrauma."
+    },
+    {
+      "id": "C",
+      "text": "Decompression sickness, the bends and barotrauma."
+    },
+    {
+      "id": "D",
+      "text": "Air embolism, barotrauma and the squeeze."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

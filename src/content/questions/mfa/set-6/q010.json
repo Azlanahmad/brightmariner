@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q10",
+  "text": "Constant monitoring of the patient in a drug- related emergency is important because:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The patient will likely try to take more of the drug."
+    },
+    {
+      "id": "B",
+      "text": "These patients are more likely to sue."
+    },
+    {
+      "id": "C",
+      "text": "The patient’s condition may change quickly."
+    },
+    {
+      "id": "D",
+      "text": "The patient is more likely to become violent. 29 Communications"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

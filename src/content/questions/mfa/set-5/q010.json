@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s5-q10",
+  "text": "A child has swallowed an unknown poisonous substance. You should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dilute the poison with several glasses of cool water."
+    },
+    {
+      "id": "B",
+      "text": "Call your local Poison Control Centre and follow directions."
+    },
+    {
+      "id": "C",
+      "text": "Give a solution of mild liquid dish detergent and water."
+    },
+    {
+      "id": "D",
+      "text": "Use activated charcoal. 14 23 Anatomy and Physiology"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 5,
+  "explanation": ""
+}

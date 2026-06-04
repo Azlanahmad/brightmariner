@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q14",
+  "text": "To safely perform a chair carry you need",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 rescuers"
+    },
+    {
+      "id": "B",
+      "text": "3 rescuers"
+    },
+    {
+      "id": "C",
+      "text": "4 rescuers"
+    },
+    {
+      "id": "D",
+      "text": "5 rescuers 19 Musculoskeletal - Upper Limbs"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

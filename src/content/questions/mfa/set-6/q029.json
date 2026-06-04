@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q29",
+  "text": "When positioning a patient, responders should consider that:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Raising arms and legs will produce swelling."
+    },
+    {
+      "id": "B",
+      "text": "Semi-sitting will improve blood flow to the heart."
+    },
+    {
+      "id": "C",
+      "text": "Knees raised will reduce pressure on the abdomen."
+    },
+    {
+      "id": "D",
+      "text": "Recovery position will often improve breathing."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

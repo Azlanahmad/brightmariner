@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s3-q4",
+  "text": "ASA should be offered to the patient with chest pain who is taking nitroglycerin:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Before the first dose of nitro"
+    },
+    {
+      "id": "B",
+      "text": "After the first dose of nitro"
+    },
+    {
+      "id": "C",
+      "text": "After the second dose of nitro"
+    },
+    {
+      "id": "D",
+      "text": "After the third dose of nitro"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 3,
+  "explanation": ""
+}

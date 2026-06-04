@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q9",
+  "text": "Pressing on a fingernail-bed to observe the return of normal colour is done to check for:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Normal blood circulation to that part."
+    },
+    {
+      "id": "B",
+      "text": "The presence of fractured fingers."
+    },
+    {
+      "id": "C",
+      "text": "Pain in the area."
+    },
+    {
+      "id": "D",
+      "text": "A lack of oxygen in the blood."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

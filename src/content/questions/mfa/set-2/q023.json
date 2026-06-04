@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s2-q23",
+  "text": "In topographic anatomy, the term \"lateral\" means:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nearer the midline of the body."
+    },
+    {
+      "id": "B",
+      "text": "Away from the midline of the body."
+    },
+    {
+      "id": "C",
+      "text": "Nearer the head."
+    },
+    {
+      "id": "D",
+      "text": "Away from the head."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 2,
+  "explanation": ""
+}

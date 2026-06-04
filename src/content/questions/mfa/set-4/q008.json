@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q8",
+  "text": "To prevent further contamination and infection of a wound, you should cleanse the surrounding skin by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Swabbing in circular motions around the wound."
+    },
+    {
+      "id": "B",
+      "text": "Wiping lightly over the edges of the wound."
+    },
+    {
+      "id": "C",
+      "text": "Swabbing from one side of the wound to the other."
+    },
+    {
+      "id": "D",
+      "text": "Wiping away from the edges of the wound. 17 Heat and Cold Illness and Injury"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

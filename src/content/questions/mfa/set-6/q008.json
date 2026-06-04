@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s6-q8",
+  "text": "Of the following casualties, which would you care for first? The casualty who is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "In shock without apparent injuries, but conscious."
+    },
+    {
+      "id": "B",
+      "text": "Unconscious and lying on his back."
+    },
+    {
+      "id": "C",
+      "text": "Bleeding from the forehead, but conscious."
+    },
+    {
+      "id": "D",
+      "text": "Unconscious and lying on his stomach."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mfa",
+  "set": 6,
+  "explanation": ""
+}

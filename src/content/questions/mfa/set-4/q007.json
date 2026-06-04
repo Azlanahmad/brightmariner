@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q7",
+  "text": "Which action is part of first aid for a nosebleed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Place an ice-pack on the back of the neck."
+    },
+    {
+      "id": "B",
+      "text": "Plug the nose with gauze."
+    },
+    {
+      "id": "C",
+      "text": "Lean forward and firmly pinch the soft parts of the nose."
+    },
+    {
+      "id": "D",
+      "text": "Lean the casualty backwards in a sitting postion."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

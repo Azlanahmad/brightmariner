@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q13",
+  "text": "You are alone and must remove a casualty with a suspected spinal injury from a very hazardous situation. You should",
+  "options": [
+    {
+      "id": "A",
+      "text": "Grab his wrists and drag him lengthwise."
+    },
+    {
+      "id": "B",
+      "text": "Keep his body rigid, support his head and neck and roll him away from the scene."
+    },
+    {
+      "id": "C",
+      "text": "Tie his legs together and drag him feet first."
+    },
+    {
+      "id": "D",
+      "text": "Grasp his clothing under his shoulders, support his head and neck, and drag him lengthwise."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}

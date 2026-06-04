@@ -1,0 +1,26 @@
+{
+  "id": "mfa-s4-q16",
+  "text": "After discovering a possible fracture you should assess which of the following before and after splinting:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sensation, morbidity, protrusion."
+    },
+    {
+      "id": "B",
+      "text": "Capillary refill, pulse, sensation."
+    },
+    {
+      "id": "C",
+      "text": "Pulse, motor function, sensation."
+    },
+    {
+      "id": "D",
+      "text": "Crepitus, resistance, pain."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mfa",
+  "set": 4,
+  "explanation": ""
+}
