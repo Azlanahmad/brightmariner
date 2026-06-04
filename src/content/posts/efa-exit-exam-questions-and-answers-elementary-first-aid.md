@@ -1,6 +1,6 @@
 ---
 title: "EFA Exit Exam Questions and Answers | Elementary First Aid"
-description: "Read about EFA Exit Exam Questions and Answers | Elementary First Aid on Bright Mariner."
+description: "Master your DG Shipping EFA exit exam with our updated 2026 MCQ set. Comprehensive questions and answers for Elementary First Aid. Clear your exams on the first try!"
 date: 2024-09-12T14:31:01.000Z
 tags: ["efa","EFA Exit Exam","EFA Exit Exam Questions and Answers","efa exit exam questions and answers 2024","efa exit exam questions and answers pdf","efa exit exam questions and answers pdf download","Elementary First Aid"]
 categories: ["EFA"]
@@ -8,113 +8,94 @@ categories: ["EFA"]
 
 <p><strong>SET 1</strong></p>
 
+<style>
+    .question-container {
+        max-width: 600px;
+        margin: auto;
+        background-color: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        display: none;
+    }
 
+    .question-container.active {
+        display: block;
+    }
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Refresher FPFF Exit Exam Questions and Answers (RFPFF) Exit Exam MCQ's</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
-            margin: 0;
-            padding: 20px;
-        }
+    .question-container h2 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
 
-        .question-container {
-            max-width: 600px;
-            margin: auto;
-            background-color: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            display: none;
-        }
+    .answers {
+        list-style: none;
+        padding: 0;
+    }
 
-        .question-container.active {
-            display: block;
-        }
+    .answers li {
+        margin: 10px 0;
+    }
 
-        .question-container h2 {
-            font-size: 18px;
-            margin-bottom: 15px;
-        }
+    .answers li input {
+        display: none;
+    }
 
-        .answers {
-            list-style: none;
-            padding: 0;
-        }
+    .answers li label {
+        display: block;
+        padding: 10px;
+        background-color: #f4f4f4;
+        border-radius: 5px;
+        cursor: pointer;
+        border: 1px solid transparent;
+        transition: background-color 0.3s, border 0.3s;
+    }
 
-        .answers li {
-            margin: 10px 0;
-        }
+    .answers li.correct label {
+        background-color: #d4edda;
+        border-color: #28a745;
+        color: #155724;
+    }
 
-        .answers li input {
-            display: none;
-        }
+    .answers li.incorrect label {
+        background-color: #f8d7da;
+        border-color: #dc3545;
+        color: #721c24;
+    }
 
-        .answers li label {
-            display: block;
-            padding: 10px;
-            background-color: #f4f4f4;
-            border-radius: 5px;
-            cursor: pointer;
-            border: 1px solid transparent;
-            transition: background-color 0.3s, border 0.3s;
-        }
+    .buttons {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
 
-        .answers li.correct label {
-            background-color: #d4edda;
-            border-color: #28a745;
-            color: #155724;
-        }
+    .buttons button {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
 
-        .answers li.incorrect label {
-            background-color: #f8d7da;
-            border-color: #dc3545;
-            color: #721c24;
-        }
+    .buttons button:hover {
+        background-color: #0056b3;
+    }
 
-        .buttons {
-            display: flex;
-            justify-content: space-between;
-            margin-top: 20px;
-        }
-
-        .buttons button {
-            padding: 10px 20px;
-            background-color: #007bff;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-
-        .buttons button:hover {
-            background-color: #0056b3;
-        }
-
-        #completion-message {
-            max-width: 600px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #d4edda;
-            border: 1px solid #c3e6cb;
-            border-radius: 10px;
-            text-align: center;
-            font-size: 18px;
-            color: #155724;
-            display: none;
-        }
-    </style>
-</head>
-<body>
-
-<!-- Question containers (only showing first 3 for brevity) -->
+    #completion-message {
+        max-width: 600px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #d4edda;
+        border: 1px solid #c3e6cb;
+        border-radius: 10px;
+        text-align: center;
+        font-size: 18px;
+        color: #155724;
+        display: none;
+    }
+</style>
 
  <div id="q1" class="question-container">
         <h2>Question 1: What is called the voice box?</h2>
@@ -231,7 +212,7 @@ categories: ["EFA"]
     <div id="q9" class="question-container">
         <h2>Question 9: An unconscious seaman is lying on his back and not breathing. What is the first thing you do?</h2>
         <ul class="answers">
-            <li><input type="radio" id="q9a" name="q9"><label for="q9a">A) Check for a pulse</label></li>
+            <li><input type="radio" id="q9a" name="q9" data-correct="true"><label for="q9a">A) Check for a pulse</label></li>
             <li><input type="radio" id="q9b" name="q9"><label for="q9b">B) Give rescue breaths</label></li>
             <li><input type="radio" id="q9c" name="q9" data-correct="true"><label for="q9c">C) Tilt his head back as far as it will go</label></li>
             <li><input type="radio" id="q9d" name="q9"><label for="q9d">D) Call for help</label></li>
@@ -526,10 +507,6 @@ categories: ["EFA"]
         </div>
     </div>
 
-
-
-<!-- Add the rest of the questions here -->
-
 <!-- Completion message container -->
 <div id="completion-message"></div>
 
@@ -586,729 +563,398 @@ categories: ["EFA"]
     });
 </script>
 
-</body>
-</html>
-
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
 
 <div class="wp-block-jetpack-related-posts">
 <h2 class="wp-block-heading"></h2>
 </div>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
 
 <p><strong>Here are the multiple-choice questions of efa exit exam:</strong></p>
 
-
-
 <p><strong>Question 1:</strong>&nbsp;What is called the voice box?</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Larynx</li>
 
-
-
 <li>B) Trachea</li>
 
-
-
 <li>C) Epiglottis</li>
-
-
 
 <li>D) None of the above&nbsp;<strong>Answer:</strong>&nbsp;A) Larynx</li>
 </ul>
 
-
-
 <p><strong>Question 2:</strong>&nbsp;In topographic anatomy, the term lateral means:</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Towards the midline of the body</li>
 
-
-
 <li>B) Away from the midline of the body</li>
 
-
-
 <li>C) Above the midline of the body</li>
-
-
 
 <li>D) Below the midline of the body&nbsp;<strong>Answer:</strong>&nbsp;B) Away from the midline of the body</li>
 </ul>
 
-
-
 <p><strong>Question 3:</strong>&nbsp;Where does the partly digested food in liquid form go after it leaves the stomach?</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Small intestine</li>
 
-
-
 <li>B) Large intestine</li>
 
-
-
 <li>C) Liver</li>
-
-
 
 <li>D) Pancreas&nbsp;<strong>Answer:</strong>&nbsp;A) Small intestine</li>
 </ul>
 
-
-
 <p><strong>Question 4:</strong>&nbsp;Urine enters the bladder through which structure?</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Urethra</li>
 
-
-
 <li>B) Ureter</li>
 
-
-
 <li>C) Nephron</li>
-
-
 
 <li>D) Bowman's capsule&nbsp;<strong>Answer:</strong>&nbsp;B) Ureter</li>
 </ul>
 
-
-
 <p><strong>Question 5:</strong>&nbsp;Which&nbsp;system is responsible for the fight-or-flight response?</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Sympathetic nervous system</li>
 
-
-
 <li>B) Parasympathetic nervous system</li>
 
-
-
 <li>C) Central nervous system&nbsp;&nbsp;&nbsp;</li>
-
-
 
 <li>D) Endocrine system&nbsp;<strong>Answer:</strong>&nbsp;A) Sympathetic nervous system</li>
 </ul>
 
-
-
 <p><strong>Question 6:</strong>&nbsp;What is the correct sequence for the primary survey?</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) D-R-A-B-C</li>
 
-
-
 <li>B) A-B-C-D-R</li>
 
-
-
 <li>C) R-A-B-C-D</li>
-
-
 
 <li>D) D-A-B-C-R&nbsp;<strong>Answer:</strong>&nbsp;A) D-R-A-B-C</li>
 </ul>
 
-
-
 <p><strong>Question 7:</strong>&nbsp;Which of the following are considered cruel protective equipment?</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Gloves</li>
 
-
-
 <li>B) Mask</li>
 
-
-
 <li>C) Eye shield</li>
-
-
 
 <li>D) All of the above&nbsp;<strong>Answer:</strong>&nbsp;D) All of the above</li>
 </ul>
 
-
-
 <p><strong>Question 8:</strong>&nbsp;You are taking blood pressure by palpation. A radial pulse indicates a blood pressure of at least:</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) 60 mmHg</li>
 
-
-
 <li>B) 70 mmHg</li>
 
-
-
 <li>C) 80 mmHg</li>
-
-
 
 <li>D) 90 mmHg&nbsp;<strong>Answer:</strong>&nbsp;C) 80 mmHg</li>
 </ul>
 
-
-
 <p><strong>Question 9:</strong>&nbsp;An unconscious seaman is lying on his back and not breathing. What is the first thing you do?</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Check for a pulse</li>
 
-
-
 <li>B) Give rescue breaths</li>
 
-
-
 <li>C) Tilt his head back as far as it will go</li>
-
-
 
 <li>D) Call for help&nbsp;<strong>Answer:</strong>&nbsp;C) Tilt his head back as far as it will go</li>
 </ul>
 
-
-
 <p><strong>Question 10:</strong>&nbsp;If you suspect a head or neck injury, you should:</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Move the victim as quickly as possible</li>
 
-
-
 <li>B) Support the head and neck in the position found</li>
 
-
-
 <li>C) Try to straighten the victim's neck</li>
-
-
 
 <li>D) None of the above&nbsp;<strong>Answer:</strong>&nbsp;B) Support the head and neck in the position found</li>
 </ul>
 
-
-
 <p><strong>Question 11:</strong>&nbsp;When a victim is having a neck injury, you should:</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Hold his head still</li>
 
-
-
 <li>B) Move his head gently</li>
 
-
-
 <li>C) Try to align his head and neck</li>
-
-
 
 <li>D) None of the above&nbsp;<strong>Answer:</strong>&nbsp;A) Hold his head still</li>
 </ul>
 
-
-
 <p><strong>Question 12:</strong>&nbsp;You suspect a head and neck injury in a victim who is unresponsive and not breathing. How would you open the airway to give breaths?</p>
-
-
 
 <ul class="wp-block-list">
 <li>A)&nbsp;Tilt the head back and lift the chin&nbsp;&nbsp;&nbsp;</li>
 
-
-
 <li>B) Jaw thrust technique</li>
 
-
-
 <li>C) Use a suction device</li>
-
-
 
 <li>D) None of the above&nbsp;<strong>Answer:</strong>&nbsp;B) Jaw thrust technique</li>
 </ul>
 
-
-
 <p><strong>Question 13:</strong>&nbsp;Check the carotid artery for a pulse on:</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) The side of his neck</li>
 
-
-
 <li>B) The wrist</li>
 
-
-
 <li>C) The groin</li>
-
-
 
 <li>D) The ankle&nbsp;<strong>Answer:</strong>&nbsp;A) The side of his neck</li>
 </ul>
 
-
-
 <p><strong>Question 14:</strong>&nbsp;Fainting happens when:</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) The heart stops beating</li>
 
-
-
 <li>B) The brain does not get enough blood with oxygen</li>
 
-
-
 <li>C) The person is dehydrated</li>
-
-
 
 <li>D) The person is anxious&nbsp;<strong>Answer:</strong>&nbsp;B) The brain does not get enough blood with oxygen</li>
 </ul>
 
-
-
 <p><strong>Question 15:</strong>&nbsp;If there is no response from the crew when you are doing the primary survey, you should:</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Call 108 and return to the crew</li>
 
-
-
 <li>B) Give rescue breaths</li>
 
-
-
 <li>C) Check for a pulse</li>
-
-
 
 <li>D) None of the above&nbsp;<strong>Answer:</strong>&nbsp;A) Call 108 and return to the crew</li>
 </ul>
 
-
-
 <p><strong>Question 16:</strong>&nbsp;Shock is the condition where:</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) The body loses a lot of blood</li>
 
-
-
 <li>B) The person is dehydrated</li>
 
-
-
 <li>C) The cardiovascular system fails to deliver blood to all parts of the body</li>
-
-
 
 <li>D) The person is in pain&nbsp;<strong>Answer:</strong>&nbsp;C) The cardiovascular system fails to deliver blood to all parts of the body</li>
 </ul>
 
-
-
 <p><strong>Question 17:</strong>&nbsp;What is the CPR procedure for a six-year-old boy?</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) 30 compressions, 2 breaths</li>
 
-
-
 <li>B) 15 compressions, 2 breaths</li>
 
-
-
 <li>C) 15 compressions, 4 breaths</li>
-
-
 
 <li>D) 30 compressions, 4 breaths&nbsp;<strong>Answer:</strong>&nbsp;C) 15 compressions, 4 breaths</li>
 </ul>
 
-
-
 <p><strong>Question 18:</strong>&nbsp;What is the proper rate of chest compressions in CPR?</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) 60 per minute</li>
 
-
-
 <li>B) 80 per minute</li>
 
-
-
 <li>C) 100 per minute</li>
-
-
 
 <li>D) 120 per minute&nbsp;<strong>Answer:</strong>&nbsp;C) 100 per minute</li>
 </ul>
 
-
-
 <p><strong>Question 19:</strong>&nbsp;If an AED is available but does not have child pads or child energy setting, what should you do for a six-year-old non-responsive victim?</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Use the AED with adult pads</li>
 
-
-
 <li>B) Do not use the AED</li>
 
-
-
 <li>C) Call for help</li>
-
-
 
 <li>D) None of the above&nbsp;<strong>Answer:</strong>&nbsp;A) Use the AED with adult pads</li>
 </ul>
 
-
-
 <p><strong>Question 20:</strong>&nbsp;When giving care for external bleeding, what should you do first?</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Apply direct pressure</li>
 
-
-
 <li>B) Elevate the limb</li>
 
-
-
 <li>C) Apply a tourniquet</li>
-
-
 
 <li>D) Call for help&nbsp;<strong>Answer:</strong>&nbsp;A) Apply direct pressure</li>
 </ul>
 
-
-
 <p><strong>Question 21:</strong>&nbsp;For heavy bleeding, you need to apply pressure points to reduce bleeding.</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) True</li>
 
-
-
 <li>B) False&nbsp;<strong>Answer:</strong>&nbsp;A) True</li>
 </ul>
 
-
-
 <p><strong>Question 22:</strong>&nbsp;You feel a sudden short&nbsp;pain in the bottom of your left foot. You look at the bottom of your left shoe and see a tack sticking in your shoe. What type of wound do you probably have?&nbsp;&nbsp;&nbsp;</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Abrasion</li>
 
-
-
 <li>B) Laceration</li>
 
-
-
 <li>C) Puncture</li>
-
-
 
 <li>D) Avulsion&nbsp;<strong>Answer:</strong>&nbsp;C) Puncture</li>
 </ul>
 
-
-
 <p><strong>Question 23:</strong>&nbsp;A tourniquet can be used for first resort to stop bleeding.</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) True</li>
 
-
-
 <li>B) False&nbsp;<strong>Answer:</strong>&nbsp;B) False</li>
 </ul>
-
-
 
 <p><strong>Question 24:</strong>&nbsp;A tourniquet can be removed as and when necessary.</p>
 
-
-
 <ul class="wp-block-list">
 <li>A) True</li>
-
-
 
 <li>B) False&nbsp;<strong>Answer:</strong>&nbsp;B) False</li>
 </ul>
 
-
-
 <p><strong>Question 25:</strong>&nbsp;What are splints made of?</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Wood</li>
 
-
-
 <li>B) Cardboard</li>
 
-
-
 <li>C) Clean plastic</li>
-
-
 
 <li>D) All of the above&nbsp;<strong>Answer:</strong>&nbsp;C) Clean plastic</li>
 </ul>
 
-
-
 <p><strong>Question 26:</strong>&nbsp;What should you do if you think a crew has internal bleeding?</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Give them something to drink</li>
 
-
-
 <li>B) Apply pressure to their abdomen</li>
 
-
-
 <li>C) Call for help</li>
-
-
 
 <li>D) None of the above&nbsp;<strong>Answer:</strong>&nbsp;C) Call for help</li>
 </ul>
 
-
-
 <p><strong>Question 27:</strong>&nbsp;Burns that involve all layers of skin are:</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) First-degree burns</li>
 
-
-
 <li>B) Second-degree burns</li>
 
-
-
 <li>C) Third-degree burns</li>
-
-
 
 <li>D) Full-thickness burns&nbsp;<strong>Answer:</strong>&nbsp;D) Full-thickness burns</li>
 </ul>
 
-
-
 <p><strong>Question 28:</strong>&nbsp;For second-degree burns, you can break the blister and serve.</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) True</li>
-
-
 
 <li>B) False&nbsp;<strong>Answer:</strong>&nbsp;B) False</li>
 </ul>
 
-
-
 <p><strong>Question 29:</strong>&nbsp;If 15% of the body is affected by second-degree burns, you should take the victim to the hospital.</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) True</li>
 
-
-
 <li>B) False&nbsp;<strong>Answer:</strong>&nbsp;A) True</li>
 </ul>
 
-
-
 <p><strong>Question 30:</strong>&nbsp;First aid for frostbite is:</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Give some hot coffee</li>
 
-
-
 <li>B) Give some warm water</li>
 
-
-
 <li>C) Rub the affected area</li>
-
-
 
 <li>D) None of the above&nbsp;<strong>Answer:</strong>&nbsp;B) Give some warm water</li>
 </ul>
 
-
-
 <p><strong>Question 31:</strong>&nbsp;Which of the following increases the risk of hypothermia?</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Old age</li>
 
-
-
 <li>B) Very young age</li>
 
-
-
 <li>C) Use of alcohol</li>
-
-
 
 <li>D) All of the above&nbsp;<strong>Answer:</strong>&nbsp;D) All of the above</li>
 </ul>
 
-
-
 <p><strong>Question 32:</strong>&nbsp;Drowning treatment requires:</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) First aid only</li>
 
-
-
 <li>B) Doctor's advice</li>
 
-
-
 <li>C) Both first aid and doctor's advice</li>
-
-
 
 <li>D) None of the above&nbsp;<strong>Answer:</strong>&nbsp;C) Both first aid and doctor's advice</li>
 </ul>
 
-
-
 <p><strong>Question 33:</strong>&nbsp;Irrigate eyes with:</p>
-
-
 
 <ul class="wp-block-list">
 <li>A) Water</li>
 
-
-
 <li>B) Saline solution</li>
 
-
-
 <li>C) Hydrogen peroxide</li>
-
-
 
 <li>D) None of the above&nbsp;<strong>Answer:</strong>&nbsp;B) Saline solution</li>
 </ul>
 
-
-
 <p></p>
 
-
-
 <p></p>
-
-
 
 <p>efa exit exam questions and answers pdf</p>
 
-
-
 <p>efa exit exam questions and answers 2024</p>
-
-
 
 <p>efa exit exam questions and answers pdf download</p>

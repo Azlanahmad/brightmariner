@@ -29,6 +29,8 @@ const {
 		<title>{title}</title>
 		<meta name="title" content={title} />
 		<meta name="description" content={description} />
+		<meta name="author" content="Bright Mariner" />
+		<meta name="robots" content="index, follow" />
 
 		<!-- Canonical URL -->
 		<link rel="canonical" href={canonicalURL} />
@@ -46,6 +48,52 @@ const {
 		<meta property="twitter:title" content={title} />
 		<meta property="twitter:description" content={description} />
 		<meta property="twitter:image" content={new URL(image, Astro.url)} />
+
+		<!-- Structured Data -->
+		<script type="application/ld+json" is:inline>
+			{
+				"@context": "https://schema.org",
+				"@graph": [
+					{
+						"@type": "Organization",
+						"@id": "https://brightmariner.com/#organization",
+						"name": "Bright Mariner",
+						"url": "https://brightmariner.com",
+						"logo": {
+							"@type": "ImageObject",
+							"@id": "https://brightmariner.com/#logo",
+							"url": "https://brightmariner.com/favicon.svg",
+							"contentUrl": "https://brightmariner.com/favicon.svg",
+							"caption": "Bright Mariner"
+						},
+						"image": {
+							"@id": "https://brightmariner.com/#logo"
+						}
+					},
+					{
+						"@type": "WebSite",
+						"@id": "https://brightmariner.com/#website",
+						"url": "https://brightmariner.com",
+						"name": "Bright Mariner",
+						"description": "Maritime Exit Exam Practice Platform",
+						"publisher": {
+							"@id": "https://brightmariner.com/#organization"
+						},
+						"potentialAction": [
+							{
+								"@type": "SearchAction",
+								"target": {
+									"@type": "EntryPoint",
+									"urlTemplate": "https://brightmariner.com/search?q={search_term_string}"
+								},
+								"query-input": "required name=search_term_string"
+							}
+						],
+						"inLanguage": "en-US"
+					}
+				]
+			}
+		</script>
         
         <!-- Theme Initialization -->
         <script is:inline>
