@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q45",
+  "text": "Which of the following is required to be included in the fireman's (emergency) outfit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chemical protection face shield"
+    },
+    {
+      "id": "B",
+      "text": "Approved work vest"
+    },
+    {
+      "id": "C",
+      "text": "Self-contained breathing apparatus"
+    },
+    {
+      "id": "D",
+      "text": "5 cell approved flashlight"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

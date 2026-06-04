@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q18",
+  "text": "The IMDG Code became mandatory on",
+  "options": [
+    {
+      "id": "A",
+      "text": "1st of January 2000"
+    },
+    {
+      "id": "B",
+      "text": "1st of January 2002"
+    },
+    {
+      "id": "C",
+      "text": "1st of January 2004"
+    },
+    {
+      "id": "D",
+      "text": "1st of January 2006"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

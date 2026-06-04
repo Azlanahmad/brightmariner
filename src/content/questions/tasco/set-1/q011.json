@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q11",
+  "text": "What is the meaning of a Category 2 ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oil tanker of 5000 tones deadweight and above"
+    },
+    {
+      "id": "B",
+      "text": "Tanker of 20,000 deadweight and above without SBTs"
+    },
+    {
+      "id": "C",
+      "text": "Tanker of 20,000 deadweight and above with SBTs"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

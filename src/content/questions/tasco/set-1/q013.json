@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q13",
+  "text": "Tankers carry palm oil, molasses and tallow as special liquids cargoes in bulk, which are grouped as",
+  "options": [
+    {
+      "id": "A",
+      "text": "Animal/Vegetable oils"
+    },
+    {
+      "id": "B",
+      "text": "Miscellaneous Liquids"
+    },
+    {
+      "id": "C",
+      "text": "Non-volatile Liquids"
+    },
+    {
+      "id": "D",
+      "text": "Other chemical Liquids"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

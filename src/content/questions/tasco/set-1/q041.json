@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q41",
+  "text": "What is cathodic protection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cathodes placed on the hull of a ship"
+    },
+    {
+      "id": "B",
+      "text": "Anodes placed in the stern of a ship"
+    },
+    {
+      "id": "C",
+      "text": "Protection of the hull of a ship"
+    },
+    {
+      "id": "D",
+      "text": "The prevention of corrosion by electrochemical techniques"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q22",
+  "text": "What type of pollution control is addressed by Annex II of MARPOL?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pollution by oil"
+    },
+    {
+      "id": "B",
+      "text": "Pollution by noxious liquid substances"
+    },
+    {
+      "id": "C",
+      "text": "Pollution by garbage"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q20",
+  "text": "Liquids that have an open-cup flash point at or below 80 Deg F (26.7 Deg C) are classified as",
+  "options": [
+    {
+      "id": "A",
+      "text": "Non-volatile Liquids"
+    },
+    {
+      "id": "B",
+      "text": "Flammable Liquids"
+    },
+    {
+      "id": "C",
+      "text": "Volatile Liquids"
+    },
+    {
+      "id": "D",
+      "text": "Combustible Liquids"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

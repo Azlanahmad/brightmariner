@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q24",
+  "text": "When did Annex VI of Marpol enter into force?",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 July 1992"
+    },
+    {
+      "id": "B",
+      "text": "19 May 2006"
+    },
+    {
+      "id": "C",
+      "text": "31 December 1988"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

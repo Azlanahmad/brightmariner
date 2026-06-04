@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q19",
+  "text": "How should CAS be aligned with other ship's surveys?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alignment with the renewal survey and no inclusion in the drydock survey"
+    },
+    {
+      "id": "B",
+      "text": "Alignment with the intermediate or special survey and no inclusion in the drydock survey"
+    },
+    {
+      "id": "C",
+      "text": "Independent of the intermediate survey and drydock survey"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

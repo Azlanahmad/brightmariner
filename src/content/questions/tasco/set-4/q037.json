@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q37",
+  "text": "Normally what is the discharge capacity of Framo portable pumps?",
+  "options": [
+    {
+      "id": "A",
+      "text": "150 cubic meter per hour"
+    },
+    {
+      "id": "B",
+      "text": "100 cubic meter per hour"
+    },
+    {
+      "id": "C",
+      "text": "70 cubic meter per hour"
+    },
+    {
+      "id": "D",
+      "text": "200 cubic meter per hour **Correct answer : 70 cubic meter per hour**"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

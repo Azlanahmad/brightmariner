@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q9",
+  "text": "What is the Reid vapor pressure of flammable liquids of natural gasoline & Naphtha which has open cup flash point of 80 Deg F (26.7 Deg C)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "More than 8.5 but less than 14 psi"
+    },
+    {
+      "id": "B",
+      "text": "8.5 psi and below"
+    },
+    {
+      "id": "C",
+      "text": "14 psi and above"
+    },
+    {
+      "id": "D",
+      "text": "More than 24.6 psi"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

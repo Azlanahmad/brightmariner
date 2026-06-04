@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q1",
+  "text": "What is the main requirement of the OPA 90?",
+  "options": [
+    {
+      "id": "A",
+      "text": "New tankers and tank barges should have double hulls"
+    },
+    {
+      "id": "B",
+      "text": "New tankers and tank barges should not ply in US waters"
+    },
+    {
+      "id": "C",
+      "text": "New tankers and tank barges with single hulls can ply in us ports"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

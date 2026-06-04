@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q11",
+  "text": "Each ship having an inert gas system must have a portable instrument to measure concentrations of hydrocarbon vapor in inert atmospheres and also to measure",
+  "options": [
+    {
+      "id": "A",
+      "text": "nitrogen"
+    },
+    {
+      "id": "B",
+      "text": "oxygen"
+    },
+    {
+      "id": "C",
+      "text": "carbon dioxide"
+    },
+    {
+      "id": "D",
+      "text": "water vapor **Correct answer : oxygen**"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

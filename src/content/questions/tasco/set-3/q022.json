@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q22",
+  "text": "It is generally NOT allowed to clean up an oil spill by using ___________ .",
+  "options": [
+    {
+      "id": "A",
+      "text": "a boom"
+    },
+    {
+      "id": "B",
+      "text": "suction equipment"
+    },
+    {
+      "id": "C",
+      "text": "chemical agents"
+    },
+    {
+      "id": "D",
+      "text": "skimmers"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

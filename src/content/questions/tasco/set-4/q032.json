@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q32",
+  "text": "Normally how much hydraulic oil is required to run the Framo portable pump?",
+  "options": [
+    {
+      "id": "A",
+      "text": "360 litres per min"
+    },
+    {
+      "id": "B",
+      "text": "250 litres per min"
+    },
+    {
+      "id": "C",
+      "text": "140 litres per min"
+    },
+    {
+      "id": "D",
+      "text": "90 litres per min **Correct answer : 140 litres per min**"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

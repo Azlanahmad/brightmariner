@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q47",
+  "text": "What kind of pumps can move extremely thick fluids like sludge without clogging?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rotary vane pumps"
+    },
+    {
+      "id": "B",
+      "text": "Reciprocating pumps"
+    },
+    {
+      "id": "C",
+      "text": "Deep well pumps"
+    },
+    {
+      "id": "D",
+      "text": "Screw pumps **Correct answer : Screw pumps**"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

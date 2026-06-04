@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q33",
+  "text": "Which of the following current level leads to muscular contraction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.01A"
+    },
+    {
+      "id": "B",
+      "text": "0.015A"
+    },
+    {
+      "id": "C",
+      "text": "0.5A"
+    },
+    {
+      "id": "D",
+      "text": "0.10A"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

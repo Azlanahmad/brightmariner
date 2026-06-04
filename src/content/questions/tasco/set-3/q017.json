@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q17",
+  "text": "Containment and Damage Control: identify which step is of the highest importance for personal protection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Don required PPE as determined from the MSDS."
+    },
+    {
+      "id": "B",
+      "text": "Fight fire (if any), being careful to use firefighting methods compatible with the material involved."
+    },
+    {
+      "id": "C",
+      "text": "Shut off or otherwise stem the spill at the source."
+    },
+    {
+      "id": "D",
+      "text": "Contain liquid material using barriers, such as absorbents, rags or other equipment suitable to dam the flow."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

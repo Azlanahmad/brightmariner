@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q6",
+  "text": "The approval period for a shipboard Oil Pollution Emergency Plan expires after",
+  "options": [
+    {
+      "id": "A",
+      "text": "two years"
+    },
+    {
+      "id": "B",
+      "text": "three years"
+    },
+    {
+      "id": "C",
+      "text": "four years"
+    },
+    {
+      "id": "D",
+      "text": "five years **Correct answer : five years**"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

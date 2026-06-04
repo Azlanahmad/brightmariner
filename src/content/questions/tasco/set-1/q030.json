@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q30",
+  "text": "What is cold work?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carrying out work in a cold atmosphere"
+    },
+    {
+      "id": "B",
+      "text": "Work that cannot create a source of ignition"
+    },
+    {
+      "id": "C",
+      "text": "Carrying out work on reefer containers"
+    },
+    {
+      "id": "D",
+      "text": "Work that can be done only in cold temperatures"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

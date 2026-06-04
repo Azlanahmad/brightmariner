@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q49",
+  "text": "What is purging?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The introduction of inert gas into a tank already in the inert condition to further reduce the existing oxygen content or hydrocarbon gas content to a level below which combustion cannot take place if air is introduced"
+    },
+    {
+      "id": "B",
+      "text": "Introducing of oxygen into a tank to a high level"
+    },
+    {
+      "id": "C",
+      "text": "Using blowers to push oxygen into a tank"
+    },
+    {
+      "id": "D",
+      "text": "Using natural ventilation to gas free a tank"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

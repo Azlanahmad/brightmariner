@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q5",
+  "text": "Part A of the the ISGOTT Ship/Shore Safety Check-List provides operational procedures for:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Transfer of bulk liquids, physical checks"
+    },
+    {
+      "id": "B",
+      "text": "Transfer of bulk liquids - elements to be verified verbally"
+    },
+    {
+      "id": "C",
+      "text": "Additional considerations for Bulk Liquid Chemicals"
+    },
+    {
+      "id": "D",
+      "text": "Additional considerations for Bulk Liquefied Gases **Correct answer : Transfer of bulk liquids, physical checks**"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

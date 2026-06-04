@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q4",
+  "text": "Where can electrical equipment be classified as exit are used?",
+  "options": [
+    {
+      "id": "A",
+      "text": "In Zones 0, 1 and 2"
+    },
+    {
+      "id": "B",
+      "text": "In Zones 1 and 2"
+    },
+    {
+      "id": "C",
+      "text": "In Zones 0 and 2"
+    },
+    {
+      "id": "D",
+      "text": "In Zones 0 and 1"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

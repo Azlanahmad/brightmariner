@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q23",
+  "text": "What is the maximum reliable shelf life of a filter gas mask canister if the seal is unbroken?",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 year from the date of manufacture"
+    },
+    {
+      "id": "B",
+      "text": "3 years from the date of manufacture"
+    },
+    {
+      "id": "C",
+      "text": "5 years from the date of manufacture"
+    },
+    {
+      "id": "D",
+      "text": "7 years from the date of manufacture"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q15",
+  "text": "Key Features and Measurement of an Effective Safety Culture; identify one statement that identifies an effective safety culture",
+  "options": [
+    {
+      "id": "A",
+      "text": "Recognition that all accidents are preventable and only usually occur following unsafe actions or a failure to follow established procedures"
+    },
+    {
+      "id": "B",
+      "text": "Individual seafarers assume responsibility for safety rather than relying on others to provide it"
+    },
+    {
+      "id": "C",
+      "text": "Through mutual respect, increasing confidence in the value of the safety culture results in a more effective Safety Management System"
+    },
+    {
+      "id": "D",
+      "text": "A safety management system that is always setting targets for continuous improvement, with a goal of zero accidents"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

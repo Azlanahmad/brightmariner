@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q28",
+  "text": "How vacuum drain is done in Framo pumps?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pump has a different vacuum line which is connected to the cargo tank well; vacuum pump is used to suck the oil out to make the well dry"
+    },
+    {
+      "id": "B",
+      "text": "Vacuum is created in the stripping line to pump the cargo out to make the well dry"
+    },
+    {
+      "id": "C",
+      "text": "Vacuum drain is used to check leakage in pump's cofferdam"
+    },
+    {
+      "id": "D",
+      "text": "vacuum drain is part of the pump casing **Correct answer : Pump has a different vacuum line which is connected to the cargo tank well; vacuum pump is used to suck the oil out to make the well dry**"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

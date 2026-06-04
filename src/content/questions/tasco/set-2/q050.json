@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q50",
+  "text": "If there has been a fire in a closed unventilated compartment it may be unsafe to enter because of",
+  "options": [
+    {
+      "id": "A",
+      "text": "excess hydrogen"
+    },
+    {
+      "id": "B",
+      "text": "unburned carbon particles"
+    },
+    {
+      "id": "C",
+      "text": "excess nitrogen"
+    },
+    {
+      "id": "D",
+      "text": "a lack of oxygen"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

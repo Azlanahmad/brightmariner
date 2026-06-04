@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q34",
+  "text": "What is the pressure of the hydraulic oil in the return side after running the hydraulic motor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Around 3 Bar"
+    },
+    {
+      "id": "B",
+      "text": "Around 10 bar"
+    },
+    {
+      "id": "C",
+      "text": "Around 15 bar"
+    },
+    {
+      "id": "D",
+      "text": "Above 15 bar **Correct answer : Around 3 Bar**"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

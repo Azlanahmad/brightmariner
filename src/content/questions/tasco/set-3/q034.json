@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q34",
+  "text": "An inert gas generator burns what oil to generate inert gas?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Crude oil"
+    },
+    {
+      "id": "B",
+      "text": "Heavy oil"
+    },
+    {
+      "id": "C",
+      "text": "Diesel oil"
+    },
+    {
+      "id": "D",
+      "text": "Gas oil"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

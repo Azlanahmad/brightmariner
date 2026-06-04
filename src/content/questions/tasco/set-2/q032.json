@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s2-q32",
+  "text": "Safe ship operations include:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Running the ship profitably"
+    },
+    {
+      "id": "B",
+      "text": "Deliver cargo safely"
+    },
+    {
+      "id": "C",
+      "text": "No damage to the environment"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

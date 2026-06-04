@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q5",
+  "text": "What is Time Weighted Average?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Exposure time"
+    },
+    {
+      "id": "B",
+      "text": "Short Term exposure time"
+    },
+    {
+      "id": "C",
+      "text": "Highest exposure time"
+    },
+    {
+      "id": "D",
+      "text": "Averaging all the exposure times for a time period 8 hours"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

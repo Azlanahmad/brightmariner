@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q12",
+  "text": "What type of ships have to carry the SMPEP for NLS manual onboard their ships?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ship of 400 GT or more carrying 15 persons or more"
+    },
+    {
+      "id": "B",
+      "text": "Ships of 150 GT or more carrying oil cargoes"
+    },
+    {
+      "id": "C",
+      "text": "Ships of 150 Gt or more carrying noxious liquid substances"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

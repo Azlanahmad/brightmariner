@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q43",
+  "text": "Bernoulli's principle states that:",
+  "options": [
+    {
+      "id": "A",
+      "text": "pressure (P) x height (H) is a constant"
+    },
+    {
+      "id": "B",
+      "text": "height (H) x velocity (V) is a constant"
+    },
+    {
+      "id": "C",
+      "text": "pressure (P) x velocity (V) is a constant"
+    },
+    {
+      "id": "D",
+      "text": "pressure (P) x density (D) is a constant **Correct answer : pressure (P) x velocity (V) is a constant**"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

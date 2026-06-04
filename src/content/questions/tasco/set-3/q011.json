@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q11",
+  "text": "When did Annex VI take effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "May 19, 2005"
+    },
+    {
+      "id": "B",
+      "text": "October 12, 1991"
+    },
+    {
+      "id": "C",
+      "text": "February 25, 1997"
+    },
+    {
+      "id": "D",
+      "text": "July 3, 2015"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

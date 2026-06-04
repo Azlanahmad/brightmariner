@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q4",
+  "text": "What is Toxicity",
+  "options": [
+    {
+      "id": "A",
+      "text": "Toxicity is the degree to which a substance or mixture of substances can harm humans."
+    },
+    {
+      "id": "B",
+      "text": "Toxicity means poisonous and affects you on oral consumption"
+    },
+    {
+      "id": "C",
+      "text": "Toxicity means Acidic"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

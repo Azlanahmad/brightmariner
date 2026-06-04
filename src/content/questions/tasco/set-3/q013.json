@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q13",
+  "text": "MARPOL applies to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "applies to all ships, oil platforms, barges and private yachts"
+    },
+    {
+      "id": "B",
+      "text": "tankers greater than 150GT and cargo ships greater than 400GT"
+    },
+    {
+      "id": "C",
+      "text": "applies to all ships, oil platforms, barges and private yachts and hydrofoils"
+    },
+    {
+      "id": "D",
+      "text": "applies to all ships, oil platforms, barges and private yachts and hovercrafts"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

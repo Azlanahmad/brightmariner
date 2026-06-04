@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q7",
+  "text": "Heavy fuel oils when spilled are ___________ .",
+  "options": [
+    {
+      "id": "A",
+      "text": "more harmful to sea life than lighter oils"
+    },
+    {
+      "id": "B",
+      "text": "easier to clean up than lighter refined oils"
+    },
+    {
+      "id": "C",
+      "text": "less harmful to sea life than lighter oils"
+    },
+    {
+      "id": "D",
+      "text": "not a real threat to marine life"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

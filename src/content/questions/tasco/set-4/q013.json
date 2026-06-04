@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s4-q13",
+  "text": "Which is the most accurate instrument for measuring the amount of oxygen in the atmosphere of a confined space?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Combustible gas indicator"
+    },
+    {
+      "id": "B",
+      "text": "Oxygen indicator"
+    },
+    {
+      "id": "C",
+      "text": "Flame safety lamp **Correct answer : Oxygen indicator**"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

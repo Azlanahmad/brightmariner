@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q4",
+  "text": "What is the minimum requirement for carrying garbage management plan onboard a ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Any ship above 400 GT or any ship carrying 15 persons or more"
+    },
+    {
+      "id": "B",
+      "text": "Any ship which is 12 metres or more in length"
+    },
+    {
+      "id": "C",
+      "text": "All ship, Irrespective of size and length"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

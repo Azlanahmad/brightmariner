@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q34",
+  "text": "What is a hot work permit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Document used for carrying out repairs under supervision"
+    },
+    {
+      "id": "B",
+      "text": "A document issued by a responsible person permitting specific hot work to be done during a particular time interval in a defined space"
+    },
+    {
+      "id": "C",
+      "text": "Document used for work in a drydock"
+    },
+    {
+      "id": "D",
+      "text": "Document valid for 7 days for carrying out tank cleaning"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

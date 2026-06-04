@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q9",
+  "text": "Which one of the following discharges have the most long-term ecological impact due to pollution?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Water ballast in oil fuel tanks."
+    },
+    {
+      "id": "B",
+      "text": "Ballast added to cargo tanks."
+    },
+    {
+      "id": "C",
+      "text": "Discharges of clean and segregated ballast"
+    },
+    {
+      "id": "D",
+      "text": "Machinery space bilges."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

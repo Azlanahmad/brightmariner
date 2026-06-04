@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q19",
+  "text": "What is used to incinerate solid and liquid wastes arising from the operation of the ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Incinerator"
+    },
+    {
+      "id": "B",
+      "text": "Oily water separation"
+    },
+    {
+      "id": "C",
+      "text": "ISM Screen"
+    },
+    {
+      "id": "D",
+      "text": "Fire Sprinkler Cleaner"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

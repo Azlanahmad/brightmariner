@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s2-q17",
+  "text": "For entering an enclosed space, 21% ___________ is necessary.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oxygen"
+    },
+    {
+      "id": "B",
+      "text": "carbondioxide"
+    },
+    {
+      "id": "C",
+      "text": "Nitrogen"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

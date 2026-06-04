@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q12",
+  "text": "The extent of MARPOL compliance is determined by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vessel type, size and speed"
+    },
+    {
+      "id": "B",
+      "text": "Vessel flag, type and age"
+    },
+    {
+      "id": "C",
+      "text": "Vessel type, size and crew"
+    },
+    {
+      "id": "D",
+      "text": "Vessel type, size and age"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

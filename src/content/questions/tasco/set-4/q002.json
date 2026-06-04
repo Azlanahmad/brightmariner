@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q2",
+  "text": "A self-contained breathing apparatus is used to",
+  "options": [
+    {
+      "id": "A",
+      "text": "make underwater repairs to barges"
+    },
+    {
+      "id": "B",
+      "text": "determine if the air in a tank is safe for men"
+    },
+    {
+      "id": "C",
+      "text": "enter areas that may contain dangerous fumes or lack oxygen"
+    },
+    {
+      "id": "D",
+      "text": "resuscitate an unconscious person **Correct answer : enter areas that may contain dangerous fumes or lack oxygen**"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

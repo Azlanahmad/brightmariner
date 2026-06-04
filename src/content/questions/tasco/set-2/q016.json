@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q16",
+  "text": "What is the maximum interval of time between sampling and analysing for each sampling head location sequentially?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Not exceeding 50 minutes interval"
+    },
+    {
+      "id": "B",
+      "text": "Not exceeding 40 minutes interval"
+    },
+    {
+      "id": "C",
+      "text": "Not exceeding 30 minutes interval"
+    },
+    {
+      "id": "D",
+      "text": "Not exceeding 60 minutes interval"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

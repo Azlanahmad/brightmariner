@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q15",
+  "text": "What is the most important regulatory requirement for the master arriving at the lightering position?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lightering of Oil and Hazardous Material Cargoes Pre-arrival notices."
+    },
+    {
+      "id": "B",
+      "text": "Reporting of incidents."
+    },
+    {
+      "id": "C",
+      "text": "Designation of lightering zones."
+    },
+    {
+      "id": "D",
+      "text": "Factors considered in designating lightering zones."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

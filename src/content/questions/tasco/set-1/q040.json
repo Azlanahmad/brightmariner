@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q40",
+  "text": "What is lower flammable limit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The concentration of a hydrocarbon gas in air below which there is insufficient hydrocarbon to support combustion"
+    },
+    {
+      "id": "B",
+      "text": "The limit where there is insufficient oxygen to support combustion"
+    },
+    {
+      "id": "C",
+      "text": "The limit where there is too much oxygen to support combustion"
+    },
+    {
+      "id": "D",
+      "text": "The limit for man entry of personnel into tanks"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

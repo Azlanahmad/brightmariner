@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q29",
+  "text": "The substance involved in combustion is called",
+  "options": [
+    {
+      "id": "A",
+      "text": "Combustible"
+    },
+    {
+      "id": "B",
+      "text": "Non-combustible"
+    },
+    {
+      "id": "C",
+      "text": "Inflammable substances"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q44",
+  "text": "What is a material safety data sheet (MSDS)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is used for finding out the dangers of contract"
+    },
+    {
+      "id": "B",
+      "text": "It is used for finding out the effects of inhalation"
+    },
+    {
+      "id": "C",
+      "text": "A document identifying a substance and all its constituents"
+    },
+    {
+      "id": "D",
+      "text": "A document giving the chemical name of the product"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

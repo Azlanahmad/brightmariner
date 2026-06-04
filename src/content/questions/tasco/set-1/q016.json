@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q16",
+  "text": "Which part of the oil record book deals with machinery space operations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Part I"
+    },
+    {
+      "id": "B",
+      "text": "Part II"
+    },
+    {
+      "id": "C",
+      "text": "Part III"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

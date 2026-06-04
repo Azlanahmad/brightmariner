@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s2-q41",
+  "text": "Water extinguishes a fire by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heat removal or cooling"
+    },
+    {
+      "id": "B",
+      "text": "Smothering or oxygen exclusion"
+    },
+    {
+      "id": "C",
+      "text": "Flame inhibition"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q42",
+  "text": "Where is smoking permitted on board ship while at a berth?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Designated smoking room"
+    },
+    {
+      "id": "B",
+      "text": "Anywhere on the ship"
+    },
+    {
+      "id": "C",
+      "text": "In the engine room"
+    },
+    {
+      "id": "D",
+      "text": "In the cargo control room"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

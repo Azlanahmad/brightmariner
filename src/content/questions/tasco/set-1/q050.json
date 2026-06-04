@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q50",
+  "text": "What is a Corona?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Corona is a diffuse discharge from a single sharp conductor that slowly releases some of the available energy. Generally, corona on its own is capable of igniting a gas."
+    },
+    {
+      "id": "B",
+      "text": "Corona is a diffuse discharge from a single sharp conductor that slowly releases some of the available energy. Generally, corona on its own is incapable of igniting a gas."
+    },
+    {
+      "id": "C",
+      "text": "Corona is a diffuse discharge from a single sharp conductor that slowly releases some of the available energy. Generally, corona on its own is incapable of igniting a gas if it is a lean mixture"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

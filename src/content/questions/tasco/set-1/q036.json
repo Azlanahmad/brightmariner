@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q36",
+  "text": "How Threshold Limit Values are specified?",
+  "options": [
+    {
+      "id": "A",
+      "text": "PPM (Parts per Million)"
+    },
+    {
+      "id": "B",
+      "text": "Specific Numbers"
+    },
+    {
+      "id": "C",
+      "text": "Volume of Gas in Air"
+    },
+    {
+      "id": "D",
+      "text": "ppm/volume gas in Air"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

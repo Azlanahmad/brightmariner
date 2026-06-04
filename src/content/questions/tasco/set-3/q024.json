@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q24",
+  "text": "A starting interlock in the ODME ensures",
+  "options": [
+    {
+      "id": "A",
+      "text": "the monitoring equipment is fully operational before commencing the discharge of the oil effluent at sea"
+    },
+    {
+      "id": "B",
+      "text": "prevents malfunctioning of the system"
+    },
+    {
+      "id": "C",
+      "text": "that an alarm is given off when the system malfunctions"
+    },
+    {
+      "id": "D",
+      "text": "stops discharge of the oil effluent when the oil content exceeds 5 part per million"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

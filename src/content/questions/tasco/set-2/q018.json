@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s2-q18",
+  "text": "What is the least a person should do before entering machinery spaces?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Wear appropriate personal protective equipment"
+    },
+    {
+      "id": "B",
+      "text": "Inform the bridge"
+    },
+    {
+      "id": "C",
+      "text": "Inform his superiors"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

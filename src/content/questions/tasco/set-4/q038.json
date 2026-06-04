@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q38",
+  "text": "What is the function of the item marked \"II\" in the pump diagram?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Impeller"
+    },
+    {
+      "id": "B",
+      "text": "Hydraulic Motor"
+    },
+    {
+      "id": "C",
+      "text": "Anti-rotation Brake"
+    },
+    {
+      "id": "D",
+      "text": "Suction Well **Correct answer : Anti-rotation Brake**"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

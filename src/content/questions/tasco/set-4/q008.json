@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q8",
+  "text": "With an increase in temperature the volume of flammable and combustible liquids",
+  "options": [
+    {
+      "id": "A",
+      "text": "expands"
+    },
+    {
+      "id": "B",
+      "text": "contracts"
+    },
+    {
+      "id": "C",
+      "text": "remains constant"
+    },
+    {
+      "id": "D",
+      "text": "remains constant if pressure remains constant **Correct answer : expands**"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

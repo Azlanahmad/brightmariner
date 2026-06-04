@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q46",
+  "text": "The ring main pipeline system is extensively used on:",
+  "options": [
+    {
+      "id": "A",
+      "text": "VLCCs"
+    },
+    {
+      "id": "B",
+      "text": "Crude oil tankers"
+    },
+    {
+      "id": "C",
+      "text": "Medium range tankers"
+    },
+    {
+      "id": "D",
+      "text": "Product carriers"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

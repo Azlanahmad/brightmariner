@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q22",
+  "text": "How portable pumps are used?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Potable pumps are used in parallel with the main Framo pump to discharge the tank in a short time"
+    },
+    {
+      "id": "B",
+      "text": "When main pump is not working, portable pumps are used to discharge the liquid cargo to the terminal"
+    },
+    {
+      "id": "C",
+      "text": "Potable pumps are used in series with the main Framo pump to discharge the tank with large pressure."
+    },
+    {
+      "id": "D",
+      "text": "When main pump is not working, the portable pump is used to transfer the cargo from this tank to another empty tank, where the main pump is working **Correct answer : When main pump is not working, the portable pump is used to transfer the cargo from this tank to another empty tank, where the main pump is working**"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

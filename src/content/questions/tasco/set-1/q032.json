@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q32",
+  "text": "Which type of anodes must not be fitted in tanks where flammable gases can be present?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Magnesium anodes"
+    },
+    {
+      "id": "B",
+      "text": "Aluminium anodes"
+    },
+    {
+      "id": "C",
+      "text": "Zinc anodes"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

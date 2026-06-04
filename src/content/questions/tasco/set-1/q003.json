@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q3",
+  "text": "What is the maximum limit of sulphur content in bunker fuel oil?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$4.5\\%m/m$"
+    },
+    {
+      "id": "B",
+      "text": "$1.5\\%m/m$"
+    },
+    {
+      "id": "C",
+      "text": "$3.0\\%m/m$"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

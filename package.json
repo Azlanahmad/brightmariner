@@ -10,6 +10,9 @@
     "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro",
+    "mcq:reorganize": "node scripts/reorganize-questions.js",
+    "mcq:validate": "node scripts/validate-questions.js",
+    "mcq:import": "node scripts/import-mcqs.js",
     "deploy": "git add . && git commit -m \"Deploy: Update site content\" && git push origin main"
   },
   "dependencies": {
@@ -22,6 +25,7 @@
     "@astrojs/react": "^5.0.7",
     "@tailwindcss/vite": "^4.3.0",
     "clsx": "^2.1.1",
+    "csv-parse": "^6.2.1",
     "lucide-react": "^1.17.0",
     "pagefind": "^1.5.2",
     "react": "^19.2.7",

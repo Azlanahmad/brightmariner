@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q50",
+  "text": "Identify the equipment in the IG system correctly:",
+  "options": [
+    {
+      "id": "A",
+      "text": "1-O2 Analyzer; 2-Demister; 3-Air Intake-Gas Freeing; 4- Regulating Valves; 5- Blowers"
+    },
+    {
+      "id": "B",
+      "text": "1- Demister; 2-O2 Analyzer; 3-Air Intake-Gas Freeing; 4- Regulating Valves; 5- Blowers"
+    },
+    {
+      "id": "C",
+      "text": "1- Demister; 2-O2 Analyzer; 3 - Blowers; 4- Regulating Valves; 5- Air Intake-Gas Freeing"
+    },
+    {
+      "id": "D",
+      "text": "1- Demister; 2-O2 Analyzer; 3-Regulating Valves; 4-Air Intake-Gas Freeing; 5- Blowers"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

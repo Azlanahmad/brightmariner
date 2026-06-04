@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q21",
+  "text": "What is the limitation of a combustible gas detector of catalytic combustion type?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It cannot be used for measurement in air"
+    },
+    {
+      "id": "B",
+      "text": "It cannot be used for measurement in nitrogen"
+    },
+    {
+      "id": "C",
+      "text": "It cannot be used for measurement in methane"
+    },
+    {
+      "id": "D",
+      "text": "It cannot be used for measurement in oxygen"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

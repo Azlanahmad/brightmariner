@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q36",
+  "text": "Back flow of inert gas is prevented by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "An isolating valve"
+    },
+    {
+      "id": "B",
+      "text": "The deck water seal"
+    },
+    {
+      "id": "C",
+      "text": "A valve provided in the scrubber"
+    },
+    {
+      "id": "D",
+      "text": "The deck mechanical non-return valve"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

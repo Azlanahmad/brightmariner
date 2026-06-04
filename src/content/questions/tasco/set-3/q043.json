@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q43",
+  "text": "An inert gas system is required to be fitted:",
+  "options": [
+    {
+      "id": "A",
+      "text": "On all tankers of above 20,000 tonnes deadweight"
+    },
+    {
+      "id": "B",
+      "text": "On product tankers of above 20,000 tonnes deadweight"
+    },
+    {
+      "id": "C",
+      "text": "On crude oil tankers of above 20,000 tonnes deadweight"
+    },
+    {
+      "id": "D",
+      "text": "On chemical tankers of above 20,000 tonnes deadweight"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

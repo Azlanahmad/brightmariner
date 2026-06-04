@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q32",
+  "text": "Acidic solutions are formed in cargo tanks of tankers",
+  "options": [
+    {
+      "id": "A",
+      "text": "when sulphur compounds in oil cargoes react with water"
+    },
+    {
+      "id": "B",
+      "text": "when sulphur compounds in oil cargoes react with oxygen"
+    },
+    {
+      "id": "C",
+      "text": "when sulphur compounds in oil cargoes react with hydrocarbon gas"
+    },
+    {
+      "id": "D",
+      "text": "when sulphur compounds in oil cargoes react with chemicals"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

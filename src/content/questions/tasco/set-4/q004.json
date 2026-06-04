@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s4-q4",
+  "text": "A combustible gas indicator will operate correctly ONLY when the",
+  "options": [
+    {
+      "id": "A",
+      "text": "hydrocarbon content of the atmosphere is less than the U.E.L."
+    },
+    {
+      "id": "B",
+      "text": "atmosphere is deficient in oxygen"
+    },
+    {
+      "id": "C",
+      "text": "compartment to be tested is free of CO2 **Correct answer : hydrocarbon content of the atmosphere is less than the U.E.L.**"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

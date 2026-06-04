@@ -1,0 +1,18 @@
+{
+  "id": "tasco-s2-q30",
+  "text": "Areas like cargo residues, cargo and tank coatings must be suspected for oxygen-deficient areas.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q40",
+  "text": "Which of the following is a particular challenge when entering fuel oil tanks?",
+  "options": [
+    {
+      "id": "A",
+      "text": "slippery surface"
+    },
+    {
+      "id": "B",
+      "text": "corrosion"
+    },
+    {
+      "id": "C",
+      "text": "low lighting"
+    },
+    {
+      "id": "D",
+      "text": "sediments"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

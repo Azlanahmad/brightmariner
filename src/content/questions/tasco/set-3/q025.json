@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q25",
+  "text": "A gas venting system on a tanker that has gas lines in each tank connected to a common gas main running the full length of the ship is called:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A gas-main system"
+    },
+    {
+      "id": "B",
+      "text": "A common-main system"
+    },
+    {
+      "id": "C",
+      "text": "A vent-main system"
+    },
+    {
+      "id": "D",
+      "text": "An independent system"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

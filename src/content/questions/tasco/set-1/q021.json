@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q21",
+  "text": "Which Annex deals with the prevention of pollution by sewage from ships?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Annex VI"
+    },
+    {
+      "id": "B",
+      "text": "Annex III"
+    },
+    {
+      "id": "C",
+      "text": "Annex IV"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

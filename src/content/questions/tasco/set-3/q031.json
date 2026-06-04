@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q31",
+  "text": "The total capacity of the slop tank or tanks should be not less than what percentage of the oil-carrying capacity of the vessel?",
+  "options": [
+    {
+      "id": "A",
+      "text": "3%"
+    },
+    {
+      "id": "B",
+      "text": "5%"
+    },
+    {
+      "id": "C",
+      "text": "7%"
+    },
+    {
+      "id": "D",
+      "text": "10%"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

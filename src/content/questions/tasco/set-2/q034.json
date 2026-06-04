@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q34",
+  "text": "Is an enclosed space entry permit required for entering pump room?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The Master will decide based on findings by Chief Officer"
+    },
+    {
+      "id": "B",
+      "text": "The chief officer will assess the situation and decide"
+    },
+    {
+      "id": "C",
+      "text": "Yes, the checklist, permit and other procedures apply for all enclosed spaces"
+    },
+    {
+      "id": "D",
+      "text": "No, the pumproom has a fixed fan for ventilation and frequently visited"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

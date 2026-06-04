@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q2",
+  "text": "Why is the 'maximum surface temperature' identified, for electrical equipment used in hazardous areas onboard LNG carriers?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The limit is on minimum surface temperature on LNG carriers as the cargo is cryogenic"
+    },
+    {
+      "id": "B",
+      "text": "Equipment should operate within these limits to reduce the power and boil-off consumption"
+    },
+    {
+      "id": "C",
+      "text": "Equipment should operate within these limits to prevent the formation of a hot surface"
+    },
+    {
+      "id": "D",
+      "text": "Equipment should operate within these limits to reduce the heat transfer to the cryogenic cargo"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

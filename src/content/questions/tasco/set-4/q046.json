@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q46",
+  "text": "How the speed of the portable pump can be varied?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Portable pump speed cannot be varied"
+    },
+    {
+      "id": "B",
+      "text": "Using the flow control valve of the main cargo pump"
+    },
+    {
+      "id": "C",
+      "text": "By varying the speed of the feed pump"
+    },
+    {
+      "id": "D",
+      "text": "The portable pump is always rigged with its own flow control valve which is used for speed variation **Correct answer : The portable pump is always rigged with its own flow control valve which is used for speed variation**"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

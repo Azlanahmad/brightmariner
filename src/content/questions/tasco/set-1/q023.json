@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q23",
+  "text": "What was the last date by which use of hydrochloroflourocarbons were prohibited?",
+  "options": [
+    {
+      "id": "A",
+      "text": "2015"
+    },
+    {
+      "id": "B",
+      "text": "2010"
+    },
+    {
+      "id": "C",
+      "text": "1 Jan 2020"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

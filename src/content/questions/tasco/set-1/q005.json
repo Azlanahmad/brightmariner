@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q5",
+  "text": "Petroleum liquids that have closed-cup flash points below 140 Deg F (60 Deg C) are considered as",
+  "options": [
+    {
+      "id": "A",
+      "text": "Non-volatile Liquids"
+    },
+    {
+      "id": "B",
+      "text": "Flammable Liquids"
+    },
+    {
+      "id": "C",
+      "text": "Volatile Liquids"
+    },
+    {
+      "id": "D",
+      "text": "Combustible Liquids"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

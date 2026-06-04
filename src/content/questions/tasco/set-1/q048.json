@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q48",
+  "text": "What is non-volatile petroleum?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Petroleum having a flashpoint of 60 Degrees C or above"
+    },
+    {
+      "id": "B",
+      "text": "Petroleum having a flashpoint of 60 Degrees C or below"
+    },
+    {
+      "id": "C",
+      "text": "Petroleum having a flashpoint of 100 Degrees C or above"
+    },
+    {
+      "id": "D",
+      "text": "Petroleum having a flashpoint of 100 Degrees C or below"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

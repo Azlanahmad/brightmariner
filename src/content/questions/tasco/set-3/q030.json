@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s3-q30",
+  "text": "Which statement about a centrifugal cargo pump is TRUE?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is a positive displacement pump."
+    },
+    {
+      "id": "B",
+      "text": "It must have a positive suction."
+    },
+    {
+      "id": "C",
+      "text": "Increasing rotation speed will decrease discharge pressure."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

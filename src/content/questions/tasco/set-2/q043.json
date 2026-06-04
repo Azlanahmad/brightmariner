@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q43",
+  "text": "To detect the presence of explosive gases in any space, tank, or compartment, you should use a",
+  "options": [
+    {
+      "id": "A",
+      "text": "flame scanner"
+    },
+    {
+      "id": "B",
+      "text": "halide torch"
+    },
+    {
+      "id": "C",
+      "text": "combustible gas indicator"
+    },
+    {
+      "id": "D",
+      "text": "detector filament"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

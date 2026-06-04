@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q7",
+  "text": "What are the three broad classification of cargoes transported on tankers?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Liquefied Natural gas, Liquefied Petroleum gas, Liquefied Nitrogen"
+    },
+    {
+      "id": "B",
+      "text": "Container, Dry Bulk and Refrigerated cargo"
+    },
+    {
+      "id": "C",
+      "text": "Petroleum liquids, chemical liquids, and special liquids"
+    },
+    {
+      "id": "D",
+      "text": "General cargo, Dry Break Bulk and Frozen cargo"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

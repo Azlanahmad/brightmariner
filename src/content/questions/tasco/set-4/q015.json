@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q15",
+  "text": "The maneuvering vessel normally berths on which side during STS operations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Any side to"
+    },
+    {
+      "id": "B",
+      "text": "Port side to"
+    },
+    {
+      "id": "C",
+      "text": "Starboard side to"
+    },
+    {
+      "id": "D",
+      "text": "As instructed by the mother vessel **Correct answer : Starboard side to**"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

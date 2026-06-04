@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q29",
+  "text": "Advantages of using inert gas, pick one that is the main reason for its application,",
+  "options": [
+    {
+      "id": "A",
+      "text": "No explosive mixtures can form in the tank."
+    },
+    {
+      "id": "B",
+      "text": "Reduces corrosion."
+    },
+    {
+      "id": "C",
+      "text": "Voyage cleaning of tanks is unnecessary."
+    },
+    {
+      "id": "D",
+      "text": "Reduces pumping time because of positive pressure in the tanks."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q38",
+  "text": "Which of the following conditions represents a particular advantage of using a positive pressure type self-contained breathing apparatus in an atmosphere that is immediately dangerous to life or health?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The equipment is compact and the wearer can work in confined spaces without difficulty."
+    },
+    {
+      "id": "B",
+      "text": "The equipment used is lightweight and easy to wear by reducing physical strain on the wearer."
+    },
+    {
+      "id": "C",
+      "text": "The average operating time for most air cylinders is over an hour."
+    },
+    {
+      "id": "D",
+      "text": "The positive pressure in the face piece prevents contaminated air from entering the face piece."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

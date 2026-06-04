@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q41",
+  "text": "What does \"VIII\" indicate in the centrifugal pump diagram?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Impeller"
+    },
+    {
+      "id": "B",
+      "text": "Discharge Nozzle"
+    },
+    {
+      "id": "C",
+      "text": "Eye of Impeller"
+    },
+    {
+      "id": "D",
+      "text": "None of the above **Correct answer : Eye of Impeller**"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

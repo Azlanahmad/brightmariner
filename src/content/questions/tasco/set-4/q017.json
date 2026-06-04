@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q17",
+  "text": "What does \"I\" stand for in the centrifugal pump diagram?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Eye (Suction)"
+    },
+    {
+      "id": "B",
+      "text": "Shaft"
+    },
+    {
+      "id": "C",
+      "text": "Impeller"
+    },
+    {
+      "id": "D",
+      "text": "Diffuser **Correct answer : Shaft**"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

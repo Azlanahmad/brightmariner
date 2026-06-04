@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q39",
+  "text": "Tank coating requirements developed by IMO are applicable to",
+  "options": [
+    {
+      "id": "A",
+      "text": "new crude oil tankers of 5000 GRT and above"
+    },
+    {
+      "id": "B",
+      "text": "new crude oil tankers of 5000 DWT and above"
+    },
+    {
+      "id": "C",
+      "text": "new crude oil tankers of 500 GRT and above"
+    },
+    {
+      "id": "D",
+      "text": "new crude oil tankers of 500 DWT and above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

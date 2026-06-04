@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q6",
+  "text": "Which is a non-accumulator of charges?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Toluene is a Non-accumulator of charges"
+    },
+    {
+      "id": "B",
+      "text": "Cyclohexane is a Non-accumulator of charges"
+    },
+    {
+      "id": "C",
+      "text": "Alcohols is an Accumulator of charges"
+    },
+    {
+      "id": "D",
+      "text": "Kotones is a Non-accumulator of charges"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

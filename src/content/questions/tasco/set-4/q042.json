@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s4-q42",
+  "text": "How purging and seal monitoring is done?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Air or inert gas pipe connected to the line, the two way valve which remains closed is moved to hydraulic oil side and air or inert gas is opened and if there is any leak, it is purged out and the quantity is measured."
+    },
+    {
+      "id": "B",
+      "text": "Air or inert gas pipe connected to the line, the two way valve is moved to hydraulic oil side and air or inert gas is opened and if there is any leak, it is purged out and the quantity is measured, then the two way valve is moved to the cargo oil side and the air or inert gas is opened and if there is any leak, it is purged out and the quantity is measured"
+    },
+    {
+      "id": "C",
+      "text": "Air or inert gas pipe connected to the line, the two way valve is moved to cargo oil side and air or inert gas is opened and if there is any leak, it is purged out and the quantity is measured. **Correct answer : Air or inert gas pipe connected to the line, the two way valve is moved to hydraulic oil side and air or inert gas is opened and if there is any leak, it is purged out and the quantity is measured, then the two way valve is moved to the cargo oil side and the air or inert gas is opened and if there is any leak, it is purged out and the quantity is measured**"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

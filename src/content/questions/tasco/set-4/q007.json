@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q7",
+  "text": "Which of the listed functions is the purpose of a gas scrubber in an inert gas generation system?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cools the inert gas."
+    },
+    {
+      "id": "B",
+      "text": "Maintains the oxygen content at 5% by volume."
+    },
+    {
+      "id": "C",
+      "text": "Bleeds off static electricity in the inert gas."
+    },
+    {
+      "id": "D",
+      "text": "Maintains flow to the water seal on the gas main. **Correct answer : Cools the inert gas.**"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

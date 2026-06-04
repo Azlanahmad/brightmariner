@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q8",
+  "text": "For a vessel approaching a port of reception, what the vessel must check before the transfer of residues from the ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ports and terminals must provide reception facilities"
+    },
+    {
+      "id": "B",
+      "text": "Ports and terminals must have Certificates of Adequacy"
+    },
+    {
+      "id": "C",
+      "text": "Ports must Apply for a Certificate of Adequacy."
+    },
+    {
+      "id": "D",
+      "text": "Port Reception facility operations procedures"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

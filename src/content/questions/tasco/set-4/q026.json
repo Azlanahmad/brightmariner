@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s4-q26",
+  "text": "Why a two way valve is provided in the air or inert gas line provided to check the leakage of oil in the cofferdam?",
+  "options": [
+    {
+      "id": "A",
+      "text": "One is for the normally closed position and the other is for checking the leakage of hydraulic oil in the motor side"
+    },
+    {
+      "id": "B",
+      "text": "One is for the normally closed position and the other is for checking the leakage of cargo oil in the pump side"
+    },
+    {
+      "id": "C",
+      "text": "One is for the normally closed position, the other is for checking the leakage of cargo oil in the pump side and the third one is for checking the leakage of hydraulic oil in the motor side **Correct answer : One is for the normally closed position, the other is for checking the leakage of cargo oil in the pump side and the third one is for checking the leakage of hydraulic oil in the motor side**"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

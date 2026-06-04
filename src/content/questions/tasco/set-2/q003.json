@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q3",
+  "text": "What is Nitrogen Asphxiation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is unconsciousness caused by Nitrogen can lead to death"
+    },
+    {
+      "id": "B",
+      "text": "It is unconsciousness caused by Inert gas can lead to death"
+    },
+    {
+      "id": "C",
+      "text": "Nitrogen, which is non-flammable, non-toxic and colourless"
+    },
+    {
+      "id": "D",
+      "text": "Nitrogen which is undetectable to the human senses"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

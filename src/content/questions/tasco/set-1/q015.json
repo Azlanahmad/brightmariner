@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q15",
+  "text": "Animal/Vegetable Oils carried in tankers and classified as",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chemical Liquid"
+    },
+    {
+      "id": "B",
+      "text": "Special Liquids"
+    },
+    {
+      "id": "C",
+      "text": "Non-volatile Liquids"
+    },
+    {
+      "id": "D",
+      "text": "Non-flammable Liquids"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

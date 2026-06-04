@@ -1,0 +1,18 @@
+{
+  "id": "tasco-s4-q20",
+  "text": "State if the following is True or False? After fixing the snap on hydraulic couplings of portable Framo, secure it with locking ring—only then the arrangement is safe.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False **Correct answer : True**"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

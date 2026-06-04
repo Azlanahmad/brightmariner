@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q1",
+  "text": "Working instructions specifying the manner in which the ship is to be loaded and ballasted to avoid unacceptable stresses in the vessel's structure is required for tankers:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Greater than 50 metres in length"
+    },
+    {
+      "id": "B",
+      "text": "Greater than 75 meters in length"
+    },
+    {
+      "id": "C",
+      "text": "Greater than 100 meters in length"
+    },
+    {
+      "id": "D",
+      "text": "Greater than 150 meters in length **Correct answer : Greater than 150 meters in length**"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

@@ -16,9 +16,18 @@ const allQuestions = await getCollection('questions');
 const courseQuestions = allQuestions
     .filter(q => q.data.courseId === id);
 
+// Determine sets: Use the 'set' field from data if available, otherwise fallback to groups of 30
+const uniqueSetsInData = [...new Set(courseQuestions.map(q => q.data.set).filter(Boolean))];
+
+let sets: number[] = [];
 const setSize = 30;
-const numSets = Math.ceil(courseQuestions.length / setSize);
-const sets = Array.from({ length: numSets }, (_, i) => i + 1);
+
+if (uniqueSetsInData.length > 0) {
+    sets = (uniqueSetsInData as number[]).sort((a, b) => a - b);
+} else {
+    const numSets = Math.ceil(courseQuestions.length / setSize);
+    sets = Array.from({ length: numSets }, (_, i) => i + 1);
+}
 
 // Course ID to Name mapping
 const courseNames: Record<string, string> = {
@@ -30,7 +39,7 @@ const courseNames: Record<string, string> = {
     'aff': 'Advanced Fire Fighting (AFF)',
     'pscrb': 'Proficiency in Survival Craft (PSCRB)',
     'mfa': 'Medical First Aid (MFA)',
-    'tasco': 'Advanced Oil Tanker Operations (TASCO)',
+    'tasco': 'Advanced Training for Oil Tanker Cargo Operations (TASCO)',
     'refresher': 'Refresher Course',
     'rfpff': 'Refresher FPFF'
 };

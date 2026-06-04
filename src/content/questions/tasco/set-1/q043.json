@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q43",
+  "text": "As a requirement of SOLAS, the number of sets of full protective clothing resistant to chemical attack that should be provided in addition to firefighters' outfits, is",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 sets"
+    },
+    {
+      "id": "B",
+      "text": "3 sets"
+    },
+    {
+      "id": "C",
+      "text": "4 sets"
+    },
+    {
+      "id": "D",
+      "text": "5 sets"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

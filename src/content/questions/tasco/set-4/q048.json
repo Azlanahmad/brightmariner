@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q48",
+  "text": "What is the pressure of the hydraulic oil in the inlet side for running the hydraulic motor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Around 50 Bar"
+    },
+    {
+      "id": "B",
+      "text": "Around 170 bar"
+    },
+    {
+      "id": "C",
+      "text": "Around 100 bar"
+    },
+    {
+      "id": "D",
+      "text": "Around 25 bar **Correct answer : Around 170 bar**"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s4-q29",
+  "text": "The number \"10\" in the Tanker cargo pump assembly indicates a __________.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Top Plate"
+    },
+    {
+      "id": "B",
+      "text": "Stripping Valve"
+    },
+    {
+      "id": "C",
+      "text": "Resilient Mounting **Correct answer : Stripping Valve**"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

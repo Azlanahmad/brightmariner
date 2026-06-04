@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q14",
+  "text": "Under which Annex is the Garbage record book required?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Annex II"
+    },
+    {
+      "id": "B",
+      "text": "Annex V"
+    },
+    {
+      "id": "C",
+      "text": "Annex VI"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

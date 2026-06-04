@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q46",
+  "text": "What is volatile petroleum?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Petroleum having a flashpoint above 60 Degrees C"
+    },
+    {
+      "id": "B",
+      "text": "Petroleum having a flashpoint above 100 Degrees C"
+    },
+    {
+      "id": "C",
+      "text": "Petroleum having a flashpoint below 100 Degrees C"
+    },
+    {
+      "id": "D",
+      "text": "Petroleum having a flashpoint below 60 Degrees C"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

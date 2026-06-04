@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q25",
+  "text": "The part \"IX\" in the centrifugal pump diagram indicates",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stuffing Box"
+    },
+    {
+      "id": "B",
+      "text": "Shaft Sleeve"
+    },
+    {
+      "id": "C",
+      "text": "Packing"
+    },
+    {
+      "id": "D",
+      "text": "Casing **Correct answer : Packing**"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

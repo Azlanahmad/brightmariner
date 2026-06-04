@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q45",
+  "text": "What is hot work?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hot work is carried out in high ambient temperatures"
+    },
+    {
+      "id": "B",
+      "text": "Work involving sources of ignition or temperatures sufficiently high to cause the ignition of a flammable gas mixture."
+    },
+    {
+      "id": "C",
+      "text": "The temperature is very high where the work is done"
+    },
+    {
+      "id": "D",
+      "text": "Work carried out using hot material"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

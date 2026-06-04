@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s2-q39",
+  "text": "Which of the following is an entry activity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Permit closed"
+    },
+    {
+      "id": "B",
+      "text": "Confirmation of removal of all equipment"
+    },
+    {
+      "id": "C",
+      "text": "Entry permit issued"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

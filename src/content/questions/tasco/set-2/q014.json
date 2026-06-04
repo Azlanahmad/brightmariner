@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q14",
+  "text": "Oxygen Analyzer: what is your key finding in measuring oxygen level?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Portable oxygen analyzers are normally used to determine whether the atmosphere inside an enclosed space (cargo tank for example) may be considered fully inerted or safe for entry."
+    },
+    {
+      "id": "B",
+      "text": "Fixed oxygen analyzers can be used for monitoring the oxygen content of the boiler uptakes and the inert gas main."
+    },
+    {
+      "id": "C",
+      "text": "The common types of oxygen analyzers in use are, Paramagnetic sensors and Electrochemical sensors."
+    },
+    {
+      "id": "D",
+      "text": "Oxygen is strongly paramagnetic whereas most other common gases are not."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

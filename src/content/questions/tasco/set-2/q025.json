@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q25",
+  "text": "Which step is NOT generally taken when gas-freeing a tank?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Washing the tank interior with sea water"
+    },
+    {
+      "id": "B",
+      "text": "Application of degreasing solvents"
+    },
+    {
+      "id": "C",
+      "text": "Removal of corrosion products and sludge"
+    },
+    {
+      "id": "D",
+      "text": "Fresh air ventilation"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

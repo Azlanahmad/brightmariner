@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q28",
+  "text": "Pneumatically Operating Valve; what is the most critical component for correct valve operation, based on your shipboard experience of running such a system?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Valve orifice"
+    },
+    {
+      "id": "B",
+      "text": "Valve stem"
+    },
+    {
+      "id": "C",
+      "text": "The Diaphragm"
+    },
+    {
+      "id": "D",
+      "text": "The valve springs"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

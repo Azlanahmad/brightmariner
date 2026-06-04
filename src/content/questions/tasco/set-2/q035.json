@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q35",
+  "text": "What should you do when the alarm bell on a self-contained breathing apparatus sounds?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Immediately evacuate the contaminated area."
+    },
+    {
+      "id": "B",
+      "text": "Open the bypass valve on the regulator and immediately evacuate the contaminated area."
+    },
+    {
+      "id": "C",
+      "text": "Move the tank selector lever to the full tank position and reset the alarm so you can evacuate the area when it sounds again."
+    },
+    {
+      "id": "D",
+      "text": "Move the reserve lever to the 'reserve' position on the regulator and reset the alarm so you can evacuate the area when it sounds again."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q38",
+  "text": "A liquid is considered to be flammable when the flash point is less than",
+  "options": [
+    {
+      "id": "A",
+      "text": "$50^{\\circ}$ F"
+    },
+    {
+      "id": "B",
+      "text": "$60^{\\circ}$ F"
+    },
+    {
+      "id": "C",
+      "text": "$70^{\\circ}$ F"
+    },
+    {
+      "id": "D",
+      "text": "$80^{\\circ}$ F"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

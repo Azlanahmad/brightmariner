@@ -1,0 +1,18 @@
+{
+  "id": "tasco-s2-q8",
+  "text": "Rapid combustion takes place in coal mines.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

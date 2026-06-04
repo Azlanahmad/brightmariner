@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q45",
+  "text": "From the below illustration, identify the name of the marking \"V\".",
+  "options": [
+    {
+      "id": "A",
+      "text": "Diffuser"
+    },
+    {
+      "id": "B",
+      "text": "Shaft"
+    },
+    {
+      "id": "C",
+      "text": "Eye (Suction)"
+    },
+    {
+      "id": "D",
+      "text": "Impeller **Correct answer : Diffuser**"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q10",
+  "text": "What assigns for each new ship a calculable figure that will denote its total emissions of CO2 from combustion of fuel?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Energy Efficiency Design Index"
+    },
+    {
+      "id": "B",
+      "text": "Energy Inefficiency Design Index"
+    },
+    {
+      "id": "C",
+      "text": "SOX Design Index"
+    },
+    {
+      "id": "D",
+      "text": "VOX Design Index"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

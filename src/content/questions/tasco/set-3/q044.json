@@ -1,0 +1,18 @@
+{
+  "id": "tasco-s3-q44",
+  "text": "Radar gauge is a type of tank gauging equipment.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

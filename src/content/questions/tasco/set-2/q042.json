@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q42",
+  "text": "What is an EEBD used for?",
+  "options": [
+    {
+      "id": "A",
+      "text": "For escape from machinery or accommodation spaces in the event of a fire"
+    },
+    {
+      "id": "B",
+      "text": "For safety when entering a tank"
+    },
+    {
+      "id": "C",
+      "text": "For rescuing a person from a tank"
+    },
+    {
+      "id": "D",
+      "text": "For supplying oxygen to a victim"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

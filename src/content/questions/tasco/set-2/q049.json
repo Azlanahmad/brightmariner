@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q49",
+  "text": "When the percentage oxygen is between ___________ one may feel, fainting, nausea vomiting.",
+  "options": [
+    {
+      "id": "A",
+      "text": "19.5% and 16%"
+    },
+    {
+      "id": "B",
+      "text": "16% and 12%"
+    },
+    {
+      "id": "C",
+      "text": "12% and 10%"
+    },
+    {
+      "id": "D",
+      "text": "10% and 8%"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

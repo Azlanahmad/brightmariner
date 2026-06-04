@@ -1,0 +1,18 @@
+{
+  "id": "tasco-s3-q27",
+  "text": "LNG liquid pressure is the function of liquid density and liquid level.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": "tasco-s2-q12",
+  "text": "Burning of candle is an example of slow oxidation.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

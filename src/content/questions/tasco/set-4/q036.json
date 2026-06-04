@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q36",
+  "text": "What does figure \"VII\" represent in the pump assembly?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hydraulic Motor"
+    },
+    {
+      "id": "B",
+      "text": "Sleeve"
+    },
+    {
+      "id": "C",
+      "text": "Wear rings"
+    },
+    {
+      "id": "D",
+      "text": "Mechanical Oil Seal **Correct answer : Mechanical Oil Seal**"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

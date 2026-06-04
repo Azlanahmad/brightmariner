@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q12",
+  "text": "As required by Reg.31 of Annex 1 of Marpol the ODMCS should be provided with a recording device for recording the discharge in litres per nautical mile and total quantity discharged. This discharge should be kept onboard at least for a period of",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intermittent, 1 year"
+    },
+    {
+      "id": "B",
+      "text": "Continuous, 1 year"
+    },
+    {
+      "id": "C",
+      "text": "Intermittent, 3 years"
+    },
+    {
+      "id": "D",
+      "text": "Continuous, 3 years **Correct answer : Continuous, 3 years**"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

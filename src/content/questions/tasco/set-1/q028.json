@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q28",
+  "text": "What factor mainly affects Vapour cloud dilution rate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Quantity of Spill"
+    },
+    {
+      "id": "B",
+      "text": "Weather conditions"
+    },
+    {
+      "id": "C",
+      "text": "Thermal inversion"
+    },
+    {
+      "id": "D",
+      "text": "Diameter of the vapour cloud"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

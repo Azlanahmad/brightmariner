@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q27",
+  "text": "What is an inert condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "When the oxygen has been eliminated from a tank"
+    },
+    {
+      "id": "B",
+      "text": "When the oxygen is 10% by volume in a tank"
+    },
+    {
+      "id": "C",
+      "text": "A condition in which the oxygen content throughout the atmosphere of a tank has been reduced to 8% or less by volume by the addition of inert gas."
+    },
+    {
+      "id": "D",
+      "text": "When the oxygen is 21% by volume in a tank"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

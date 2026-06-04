@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s3-q35",
+  "text": "Float gauges can only record liquid level greater than ___________ inches.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Four"
+    },
+    {
+      "id": "B",
+      "text": "five"
+    },
+    {
+      "id": "C",
+      "text": "ten"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

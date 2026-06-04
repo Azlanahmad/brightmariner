@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q19",
+  "text": "Class D fires involve",
+  "options": [
+    {
+      "id": "A",
+      "text": "Solid cellulosic materials such as wood, paper, clothing, etc."
+    },
+    {
+      "id": "B",
+      "text": "Vapour/air mixture over the surface of flammable liquids"
+    },
+    {
+      "id": "C",
+      "text": "Energised electrical equipment"
+    },
+    {
+      "id": "D",
+      "text": "Combustible materials such as magnesium, sodium, etc."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

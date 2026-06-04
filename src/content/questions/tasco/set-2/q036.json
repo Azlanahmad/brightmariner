@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q36",
+  "text": "Experience indicates that hazardous potentials in respect of static electricity do not occur if the velocity of liquid, while loading is: Find the correct answer",
+  "options": [
+    {
+      "id": "A",
+      "text": "Below $7~m/s$"
+    },
+    {
+      "id": "B",
+      "text": "Above $7~m/s$"
+    },
+    {
+      "id": "C",
+      "text": "Above $10~m/s$"
+    },
+    {
+      "id": "D",
+      "text": "Below $3~m/s$"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

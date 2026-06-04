@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q22",
+  "text": "The manifold pressure when loading oil cargo should be",
+  "options": [
+    {
+      "id": "A",
+      "text": "Above the cargo tank pressure"
+    },
+    {
+      "id": "B",
+      "text": "Below the cargo tank pressure"
+    },
+    {
+      "id": "C",
+      "text": "Above atmospheric pressure"
+    },
+    {
+      "id": "D",
+      "text": "'Zero'"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

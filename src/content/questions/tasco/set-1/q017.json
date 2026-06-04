@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q17",
+  "text": "Structure of MARPOL Convention layouts are as follows: find the correct one.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Convention, Protocol I, Protocol II, Protocol 1978, Protocol 1997"
+    },
+    {
+      "id": "B",
+      "text": "Convention, Protocol 1978, Protocol 1997, Protocol I, Protocol II"
+    },
+    {
+      "id": "C",
+      "text": "Protocol 1978, Protocol 1997, Protocol I, Protocol II, Convention"
+    },
+    {
+      "id": "D",
+      "text": "Protocol 1997, Protocol 1978, Protocol I, Protocol II, Convention"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

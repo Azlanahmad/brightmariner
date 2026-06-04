@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q27",
+  "text": "From the pump illustration, identify the part marked - \"IV\".",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hydraulic Motor"
+    },
+    {
+      "id": "B",
+      "text": "Volute Casing"
+    },
+    {
+      "id": "C",
+      "text": "Impeller"
+    },
+    {
+      "id": "D",
+      "text": "Anti-rotation Brake **Correct answer : Volute Casing**"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

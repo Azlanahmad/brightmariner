@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q21",
+  "text": "Select the correct statement regarding pressure.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pressure type vacuum valves can prevent Backflow."
+    },
+    {
+      "id": "B",
+      "text": "Dynamic pressure is a function of the fluid velocity and its density."
+    },
+    {
+      "id": "C",
+      "text": "The water reservoir of a self-priming pump may be at the back of the impeller."
+    },
+    {
+      "id": "D",
+      "text": "Stripping pumps are not of the self-priming type. **Correct answer : Dynamic pressure is a function of the fluid velocity and its density.**"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

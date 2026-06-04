@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q39",
+  "text": "In a centrifugal pump:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The discharge side has a negative pressure."
+    },
+    {
+      "id": "B",
+      "text": "The fluid moves in a direction opposite to the impeller."
+    },
+    {
+      "id": "C",
+      "text": "The fluid moves in the same direction as the impeller."
+    },
+    {
+      "id": "D",
+      "text": "The width of the discharge pipeline decreases outwards. **Correct answer : The fluid moves in the same direction as the impeller.**"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

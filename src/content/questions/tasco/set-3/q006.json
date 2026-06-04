@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s3-q6",
+  "text": "In cleaning up an oil spill, straw is an example of a",
+  "options": [
+    {
+      "id": "A",
+      "text": "chemical agent"
+    },
+    {
+      "id": "B",
+      "text": "blocker"
+    },
+    {
+      "id": "C",
+      "text": "sorbent"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

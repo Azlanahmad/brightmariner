@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q13",
+  "text": "Tank clingage depends on:",
+  "options": [
+    {
+      "id": "A",
+      "text": "surface tension only"
+    },
+    {
+      "id": "B",
+      "text": "cohesive and adhesive forces"
+    },
+    {
+      "id": "C",
+      "text": "cohesive, adhesive forces and surface tension"
+    },
+    {
+      "id": "D",
+      "text": "cohesive forces, adhesive forces and the liquids melting point"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

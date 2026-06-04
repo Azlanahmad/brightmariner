@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q30",
+  "text": "Why the cargo pump in the Framo cannot be overloaded?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The pressure of hydraulic oil to the motor driving the cargo pump is designed in such a way that, the flow is always kept constant"
+    },
+    {
+      "id": "B",
+      "text": "The pressure of hydraulic oil to the motor driving the cargo pump is designed in such a way that, the pump runs at the optimum speed"
+    },
+    {
+      "id": "C",
+      "text": "The pressure of hydraulic oil to the motor driving the cargo pump is designed in such a way that, when the pump over speeds, the flow of oil is reduced"
+    },
+    {
+      "id": "D",
+      "text": "The pressure of hydraulic oil to the motor driving the cargo pump is designed in such a way that, the pressure can run the pump at 75% of the capacity **Correct answer : The pressure of hydraulic oil to the motor driving the cargo pump is designed in such a way that, the pump runs at the optimum speed**"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

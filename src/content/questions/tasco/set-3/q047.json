@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q47",
+  "text": "Class B fires are caused by",
+  "options": [
+    {
+      "id": "A",
+      "text": "combustible solids"
+    },
+    {
+      "id": "B",
+      "text": "flammable gases"
+    },
+    {
+      "id": "C",
+      "text": "flammable liquids"
+    },
+    {
+      "id": "D",
+      "text": "electricity"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

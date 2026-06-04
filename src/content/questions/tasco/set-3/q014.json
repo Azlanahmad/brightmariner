@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q14",
+  "text": "When you have completed bunkering operations, the hoses should be ___________ .",
+  "options": [
+    {
+      "id": "A",
+      "text": "blown down with inert gas"
+    },
+    {
+      "id": "B",
+      "text": "drained into drip pans or tanks"
+    },
+    {
+      "id": "C",
+      "text": "stowed with their ends open for venting"
+    },
+    {
+      "id": "D",
+      "text": "steam cleaned and flushed with hot water"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

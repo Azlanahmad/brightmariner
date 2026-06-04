@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q6",
+  "text": "What does SECA stand for?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sox Elimination Controlled Area"
+    },
+    {
+      "id": "B",
+      "text": "Sox Emission Controlled Area"
+    },
+    {
+      "id": "C",
+      "text": "Sox Escalation Controlled Area"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

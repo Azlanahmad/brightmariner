@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q8",
+  "text": "What is the closed-cup flash point of non-volatile petroleum liquids?",
+  "options": [
+    {
+      "id": "A",
+      "text": "below 140 Deg F (60 Deg C)"
+    },
+    {
+      "id": "B",
+      "text": "113 Deg F (45 Deg C) and above"
+    },
+    {
+      "id": "C",
+      "text": "below 113 Deg F (45 Deg C)"
+    },
+    {
+      "id": "D",
+      "text": "140 Deg F (60 Deg C) and above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

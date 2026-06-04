@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q9",
+  "text": "The standard unit of liquid volume used in the petroleum industry, as well as the tanker industry, is a __________.",
+  "options": [
+    {
+      "id": "A",
+      "text": "barrel"
+    },
+    {
+      "id": "B",
+      "text": "drum"
+    },
+    {
+      "id": "C",
+      "text": "gallon"
+    },
+    {
+      "id": "D",
+      "text": "liter **Correct answer : barrel**"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

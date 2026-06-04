@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q1",
+  "text": "Which are the international bodies that provide regulatory standards for electrical equipment certification?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IEEC and CENELEC"
+    },
+    {
+      "id": "B",
+      "text": "IEC and CENELEC"
+    },
+    {
+      "id": "C",
+      "text": "IEEC and ISO"
+    },
+    {
+      "id": "D",
+      "text": "IMO and ISO"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

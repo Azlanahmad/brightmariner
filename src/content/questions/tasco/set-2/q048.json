@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s2-q48",
+  "text": "Carbon dioxide extinguishes a fire by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heat removal or cooling"
+    },
+    {
+      "id": "B",
+      "text": "Smothering or oxygen exclusion"
+    },
+    {
+      "id": "C",
+      "text": "Flame inhibition"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

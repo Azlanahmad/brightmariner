@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q29",
+  "text": "Operating Principle of the Infrared instrument: identify the key principle that leads to detection of hydrocarbon gas,",
+  "options": [
+    {
+      "id": "A",
+      "text": "The infra-red (IR) sensor is a transducer for the measurement of the concentration of hydrocarbons by the absorption of infra-red radiation."
+    },
+    {
+      "id": "B",
+      "text": "The vapor to be monitored reaches the measuring chamber by diffusion or by means of a pump."
+    },
+    {
+      "id": "C",
+      "text": "An infrared source illuminates a volume of gas that has entered inside the measurement chamber."
+    },
+    {
+      "id": "D",
+      "text": "The gas absorbs some of the infrared wavelengths as the light passes through it, while others pass through it completely unattenuated."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

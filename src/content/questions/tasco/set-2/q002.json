@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q2",
+  "text": "Fuel must be heated to its ___________ before it starts burning.",
+  "options": [
+    {
+      "id": "A",
+      "text": "ignition temperature"
+    },
+    {
+      "id": "B",
+      "text": "flash point"
+    },
+    {
+      "id": "C",
+      "text": "fire point"
+    },
+    {
+      "id": "D",
+      "text": "boiling point"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

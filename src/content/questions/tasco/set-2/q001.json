@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s2-q1",
+  "text": "What is putrifaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Most animal and vegetable oils undergo decomposition over time in stored condition"
+    },
+    {
+      "id": "B",
+      "text": "Most animal and vegetable oils undergo decomposition over time in stored condition, when heated"
+    },
+    {
+      "id": "C",
+      "text": "Most animal and vegetable oils undergo decomposition over time in stored condition, when heated beyond a particular temperature which varies for each and every oil"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

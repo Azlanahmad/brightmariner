@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q27",
+  "text": "A crew member suffering from hypothermia should be given __________ .",
+  "options": [
+    {
+      "id": "A",
+      "text": "a small dose of alcohol"
+    },
+    {
+      "id": "B",
+      "text": "treatment for shock"
+    },
+    {
+      "id": "C",
+      "text": "a large meal"
+    },
+    {
+      "id": "D",
+      "text": "a brisk rub down"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

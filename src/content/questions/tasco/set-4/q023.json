@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q23",
+  "text": "What does \"II\" indicate in the pump diagram?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Eye (Suction)"
+    },
+    {
+      "id": "B",
+      "text": "Shaft"
+    },
+    {
+      "id": "C",
+      "text": "Impeller"
+    },
+    {
+      "id": "D",
+      "text": "Diffuser **Correct answer : Eye (Suction)**"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

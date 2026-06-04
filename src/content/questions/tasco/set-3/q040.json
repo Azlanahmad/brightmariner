@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q40",
+  "text": "A deepwell pump is a type of ___________ .",
+  "options": [
+    {
+      "id": "A",
+      "text": "screw pump"
+    },
+    {
+      "id": "B",
+      "text": "centrifugal pump"
+    },
+    {
+      "id": "C",
+      "text": "eductor"
+    },
+    {
+      "id": "D",
+      "text": "gear pump"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

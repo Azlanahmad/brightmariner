@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q44",
+  "text": "From the below illustration, identify the name of the marking \"14\".",
+  "options": [
+    {
+      "id": "A",
+      "text": "Resilient Mounting"
+    },
+    {
+      "id": "B",
+      "text": "Deck Trunk"
+    },
+    {
+      "id": "C",
+      "text": "Cargo Pipe"
+    },
+    {
+      "id": "D",
+      "text": "Hydraulic Pressure Pipe **Correct answer : Cargo Pipe**"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

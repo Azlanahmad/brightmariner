@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q7",
+  "text": "What is Auto-ignition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The ignition of a combustible material without initiation by a spark or flame, when the material has been raised to a temperature at which self-sustaining combustion occurs."
+    },
+    {
+      "id": "B",
+      "text": "Automatic ignition of material in a hot atmosphere"
+    },
+    {
+      "id": "C",
+      "text": "Ignition of materials when they come in contact with each other"
+    },
+    {
+      "id": "D",
+      "text": "Ignition caused by mixture of vapours given of by cargoes"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

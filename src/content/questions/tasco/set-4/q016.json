@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q16",
+  "text": "When the cofferdam to be purged to check the leakage and remove the leaked oil?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Before starting the cargo operation"
+    },
+    {
+      "id": "B",
+      "text": "Before starting the cargo operation and after the cargo operation is completed"
+    },
+    {
+      "id": "C",
+      "text": "During the cargo operation"
+    },
+    {
+      "id": "D",
+      "text": "After the cargo operation is completed **Correct answer : Before starting the cargo operation and after the cargo operation is completed**"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

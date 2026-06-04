@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q14",
+  "text": "After each reading of an oxygen indicator, the instrument should be purged with",
+  "options": [
+    {
+      "id": "A",
+      "text": "CO2"
+    },
+    {
+      "id": "B",
+      "text": "fresh air"
+    },
+    {
+      "id": "C",
+      "text": "the tested compartment's air"
+    },
+    {
+      "id": "D",
+      "text": "water **Correct answer : fresh air**"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

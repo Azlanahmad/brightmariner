@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q2",
+  "text": "Volume 2 of IMDG code comprises one part which is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Part 1 - General provisions, definitions and training"
+    },
+    {
+      "id": "B",
+      "text": "Part 2 - Classification"
+    },
+    {
+      "id": "C",
+      "text": "Part 3 - The Dangerous Goods List (DGL)"
+    },
+    {
+      "id": "D",
+      "text": "Part 4 - Packing and tank provisions"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

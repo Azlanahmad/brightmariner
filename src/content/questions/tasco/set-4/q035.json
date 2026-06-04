@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q35",
+  "text": "What does \"V\" indicate in the pump illustration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Speed Torque Control Valve"
+    },
+    {
+      "id": "B",
+      "text": "Cofferdam Purging"
+    },
+    {
+      "id": "C",
+      "text": "Local Control Valve"
+    },
+    {
+      "id": "D",
+      "text": "Cofferdam Check Pipe **Correct answer : Cofferdam Purging**"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

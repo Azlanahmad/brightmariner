@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s2-q24",
+  "text": "Vapours having low relative density than air will be found at the ___________ of the enclosed space.",
+  "options": [
+    {
+      "id": "A",
+      "text": "middle"
+    },
+    {
+      "id": "B",
+      "text": "top"
+    },
+    {
+      "id": "C",
+      "text": "bottom"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

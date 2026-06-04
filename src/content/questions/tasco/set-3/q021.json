@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q21",
+  "text": "Your vessel is carrying 24,000 barrels (3816 cubic metres) of oil for discharge. The cargo hoses have an inside diameter of eight inches. The container around the loading manifold must hold",
+  "options": [
+    {
+      "id": "A",
+      "text": "three barrels"
+    },
+    {
+      "id": "B",
+      "text": "four barrels"
+    },
+    {
+      "id": "C",
+      "text": "six barrels"
+    },
+    {
+      "id": "D",
+      "text": "eight barrels"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

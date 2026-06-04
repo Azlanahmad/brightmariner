@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q24",
+  "text": "Which number represents the Hydraulic Motor in the pump cross-section illustration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "I"
+    },
+    {
+      "id": "B",
+      "text": "II"
+    },
+    {
+      "id": "C",
+      "text": "III"
+    },
+    {
+      "id": "D",
+      "text": "IV **Correct answer : I**"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s2-q46",
+  "text": "What is the least you must do before entering a cofferdam in the engine room?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Open up the manhole and enter the cofferdam"
+    },
+    {
+      "id": "B",
+      "text": "Complete an enclosed space checklist"
+    },
+    {
+      "id": "C",
+      "text": "Enter the cofferdam and simultaneously start ventilation"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

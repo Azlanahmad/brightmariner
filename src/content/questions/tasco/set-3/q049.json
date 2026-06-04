@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q49",
+  "text": "Cargo tank fill alarm indicator panels:",
+  "options": [
+    {
+      "id": "A",
+      "text": "are normally fitted on the bridge and sometimes on deck"
+    },
+    {
+      "id": "B",
+      "text": "are normally fitted in the engine control room and sometimes on deck"
+    },
+    {
+      "id": "C",
+      "text": "are normally fitted on the bridge and sometimes in the engine control room"
+    },
+    {
+      "id": "D",
+      "text": "are normally fitted in the cargo control room and sometimes on deck"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

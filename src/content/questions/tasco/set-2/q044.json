@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q44",
+  "text": "A man has suffered a burn on the arm. There is extensive damage to the skin with charring present. How is this injury classified using standard medical terminology?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dermal burn"
+    },
+    {
+      "id": "B",
+      "text": "Third-degree burn"
+    },
+    {
+      "id": "C",
+      "text": "Major burn"
+    },
+    {
+      "id": "D",
+      "text": "Lethal burn"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

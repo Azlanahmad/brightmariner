@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s3-q18",
+  "text": "Segregated ballast tanks are required to be fitted on",
+  "options": [
+    {
+      "id": "A",
+      "text": "Every crude oil and new product tanker of 20,000dwt and above"
+    },
+    {
+      "id": "B",
+      "text": "Every crude oil tanker of 20,000dwt and above and every new product tanker of 30,000dwt and above"
+    },
+    {
+      "id": "C",
+      "text": "Every crude oil and new product tanker of 30,000dwt and above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

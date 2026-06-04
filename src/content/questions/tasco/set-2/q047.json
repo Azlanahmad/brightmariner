@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s2-q47",
+  "text": "Which of the following activity is done on completion of work?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Closing and securing all openings"
+    },
+    {
+      "id": "B",
+      "text": "Satisfactory lighting"
+    },
+    {
+      "id": "C",
+      "text": "Intimating all the related parties about the intended entry"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

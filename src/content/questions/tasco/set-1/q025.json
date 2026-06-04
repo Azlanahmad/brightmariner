@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q25",
+  "text": "What is the open cup flash point of the petroleum liquids that are classified as combustible liquids?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Above 80 Deg F (26.7 Deg C)"
+    },
+    {
+      "id": "B",
+      "text": "Above 60 Deg F (15.6 Deg C)"
+    },
+    {
+      "id": "C",
+      "text": "Below 80 Deg F (26.7 Deg C)"
+    },
+    {
+      "id": "D",
+      "text": "Below 60 Deg F (15.6 Deg C)"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

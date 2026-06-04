@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q35",
+  "text": "What is bonding?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Connecting together of cargo pipe line flanges"
+    },
+    {
+      "id": "B",
+      "text": "The connecting together of metal parts to ensure electrical continuity"
+    },
+    {
+      "id": "C",
+      "text": "Making a ship to shore cable connection"
+    },
+    {
+      "id": "D",
+      "text": "Connecting together flexible couplings on deck"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

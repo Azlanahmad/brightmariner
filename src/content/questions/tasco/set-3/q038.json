@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s3-q38",
+  "text": "The float gauge is provided with a ___________ valve.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ball"
+    },
+    {
+      "id": "B",
+      "text": "gate"
+    },
+    {
+      "id": "C",
+      "text": "pressure"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

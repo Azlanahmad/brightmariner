@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q40",
+  "text": "What does \"V\" indicate in the below illustration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bearings"
+    },
+    {
+      "id": "B",
+      "text": "Mechanical Oil Seal"
+    },
+    {
+      "id": "C",
+      "text": "Suction Well"
+    },
+    {
+      "id": "D",
+      "text": "Sleeve **Correct answer : Suction Well**"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

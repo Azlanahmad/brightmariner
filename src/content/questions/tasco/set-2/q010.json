@@ -1,0 +1,18 @@
+{
+  "id": "tasco-s2-q10",
+  "text": "Sun's heat and lightning strike cause spontaneous combustion in forests.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

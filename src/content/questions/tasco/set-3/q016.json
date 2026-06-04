@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q16",
+  "text": "Most minor spills of oil products are caused by",
+  "options": [
+    {
+      "id": "A",
+      "text": "equipment failure"
+    },
+    {
+      "id": "B",
+      "text": "human error"
+    },
+    {
+      "id": "C",
+      "text": "major casualties"
+    },
+    {
+      "id": "D",
+      "text": "unforeseeable circumstances"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q18",
+  "text": "The area indicated by the number \"III\" in the pump diagram is known as the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Speed Torque Control Valve"
+    },
+    {
+      "id": "B",
+      "text": "Cofferdam Purging"
+    },
+    {
+      "id": "C",
+      "text": "Local Control Valve"
+    },
+    {
+      "id": "D",
+      "text": "Cargo Purging Connection **Correct answer : Speed Torque Control Valve**"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

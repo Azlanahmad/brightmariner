@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s3-q37",
+  "text": "Continuous exposure of the float to the fluctuation in sea level can damage the ___________ .",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tape tensioning device"
+    },
+    {
+      "id": "B",
+      "text": "diaphragm"
+    },
+    {
+      "id": "C",
+      "text": "sensors"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

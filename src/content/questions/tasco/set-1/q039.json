@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q39",
+  "text": "What is Upper flammable limit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The limit for man entry of personnel into tanks"
+    },
+    {
+      "id": "B",
+      "text": "The concentration of a hydrocarbon gas in air above which there is insufficient oxygen to support combustion"
+    },
+    {
+      "id": "C",
+      "text": "The limit where there is insufficient inert gas to support combustion"
+    },
+    {
+      "id": "D",
+      "text": "The limit where there is too much inert gas to support combustion"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q37",
+  "text": "Electrochemical Sensors: identify a key finding for its use on board tankers",
+  "options": [
+    {
+      "id": "A",
+      "text": "Electrochemical sensors are based on the fact that cells can be constructed that react with the measured gas and generate an electric current."
+    },
+    {
+      "id": "B",
+      "text": "The Cell current can be measured, and the amount of gas determined."
+    },
+    {
+      "id": "C",
+      "text": "The sensors are low cost and are small enough to allow several to be incorporated into the same instrument, making them suitable for use in multi-gas detectors."
+    },
+    {
+      "id": "D",
+      "text": "There are numerous electrochemical sensors available covering a number of gases which may be present in the shipboard environment."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

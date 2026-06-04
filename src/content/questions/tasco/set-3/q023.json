@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q23",
+  "text": "The total quantity of oil discharged at sea on new tankers must not exceed:",
+  "options": [
+    {
+      "id": "A",
+      "text": "1/15000 of the total quantity of that particular cargo of which the residue formed part"
+    },
+    {
+      "id": "B",
+      "text": "1/2000 of the total quantity of that particular cargo of which the residue formed part"
+    },
+    {
+      "id": "C",
+      "text": "1/25000 of the total quantity of that particular cargo of which the residue formed part"
+    },
+    {
+      "id": "D",
+      "text": "1/30000 of the total quantity of that particular cargo of which the residue formed part"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

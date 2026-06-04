@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q47",
+  "text": "What is flash point?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The lowest temperature at which a liquid gives off sufficient gas to form a flammable gas mixture near the surface of the liquid."
+    },
+    {
+      "id": "B",
+      "text": "The temperature at which the gas is not flammable"
+    },
+    {
+      "id": "C",
+      "text": "The temperature at which the liquid stops emitting gas"
+    },
+    {
+      "id": "D",
+      "text": "The temperature at which an explosion is not possible"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

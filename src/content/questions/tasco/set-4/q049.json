@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q49",
+  "text": "The reciprocating pump creates a suction effect when there is a",
+  "options": [
+    {
+      "id": "A",
+      "text": "decrease in pressure"
+    },
+    {
+      "id": "B",
+      "text": "increase in pressure"
+    },
+    {
+      "id": "C",
+      "text": "no change in pressure"
+    },
+    {
+      "id": "D",
+      "text": "decrease or an increase in pressure **Correct answer : decrease in pressure**"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

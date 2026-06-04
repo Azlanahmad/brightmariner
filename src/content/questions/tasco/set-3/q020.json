@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q20",
+  "text": "The Volatile Organic Compound (cargo vapor) Management Plan is required on what type of vessel?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tank sensors"
+    },
+    {
+      "id": "B",
+      "text": "Container vessels"
+    },
+    {
+      "id": "C",
+      "text": "Ro-ro vessels"
+    },
+    {
+      "id": "D",
+      "text": "Crude Oil Carriers"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

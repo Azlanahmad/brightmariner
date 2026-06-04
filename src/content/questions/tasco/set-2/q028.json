@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s2-q28",
+  "text": "What instrument is used to measure hydrocarbon gas in an inert atmospheres?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Explosimeter"
+    },
+    {
+      "id": "B",
+      "text": "The Draeger instrument"
+    },
+    {
+      "id": "C",
+      "text": "The Multi-Gas detector"
+    },
+    {
+      "id": "D",
+      "text": "Tankscope"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q3",
+  "text": "How is intrinsic safety achieved for electrical circuits used in hazardous areas?",
+  "options": [
+    {
+      "id": "A",
+      "text": "By limiting the ignition energy and surface temperature that can arise during operation"
+    },
+    {
+      "id": "B",
+      "text": "By limiting the number of equipment used in a space"
+    },
+    {
+      "id": "C",
+      "text": "By increasing mechanical ventilation to the area"
+    },
+    {
+      "id": "D",
+      "text": "By installing machinery which have higher power and thus shorter operation time"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

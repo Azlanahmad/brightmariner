@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q48",
+  "text": "Use of Pressure-Vacuum (PV) Relief Valve; label the diagram correctly:",
+  "options": [
+    {
+      "id": "A",
+      "text": "1-IG Main; 2-Deck Isolating Valve; 3- Vent Main; 4- By-Pass Valve; 5- PV valve; 6- Tank Isolating Valve"
+    },
+    {
+      "id": "B",
+      "text": "1-Deck Isolating Valve; 2- Vent Main; 3- IG Main; 4- By-Pass Valve; 5- PV valve; 6- Tank Isolating Valve"
+    },
+    {
+      "id": "C",
+      "text": "1-Deck Isolating Valve; 2- IG Main; 3- Vent Main; 4- By-Pass Valve; 5- PV valve; 6- Tank Isolating Valve"
+    },
+    {
+      "id": "D",
+      "text": "1-Deck Isolating Valve; 2- IG Main; 3- Vent Main; 4- By-Pass Valve; 5- Tank Isolating Valve; 6- PV valve"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

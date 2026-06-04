@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q26",
+  "text": "____ is a lowest temperature at which a substance catches fire.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Critical temperature"
+    },
+    {
+      "id": "B",
+      "text": "Ignition temperature"
+    },
+    {
+      "id": "C",
+      "text": "Eutectic temperature"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

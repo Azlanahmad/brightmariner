@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q10",
+  "text": "What is the requirement for ships to have SOPEP onboard ships?",
+  "options": [
+    {
+      "id": "A",
+      "text": "SOPEP Should be carried on board tankers of 150 GT or more and on other ships of 400 GT or more"
+    },
+    {
+      "id": "B",
+      "text": "SOPEP should be carried onboard tankers of 150 GT or more and on all other ships irrespective of size"
+    },
+    {
+      "id": "C",
+      "text": "SOPEP should be carried only onboard tankers of 400 GT or more"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s1-q31",
+  "text": "____ burns automatically at room temperature.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Phosphorus"
+    },
+    {
+      "id": "B",
+      "text": "Sodium"
+    },
+    {
+      "id": "C",
+      "text": "Iron"
+    },
+    {
+      "id": "D",
+      "text": "Nitrogen"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

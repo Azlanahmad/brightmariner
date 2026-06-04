@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q19",
+  "text": "How the Framo pump has almost eliminated cavitation for free flowing liquids?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Volute casing is designed in such a way, that its smoothness avoids cavitation"
+    },
+    {
+      "id": "B",
+      "text": "The backwards curved vanes eliminate the cavitation"
+    },
+    {
+      "id": "C",
+      "text": "The hydrofoil design of the curved vanes, eliminate cavitation"
+    },
+    {
+      "id": "D",
+      "text": "Since the suction pipe is eliminated, cavitation is also eliminated for liquids with free flow **Correct answer : Since the suction pipe is eliminated, cavitation is also eliminated for liquids with free flow**"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

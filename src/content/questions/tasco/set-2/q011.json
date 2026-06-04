@@ -1,0 +1,18 @@
+{
+  "id": "tasco-s2-q11",
+  "text": "Substances which catch fire are called acids.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}

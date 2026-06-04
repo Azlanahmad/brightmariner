@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q26",
+  "text": "The inert gas is delivered to the cargo tanks by an inert gas deck main line. Find the correct labelling for the deck equipment items.",
+  "options": [
+    {
+      "id": "A",
+      "text": "1-Pressure/Vacuum Valve; 2- Cargo tank valves; 3- Mast Riser; 4-Isolating Valve"
+    },
+    {
+      "id": "B",
+      "text": "1-Mast Riser; 2-Isolating Valve; 3-Cargo tank valves; 4- Pressure/Vacuum Valve"
+    },
+    {
+      "id": "C",
+      "text": "1-Cargo tank valves; 2- Pressure/Vacuum Valve; 3- Mast Riser; 4-Isolating Valve"
+    },
+    {
+      "id": "D",
+      "text": "1-Isolating Valve; 2- Pressure/Vacuum Valve; 3- Mast Riser; 4-Cargo tank valves"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q3",
+  "text": "Identify correct labelling for Tanker VEC",
+  "options": [
+    {
+      "id": "A",
+      "text": "1- P/V Valve; 2- P/V Breaker; 3- Mast Riser; 4 - Deck water seal"
+    },
+    {
+      "id": "B",
+      "text": "1- P/V Valve; 2- P/V Breaker; 3- Deck water seal; 4- Mast Riser"
+    },
+    {
+      "id": "C",
+      "text": "1- Mast Riser; 2- P/V Breaker; 3- P/V Valve; - Deck water seal"
+    },
+    {
+      "id": "D",
+      "text": "1- P/V Valve; 2- Mast Riser; 3- P/V Breaker; 4 - Deck water seal"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

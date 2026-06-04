@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q41",
+  "text": "Bottom washing:",
+  "options": [
+    {
+      "id": "A",
+      "text": "is done to remove traces of the previous cargo"
+    },
+    {
+      "id": "B",
+      "text": "will remove heavy wax sediments at the tank bottom"
+    },
+    {
+      "id": "C",
+      "text": "is not effective when carrying a small quantity of refined products"
+    },
+    {
+      "id": "D",
+      "text": "cannot be done with chemical solvents"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

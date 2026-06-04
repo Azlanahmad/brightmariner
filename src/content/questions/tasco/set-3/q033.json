@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q33",
+  "text": "Tank level measurement of free water by gauging tape and plumb bob: find the labeling combination that is correct,",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 Water Innage; 2-Water Cut; 3- Water Cut; 4- Water Ullage"
+    },
+    {
+      "id": "B",
+      "text": "1- Water Cut; 2- Water Innage; 3- Water Cut; 4- Water Ullage"
+    },
+    {
+      "id": "C",
+      "text": "1- Water Cut; 2- Water Innage; 3- Water Ullage; 4- Water Cut"
+    },
+    {
+      "id": "D",
+      "text": "1- Water Cut; 2- Water Cut; 3- Water Innage; 4- Water Ullage"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

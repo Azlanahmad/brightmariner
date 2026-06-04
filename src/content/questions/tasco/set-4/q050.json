@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q50",
+  "text": "What is represented by the figure \"VI\" in the pump assembly illustration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Eye of impeller"
+    },
+    {
+      "id": "B",
+      "text": "Shaft"
+    },
+    {
+      "id": "C",
+      "text": "Impeller"
+    },
+    {
+      "id": "D",
+      "text": "Casing **Correct answer : Impeller**"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

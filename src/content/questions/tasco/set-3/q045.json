@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q45",
+  "text": "Centrifugal pumps are otherwise known as",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reciprocating pumps"
+    },
+    {
+      "id": "B",
+      "text": "Gravity pumps"
+    },
+    {
+      "id": "C",
+      "text": "Positive displacement pumps"
+    },
+    {
+      "id": "D",
+      "text": "Hydro-dynamic pumps"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

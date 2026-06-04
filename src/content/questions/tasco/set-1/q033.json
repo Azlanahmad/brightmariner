@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s1-q33",
+  "text": "What is meant by \"intrinsically safe\"?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Equipment can be used in hazardous atmosphere"
+    },
+    {
+      "id": "B",
+      "text": "An electrical circuit is intrinsically safe if any spark produced normally or accidentally is incapable of igniting a gas mixture"
+    },
+    {
+      "id": "C",
+      "text": "There is no danger if sparks are produced in an unsafe atmosphere"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "tasco",
+  "set": 1,
+  "explanation": ""
+}

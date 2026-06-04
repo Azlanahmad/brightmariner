@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s3-q5",
+  "text": "Pick the IEC symbol for explosion proof electrical protection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ex-e"
+    },
+    {
+      "id": "B",
+      "text": "ex-n"
+    },
+    {
+      "id": "C",
+      "text": "ex-d"
+    },
+    {
+      "id": "D",
+      "text": "ex-p"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 3,
+  "explanation": ""
+}

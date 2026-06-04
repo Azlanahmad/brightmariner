@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s4-q31",
+  "text": "What does figure \"V\" represent in the centrifugal discharge diagram?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vane"
+    },
+    {
+      "id": "B",
+      "text": "Eye of impeller"
+    },
+    {
+      "id": "C",
+      "text": "Discharge nozzle"
+    },
+    {
+      "id": "D",
+      "text": "None of the above **Correct answer : Discharge nozzle**"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 4,
+  "explanation": ""
+}

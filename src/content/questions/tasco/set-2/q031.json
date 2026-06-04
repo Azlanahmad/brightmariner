@@ -1,0 +1,22 @@
+{
+  "id": "tasco-s2-q31",
+  "text": "What should be prohibited in the vicinity of battery rooms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Painting"
+    },
+    {
+      "id": "B",
+      "text": "Washing"
+    },
+    {
+      "id": "C",
+      "text": "Smoking"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "tasco",
+  "set": 2,
+  "explanation": ""
+}
