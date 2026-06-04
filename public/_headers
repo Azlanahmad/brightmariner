@@ -1,1 +1,7 @@
 # Headers configuration
+
+https://quantscan.pages.dev/*
+  X-Robots-Tag: noindex
+
+https://*.quantscan.pages.dev/*
+  X-Robots-Tag: noindex
