@@ -15,6 +15,8 @@ const {
 	image = "/placeholder-og.jpg",
 	canonicalURL = Astro.url.href,
 } = Astro.props;
+
+const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID;
 ---
 <!doctype html>
 <html lang="en">
@@ -28,6 +30,19 @@ const {
 		<meta name="apple-mobile-web-app-title" content="BrightMarine" />
 		<link rel="manifest" href="/site.webmanifest" />
 		<meta name="generator" content={Astro.generator} />
+
+		<!-- Google Analytics -->
+		{gaId && (
+			<>
+				<script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}></script>
+				<script is:inline set:html={`
+					window.dataLayer = window.dataLayer || [];
+					function gtag(){dataLayer.push(arguments);}
+					gtag('js', new Date());
+					gtag('config', '${gaId}');
+				`} />
+			</>
+		)}
 
 		<!-- Primary Meta Tags -->
 		<title>{title}</title>
