@@ -1,7 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
-import Comments from '../components/Comments.astro';
 
 // 1. Generate static paths for every post slug
 export async function getStaticPaths() {
@@ -87,8 +86,6 @@ const articleSchema = {
 				<Content />
 			</div>
 
-			<!-- Dynamic Giscus Comment Section -->
-			<Comments />
 		</article>
 	</main>
 </Layout>
