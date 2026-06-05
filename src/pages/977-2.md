@@ -5,15 +5,13 @@ description: "Read about  on Bright Mariner."
 ---
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>BrightMariner — DG Exit Exam MCQ Practice</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
+    <!-- Google Fonts loaded asynchronously to prevent render-blocking -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&display=swap" media="print" onload="this.media='all'">
+    <noscript>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&display=swap">
+    </noscript>
 
 <style>
 /* ─────────────────── TOKENS ─────────────────── */
@@ -425,9 +423,6 @@ footer{
   .stat-div{width:80px;height:1px}
 }
 </style>
-</head>
-
-<body>
 
 <!-- ═══════════════════ NAV ═══════════════════ -->
 <nav class="nav" id="nav">
@@ -704,7 +699,7 @@ footer{
 </footer>
 
 <!-- ═══════════════════ SCRIPT ═══════════════════ -->
-<script>
+<script type="module">
 /* ── Data ── */
 const SUBJECTS = [
   {
@@ -894,5 +889,3 @@ const observer = new IntersectionObserver(entries => {
 }, { threshold: .3 });
 observer.observe(document.getElementById('count-q'));
 </script>
-</body>
-</html>

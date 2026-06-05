@@ -5,12 +5,7 @@ description: "Read about  on Bright Mariner."
 ---
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SIP Return Calculator</title>
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -104,9 +99,7 @@ description: "Read about  on Bright Mariner."
             background-color: #218838;
         }
     </style>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-</head>
-<body>
+
 
 <div class="container">
     <!-- Left Pane for Inputs -->
@@ -158,7 +151,8 @@ description: "Read about  on Bright Mariner."
     </div>
 </div>
 
-<script>
+<script type="module">
+    import Chart from 'https://cdn.jsdelivr.net/npm/chart.js/auto/+esm';
     let sipChart;  // Global variable to hold the chart instance
     let donutChart;
 
@@ -298,10 +292,10 @@ description: "Read about  on Bright Mariner."
         });
     }
 
+    window.updateValue = updateValue;
+    window.calculateSIP = calculateSIP;
+
     // Initial calculation and chart rendering
     calculateSIP();
 </script>
-
-</body>
-</html>
 

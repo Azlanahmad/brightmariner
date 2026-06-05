@@ -5,17 +5,7 @@ date: 2025-07-04T17:11:54.000Z
 categories: ["Marine Engineering"]
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Maritime Shipping Emissions: An Interactive Report</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
     <!-- Chosen Palette: Oceanic Calm -->
     <!-- Application Structure Plan: The application is designed as a single-page app with a top-level tabbed navigation to improve usability. A dense report is broken into logical, thematic sections: an 'Overview', 'Regulatory Landscape', 'Company Deep Dive', and 'Reporting Standards'. This non-linear structure allows users to directly access the information they are most interested in, rather than scrolling through a long document. The 'Company Deep Dive' is the core interactive element, allowing for direct comparison between companies via a selector that dynamically updates charts and text blocks. This user-driven exploration is more engaging and facilitates better understanding and synthesis of complex comparative data than a static report format. -->
     <!-- Visualization & Content Choices: 
@@ -37,8 +27,6 @@ categories: ["Marine Engineering"]
         .fade-in { animation: fadeIn 0.5s ease-in-out; }
         @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
     </style>
-</head>
-<body class="bg-slate-50 text-slate-700">
 
     <div class="min-h-screen">
         <header class="bg-white shadow-sm sticky top-0 z-50">
@@ -258,7 +246,8 @@ categories: ["Marine Engineering"]
         </main>
     </div>
 
-<script>
+<script type="module">
+    import Chart from 'https://cdn.jsdelivr.net/npm/chart.js/auto/+esm';
 document.addEventListener('DOMContentLoaded', function () {
     const companyData = {
         'maersk': {
@@ -502,7 +491,4 @@ document.addEventListener('DOMContentLoaded', function () {
     updateCompanyDetails('maersk');
 });
 </script>
-
-</body>
-</html>
 

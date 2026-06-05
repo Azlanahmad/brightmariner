@@ -5,17 +5,6 @@ description: "Read about Future of Marine Fuel on Bright Mariner."
 ---
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Future of Marine Fuel: An Interactive Infographic with AI</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap" rel="stylesheet">
     <!-- 
     Infographic Narrative Plan:
     1.  Hook: Start with the IMO's dramatic 2050 net-zero goal.
@@ -98,26 +87,32 @@ description: "Read about Future of Marine Fuel on Bright Mariner."
         }
         #riskContent::-webkit-scrollbar-track {
             background: #f0f4f8;
-            border-radius: 20px;
         }
         #riskContent::-webkit-scrollbar-thumb {
-            background-color: #7a5195;
-            border-radius: 20px;
-            border: 2px solid #f0f4f8;
+            background: #cbd5e0;
+            border-radius: 4px;
         }
-        .ai-button {
-            background-color: #003f5c;
-            color: white;
-            font-weight: 600;
-            padding: 0.5rem 1rem;
-            border-radius: 9999px;
-            transition: background-color 0.3s, transform 0.3s;
-            animation: pulse 2s infinite;
+        #riskContent::-webkit-scrollbar-thumb:hover {
+            background: #a0aec0;
         }
-        .ai-button:hover {
-            background-color: #374c80;
-            transform: scale(1.05);
-            animation: none;
+        #advisorResponse {
+            max-height: 60vh;
+            overflow-y: auto;
+            padding-right: 1rem;
+            line-height: 1.6;
+        }
+        #advisorResponse::-webkit-scrollbar {
+            width: 8px;
+        }
+        #advisorResponse::-webkit-scrollbar-track {
+            background: #f0f4f8;
+        }
+        #advisorResponse::-webkit-scrollbar-thumb {
+            background: #cbd5e0;
+            border-radius: 4px;
+        }
+        #advisorResponse::-webkit-scrollbar-thumb:hover {
+            background: #a0aec0;
         }
         .spinner {
             border: 4px solid rgba(0, 0, 0, 0.1);
@@ -125,25 +120,35 @@ description: "Read about Future of Marine Fuel on Bright Mariner."
             height: 36px;
             border-radius: 50%;
             border-left-color: #003f5c;
-            animation: spin 1s ease infinite;
+            animation: spin 1s linear infinite;
         }
         @keyframes spin {
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
         }
-        @keyframes pulse {
-            0% { box-shadow: 0 0 0 0 rgba(0, 63, 92, 0.7); }
-            70% { box-shadow: 0 0 0 10px rgba(0, 63, 92, 0); }
-            100% { box-shadow: 0 0 0 0 rgba(0, 63, 92, 0); }
+        .ai-button {
+            background-color: #003f5c;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 0.375rem;
+            font-weight: 600;
+            transition: background-color 0.2s;
         }
-         @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
+        .ai-button:hover {
+            background-color: #002c40;
+        }
+        @keyframes fadeIn {
+            to {
+                opacity: 1;
+            }
         }
         @keyframes arrowBounce {
-            0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
-            40% {transform: translateY(-10px);}
-            60% {transform: translateY(-5px);}
+            0%, 100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(5px);
+            }
         }
         .title-animate {
             animation: tracking-in-expand 1s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
@@ -365,7 +370,9 @@ description: "Read about Future of Marine Fuel on Bright Mariner."
         <p class="text-sm mt-1">Data visualizations created using Chart.js. Enhanced with Gemini AI. No SVG or Mermaid JS were used in this output.</p>
     </footer>
 
-    <script>
+    <script type="module">
+        import Chart from 'https://cdn.jsdelivr.net/npm/chart.js/auto/+esm';
+
         const chartColors = {
             blue: '#003f5c',
             purple: '#7a5195',
@@ -645,7 +652,10 @@ description: "Read about Future of Marine Fuel on Bright Mariner."
         riskModal.addEventListener('click', hideRiskModal);
         advisorModal.addEventListener('click', hideAdvisorModal);
 
+        window.showRiskModal = showRiskModal;
+        window.hideRiskModal = hideRiskModal;
+        window.showAdvisorModal = showAdvisorModal;
+        window.hideAdvisorModal = hideAdvisorModal;
+        window.getAdvisorResponse = getAdvisorResponse;
     </script>
-</body>
-</html>
 
