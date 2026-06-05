@@ -28,6 +28,33 @@ const faqPageSchema = entry.data.faqs && entry.data.faqs.length > 0 ? {
     }
   }))
 } : null;
+
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": entry.data.title,
+  "description": entry.data.description,
+  "image": entry.data.image ? new URL(entry.data.image, Astro.url).href : "https://brightmariner.com/placeholder-og.jpg",
+  "datePublished": entry.data.date.toISOString(),
+  "dateModified": entry.data.date.toISOString(),
+  "author": {
+    "@type": "Organization",
+    "name": "Bright Mariner",
+    "url": "https://brightmariner.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Bright Mariner",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://brightmariner.com/favicon.svg"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": Astro.url.href
+  }
+};
 ---
 <Layout 
 	title={`${entry.data.title} - Bright Mariner`}
@@ -35,40 +62,7 @@ const faqPageSchema = entry.data.faqs && entry.data.faqs.length > 0 ? {
 	image={entry.data.image}
 >
 	<!-- Article Structured Data -->
-	<script type="application/ld+json" is:inline define:vars={{ 
-		title: entry.data.title,
-		description: entry.data.description,
-		date: entry.data.date.toISOString(),
-		url: Astro.url.href,
-		image: entry.data.image ? new URL(entry.data.image, Astro.url).href : "https://brightmariner.com/placeholder-og.jpg"
-	}}>
-		{
-			"@context": "https://schema.org",
-			"@type": "Article",
-			"headline": title,
-			"description": description,
-			"image": image,
-			"datePublished": date,
-			"dateModified": date,
-			"author": {
-				"@type": "Organization",
-				"name": "Bright Mariner",
-				"url": "https://brightmariner.com"
-			},
-			"publisher": {
-				"@type": "Organization",
-				"name": "Bright Mariner",
-				"logo": {
-					"@type": "ImageObject",
-					"url": "https://brightmariner.com/favicon.svg"
-				}
-			},
-			"mainEntityOfPage": {
-				"@type": "WebPage",
-				"@id": url
-			}
-		}
-	</script>
+	<script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 
 	{faqPageSchema && (
 		<script type="application/ld+json" set:html={JSON.stringify(faqPageSchema)} />
