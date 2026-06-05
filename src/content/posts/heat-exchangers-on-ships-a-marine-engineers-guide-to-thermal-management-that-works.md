@@ -3,6 +3,15 @@ title: "Heat Exchangers on Ships: A Marine Engineer's Guide to Thermal Managemen
 description: "Read about Heat Exchangers on Ships: A Marine Engineer's Guide to Thermal Management That Works on Bright Mariner."
 date: 2026-03-24T12:50:59.000Z
 categories: ["Marine Engineering"]
+faqs:
+  - question: "How often should heat exchangers be cleaned?"
+    answer: "Clean on condition, not calendar. Monitor approach temperature—when it increases 20% from baseline, clean. In tropical waters with heavy fouling, this might be monthly; in clean open ocean, annually."
+  - question: "What's the difference between shell and tube vs. plate heat exchangers?"
+    answer: "Shell and tube handle higher pressures and temperatures with easier individual tube repair, but are less efficient and bulkier. Plate exchangers offer superior heat transfer in compact space but have gasket limitations and clog easier with debris."
+  - question: "Why is my lube oil temperature high even with the cooler running?"
+    answer: "Check: 1) Seawater flow rate (strainer clogged?), 2) Bypass valve stuck open, 3) Oil flow rate correct (partially closed valve?), 4) Cooler fouling. Most likely culprits are seawater strainer or cooler fouling."
+  - question: "Can I switch from cupronickel to titanium tubes?"
+    answer: "Yes, but verify tube sheet compatibility and expansion characteristics. Titanium offers superior corrosion resistance but is expensive. Often used only for critical applications or where failure history demands it."
 ---
 
 <p><em>Last Updated: March 2026 | Reading Time: 9 minutes</em></p>

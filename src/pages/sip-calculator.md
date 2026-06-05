@@ -299,3 +299,106 @@ description: "Read about  on Bright Mariner."
     calculateSIP();
 </script>
 
+<!-- FAQ Section -->
+<div class="max-w-[900px] mx-auto mt-16 p-6 bg-white rounded-lg shadow-md">
+    <h2 class="text-2xl font-bold mb-6 text-gray-800">Frequently Asked Questions (FAQs)</h2>
+    <div class="space-y-4">
+        <details class="group border border-gray-200 rounded-lg">
+            <summary class="flex items-center justify-between p-4 cursor-pointer select-none font-semibold text-gray-700 hover:text-blue-600">
+                What is a Systematic Investment Plan (SIP)?
+                <span class="transition-transform duration-300 group-open:rotate-180">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                </span>
+            </summary>
+            <div class="p-4 border-t border-gray-200 text-gray-600 text-sm leading-relaxed">
+                A Systematic Investment Plan (SIP) is an investment route offered by mutual funds, allowing you to invest a fixed amount of money regularly (monthly or quarterly) into a chosen mutual fund scheme instead of making a one-time lump-sum payment.
+            </div>
+        </details>
+
+        <details class="group border border-gray-200 rounded-lg">
+            <summary class="flex items-center justify-between p-4 cursor-pointer select-none font-semibold text-gray-700 hover:text-blue-600">
+                Are SIP returns guaranteed?
+                <span class="transition-transform duration-300 group-open:rotate-180">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                </span>
+            </summary>
+            <div class="p-4 border-t border-gray-200 text-gray-600 text-sm leading-relaxed">
+                No, mutual fund investments are subject to market risks, and returns from SIPs are not guaranteed. However, investing via SIPs helps average out the purchase cost (rupee cost averaging) and reduces the impact of market volatility over the long term.
+            </div>
+        </details>
+
+        <details class="group border border-gray-200 rounded-lg">
+            <summary class="flex items-center justify-between p-4 cursor-pointer select-none font-semibold text-gray-700 hover:text-blue-600">
+                How does the SIP calculator work?
+                <span class="transition-transform duration-300 group-open:rotate-180">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                </span>
+            </summary>
+            <div class="p-4 border-t border-gray-200 text-gray-600 text-sm leading-relaxed">
+                The SIP calculator estimates the future value of your investments using the formula: <strong>FV = P × [({(1 + i)^n} - 1) / i] × (1 + i)</strong>, where P is the monthly investment, i is the monthly interest rate, and n is the total number of monthly payments.
+            </div>
+        </details>
+
+        <details class="group border border-gray-200 rounded-lg">
+            <summary class="flex items-center justify-between p-4 cursor-pointer select-none font-semibold text-gray-700 hover:text-blue-600">
+                Can I change my SIP amount or pause it?
+                <span class="transition-transform duration-300 group-open:rotate-180">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                </span>
+            </summary>
+            <div class="p-4 border-t border-gray-200 text-gray-600 text-sm leading-relaxed">
+                Yes, most mutual fund companies allow you to modify your SIP investment amount, top it up, pause it for a specific period, or stop it entirely without any penalty or lock-in fee.
+            </div>
+        </details>
+    </div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Systematic Investment Plan (SIP)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Systematic Investment Plan (SIP) is an investment route offered by mutual funds, allowing you to invest a fixed amount of money regularly (monthly or quarterly) into a chosen mutual fund scheme instead of making a one-time lump-sum payment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are SIP returns guaranteed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, mutual fund investments are subject to market risks, and returns from SIPs are not guaranteed. However, investing via SIPs helps average out the purchase cost (rupee cost averaging) and reduces the impact of market volatility over the long term."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the SIP calculator work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The SIP calculator estimates the future value of your investments using the formula: FV = P × [({(1 + i)^n} - 1) / i] × (1 + i), where P is the monthly investment, i is the monthly interest rate, and n is the total number of monthly payments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I change my SIP amount or pause it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, most mutual fund companies allow you to modify your SIP investment amount, top it up, pause it for a specific period, or stop it entirely without any penalty or lock-in fee."
+      }
+    }
+  ]
+}
+</script>
+

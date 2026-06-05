@@ -5,6 +5,38 @@ import { getCollection } from 'astro:content';
 const title = "Maritime STCW Exit Exam MCQ Practice | EFA, FPFF, PST, PSSR | Bright Mariner";
 const description = "Practice DG Shipping STCW exit exam MCQs online. Access updated questions for EFA, FPFF, PST, PSSR, TASCO, and more. Improve your pass rate with Bright Mariner.";
 
+const faqs = [
+    {
+        question: "What is a DG Shipping STCW Exit Exam?",
+        answer: "The <strong>DG Shipping Exit Exam</strong> is a mandatory online assessment that maritime students must clear at the end of each STCW modular course to receive their official certificates. The exam tests practical and theoretical safety concepts."
+    },
+    {
+        question: "Which STCW exit exams can I practice on Bright Mariner?",
+        answer: "You can practice exit exam questions for multiple STCW modules, including basic safety courses (EFA, FPFF, PST, PSSR, STSDSD), advanced courses (AFF, PSCRB, MFA, TASCO), and refresher modular courses."
+    },
+    {
+        question: "How is the MCQ practice structured?",
+        answer: "Questions are grouped into interactive sets of 30 questions each, which mimics the pattern and time constraints of the official DG Shipping examination portal. Explanations are provided for incorrect answers."
+    },
+    {
+        question: "Are these practice tests free to use?",
+        answer: "Yes, all practice sets, question explanations, and study resources on Bright Mariner are completely free for all seafarers and maritime professionals."
+    }
+];
+
+const faqPageSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqs.map(faq => ({
+        "@type": "Question",
+        "name": faq.question,
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": faq.answer.replace(/<\/?[^>]+(>|$)/g, "")
+        }
+    }))
+};
+
 const allQuestions = await getCollection('questions');
 const courseIds = [...new Set(allQuestions.map(q => q.data.courseId))];
 
@@ -65,6 +97,9 @@ const activeCategories = categories.map(cat => ({
             ]
         }
     </script>
+    <!-- FAQPage Structured Data -->
+    <script type="application/ld+json" set:html={JSON.stringify(faqPageSchema)} />
+
     <div class="py-24 px-6 lg:px-8 bg-canvas-soft min-h-[calc(100vh-64px)]">
         <div class="max-w-5xl mx-auto">
             <header class="mb-16">
@@ -125,6 +160,31 @@ const activeCategories = categories.map(cat => ({
                     </div>
                 </section>
             )}
+
+            {/* FAQs Section with custom interactive accordion details style */}
+            <section class="mt-24 space-y-6" aria-labelledby="faq-title">
+                <div class="h-px bg-hairline mb-12"></div>
+                <h2 id="faq-title" class="text-2xl font-semibold tracking-tight text-ink">
+                    Exit Exam Practice FAQs
+                </h2>
+                <div class="space-y-4">
+                    {faqs.map(faq => (
+                        <details class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden">
+                            <summary class="flex items-center justify-between p-6 cursor-pointer select-none">
+                                <h3 class="text-lg font-medium text-ink group-open:text-primary transition-colors">
+                                    {faq.question}
+                                </h3>
+                                <span class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </span>
+                            </summary>
+                            <div class="px-6 pb-6 text-sm text-body leading-relaxed border-t border-hairline pt-4" set:html={faq.answer} />
+                        </details>
+                    ))}
+                </div>
+            </section>
         </div>
     </div>
 </Layout>

@@ -15,6 +15,19 @@ export async function getStaticPaths() {
 // 2. Fetch data via props
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+
+const faqPageSchema = entry.data.faqs && entry.data.faqs.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": entry.data.faqs.map(faq => ({
+    "@type": "Question",
+    "name": faq.question,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": faq.answer.replace(/<\/?[^>]+(>|$)/g, "") // Strip HTML tags for schema text
+    }
+  }))
+} : null;
 ---
 <Layout 
 	title={`${entry.data.title} - Bright Mariner`}
@@ -56,6 +69,10 @@ const { Content } = await render(entry);
 			}
 		}
 	</script>
+
+	{faqPageSchema && (
+		<script type="application/ld+json" set:html={JSON.stringify(faqPageSchema)} />
+	)}
 
 	<main class="post-container">
 		<article class="article">

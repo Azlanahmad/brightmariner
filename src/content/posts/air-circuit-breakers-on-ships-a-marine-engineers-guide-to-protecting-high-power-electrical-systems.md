@@ -3,6 +3,15 @@ title: "Air Circuit Breakers on Ships: A Marine Engineer's Guide to Protecting H
 description: "Read about Air Circuit Breakers on Ships: A Marine Engineer's Guide to Protecting High-Power Electrical Systems on Bright Mariner."
 date: 2026-03-24T21:29:48.000Z
 categories: ["Marine Engineering"]
+faqs:
+  - question: "How often should ACBs be tested?"
+    answer: "Trip test monthly using test button. Full inspection annually or after 1,000 operations. High-duty breakers (generator units) need more frequent attention."
+  - question: "What's the difference between ACB and MCCB?"
+    answer: "ACBs (Air Circuit Breakers) are larger, adjustable, and maintainable for high-current applications (>800A). MCCBs (Molded Case) are factory-sealed, fixed ratings, and replaced rather than repaired. Ships use ACBs for main power, MCCBs for distribution."
+  - question: "Why did my ACB trip but show no fault?"
+    answer: "Check trip unit display for trip reason (overcurrent, short, ground). If no indication, possible mechanical trip from vibration, control voltage dip, or undervoltage release. Also verify it wasn't manually tripped."
+  - question: "Can I upgrade my old ACB with electronic trip unit?"
+    answer: "Many manufacturers offer retrofit kits. Check compatibility—frame size, mounting, and CT ratios must match. Electronic units provide better protection and diagnostics worth the upgrade cost."
 ---
 
 <p><em>Last Updated: March 2026 | Reading Time: 9 minutes</em></p>

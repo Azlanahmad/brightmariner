@@ -4,6 +4,13 @@ description: "Read about How to Complete PSSR Amendment 2026 Course (ID 957): A 
 date: 2026-03-22T10:49:00.000Z
 tags: ["PSSR Amendment 2026"]
 categories: ["Marine Engineering"]
+faqs:
+  - question: "Is there a fee for the PSSR Amendment 2026 course?"
+    answer: "Currently, this is a free e-learning module provided by DG Shipping for all Indian seafarers."
+  - question: "Can I do this course on my mobile?"
+    answer: "Yes, the DGS e-learning portal is accessible via mobile browsers, though a laptop is recommended for a better experience during the final assessment."
+  - question: "How long is the certificate valid?"
+    answer: "The amendment certificate does not have an expiry date; it permanently updates your existing PSSR qualification to the 2026 standards."
 ---
 
 <p>The Directorate General of Shipping (DGS) has introduced a mandatory update for Indian seafarers: the <strong>PSSR Amendment 2026 course (Course ID 957)</strong>. This new e-learning module is essential for staying compliant with the latest STCW standards.</p>

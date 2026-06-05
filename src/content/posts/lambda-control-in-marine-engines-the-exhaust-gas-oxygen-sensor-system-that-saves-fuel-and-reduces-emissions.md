@@ -3,6 +3,17 @@ title: "Lambda Control in Marine Engines: The Exhaust Gas Oxygen Sensor System T
 description: "Read about Lambda Control in Marine Engines: The Exhaust Gas Oxygen Sensor System That Saves Fuel and Reduces Emissions on Bright Mariner."
 date: 2026-03-24T12:51:23.000Z
 categories: ["Marine Engineering"]
+faqs:
+  - question: "What's the difference between lambda and air-fuel ratio?"
+    answer: "Lambda is normalized air-fuel ratio—actual AFR divided by stoichiometric AFR. Lambda of 1.0 means stoichiometric regardless of fuel type. For marine diesel, stoichiometric AFR is about 14.5:1, so lambda 1.2 equals AFR of 17.4:1."
+  - question: "How long do lambda sensors last on ships?"
+    answer: "Expect 8,000-12,000 hours with proper installation. Heavy fuel oil sulfur content, poor combustion, and thermal cycling reduce life. Always carry spares—failed sensors cause fuel penalty immediately."
+  - question: "Can lambda sensors work with scrubbers installed?"
+    answer: "Yes, but mount upstream of wet scrubbers. Wet exhaust gas damages standard lambda sensors. Some systems use special waterproof sensors or sample dry gas from before scrubber."
+  - question: "Why does my lambda reading fluctuate at steady load?"
+    answer: "Check for exhaust pressure pulsations (turbocharger surge?), electrical interference, or loose connections. Also verify sensor heater is functioning—cool sensors give erratic readings."
+  - question: "Is lambda control worth retrofitting to older engines?"
+    answer: "Usually yes for engines with electronic fuel control. Mechanical engines require additional actuators. Calculate ROI based on fuel consumption—typically 2-5% improvement justifies retrofit on vessels burning 20+ tons/day."
 ---
 
 <p><em>Last Updated: March 2026 | Reading Time: 8 minutes</em></p>

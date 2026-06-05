@@ -49,6 +49,122 @@ const courseName = courseNames[baseCourseId as string] || baseCourseId?.toUpperC
 
 const title = `${courseName} Exit Exam MCQ Questions & Answers | Bright Mariner`;
 const description = `Practice ${courseName} exit exam questions and answers. Access multiple sets of updated STCW MCQs for DG Shipping exams. Improve your preparation with Bright Mariner.`;
+
+// Define dynamic FAQ data for each course type
+const getFaqs = (courseId: string, name: string) => {
+  const defaultFaqs = [
+    {
+      question: `What is the ${name} exit exam?`,
+      answer: `The <strong>${name} exit exam</strong> is a mandatory assessment conducted for maritime professionals under DG Shipping regulations to verify proficiency in the respective STCW modular course.`
+    },
+    {
+      question: `How many questions are in the ${name} exit exam?`,
+      answer: `The ${name} exit exam typically consists of 30 multiple-choice questions (MCQs) that must be answered within a specified time limit of 30 minutes.`
+    },
+    {
+      question: `What is the passing criteria for the ${name} exit exam?`,
+      answer: `To pass the ${name} exit exam, candidates must score at least 60% (which equals 18 correct answers out of 30 questions) as per standard DG Shipping guidelines.`
+    },
+    {
+      question: `Are these ${name} exit exam questions updated?`,
+      answer: `Yes, all ${name} exit exam practice questions and sets on Bright Mariner are regularly updated to align with the latest syllabus, exam patterns, and databases used in official maritime examinations.`
+    }
+  ];
+
+  const courseSpecific: Record<string, { question: string; answer: string }[]> = {
+    efa: [
+      {
+        question: "What topics are covered in the Elementary First Aid (EFA) exit exam?",
+        answer: "The EFA exit exam covers basic life support, CPR (Cardiopulmonary Resuscitation), control of bleeding, treatment of shock, handling burns and scalds, bandage application, and passenger/crew rescue procedures."
+      },
+      {
+        question: "How can I prepare for the EFA exit exam effectively?",
+        answer: "You can prepare by practicing online MCQ sets, reviewing basic first aid manuals, and taking the interactive practice tests on Bright Mariner. Regular practice of the 30-question sets helps improve speed and retention."
+      }
+    ],
+    fpff: [
+      {
+        question: "What topics are covered in the Fire Prevention & Fire Fighting (FPFF) exit exam?",
+        answer: "The FPFF exit exam focuses on the chemistry of fire, classes of fire (A, B, C, D, K), portable fire extinguishers, fixed fire-fighting installations, breathing apparatus (SCBA), and emergency organization aboard ship."
+      },
+      {
+        question: "Is there a practical component required along with the FPFF exit exam?",
+        answer: "Yes, the FPFF course includes both practical firefighting drills at an approved maritime training institute and the online DG Shipping exit exam. Both must be completed to obtain the certificate."
+      }
+    ],
+    pst: [
+      {
+        question: "What topics are covered in the Personal Survival Techniques (PST) exit exam?",
+        answer: "The PST exit exam covers sea survival principles, emergency situations, life-saving appliances (lifeboats, liferafts, lifejackets, immersion suits), personal protective equipment, and survival craft evacuation procedures."
+      },
+      {
+        question: "What is the passing score for the PST exit exam?",
+        answer: "You must score at least 60% (18 marks out of 30) to pass the PST exit exam. There is no negative marking in the DG Shipping exam."
+      }
+    ],
+    pssr: [
+      {
+        question: "What topics are covered in the Personal Safety & Social Responsibilities (PSSR) exit exam?",
+        answer: "The PSSR exit exam assesses shipboard safety procedures, accident prevention, emergency signals, prevention of marine pollution (MARPOL), effective communication, human relations, and general welfare on board."
+      },
+      {
+        question: "Why is the PSSR course mandatory for seafarers?",
+        answer: "PSSR is a mandatory STCW course designed to ensure seafarers understand safety procedures, pollution prevention, and human relations on board, helping to ensure a safe and harmonious working environment."
+      }
+    ],
+    mfa: [
+      {
+        question: "What topics are covered in the Medical First Aid (MFA) exit exam?",
+        answer: "The MFA exit exam covers first aid kits, body structure and functions, toxicological hazards, spinal injury management, pharmacology basics, sterile dressing, and coordinating with radio medical advice."
+      },
+      {
+        question: "How many questions from these practice sets appear in the actual MFA exit exam?",
+        answer: "Bright Mariner practice sets cover the most frequently asked questions. Historically, users report that more than 25 questions in the actual DG exit exam are highly similar to the questions in these sets."
+      }
+    ],
+    tasco: [
+      {
+        question: "What topics are covered in the TASCO exit exam?",
+        answer: "The TASCO exit exam focuses on the physical and chemical properties of oil cargo, cargo oil pumps, piping systems, venting and inert gas systems, crude oil washing (COW), pollution prevention, and hazard control."
+      },
+      {
+        question: "Who needs to take the TASCO exit exam?",
+        answer: "Deck and engine officers, as well as ratings who have immediate responsibility for loading, discharging, care in transit, or handling oil cargo on tankers, must complete the TASCO course and pass the exit exam."
+      }
+    ],
+    stsdsd: [
+      {
+        question: "What topics are covered in the STSDSD exit exam?",
+        answer: "The STSDSD exam covers maritime security terms, maritime security levels (1, 2, 3), ship security plans, recognition of weapons and dangerous substances, crowd management, and emergency security drills."
+      },
+      {
+        question: "What does STSDSD stand for?",
+        answer: "STSDSD stands for Security Training for Seafarers with Designated Security Duties. It is a mandatory course for seafarers who have security duties assigned under the Ship Security Plan."
+      }
+    ]
+  };
+
+  const specific = courseSpecific[courseId];
+  if (specific) {
+    return [...specific, ...defaultFaqs.slice(1)];
+  }
+  return defaultFaqs;
+};
+
+const faqs = getFaqs(baseCourseId, courseName);
+
+const faqPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(faq => ({
+    "@type": "Question",
+    "name": faq.question,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": faq.answer.replace(/<\/?[^>]+(>|$)/g, "") // Strip HTML tags for clean schema text
+    }
+  }))
+};
 ---
 
 <Layout title={title} description={description}>
@@ -79,6 +195,9 @@ const description = `Practice ${courseName} exit exam questions and answers. Acc
             ]
         }
     </script>
+    <!-- FAQPage Structured Data -->
+    <script type="application/ld+json" set:html={JSON.stringify(faqPageSchema)} />
+
     <div class="py-24 px-6 lg:px-8 bg-canvas-soft min-h-[calc(100vh-64px)]">
         <div class="max-w-5xl mx-auto">
             <nav class="flex items-center gap-2 text-xs font-mono uppercase tracking-widest text-mute mb-8">
@@ -119,6 +238,31 @@ const description = `Practice ${courseName} exit exam questions and answers. Acc
                     <a href="/mcq" class="text-link hover:underline">Back to MCQ Practice</a>
                 </div>
             )}
+
+            {/* FAQs Section with custom interactive accordion details style */}
+            <section class="mt-20 space-y-6" aria-labelledby="faq-title">
+                <div class="h-px bg-hairline mb-12"></div>
+                <h2 id="faq-title" class="text-2xl font-semibold tracking-tight text-ink">
+                    {courseName} Exit Exam FAQs
+                </h2>
+                <div class="space-y-4">
+                    {faqs.map(faq => (
+                        <details class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden">
+                            <summary class="flex items-center justify-between p-6 cursor-pointer select-none">
+                                <h3 class="text-lg font-medium text-ink group-open:text-primary transition-colors">
+                                    {faq.question}
+                                </h3>
+                                <span class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </span>
+                            </summary>
+                            <div class="px-6 pb-6 text-sm text-body leading-relaxed border-t border-hairline pt-4" set:html={faq.answer} />
+                        </details>
+                    ))}
+                </div>
+            </section>
         </div>
     </div>
 </Layout>

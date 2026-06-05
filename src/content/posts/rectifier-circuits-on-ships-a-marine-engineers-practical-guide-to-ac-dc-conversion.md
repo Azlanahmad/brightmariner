@@ -1,8 +1,19 @@
 ---
-title: "Rectifier Circuits on Ships: A Marine Engineer's Practical Guide to AC-DC Conversion"
+title: "Rectifier Circuits on Ships: A Marine Engineer's Guide to AC-DC Conversion"
 description: "Read about Rectifier Circuits on Ships: A Marine Engineer's Practical Guide to AC-DC Conversion on Bright Mariner."
 date: 2026-03-24T12:44:32.000Z
 categories: ["Marine Engineering"]
+faqs:
+  - question: "How long do rectifier diodes typically last on ships?"
+    answer: "With proper heat management, silicon rectifier diodes last 10-15 years. Premature failures usually indicate poor ventilation, voltage spikes, or undersized heat sinks. Check operating temperatures quarterly."
+  - question: "Can I replace a single failed diode, or should I replace the entire bridge?"
+    answer: "Replace the entire bridge assembly. Diodes age similarly—if one fails, others are likely near end-of-life. Matching characteristics in new-old diode pairs also prevents current imbalances."
+  - question: "Why does my battery charger show high ripple after rectifier replacement?"
+    answer: "Check filter capacitors. Rectifier failure often damages capacitors through excessive ripple current. Test capacitor ESR (equivalent series resistance) or simply replace them if over 5 years old."
+  - question: "What's the difference between a diode and an SCR in marine applications?"
+    answer: "Diodes conduct automatically when forward-biased; SCRs (thyristors) require a gate pulse to turn on. SCRs enable voltage control for battery chargers and motor drives, but are more complex and failure-prone than simple diodes."
+  - question: "How do I size a replacement rectifier for my ship's battery charger?"
+    answer: "Calculate: 1.5x maximum charging current for current rating, and 2x maximum peak AC voltage for voltage rating. Marine environments require at least IP54 rating and good heat sinking."
 ---
 
 <p><strong>Rectifier Circuits on Ships: A Marine Engineer's Practical Guide to AC-DC Conversion</strong></p>

@@ -3,6 +3,17 @@ title: "Thermocouples on Ships: The Marine Engineer's Guide to Temperature Measu
 description: "Read about Thermocouples on Ships: The Marine Engineer's Guide to Temperature Measurement That Actually Works on Bright Mariner."
 date: 2026-03-24T12:50:43.000Z
 categories: ["Marine Engineering"]
+faqs:
+  - question: "Why does my exhaust gas thermocouple read 50°C lower than expected?"
+    answer: "Check thermowell fouling (soot buildup insulates the sensor) and insertion depth. Also verify you're using Type K (not Type J) for high temperatures—Type J tops out at 760°C and will read low or fail above that."
+  - question: "Can I splice thermocouple extension cable onboard?"
+    answer: "Yes, using proper thermocouple connectors or crimp terminals matching the alloy. Avoid soldering—solder introduces a third metal junction that creates measurement errors. Use crimp connections and ensure polarity is maintained."
+  - question: "How do I troubleshoot erratic temperature readings?"
+    answer: "Check for loose terminals first (80% of problems). Then inspect for wire abrasion or moisture intrusion. Finally, verify no nearby electromagnetic sources (VFDs, welding) are causing interference. Shielded cable or relocation usually fixes interference."
+  - question: "What's the difference between grounded and ungrounded junction thermocouples?"
+    answer: "Grounded junctions have the sensing tip welded to the thermowell for fast response but can pick up electrical noise. Ungrounded (isolated) junctions have slower response but eliminate ground loop problems. Use ungrounded for bearings and electronics, grounded for exhaust and combustion."
+  - question: "Should I replace thermocouples on a schedule or wait for failure?"
+    answer: "Replace critical sensors (exhaust gas, bearing temperatures) every 3-5 years regardless of apparent function. Drift occurs gradually and can mask developing machinery problems. Non-critical applications can run to failure, but keep spares accessible."
 ---
 
 <p><em>Last Updated: March 2026 | Reading Time: 7 minutes</em></p>
