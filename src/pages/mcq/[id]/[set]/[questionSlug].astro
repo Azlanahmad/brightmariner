@@ -45,7 +45,7 @@ export async function getStaticPaths() {
       if (i > 0) {
         const prevQ = questions[i - 1];
         const prevSetNum = prevQ.data.set || Math.ceil(i / setSize);
-        prevUrl = `/mcq/${courseId}-exit-exam-questions-answers/${prevSetNum}/${slugify(prevQ.data.text)}-${prevQ.data.id}`;
+        prevUrl = `/mcq/${courseId}-exit-exam-questions-answers/${prevSetNum}/${slugify(prevQ.data.text)}-${prevQ.data.id}/`;
       }
       
       // Determine next question URL
@@ -53,7 +53,7 @@ export async function getStaticPaths() {
       if (i < questions.length - 1) {
         const nextQ = questions[i + 1];
         const nextSetNum = nextQ.data.set || Math.ceil((i + 2) / setSize);
-        nextUrl = `/mcq/${courseId}-exit-exam-questions-answers/${nextSetNum}/${slugify(nextQ.data.text)}-${nextQ.data.id}`;
+        nextUrl = `/mcq/${courseId}-exit-exam-questions-answers/${nextSetNum}/${slugify(nextQ.data.text)}-${nextQ.data.id}/`;
       }
       
       paths.push({
@@ -102,7 +102,7 @@ const courseName = courseNames[baseCourseId as string] || baseCourseId?.toUpperC
 const title = `${question.text.substring(0, 60)}... | ${courseName} MCQ Question | Bright Mariner`;
 const description = `Correct answer and explanation for the STCW exam question: "${question.text}". Learn and practice exam questions for ${courseName}.`;
 
-const canonicalURL = `https://brightmariner.com/mcq/${id}/${set}/${questionSlug}`;
+const canonicalURL = `https://brightmariner.com/mcq/${id}/${set}/${questionSlug}/`;
 
 // Structured Data
 const correctOption = question.options.find(o => o.id === question.correctOptionId);
@@ -154,25 +154,25 @@ const breadcrumbSchema = {
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://brightmariner.com"
+      "item": "https://brightmariner.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "MCQ Practice",
-      "item": "https://brightmariner.com/mcq"
+      "item": "https://brightmariner.com/mcq/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": courseName,
-      "item": `https://brightmariner.com/mcq/${id}`
+      "item": `https://brightmariner.com/mcq/${id}/`
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": `Set ${setNumber}`,
-      "item": `https://brightmariner.com/mcq/${id}/${setNumber}`
+      "item": `https://brightmariner.com/mcq/${id}/${setNumber}/`
     },
     {
       "@type": "ListItem",
@@ -197,11 +197,11 @@ const schemaGraph = {
             
             <!-- Breadcrumbs -->
             <nav class="flex items-center gap-2 text-xs font-mono uppercase tracking-widest text-mute mb-8 flex-wrap">
-                <a href="/mcq" class="hover:text-ink transition-colors">Practice</a>
+                <a href="/mcq/" class="hover:text-ink transition-colors">Practice</a>
                 <span>/</span>
-                <a href={`/mcq/${id}`} class="hover:text-ink transition-colors">{baseCourseId}</a>
+                <a href={`/mcq/${id}/`} class="hover:text-ink transition-colors">{baseCourseId}</a>
                 <span>/</span>
-                <a href={`/mcq/${id}/${set}`} class="hover:text-ink transition-colors">Set {set}</a>
+                <a href={`/mcq/${id}/${set}/`} class="hover:text-ink transition-colors">Set {set}</a>
                 <span>/</span>
                 <span class="text-ink">Question {qIndex}</span>
             </nav>
@@ -273,7 +273,7 @@ const schemaGraph = {
                     <div />
                 )}
 
-                <a href={`/mcq/${id}/${set}`} class="text-sm font-medium text-body hover:text-ink transition-colors px-4 py-2 hover:bg-canvas-soft-2 rounded-lg">
+                <a href={`/mcq/${id}/${set}/`} class="text-sm font-medium text-body hover:text-ink transition-colors px-4 py-2 hover:bg-canvas-soft-2 rounded-lg">
                     Back to Practice Set {set}
                 </a>
 

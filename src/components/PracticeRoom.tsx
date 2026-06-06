@@ -106,7 +106,7 @@ export default function PracticeRoom({ questions, courseName }: PracticeRoomProp
             <RotateCcw className="w-4 h-4" />
             Try Again
           </button>
-          <a href="/mcq" className="w-full sm:w-auto px-8 py-3 bg-canvas text-ink font-medium border border-hairline rounded-full hover:bg-canvas-soft-2 transition-all">
+          <a href="/mcq/" className="w-full sm:w-auto px-8 py-3 bg-canvas text-ink font-medium border border-hairline rounded-full hover:bg-canvas-soft-2 transition-all">
             Choose Another Course
           </a>
         </div>

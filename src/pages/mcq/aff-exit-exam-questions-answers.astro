@@ -35,19 +35,19 @@ const description = 'Practice updated AFF exit exam questions online. Study Adva
                     "@type": "ListItem",
                     "position": 1,
                     "name": "Home",
-                    "item": "https://brightmariner.com"
+                    "item": "https://brightmariner.com/"
                 },
                 {
                     "@type": "ListItem",
                     "position": 2,
                     "name": "MCQ Practice",
-                    "item": "https://brightmariner.com/mcq"
+                    "item": "https://brightmariner.com/mcq/"
                 },
                 {
                     "@type": "ListItem",
                     "position": 3,
                     "name": "Advanced Fire Fighting (AFF)",
-                    "item": "https://brightmariner.com/mcq/aff-exit-exam-questions-answers"
+                    "item": "https://brightmariner.com/mcq/aff-exit-exam-questions-answers/"
                 }
             ]
         }
@@ -91,7 +91,7 @@ const description = 'Practice updated AFF exit exam questions online. Study Adva
         <div class="max-w-5xl mx-auto">
             <!-- Breadcrumbs Navigation -->
             <nav class="flex items-center gap-2 text-xs font-mono uppercase tracking-widest text-mute mb-8" aria-label="Breadcrumb">
-                <a href="/mcq" class="hover:text-ink transition-colors">Practice</a>
+                <a href="/mcq/" class="hover:text-ink transition-colors">Practice</a>
                 <span>/</span>
                 <span class="text-ink">AFF</span>
             </nav>
@@ -115,7 +115,7 @@ const description = 'Practice updated AFF exit exam questions online. Study Adva
 
                 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                     {sets.map(setNum => (
-                        <a href={`/mcq/aff-exit-exam-questions-answers/${setNum}`} class="group p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all duration-300">
+                        <a href={`/mcq/aff-exit-exam-questions-answers/${setNum}/`} class="group p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all duration-300">
                             <div class="flex items-center justify-between mb-4">
                                 <span class="text-xs font-mono uppercase tracking-widest text-mute">Set {setNum}</span>
                                 <div class="w-8 h-8 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all duration-300">
@@ -133,7 +133,7 @@ const description = 'Practice updated AFF exit exam questions online. Study Adva
                 {courseQuestions.length === 0 && (
                     <div class="flex flex-col items-center justify-center py-12 bg-canvas border border-hairline rounded-xl">
                         <h3 class="text-xl font-medium text-ink mb-4">No questions available yet.</h3>
-                        <a href="/mcq" class="text-link hover:underline">Back to MCQ Practice</a>
+                        <a href="/mcq/" class="text-link hover:underline">Back to MCQ Practice</a>
                     </div>
                 )}
             </section>

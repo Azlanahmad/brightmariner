@@ -174,19 +174,19 @@ const breadcrumbSchema = {
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://brightmariner.com"
+      "item": "https://brightmariner.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "MCQ Practice",
-      "item": "https://brightmariner.com/mcq"
+      "item": "https://brightmariner.com/mcq/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": courseName,
-      "item": `https://brightmariner.com/mcq/${id}`
+      "item": `https://brightmariner.com/mcq/${id}/`
     }
   ]
 };
@@ -201,7 +201,7 @@ const breadcrumbSchema = {
     <div class="py-24 px-6 lg:px-8 bg-canvas-soft min-h-[calc(100vh-64px)]">
         <div class="max-w-5xl mx-auto">
             <nav class="flex items-center gap-2 text-xs font-mono uppercase tracking-widest text-mute mb-8">
-                <a href="/mcq" class="hover:text-ink transition-colors">Practice</a>
+                <a href="/mcq/" class="hover:text-ink transition-colors">Practice</a>
                 <span>/</span>
                 <span class="text-ink">{baseCourseId}</span>
             </nav>
@@ -217,7 +217,7 @@ const breadcrumbSchema = {
 
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                 {sets.map(setNum => (
-                    <a href={`/mcq/${id}/${setNum}`} class="group p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all">
+                    <a href={`/mcq/${id}/${setNum}/`} class="group p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all">
                         <div class="flex items-center justify-between mb-4">
                             <span class="text-xs font-mono uppercase tracking-widest text-mute">Set {setNum}</span>
                             <div class="w-8 h-8 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all">
@@ -235,7 +235,7 @@ const breadcrumbSchema = {
             {courseQuestions.length === 0 && (
                 <div class="flex flex-col items-center justify-center py-12">
                     <h2 class="text-xl font-medium text-ink mb-4">No questions available yet.</h2>
-                    <a href="/mcq" class="text-link hover:underline">Back to MCQ Practice</a>
+                    <a href="/mcq/" class="text-link hover:underline">Back to MCQ Practice</a>
                 </div>
             )}
 
