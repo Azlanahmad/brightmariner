@@ -6,7 +6,7 @@ tags: ["principal dimensions of ship","ship construction and stability"]
 categories: ["MEO Class IV","Ship Construction and stability"]
 ---
 
-<figure class="wp-block-image aligncenter size-full"><img src="https://brightmariner.com/wp-content/uploads/2023/10/keel-freeboard-deck-beam-the-side.jpg" alt="" class="wp-image-496"/><figcaption class="wp-element-caption"><strong>Principal dimensions of Ship</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/wp-content/uploads/2023/10/keel-freeboard-deck-beam-the-side.jpg" alt="" class="wp-image-496"/><figcaption class="wp-element-caption"><strong>Principal dimensions of Ship</strong></figcaption></figure>
 
 
 

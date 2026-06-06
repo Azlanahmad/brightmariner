@@ -4,7 +4,7 @@ description: "Read about How to Apply for SID Online (2024): DG Shipping SID Car
 date: 2023-10-01T12:13:00.000Z
 tags: ["DG Shipping BSID","How to Apply for SID online","Seafarers Identity document","seafarers identity document apply online"]
 categories: ["How to"]
-image: "https://brightmariner.com/wp-content/uploads/2022/03/how-to-apply-sid-online.png"
+image: "/wp-content/uploads/2022/03/how-to-apply-sid-online.png"
 ---
 
 <p>Seafarer's Identity Document (SID) is one of the important documents before joining a ship as a cadet. &nbsp;The new bio-metric SID has provisions for the barcoding of the biometrics-based identity of seafarers and a centralized database maintained in the issuing country, which can be accessed globally through an interoperable &amp; standard biometric template.</p>

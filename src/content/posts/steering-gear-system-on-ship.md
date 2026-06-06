@@ -4,7 +4,7 @@ description: "Read about Steering Gear System on Ship: Important Questions on Br
 date: 2022-01-24T06:41:55.000Z
 tags: ["Steering Gear System on Ship"]
 categories: ["Marine Auxiliary Machinery"]
-image: "https://brightmariner.com/wp-content/uploads/2022/01/steering-gear.png"
+image: "/wp-content/uploads/2022/01/steering-gear.png"
 ---
 
 <p>Steering Gear is equipment provided on ships to change the direction of the ship during sailing or maneuvering. The Steering Gear works only when the ship is in motion and, does not work when the ship is stationary. </p>

@@ -3,7 +3,7 @@ title: "IMU CET Previous Year Question Paper {PDF Download} | IMU CET 2022 Exam"
 description: "Read about IMU CET Previous Year Question Paper {PDF Download} | IMU CET 2022 Exam on Bright Mariner."
 date: 2021-07-22T18:37:51.000Z
 categories: ["IMU-CET"]
-image: "https://brightmariner.com/wp-content/uploads/2021/07/IMU-cet-exam.png"
+image: "/wp-content/uploads/2021/07/IMU-cet-exam.png"
 ---
 
 <p>Are You searching for the previous year's question paper of IMU CET?</p>
@@ -36,7 +36,7 @@ image: "https://brightmariner.com/wp-content/uploads/2021/07/IMU-cet-exam.png"
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="http://brightmariner.com/wp-content/uploads/2021/07/Screenshot-2021-07-23-at-12.02.17-AM.png" alt="" class="wp-image-124" width="380" height="464"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="/wp-content/uploads/2021/07/Screenshot-2021-07-23-at-12.02.17-AM.png" alt="" class="wp-image-124" width="380" height="464"/></figure></div>
 
 
 

@@ -3,7 +3,7 @@ title: "Marine Refrigeration System: Vapour Compression Cycle"
 description: "Read about Marine Refrigeration System: Vapour Compression Cycle on Bright Mariner."
 date: 2021-05-21T19:09:32.000Z
 categories: ["Marine Engineering"]
-image: "https://brightmariner.com/wp-content/uploads/2021/05/Marine-Refrigeration-plant.jpeg"
+image: "/wp-content/uploads/2021/05/Marine-Refrigeration-plant.jpeg"
 ---
 
 <p>Refrigeration system that works on <strong>Vapour Compression Cycle</strong> has following basic components</p>
@@ -38,11 +38,11 @@ image: "https://brightmariner.com/wp-content/uploads/2021/05/Marine-Refrigeratio
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="http://brightmariner.com/wp-content/uploads/2021/05/floe-diagram-of-a-simplefied-vapour-compression-system-using-R22-refrigerant-1024x621.png" alt="floe diagram of a simplefied vapour compression system using R22 refrigerant" class="wp-image-52" width="808" height="486"/><figcaption><strong>floe diagram of a simplified vapour compression system using R22 refrigerant</strong></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/wp-content/uploads/2021/05/floe-diagram-of-a-simplefied-vapour-compression-system-using-R22-refrigerant-1024x621.png" alt="floe diagram of a simplefied vapour compression system using R22 refrigerant" class="wp-image-52" width="808" height="486"/><figcaption><strong>floe diagram of a simplified vapour compression system using R22 refrigerant</strong></figcaption></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="http://brightmariner.com/wp-content/uploads/2021/05/Vapour-Compression-cycle-on-T-S-diagram.png" alt="Vapour-Compression-cycle-on-T-S-diagram" class="wp-image-47" width="678" height="381"/><figcaption><strong>Vapour-Compression-cycle-on-T-S-diagram</strong></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/wp-content/uploads/2021/05/Vapour-Compression-cycle-on-T-S-diagram.png" alt="Vapour-Compression-cycle-on-T-S-diagram" class="wp-image-47" width="678" height="381"/><figcaption><strong>Vapour-Compression-cycle-on-T-S-diagram</strong></figcaption></figure></div>
 
 
 
@@ -50,11 +50,11 @@ image: "https://brightmariner.com/wp-content/uploads/2021/05/Marine-Refrigeratio
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="http://brightmariner.com/wp-content/uploads/2021/05/Vapour-Compression-Cycle-on-P-V-Diagram.png" alt="Vapour-Compression-Cycle-on-P-V-Diagram" class="wp-image-46" width="542" height="244"/><figcaption><strong>Vapour-Compression-Cycle-on-P-V-Diagram</strong></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/wp-content/uploads/2021/05/Vapour-Compression-Cycle-on-P-V-Diagram.png" alt="Vapour-Compression-Cycle-on-P-V-Diagram" class="wp-image-46" width="542" height="244"/><figcaption><strong>Vapour-Compression-Cycle-on-P-V-Diagram</strong></figcaption></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="http://brightmariner.com/wp-content/uploads/2021/05/Vapour-Compression-System.png" alt="Vapour Compression System" class="wp-image-48" width="525" height="302"/><figcaption><strong>Vapour Compression System</strong></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/wp-content/uploads/2021/05/Vapour-Compression-System.png" alt="Vapour Compression System" class="wp-image-48" width="525" height="302"/><figcaption><strong>Vapour Compression System</strong></figcaption></figure></div>
 
 
 

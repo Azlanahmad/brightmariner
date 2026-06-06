@@ -4,7 +4,7 @@ description: "Read about Different Problems and Troubleshooting of Marine Refrig
 date: 2023-07-27T19:56:00.000Z
 tags: ["Common Problems Found in Ship’s Refrigeration System","Troubleshooting","Troubleshooting and Repair of Marine Refrigeration Systems","Troubleshooting of Marine Refrigeration System on Ship"]
 categories: ["Marine Engineering","Marine Refrigeration, Air Conditioning and Ventilation"]
-image: "https://brightmariner.com/wp-content/uploads/2021/05/Marine-Refrigeration-plant.jpeg"
+image: "/wp-content/uploads/2021/05/Marine-Refrigeration-plant.jpeg"
 ---
 
 <p>As a Marine Engineer, you may face many problems onboard a ship. The refrigeration system can also get into some trouble from time to time. Some of these problems are common but require immediate attention.</p>

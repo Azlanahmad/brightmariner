@@ -3,7 +3,7 @@ title: "Marine Fuel Oil Centrifugal Purifier on Ship | Centrifuge"
 description: "Read about Marine Fuel Oil Centrifugal Purifier on Ship | Centrifuge on Bright Mariner."
 date: 2021-09-20T06:02:50.000Z
 categories: ["Marine Auxiliary Machinery","Marine Engineering"]
-image: "https://brightmariner.com/wp-content/uploads/2021/09/fuel-oil-purifier_digital_art_x4.jpg"
+image: "/wp-content/uploads/2021/09/fuel-oil-purifier_digital_art_x4.jpg"
 ---
 
 <p>Marine Fuel Oil Purifier is one the most important Auxiliary machinery on board a ship. It is also known as a centrifugal purifier or Centrifuge. </p>

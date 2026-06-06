@@ -50,7 +50,12 @@ for (const item of items) {
 		const postId = getCdataOrValue(item['wp:post_id']);
 		const url = getCdataOrValue(item['wp:attachment_url']) || getCdataOrValue(item.guid);
 		if (postId && url) {
-			attachmentMap.set(postId.toString().trim(), url.trim());
+			let cleanUrl = url.trim();
+			const wpIdx = cleanUrl.indexOf('wp-content/uploads/');
+			if (wpIdx !== -1) {
+				cleanUrl = '/' + cleanUrl.substring(wpIdx);
+			}
+			attachmentMap.set(postId.toString().trim(), cleanUrl);
 		}
 	}
 }
@@ -95,6 +100,8 @@ for (const item of items) {
 		
 		// Content
 		let content = getCdataOrValue(item['content:encoded']);
+		// Replace absolute URLs pointing to wp-content/uploads/ with relative ones
+		content = content.replace(/(?:https?:)?\/\/(?:www\.)?brightmariner\.com\/wp-content\/uploads\//g, '/wp-content/uploads/');
 		
 		// Categories & Tags
 		const tags = [];

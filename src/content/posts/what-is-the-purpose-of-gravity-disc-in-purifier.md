@@ -4,7 +4,7 @@ description: "Read about Purpose of Gravity Disc in Purifier and How to select S
 date: 2022-01-22T10:42:14.000Z
 tags: ["centrifuge","Gravity Disc","purifier","size of gravity disc"]
 categories: ["Marine Engineering","Marine Purifier"]
-image: "https://brightmariner.com/wp-content/uploads/2022/01/gravity-disc.webp"
+image: "/wp-content/uploads/2022/01/gravity-disc.webp"
 ---
 
 <p>Gravity Disk in Purifier&nbsp;<strong>alters the location of the oil-water interface</strong> and is <strong>responsible for creating an interface between the oil and water</strong>. </p>
@@ -63,7 +63,7 @@ image: "https://brightmariner.com/wp-content/uploads/2022/01/gravity-disc.webp"
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://brightmariner.com/wp-content/uploads/2023/10/Purifier-Nomogram-Showing-falling-curve.webp" alt="" class="wp-image-565" style="aspect-ratio:1.3447782546494993;width:461px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/wp-content/uploads/2023/10/Purifier-Nomogram-Showing-falling-curve.webp" alt="" class="wp-image-565" style="aspect-ratio:1.3447782546494993;width:461px;height:auto"/></figure>
 
 
 

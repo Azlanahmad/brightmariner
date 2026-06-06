@@ -4,7 +4,7 @@ description: "Read about Main Engine Interlocks of Marine Diesel Engine on Brigh
 date: 2023-08-19T13:15:45.000Z
 tags: ["interlocks","Main Engine Interlocks"]
 categories: ["Marine Engineering","MEO Class IV"]
-image: "https://brightmariner.com/wp-content/uploads/2023/08/door-green-closed-lock.jpg"
+image: "/wp-content/uploads/2023/08/door-green-closed-lock.jpg"
 ---
 
 <p><strong>Interlocks are the blocking devices which ensure that the engine can be started or reversed only when certain conditions have been fulfilled. </strong></p>

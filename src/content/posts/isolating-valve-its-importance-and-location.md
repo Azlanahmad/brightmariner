@@ -4,7 +4,7 @@ description: "Read about Isolating valve: Its Importance and Location on Bright 
 date: 2021-04-27T16:27:26.000Z
 tags: ["Isolating valve","Isolation valve"]
 categories: ["Ship Fire Prevention and Control"]
-image: "https://brightmariner.com/wp-content/uploads/2021/04/main-fire-system.jpeg"
+image: "/wp-content/uploads/2021/04/main-fire-system.jpeg"
 ---
 
 <p>An <em>Isolation Valve</em> is used in fluid management to stop the flow of process fluids in a pipeline, this is usually for maintenance or safety purposes.</p>
@@ -15,7 +15,7 @@ image: "https://brightmariner.com/wp-content/uploads/2021/04/main-fire-system.jp
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://brightmariner.com/wp-content/uploads/2021/04/main-fire-system.jpeg" alt="" class="wp-image-39"/><figcaption>Source: https://www.marineengineersknowledge.com/2020/09/purpose-of-isolating-valves-and-relief.html</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/wp-content/uploads/2021/04/main-fire-system.jpeg" alt="" class="wp-image-39"/><figcaption>Source: https://www.marineengineersknowledge.com/2020/09/purpose-of-isolating-valves-and-relief.html</figcaption></figure></div>
 
 
 

@@ -4,7 +4,7 @@ description: "Read about Air Circuit Breaker (ACB) safeties on Ship as per SOLAS
 date: 2023-10-19T03:26:08.000Z
 tags: ["acb on ship","acb safeties","ACB safeties as per solas","electrical safeties"]
 categories: ["Electrical","MEO Class IV"]
-image: "https://brightmariner.com/wp-content/uploads/2023/10/acb.png"
+image: "/wp-content/uploads/2023/10/acb.png"
 ---
 
 <p>An Air Circuit Breaker (ACB) is an electrical device that protects low voltage circuits from overcurrent and short circuits. They work by using pressurized air to eliminate arcs that are created when the contacts separate.&nbsp;This keeps the current steady and safe.</p>

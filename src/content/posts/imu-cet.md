@@ -4,7 +4,7 @@ description: "Prepare for success with the IMU CET exam. This comprehensive guid
 date: 2023-08-27T13:23:41.000Z
 tags: ["imu cet","imu cet exam"]
 categories: ["Marine Engineering"]
-image: "https://brightmariner.com/wp-content/uploads/2023/08/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZmw0ODg1ODcwNTY0Ni1pbWFnZS1rcHdmbGU0ZC1remVtaDhudS5qcGc-1.jpg"
+image: "/wp-content/uploads/2023/08/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZmw0ODg1ODcwNTY0Ni1pbWFnZS1rcHdmbGU0ZC1remVtaDhudS5qcGc-1.jpg"
 ---
 
 <h2 class="wp-block-heading">IMU CET Introduction</h2>

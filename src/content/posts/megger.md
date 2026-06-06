@@ -3,7 +3,7 @@ title: "Megger: Definition, Working Principle, Construction, Diagram, and Uses o
 description: "Read about Megger: Definition, Working Principle, Construction, Diagram, and Uses on Ship on Bright Mariner."
 date: 2022-03-03T17:11:10.000Z
 categories: ["Electrical","Marine Engineering"]
-image: "https://brightmariner.com/wp-content/uploads/2022/03/megger-.png"
+image: "/wp-content/uploads/2022/03/megger-.png"
 ---
 
 <p>Megger is a device used to measure insulation resistance. Megger is a combination of both<strong> generator and an ohmmeter</strong>. This instrument is used to measure the high-value resistance (IR value).</p>
@@ -34,7 +34,7 @@ image: "https://brightmariner.com/wp-content/uploads/2022/03/megger-.png"
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="http://brightmariner.com/wp-content/uploads/2022/03/Megger-Diagram-1024x538.png" alt=" Megger Circuit Diagram" class="wp-image-307" width="822" height="431"/><figcaption>The parts of Megger are as shown above:</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/wp-content/uploads/2022/03/Megger-Diagram-1024x538.png" alt=" Megger Circuit Diagram" class="wp-image-307" width="822" height="431"/><figcaption>The parts of Megger are as shown above:</figcaption></figure></div>
 
 
 

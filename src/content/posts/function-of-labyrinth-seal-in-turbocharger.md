@@ -4,7 +4,7 @@ description: "Read about Function of Labyrinth Seal in Turbocharger on Bright Ma
 date: 2022-02-10T18:37:10.000Z
 tags: ["Funcition of Labyrinth Seal in Turbocharger","Labyrinth Seal","Labyrinth Seal in Turbocharger"]
 categories: ["Marine Auxiliary Machinery"]
-image: "https://brightmariner.com/wp-content/uploads/2021/05/turbocharger-operation-diagram.jpeg"
+image: "/wp-content/uploads/2021/05/turbocharger-operation-diagram.jpeg"
 ---
 
 <h2 class="wp-block-heading">What is Labyrinth Seal?</h2>
@@ -15,7 +15,7 @@ image: "https://brightmariner.com/wp-content/uploads/2021/05/turbocharger-operat
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://brightmariner.com/wp-content/uploads/2022/02/labyrinth-seal.webp" alt="labyrinth seal" class="wp-image-614" style="aspect-ratio:1.9514767932489452;width:667px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/wp-content/uploads/2022/02/labyrinth-seal.webp" alt="labyrinth seal" class="wp-image-614" style="aspect-ratio:1.9514767932489452;width:667px;height:auto"/></figure>
 
 
 

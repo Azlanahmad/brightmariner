@@ -4,7 +4,7 @@ description: "Read about Intercooler and Aftercooler in Air Compressor on Bright
 date: 2022-06-01T17:20:09.000Z
 tags: ["Aftercooler","Air Compressor","Intercooler","Intercooler and Aftercooler"]
 categories: ["Marine Engineering"]
-image: "https://brightmariner.com/wp-content/uploads/2022/06/4142027_ca5bd02a-1.jpg"
+image: "/wp-content/uploads/2022/06/4142027_ca5bd02a-1.jpg"
 ---
 
 <h2>What is an Intercooler?</h2>
@@ -19,7 +19,7 @@ image: "https://brightmariner.com/wp-content/uploads/2022/06/4142027_ca5bd02a-1.
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img src="http://brightmariner.com/wp-content/uploads/2022/06/air-compressor.png" alt="Air Compressor" class="wp-image-362"/><figcaption>Air Compressor</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/wp-content/uploads/2022/06/air-compressor.png" alt="Air Compressor" class="wp-image-362"/><figcaption>Air Compressor</figcaption></figure>
 
 
 

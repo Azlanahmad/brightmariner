@@ -4,7 +4,7 @@ description: "Read about SOLAS regulations/requirements of Lifeboat on ship on B
 date: 2023-09-09T12:20:05.000Z
 tags: ["lifeboat","lifeboat regulation","lsa","meo class 4 exam fees","solas"]
 categories: ["Featured","Marine Engineering","MEO Class IV"]
-image: "https://brightmariner.com/wp-content/uploads/2023/09/pexels-photo-14349860.jpeg"
+image: "/wp-content/uploads/2023/09/pexels-photo-14349860.jpeg"
 ---
 
 <p>Lifeboat on ships are necessary last resort for those on board in case of emergency and over the years many have been grateful that they were provided.</p>

@@ -4,7 +4,7 @@ description: "Read about What is Starting Air Overlap? Why is it provided? on Br
 date: 2021-10-25T18:04:26.000Z
 tags: ["Starting Air Overlap"]
 categories: ["Marine Auxiliary Machinery","Marine Engineering"]
-image: "https://brightmariner.com/wp-content/uploads/2021/10/engine.jpg"
+image: "/wp-content/uploads/2021/10/engine.jpg"
 ---
 
 <p>Overlap is a period when two (or more) cylinders are receiving the starting Air simultaneously where one cylinder is "phasing out" and the other is "phasing into" the starting air peroid. </p>

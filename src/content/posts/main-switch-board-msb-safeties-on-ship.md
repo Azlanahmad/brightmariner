@@ -4,7 +4,7 @@ description: "Read about Main Switch Board (MSB) Safeties on ship on Bright Mari
 date: 2023-09-24T09:08:53.000Z
 tags: ["Main Switch Board (MSB) Safeties","msb safety"]
 categories: ["Electrical","Featured","Marine Engineering"]
-image: "https://brightmariner.com/wp-content/uploads/2023/09/MSB.webp"
+image: "/wp-content/uploads/2023/09/MSB.webp"
 ---
 
 <h2 class="wp-block-heading">The safeties and protection of Main Switch Board (MSB) are:</h2>

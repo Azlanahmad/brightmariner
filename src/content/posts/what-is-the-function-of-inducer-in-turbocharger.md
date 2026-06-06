@@ -4,7 +4,7 @@ description: "Read about What is the Function of Inducer in Turbocharger? on Bri
 date: 2022-01-12T21:06:00.000Z
 tags: ["Function of Inducer in Turbocharger","Inducer in Turbocharger","What is inducer in turbocharger"]
 categories: ["Marine Engineering"]
-image: "https://brightmariner.com/wp-content/uploads/2021/05/turbocharger-operation-diagram.jpeg"
+image: "/wp-content/uploads/2021/05/turbocharger-operation-diagram.jpeg"
 ---
 
 <p>The <strong>inducer in the turbocharger</strong> is the smaller part of the compressor wheel that sucks ambient filtered air parallel with the driven shaft compresses it and pushes it out the perpendicular bore of the <strong>inducer</strong> horn.</p>

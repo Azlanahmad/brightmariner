@@ -4,7 +4,7 @@ description: "Read about What is Variable Injection Timing(VIT) and how it works
 date: 2024-04-17T10:32:20.000Z
 tags: ["Disadvantages of Variable injection timing","variable injection timing","vit","What is the working principle of Vit?"]
 categories: ["Marine Engineering"]
-image: "https://brightmariner.com/wp-content/uploads/2024/04/vit-1.png"
+image: "/wp-content/uploads/2024/04/vit-1.png"
 ---
 
 <h2 class="wp-block-heading">How fuel quantity and timing is controlled in marine diesel engines? Disadvantages of VIT system | What actions are required in case of VIT system failure?</h2>
@@ -27,7 +27,7 @@ image: "https://brightmariner.com/wp-content/uploads/2024/04/vit-1.png"
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img src="https://brightmariner.com/wp-content/uploads/2024/04/vit-1.png" alt="" class="wp-image-687"/><figcaption class="wp-element-caption">variable injection timing</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/wp-content/uploads/2024/04/vit-1.png" alt="" class="wp-image-687"/><figcaption class="wp-element-caption">variable injection timing</figcaption></figure>
 
 
 
@@ -39,7 +39,7 @@ image: "https://brightmariner.com/wp-content/uploads/2024/04/vit-1.png"
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://brightmariner.com/wp-content/uploads/2024/04/vit-graph-chart.tiff" alt="" class="wp-image-688" style="width:556px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/wp-content/uploads/2024/04/vit-graph-chart.tiff" alt="" class="wp-image-688" style="width:556px;height:auto"/></figure>
 
 
 

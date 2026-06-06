@@ -4,7 +4,7 @@ description: "MSC Shipping Entrance Exam 2024 registration started on 6th march 
 date: 2024-02-16T10:31:28.000Z
 tags: ["MSC Exam","MSC Exam 2024"]
 categories: ["MSC Exam"]
-image: "https://brightmariner.com/wp-content/uploads/2024/02/Screenshot-2024-03-07-at-11.38.28 PM-1-scaled.webp"
+image: "/wp-content/uploads/2024/02/Screenshot-2024-03-07-at-11.38.28 PM-1-scaled.webp"
 ---
 
 <p>Being a Cadet or TME at MSC Shipmanagement Limited is an exciting opportunity for young people who are passionate about a career at sea. The exam is open to both male and female candidates. After you pass out from the Training Institute,&nbsp;you will be assigned to a company vessel as a deck cadet or trainee marine engineer.</p>

@@ -4,7 +4,7 @@ description: "Read about Synergy Exam 2025: Registration, Exam Date, Syllabus, E
 date: 2023-11-28T17:25:00.000Z
 tags: ["synergy entrance exam","synergy exam 2025","synergy exam registration","SYNERGY exam study material"]
 categories: ["Exams","Synergy Maritime Exam"]
-image: "https://brightmariner.com/wp-content/uploads/2022/01/Screenshot-2022-01-12-at-10.40.22-PM.png"
+image: "/wp-content/uploads/2022/01/Screenshot-2022-01-12-at-10.40.22-PM.png"
 ---
 
 <p><strong>Synergy Exam 2025 Date:</strong> The Synergy exam is going to be conducted in the month of <strong>April 2025</strong>. The registration for the Synergy Exam 2025 has been started and you can register yourself from the below Link.</p>
@@ -69,7 +69,7 @@ http://brightmariner.com/how-to-prepare-for-synergy-exam
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="http://brightmariner.com/wp-content/uploads/2022/01/Screenshot-2022-01-12-at-3.56.37-PM-1024x462.png" alt="Synergy Exam Registration" class="wp-image-229"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/wp-content/uploads/2022/01/Screenshot-2022-01-12-at-3.56.37-PM-1024x462.png" alt="Synergy Exam Registration" class="wp-image-229"/></figure>
 
 
 
@@ -333,7 +333,7 @@ http://brightmariner.com/how-to-prepare-for-synergy-exam
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="http://brightmariner.com/wp-content/uploads/2022/01/Question-Pattern-edited.jpeg" alt="" class="wp-image-251"/></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/wp-content/uploads/2022/01/Question-Pattern-edited.jpeg" alt="" class="wp-image-251"/></figure>
 
 
 

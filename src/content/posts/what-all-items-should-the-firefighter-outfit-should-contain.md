@@ -3,7 +3,7 @@ title: "What all items should the Firefighter outfit should contain?"
 description: "Read about What all items should the Firefighter outfit should contain? on Bright Mariner."
 date: 2021-04-28T05:12:39.000Z
 categories: ["Ship Fire Prevention and Control"]
-image: "https://brightmariner.com/wp-content/uploads/2021/04/firefighting.jpeg"
+image: "/wp-content/uploads/2021/04/firefighting.jpeg"
 ---
 
 <p>Fireman’s outfit should contain the following:-</p>

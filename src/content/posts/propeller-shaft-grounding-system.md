@@ -4,7 +4,7 @@ description: "Read about PROPELLER SHAFT GROUNDING SYSTEM on Bright Mariner."
 date: 2022-05-05T17:13:48.000Z
 tags: ["PROPELLER SHAFT GROUNDING SYSTEM"]
 categories: ["Electrical"]
-image: "https://brightmariner.com/wp-content/uploads/2022/05/15787066221_ed616e72f8_b.jpg"
+image: "/wp-content/uploads/2022/05/15787066221_ed616e72f8_b.jpg"
 ---
 
 <p>It consists of a silver alloy metal band (SlipRing). Silver graphite brush and shaft - Hull mV meter. The purpose of this system is to prevent spark erosion by the continuous connection between the Propeller shaft and hull, which lessen resistance between 2 different kinds of metal.</p>

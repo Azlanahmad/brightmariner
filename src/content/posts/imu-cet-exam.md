@@ -4,7 +4,7 @@ description: "Read about IMU-CET 2024 Exam: Application form, Registration, Exam
 date: 2023-08-27T13:11:26.000Z
 tags: ["imu cet","imu cet 2024","imu cet exam"]
 categories: ["IMU-CET"]
-image: "https://brightmariner.com/wp-content/uploads/2023/08/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZmw0ODg1ODcwNTY0Ni1pbWFnZS1rcHdmbGU0ZC1remVtaDhudS5qcGc.jpg"
+image: "/wp-content/uploads/2023/08/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZmw0ODg1ODcwNTY0Ni1pbWFnZS1rcHdmbGU0ZC1remVtaDhudS5qcGc.jpg"
 ---
 
 <p><strong>IMU-CET 2024 Exam: </strong></p>

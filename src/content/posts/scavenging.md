@@ -33,7 +33,7 @@ categories: ["Marine Engineering"]
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://brightmariner.com/wp-content/uploads/2023/04/Screenshot-2023-04-30-at-11.58.55-AM-1.png" alt="" class="wp-image-414" style="width:277px;height:266px"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/wp-content/uploads/2023/04/Screenshot-2023-04-30-at-11.58.55-AM-1.png" alt="" class="wp-image-414" style="width:277px;height:266px"/></figure>
 
 
 
@@ -45,7 +45,7 @@ categories: ["Marine Engineering"]
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://brightmariner.com/wp-content/uploads/2023/04/Screenshot-2023-04-30-at-11.59.03-AM.png" alt="" class="wp-image-415" style="width:229px;height:288px"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/wp-content/uploads/2023/04/Screenshot-2023-04-30-at-11.59.03-AM.png" alt="" class="wp-image-415" style="width:229px;height:288px"/></figure>
 
 
 
@@ -109,7 +109,7 @@ categories: ["Marine Engineering"]
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://brightmariner.com/wp-content/uploads/2023/04/Screenshot-2023-04-30-at-11.58.55-AM.png" alt="" class="wp-image-413" style="width:246px;height:268px"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/wp-content/uploads/2023/04/Screenshot-2023-04-30-at-11.58.55-AM.png" alt="" class="wp-image-413" style="width:246px;height:268px"/></figure>
 
 
 

@@ -46,7 +46,7 @@ categories: ["Marine Purifier"]
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://brightmariner.com/wp-content/uploads/2023/10/Purifier-Nomogram-Showing-falling-curve.webp" alt="" class="wp-image-565" style="aspect-ratio:1.3447782546494993;width:461px;height:auto"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/wp-content/uploads/2023/10/Purifier-Nomogram-Showing-falling-curve.webp" alt="" class="wp-image-565" style="aspect-ratio:1.3447782546494993;width:461px;height:auto"/></figure>
 
 
 

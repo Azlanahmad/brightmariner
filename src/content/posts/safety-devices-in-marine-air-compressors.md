@@ -18,7 +18,7 @@ categories: ["Air Compressor"]
 
 
 
-<figure class="wp-block-image size-large"><img src="https://brightmariner.com/wp-content/uploads/2024/09/safety-compressor-1024x680.png" alt="" class="wp-image-860"/></figure>
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2024/09/safety-compressor-1024x680.png" alt="" class="wp-image-860"/></figure>
 
 
 
@@ -60,7 +60,7 @@ categories: ["Air Compressor"]
 
 
 
-<figure class="wp-block-image size-large"><img src="https://brightmariner.com/wp-content/uploads/2024/09/bursting-disc-1024x773.png" alt="" class="wp-image-861"/></figure>
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2024/09/bursting-disc-1024x773.png" alt="" class="wp-image-861"/></figure>
 
 
 

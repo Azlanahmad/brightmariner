@@ -4,7 +4,7 @@ description: "Read about What are the necessary conditions for parallel operatio
 date: 2022-03-06T10:37:06.000Z
 tags: ["conditions for parallel operation of alternators"]
 categories: ["Electrical"]
-image: "https://brightmariner.com/wp-content/uploads/2022/03/pexels-photo-2680058.jpeg"
+image: "/wp-content/uploads/2022/03/pexels-photo-2680058.jpeg"
 ---
 
 <p>The main objective behind connecting multiple alternators in parallel is to meet the demand because a single alternator cannot supply such a high amount of power on a ship</p>

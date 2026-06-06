@@ -4,7 +4,7 @@ description: "Read about Exhaust Gas Economizer (EGE) Fire | Exhaust Gas Boiler 
 date: 2023-03-02T06:04:00.000Z
 tags: ["EGB fire","EGE","Exhaust Gas Economiser Fire"]
 categories: ["Marine Engineering"]
-image: "https://brightmariner.com/wp-content/uploads/2022/06/EGE-fire.jpg"
+image: "/wp-content/uploads/2022/06/EGE-fire.jpg"
 ---
 
 <p>The Exhaust gas economizer in a ship is a feed-water heater in which the heat from waste gases is recovered. It raises the temperature of feed water supplied to the marine boiler.</p>

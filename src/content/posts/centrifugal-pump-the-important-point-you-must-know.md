@@ -4,7 +4,7 @@ description: "Read about Centrifugal Pump: The Important point you must Know on 
 date: 2023-08-13T17:46:39.000Z
 tags: ["centrifugal pump","important points"]
 categories: ["Marine Engineering"]
-image: "https://brightmariner.com/wp-content/uploads/2023/08/centrifugal_pump.png"
+image: "/wp-content/uploads/2023/08/centrifugal_pump.png"
 ---
 
 <ul>

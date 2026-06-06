@@ -3,7 +3,7 @@ title: "The Potential Of Inland Waterways of India"
 description: "Read about The Potential Of Inland Waterways of India on Bright Mariner."
 date: 2021-07-27T16:16:50.000Z
 categories: ["Featured","Nautical Science"]
-image: "https://brightmariner.com/wp-content/uploads/2021/07/NW1.jpg"
+image: "/wp-content/uploads/2021/07/NW1.jpg"
 ---
 
 <h2>What is Inland waterways?</h2>
@@ -42,7 +42,7 @@ image: "https://brightmariner.com/wp-content/uploads/2021/07/NW1.jpg"
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full"><img src="http://brightmariner.com/wp-content/uploads/2021/07/NW1.jpg" alt="" class="wp-image-130"/><figcaption>Inland Waterways In india</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full"><img src="/wp-content/uploads/2021/07/NW1.jpg" alt="" class="wp-image-130"/><figcaption>Inland Waterways In india</figcaption></figure></div>
 
 
 

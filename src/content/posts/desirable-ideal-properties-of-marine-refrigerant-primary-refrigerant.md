@@ -4,7 +4,7 @@ description: "Read about Desirable Properties of Refrigerant | Ideal Marine Refr
 date: 2021-05-27T19:19:25.000Z
 tags: ["Desirable Properties of Marine Refrigerant","Desirable Properties of Refrigerant","Ideal properties of a Marine Refrigerant","Properties of Marine Refrigerant"]
 categories: ["Marine Engineering","Marine Refrigeration, Air Conditioning and Ventilation"]
-image: "https://brightmariner.com/wp-content/uploads/2021/05/Marine-Refrigeration-plant.jpeg"
+image: "/wp-content/uploads/2021/05/Marine-Refrigeration-plant.jpeg"
 ---
 
 <p><strong>Desirable Properties of Refrigerant</strong>: A refrigerant must have some of the following desirable properties for it to be treated as a Marine Refrigerant.</p>

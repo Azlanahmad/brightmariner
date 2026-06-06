@@ -4,7 +4,7 @@ description: "Read about List of Critical Equipment on Ship on Bright Mariner."
 date: 2024-04-03T11:53:23.000Z
 tags: ["bridge critical equipment list","List of Critical Equipment on Ship","list of critical equipment onboard ship"]
 categories: ["Informational"]
-image: "https://brightmariner.com/wp-content/uploads/2024/04/psc-general-inspection.jpg"
+image: "/wp-content/uploads/2024/04/psc-general-inspection.jpg"
 ---
 
 <p>To ensure the safety of ship operations and comply with the EOHS system, it is necessary that the relevant machinery and equipment provided, and the function of the systems which mobilize such machinery and equipment are maintained properly.</p>

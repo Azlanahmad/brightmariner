@@ -4,7 +4,7 @@ description: "Read about Types of Non-Destructive Tests (NDT) in Shipbuilding on
 date: 2023-08-13T18:11:40.000Z
 tags: ["dye penetration test","Eddy Current Test","liquid penetration test","Magnetic Particle Test","Non Destructive Tests","Radiographic Test","Ultrasonic Test"]
 categories: ["Marine Engineering"]
-image: "https://brightmariner.com/wp-content/uploads/2023/08/pexels-photo-3862632.jpeg"
+image: "/wp-content/uploads/2023/08/pexels-photo-3862632.jpeg"
 ---
 
 <p>Non Destructive tests (NDT) are tests carried out without destroying the weld joints. Non-Destructive Test plays an important role in reducing the chances of weld failure, both through their application during fabrication and through their service.</p>

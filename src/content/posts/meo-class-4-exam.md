@@ -4,7 +4,7 @@ description: "Read about MEO Class 4 Exam: Eligibility, Syllabus, Fees, Courses,
 date: 2022-07-03T12:08:47.000Z
 tags: ["meo class 4 eligibility dg shipping","MEO Class 4 Exam","meo class 4 exam fees","meo class 4 syllabus"]
 categories: ["Exams","MEO Class IV"]
-image: "https://brightmariner.com/wp-content/uploads/2022/07/pexels-photo-1544372.jpeg"
+image: "/wp-content/uploads/2022/07/pexels-photo-1544372.jpeg"
 ---
 
 <p>Hello Everyone, now we are going to discuss MEO Class 4 which is conducted by MMD (DG Shipping).</p>
@@ -99,7 +99,7 @@ image: "https://brightmariner.com/wp-content/uploads/2022/07/pexels-photo-154437
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://brightmariner.com/wp-content/uploads/2022/07/meo-class-4.jpg" alt="MEO Class 4" class="wp-image-379" width="706" height="315"/><figcaption>MEO Class 4</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/wp-content/uploads/2022/07/meo-class-4.jpg" alt="MEO Class 4" class="wp-image-379" width="706" height="315"/><figcaption>MEO Class 4</figcaption></figure>
 
 
 

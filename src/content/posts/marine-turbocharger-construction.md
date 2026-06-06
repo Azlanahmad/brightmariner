@@ -4,7 +4,7 @@ description: "Read about Marine Turbocharger Construction on Bright Mariner."
 date: 2024-09-22T14:30:48.000Z
 tags: ["turbocharger"]
 categories: ["Marine Engineering","Turbocharger"]
-image: "https://brightmariner.com/wp-content/uploads/2022/02/Turbocharger-Labyrinth-Seal.jpg"
+image: "/wp-content/uploads/2022/02/Turbocharger-Labyrinth-Seal.jpg"
 ---
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
@@ -93,7 +93,7 @@ image: "https://brightmariner.com/wp-content/uploads/2022/02/Turbocharger-Labyri
 
 
 
-<figure class="wp-block-image size-large is-resized"><img src="https://brightmariner.com/wp-content/uploads/2024/09/image-1024x596.png" alt="" class="wp-image-854" style="width:967px;height:auto"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/wp-content/uploads/2024/09/image-1024x596.png" alt="" class="wp-image-854" style="width:967px;height:auto"/></figure>
 
 
 

@@ -22,7 +22,7 @@ categories: ["Ship Fire Prevention and Control"]
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="http://brightmariner.com/wp-content/uploads/2021/08/Class-A-Fire.png" alt="" class="wp-image-136" width="502" height="303"/><figcaption>Class A fire</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="/wp-content/uploads/2021/08/Class-A-Fire.png" alt="" class="wp-image-136" width="502" height="303"/><figcaption>Class A fire</figcaption></figure></div>
 
 
 
@@ -30,7 +30,7 @@ categories: ["Ship Fire Prevention and Control"]
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="http://brightmariner.com/wp-content/uploads/2021/08/Class-B-Fire.png" alt="" class="wp-image-138" width="501" height="273"/><figcaption>Class B</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="/wp-content/uploads/2021/08/Class-B-Fire.png" alt="" class="wp-image-138" width="501" height="273"/><figcaption>Class B</figcaption></figure></div>
 
 
 
@@ -38,7 +38,7 @@ categories: ["Ship Fire Prevention and Control"]
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="http://brightmariner.com/wp-content/uploads/2021/08/Class-C-fire.png" alt="" class="wp-image-139" width="443" height="258"/><figcaption>Class C</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="/wp-content/uploads/2021/08/Class-C-fire.png" alt="" class="wp-image-139" width="443" height="258"/><figcaption>Class C</figcaption></figure></div>
 
 
 
@@ -46,7 +46,7 @@ categories: ["Ship Fire Prevention and Control"]
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="http://brightmariner.com/wp-content/uploads/2021/08/Class-D-Fire.png" alt="" class="wp-image-141" width="418" height="233"/><figcaption>Class D</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="/wp-content/uploads/2021/08/Class-D-Fire.png" alt="" class="wp-image-141" width="418" height="233"/><figcaption>Class D</figcaption></figure></div>
 
 
 
@@ -54,7 +54,7 @@ categories: ["Ship Fire Prevention and Control"]
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="http://brightmariner.com/wp-content/uploads/2021/08/Class-K-Fire.png" alt="" class="wp-image-142" width="441" height="248"/><figcaption>Class K</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="/wp-content/uploads/2021/08/Class-K-Fire.png" alt="" class="wp-image-142" width="441" height="248"/><figcaption>Class K</figcaption></figure></div>
 
 
 
@@ -86,7 +86,7 @@ categories: ["Ship Fire Prevention and Control"]
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full"><img src="http://brightmariner.com/wp-content/uploads/2021/08/Fire-Extinguisher-1.png" alt="" class="wp-image-144"/><figcaption>Fire extinguishers used for different classes of fires</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full"><img src="/wp-content/uploads/2021/08/Fire-Extinguisher-1.png" alt="" class="wp-image-144"/><figcaption>Fire extinguishers used for different classes of fires</figcaption></figure></div>
 
 
 
@@ -94,7 +94,7 @@ categories: ["Ship Fire Prevention and Control"]
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="http://brightmariner.com/wp-content/uploads/2021/04/Extinguisher-class-and-colour.png" alt="" class="wp-image-30" width="390" height="348"/><figcaption>Source: https://www.marsden-fire-safety.co.uk/resources/fire-extinguishers</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/wp-content/uploads/2021/04/Extinguisher-class-and-colour.png" alt="" class="wp-image-30" width="390" height="348"/><figcaption>Source: https://www.marsden-fire-safety.co.uk/resources/fire-extinguishers</figcaption></figure></div>
 
 
 

@@ -4,7 +4,7 @@ description: "Read about What are the safety devices fitted in the refrigeration
 date: 2021-05-25T06:29:25.000Z
 tags: ["safety devices fitted in the refrigeration system of ships"]
 categories: ["Marine Engineering"]
-image: "https://brightmariner.com/wp-content/uploads/2021/05/automatic-direct-expansion-refrigeration.jpeg"
+image: "/wp-content/uploads/2021/05/automatic-direct-expansion-refrigeration.jpeg"
 ---
 
 <p>A <a href="http://brightmariner.com/marine-refrigeration-system-vapour-compression-cycle/" target="_blank" data-type="URL" data-id="http://brightmariner.com/marine-refrigeration-system-vapour-compression-cycle/" rel="noreferrer noopener" class="rank-math-link">refrigeration system</a> is the back bone of a reefer ships. So, safety of this system is very essential on ships. </p>

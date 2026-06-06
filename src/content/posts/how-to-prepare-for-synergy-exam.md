@@ -4,7 +4,7 @@ description: "Read about How to prepare for Synergy Exam 2024 (Engine Cadet): Ch
 date: 2022-02-12T15:55:59.000Z
 tags: ["How to prepare for Synergy Exam","Synergy Exam","Synergy Exam 2022","Synergy shipping Exam"]
 categories: ["Synergy Maritime Exam"]
-image: "https://brightmariner.com/wp-content/uploads/2022/02/pexels-photo-442574.jpeg"
+image: "/wp-content/uploads/2022/02/pexels-photo-442574.jpeg"
 ---
 
 <p><strong>Synergy Exam Preparation</strong>: Every year Ship Management Company conducts their exam for recruiting of Trainee Marine Engineer and deck cadets. It is a merit-based transparent exam for seafarers that gives trainees an equal opportunity.</p>
@@ -53,7 +53,7 @@ image: "https://brightmariner.com/wp-content/uploads/2022/02/pexels-photo-442574
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img src="http://brightmariner.com/wp-content/uploads/2022/01/Question-Pattern-edited.jpeg" alt="Synergy Exam Syllabus" class="wp-image-251" style="width:523px;height:426px"/><figcaption class="wp-element-caption">Synergy Exam Syllabus</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="/wp-content/uploads/2022/01/Question-Pattern-edited.jpeg" alt="Synergy Exam Syllabus" class="wp-image-251" style="width:523px;height:426px"/><figcaption class="wp-element-caption">Synergy Exam Syllabus</figcaption></figure>
 
 
 
@@ -86,23 +86,23 @@ image: "https://brightmariner.com/wp-content/uploads/2022/02/pexels-photo-442574
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><img src="http://brightmariner.com/wp-content/uploads/2022/02/photo_2022-02-12-21.11.22.jpeg" alt="" class="wp-image-285"/></figure>
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2022/02/photo_2022-02-12-21.11.22.jpeg" alt="" class="wp-image-285"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img src="http://brightmariner.com/wp-content/uploads/2022/02/photo_2022-02-12-21.11.14-1024x346.jpeg" alt="" class="wp-image-281"/></figure>
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2022/02/photo_2022-02-12-21.11.14-1024x346.jpeg" alt="" class="wp-image-281"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img src="http://brightmariner.com/wp-content/uploads/2022/02/photo_2022-02-12-21.11.11.jpeg" alt="" class="wp-image-283"/></figure>
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2022/02/photo_2022-02-12-21.11.11.jpeg" alt="" class="wp-image-283"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img src="http://brightmariner.com/wp-content/uploads/2022/02/photo_2022-02-12-21.11.09.jpeg" alt="" class="wp-image-284"/></figure>
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2022/02/photo_2022-02-12-21.11.09.jpeg" alt="" class="wp-image-284"/></figure>
 
 
 
-<figure class="wp-block-image size-large"><img src="http://brightmariner.com/wp-content/uploads/2022/02/photo_2022-02-12-21.11.19.jpeg" alt="" class="wp-image-282"/></figure>
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2022/02/photo_2022-02-12-21.11.19.jpeg" alt="" class="wp-image-282"/></figure>
 </figure>
 
 

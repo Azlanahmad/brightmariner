@@ -4,7 +4,7 @@ description: "Read about Sketch of Mid Ship Section of Double Hull Oil Tanker wi
 date: 2023-10-10T12:32:00.000Z
 tags: ["Mid Ship Section of Double Hull Oil Tanker","naval architecture"]
 categories: ["Ship Construction and stability"]
-image: "https://brightmariner.com/wp-content/uploads/2022/07/pexels-photo-1544372.jpeg"
+image: "/wp-content/uploads/2022/07/pexels-photo-1544372.jpeg"
 ---
 
 <p><strong>Mid Ship Section of Double Hull Oil Tanker</strong>: </p>
@@ -15,7 +15,7 @@ image: "https://brightmariner.com/wp-content/uploads/2022/07/pexels-photo-154437
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img src="https://brightmariner.com/wp-content/uploads/2023/10/Midship-Section-of-a-Double-Hull-Tanker.png" alt="" class="wp-image-500"/><figcaption class="wp-element-caption">Midship Section of a Double Hull Tanker.</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/wp-content/uploads/2023/10/Midship-Section-of-a-Double-Hull-Tanker.png" alt="" class="wp-image-500"/><figcaption class="wp-element-caption">Midship Section of a Double Hull Tanker.</figcaption></figure>
 
 
 

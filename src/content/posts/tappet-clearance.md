@@ -4,7 +4,7 @@ description: "Read about What is Tappet Clearance? Why is it Required and How me
 date: 2023-10-18T10:28:00.000Z
 tags: ["tappet Clearance","Tappet clearance adjustment","Tappet clearance purpose","valve clearance"]
 categories: ["Featured","Marine Auxiliary Machinery","Marine Engineering"]
-image: "https://brightmariner.com/wp-content/uploads/2022/01/tappet.jpg"
+image: "/wp-content/uploads/2022/01/tappet.jpg"
 ---
 
 <h2 class="wp-block-heading">What is Tappet Clearance?</h2>
@@ -23,7 +23,7 @@ image: "https://brightmariner.com/wp-content/uploads/2022/01/tappet.jpg"
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img src="http://brightmariner.com/wp-content/uploads/2022/01/tappetclear.jpg" alt="What is Tappet Clearance" class="wp-image-254"/><figcaption class="wp-element-caption">Tappet Clearance</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="/wp-content/uploads/2022/01/tappetclear.jpg" alt="What is Tappet Clearance" class="wp-image-254"/><figcaption class="wp-element-caption">Tappet Clearance</figcaption></figure>
 
 
 
@@ -67,7 +67,7 @@ image: "https://brightmariner.com/wp-content/uploads/2022/01/tappet.jpg"
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://brightmariner.com/wp-content/uploads/2022/01/tappet.jpg" alt="" class="wp-image-256"/><figcaption class="wp-element-caption">Tappet Clearance measurement using Feeler Gauge</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/wp-content/uploads/2022/01/tappet.jpg" alt="" class="wp-image-256"/><figcaption class="wp-element-caption">Tappet Clearance measurement using Feeler Gauge</figcaption></figure>
 
 
 
@@ -141,7 +141,7 @@ image: "https://brightmariner.com/wp-content/uploads/2022/01/tappet.jpg"
 
 
 
-<figure class="wp-block-image size-large"><img src="https://brightmariner.com/wp-content/uploads/2023/10/image-1024x466.png" alt="tappet adjustment " class="wp-image-871"/></figure>
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2023/10/image-1024x466.png" alt="tappet adjustment " class="wp-image-871"/></figure>
 
 
 

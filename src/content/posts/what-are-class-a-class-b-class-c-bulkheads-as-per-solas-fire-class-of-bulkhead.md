@@ -4,7 +4,7 @@ description: "Read about What are Class A, Class B, Class C BulkHeads as per SOL
 date: 2023-04-28T14:24:00.000Z
 tags: ["accommodation bulkheads are classified as","class a bulkhead","class a division bulkhead as per solas","class b bulkhead","class c bulkhead","Class of bulkhead as per solas","types of ship bulkheads"]
 categories: ["Ship Fire Prevention and Control"]
-image: "https://brightmariner.com/wp-content/uploads/2021/04/Types-of-Bulkheads.png"
+image: "/wp-content/uploads/2021/04/Types-of-Bulkheads.png"
 ---
 
 <p>In order to prevent the propagation of fire from one compartment to another, all watertight bulkheads are also provided with fire-resistant paneling. There are mainly 3 different types of Bulkheads.</p>
@@ -119,7 +119,7 @@ image: "https://brightmariner.com/wp-content/uploads/2021/04/Types-of-Bulkheads.
 
 
 
-<figure class="wp-block-image size-large"><img src="http://brightmariner.com/wp-content/uploads/2021/04/Deck-requirements-for-various-class-of-bulkheads-1024x427.png" alt="Deck-requirements-for-various-class-of-bulkheads" class="wp-image-154"/></figure>
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2021/04/Deck-requirements-for-various-class-of-bulkheads-1024x427.png" alt="Deck-requirements-for-various-class-of-bulkheads" class="wp-image-154"/></figure>
 
 
 

@@ -4,7 +4,7 @@ description: "Read about What is Puncture Valve? Explain the Function and workin
 date: 2023-03-01T12:20:00.000Z
 tags: ["marine IC engine","Puncture Valve","working of the Puncture Valve"]
 categories: ["Marine Engineering"]
-image: "https://brightmariner.com/wp-content/uploads/2021/05/Screenshot-2021-05-31-at-4.13.08-PM.png"
+image: "/wp-content/uploads/2021/05/Screenshot-2021-05-31-at-4.13.08-PM.png"
 ---
 
 <p>A Puncture valve is used to stop the Fuel Injection. It is a device to positively stops the engine irrespective of the rack position. </p>
@@ -47,7 +47,7 @@ image: "https://brightmariner.com/wp-content/uploads/2021/05/Screenshot-2021-05-
 
 
 
-<figure class="wp-block-image aligncenter size-large"><img src="http://brightmariner.com/wp-content/uploads/2021/05/Puncture-Valve-1.jpeg" alt="Puncture Valve" class="wp-image-116"/><figcaption class="wp-element-caption">Puncture Valve</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="/wp-content/uploads/2021/05/Puncture-Valve-1.jpeg" alt="Puncture Valve" class="wp-image-116"/><figcaption class="wp-element-caption">Puncture Valve</figcaption></figure>
 
 
 
