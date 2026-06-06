@@ -13,7 +13,7 @@
     "mcq:reorganize": "node scripts/reorganize-questions.js",
     "mcq:validate": "node scripts/validate-questions.js",
     "mcq:import": "node scripts/import-mcqs.js",
-    "deploy": "git add . && git commit -m \"Deploy: Update site content\" && git push origin main"
+    "deploy": "node scripts/deploy.js"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.18",
