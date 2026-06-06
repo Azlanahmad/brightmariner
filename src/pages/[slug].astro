@@ -54,9 +54,13 @@ const articleSchema = {
     "@id": Astro.url.href
   }
 };
+
+const displayTitle = entry.data.title.length + 17 > 60 
+  ? entry.data.title 
+  : `${entry.data.title} - Bright Mariner`;
 ---
 <Layout 
-	title={`${entry.data.title} - Bright Mariner`}
+	title={displayTitle}
 	description={entry.data.description}
 	image={entry.data.image}
 >

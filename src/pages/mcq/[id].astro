@@ -45,9 +45,9 @@ const courseNames: Record<string, string> = {
     'rfpff': 'Refresher FPFF'
 };
 
+const courseAbbr = baseCourseId === 'refresher' ? 'Refresher' : baseCourseId === 'rfpff' ? 'Refresher FPFF' : baseCourseId.toUpperCase();
 const courseName = courseNames[baseCourseId as string] || baseCourseId?.toUpperCase();
-
-const title = `${courseName} Exit Exam MCQ Questions & Answers | Bright Mariner`;
+const title = `${courseAbbr} Exit Exam MCQ Questions | Bright Mariner`;
 const description = `Practice ${courseName} exit exam questions and answers. Access multiple sets of updated STCW MCQs for DG Shipping exams. Improve your preparation with Bright Mariner.`;
 
 // Define dynamic FAQ data for each course type

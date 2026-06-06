@@ -99,7 +99,9 @@ const courseNames: Record<string, string> = {
 };
 
 const courseName = courseNames[baseCourseId as string] || baseCourseId?.toUpperCase();
-const title = `${question.text.substring(0, 60)}... | ${courseName} MCQ Question | Bright Mariner`;
+const cleanQuestionText = question.text.length > 40 ? `${question.text.substring(0, 37)}...` : question.text;
+const courseAbbr = baseCourseId === 'refresher' ? 'Refresher' : baseCourseId === 'rfpff' ? 'Refresher FPFF' : baseCourseId.toUpperCase();
+const title = `${cleanQuestionText} | ${courseAbbr} MCQ`;
 const description = `Correct answer and explanation for the STCW exam question: "${question.text}". Learn and practice exam questions for ${courseName}.`;
 
 const canonicalURL = `https://brightmariner.com/mcq/${id}/${set}/${questionSlug}/`;
