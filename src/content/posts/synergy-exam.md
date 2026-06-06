@@ -1,45 +1,45 @@
 ---
-title: "Synergy Exam 2025: Registration, Exam Date, Syllabus, Eligibility"
-description: "Read about Synergy Exam 2025: Registration, Exam Date, Syllabus, Eligibility on Bright Mariner."
+title: "Synergy Exam 2026: Registration, Exam Date, Syllabus, Eligibility"
+description: "Read about Synergy Exam 2026: Registration, Exam Date, Syllabus, Eligibility on Bright Mariner."
 date: 2023-11-28T17:25:00.000Z
-tags: ["synergy entrance exam","synergy exam 2025","synergy exam registration","SYNERGY exam study material"]
+tags: ["synergy entrance exam","synergy exam 2026","synergy exam registration","SYNERGY exam study material"]
 categories: ["Exams","Synergy Maritime Exam"]
 image: "/wp-content/uploads/2022/01/Screenshot-2022-01-12-at-10.40.22-PM.png"
 ---
 
-<p><strong>Synergy Exam 2025 Date:</strong> The Synergy exam is going to be conducted in the month of <strong>April 2025</strong>. The registration for the Synergy Exam 2025 has been started and you can register yourself from the below Link.</p>
+<p><strong>Synergy Exam 2026 Date:</strong> The Synergy Common Entrance Test (CET) 2026 was conducted on <strong>May 17, 2026</strong>. The registration for the Synergy Exam 2026 is currently closed. Candidates can check official updates and results from the link below.</p>
 
 
 
 <div class="wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://synergyexam.excelindia.com/Synergy/" target="_blank" rel="noreferrer noopener">Click here to register for Synergy Exam 2025</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.synergyseastar.in/" target="_blank" rel="noreferrer noopener">Visit the Official Synergy Exam Portal</a></div>
 </div>
 
 
 
-<p><strong>Important Dates for Synergy Exam 2025:</strong></p>
+<p><strong>Important Dates for Synergy Exam 2026:</strong></p>
 
 
 
 <ol class="wp-block-list">
-<li><strong><span style="box-sizing: border-box; margin: 0px; padding: 0px;">The last date for registration for candidates interested in <strong>DNS sponsorship</strong> through the SYNERGY GROUP is <strong>Feb-25,</strong></span> 1800 Hrs.</strong></li>
+<li><strong><span style="box-sizing: border-box; margin: 0px; padding: 0px;">The last date for registration for candidates interested in Synergy Sponsorship programs (DNS, GME, Deck/Engine Cadet, GP Rating, Trainee GS) was <strong>May 4, 2026 (11:00 AM)</strong>.</span></strong></li>
 
 
 
-<li>Date of Exam For <span style="box-sizing: border-box; margin: 0px; padding: 0px;">candidates appearing for <strong>the DNS sponsorship</strong> <strong>exam,</strong> it will be from <strong>25 to Feb 25</strong></span><strong>.</strong></li>
+<li><strong>Date of Exam:</strong> The online Synergy Common Entrance Test (CET) 2026 was held on <strong>May 17, 2026</strong>.</li>
 
 
 
-<li>The last date of Registration for candidates interested in appearing in (<strong>Deck Cadet, Engine Cadet, GP rating Exam, GME Sponsorship, and Trainee General Steward</strong>) exams is <strong>06-Feb-25 at 1800 hrs.</strong></li>
+<li><strong>Announcement of Results:</strong> Results for the Synergy CET 2026 were released on <strong>June 2, 2026</strong>.</li>
 </ol>
 
 
 
-<p>The date of examination for the above-mentioned candidate will be between –&nbsp;25 to 30 April 202. </p>
+<p>The exam results were communicated directly to candidates via their registered email IDs. Candidates who successfully passed the entrance test proceed to the interview, psychometric, and medical test rounds.</p>
 
 
 
-<p>In case you have concerns regarding any of the above information, please contact us immediately at&nbsp;<!--email_off--><a href="mailto:synergysupport@pearson.com">synergysupport@pearson.com</a><!--/email_off-->&nbsp;or<strong> Call +91 9958836883</strong><br>Synergy Maritime has been conducting separate exams for&nbsp;<strong>Deck Cadets&nbsp;</strong>and&nbsp;<strong>Engine Cadets</strong>.</p>
+<p>In case you have concerns regarding any of the above information or results, please contact the Synergy Examination Cell at&nbsp;<!--email_off--><a href="mailto:info@synergyseastar.in">info@synergyseastar.in</a><!--/email_off-->&nbsp;or&nbsp;<!--email_off--><a href="mailto:examinationcell@synergyship.com">examinationcell@synergyship.com</a><!--/email_off-->&nbsp;or<strong> Call +91 9958836883</strong><br>Synergy Maritime conducts entrance exams for recruiting Trainee Marine Engineers (GME), Deck Cadets, Engine Cadets, GP Ratings, and other roles.</p>
 
 
 
@@ -47,7 +47,7 @@ image: "/wp-content/uploads/2022/01/Screenshot-2022-01-12-at-10.40.22-PM.png"
 
 
 
-<p>If you are preparing for Synergy Exam 2025 then you must read this article:</p>
+<p>If you are preparing for Synergy Exam 2026 then you must read this article:</p>
 
 
 
@@ -57,11 +57,11 @@ http://brightmariner.com/how-to-prepare-for-synergy-exam
 
 
 
-<h2 class="wp-block-heading" id="synergy-exam-2022-registration">Synergy Exam 2025 registration:</h2>
+<h2 class="wp-block-heading" id="synergy-exam-2026-registration">Synergy Exam 2026 registration:</h2>
 
 
 
-<p>Eligible candidates need to fill out the registration form on their <a href="https://synergyexam.excelindia.com/">official website</a>. The company will post updates regarding their exams. </p>
+<p>Eligible candidates need to fill out the registration form on the <a href="https://www.synergyseastar.in/">official Synergy Seastar website</a>. The company posts all official notifications and updates on this portal.</p>
 
 
 
@@ -73,7 +73,9 @@ http://brightmariner.com/how-to-prepare-for-synergy-exam
 
 
 
-<h1 class="wp-block-heading" id="synergy-exam-2022-eligibility-criteria">Synergy Exam 2025 Eligibility Criteria</h1>
+<h1 class="wp-block-heading" id="synergy-exam-2026-eligibility-criteria">Synergy Exam 2026 Eligibility Criteria</h1>
+
+<p><strong>Note:</strong> Qualifying in the <strong>IMU-CET 2026</strong> (Indian Maritime University Common Entrance Test) is mandatory for final selection and sponsorship by Synergy Group, regardless of the entrance exam marks.</p>
 
 
 
@@ -82,7 +84,7 @@ http://brightmariner.com/how-to-prepare-for-synergy-exam
 
 
 <ul class="wp-block-list">
-<li>Should have born after 1/August/1997</li>
+<li>Should be born on or after 1 December 2001 (maximum age limit of 25 years at course commencement)</li>
 
 
 
@@ -132,7 +134,7 @@ http://brightmariner.com/how-to-prepare-for-synergy-exam
 
 
 <ul class="wp-block-list">
-<li>Should have born after 1/December/1997</li>
+<li>Should be born on or after 1 December 1998 (maximum age limit of 28 years at course commencement)</li>
 
 
 
@@ -178,7 +180,7 @@ http://brightmariner.com/how-to-prepare-for-synergy-exam
 
 
 <ul class="wp-block-list">
-<li>Should have born after 1/August/1997</li>
+<li>Should be born on or after 1 December 2001 (maximum age limit of 25 years at course commencement)</li>
 
 
 
@@ -226,7 +228,7 @@ http://brightmariner.com/how-to-prepare-for-synergy-exam
 
 
 <ul class="wp-block-list">
-<li>Should have been born after 1 August/1997</li>
+<li>Should be born on or after 1 December 2001 (maximum age limit of 25 years at course commencement)</li>
 
 
 
@@ -243,11 +245,11 @@ http://brightmariner.com/how-to-prepare-for-synergy-exam
 
 
 
-<h1 class="wp-block-heading" id="synergy-exam-2022-syllabus">Synergy Exam 2025 syllabus:</h1>
+<h1 class="wp-block-heading" id="synergy-exam-2026-syllabus">Synergy Exam 2026 syllabus:</h1>
 
 
 
-<h2 class="wp-block-heading" id="for-engine-cadets-2022">For Engine Cadets 2025:</h2>
+<h2 class="wp-block-heading" id="for-engine-cadets-2026">For Engine Cadets 2026:</h2>
 
 
 
@@ -337,7 +339,7 @@ http://brightmariner.com/how-to-prepare-for-synergy-exam
 
 
 
-<h2 class="wp-block-heading" id="synergy-exam-2022-syallabus-for-deck-cadet">Synergy Exam 2025 syllabus for Deck Cadet:</h2>
+<h2 class="wp-block-heading" id="synergy-exam-2026-syllabus-for-deck-cadet">Synergy Exam 2026 syllabus for Deck Cadet:</h2>
 
 
 
@@ -431,4 +433,16 @@ http://brightmariner.com/how-to-prepare-for-synergy-exam
 
 
 
-<div class="wp-block-rank-math-faq-block"><div class="rank-math-faq-item"><h3 class="rank-math-question"><strong>When will the Synergy exam for a trainee marine engineer be conducted for this year 202</strong>4?</h3><div class="rank-math-answer">Synergy Maritime will conduct the exams for Marine Engineers in the month of the 2nd week of April. This is a tentative date that may change depending on the situation as there is no official update yet.</div></div><div class="rank-math-faq-item"><h3 class="rank-math-question"><a href="https://www.quora.com/How-should-I-prepare-for-the-Synergy-exam-for-BSc-cadets-Are-these-questions-really-hard" target="_blank" rel="noreferrer noopener">How should I prepare for the Synergy exam</a>?</h3><div class="rank-math-answer">Go through the Marine IC and Marine Auxiliary in detail as most of the technical questions are from these two subjects. Also, prepare your basic in different other subjects on your syllabus. Knowing the format of the exam can help you to focus on the relevant topics and prepare better. Try to find out the exam pattern, duration, type of questions, and marking scheme.<br>Study the relevant topics: Ensure that you have a good grasp of the topics covered in the exam. Utilize resources like textbooks, notes, online tutorials, and study guides.</div></div><div class="rank-math-faq-item"><h3 class="rank-math-question">What are the exam fees of Synergy?</h3><div class="rank-math-answer">The exam fee for synergy is ₹2,000 + GST. </div></div></div>
+<div class="wp-block-rank-math-faq-block">
+<div class="rank-math-faq-item"><h3 class="rank-math-question"><strong>When was the Synergy exam for a trainee marine engineer conducted for 2026?</strong></h3><div class="rank-math-answer">The Synergy Common Entrance Test (CET) 2026 was conducted on <strong>May 17, 2026</strong>. Results were announced on <strong>June 2, 2026</strong>.</div></div>
+<div class="rank-math-faq-item"><h3 class="rank-math-question"><a href="https://www.quora.com/How-should-I-prepare-for-the-Synergy-exam-for-BSc-cadets-Are-these-questions-really-hard" target="_blank" rel="noreferrer noopener">How should I prepare for the Synergy exam</a>?</h3><div class="rank-math-answer">Go through the Marine IC and Marine Auxiliary in detail as most of the technical questions are from these two subjects. Also, prepare your basics in different other subjects in your syllabus. Knowing the format of the exam can help you to focus on the relevant topics and prepare better. Try to find out the exam pattern, duration, type of questions, and marking scheme.<br>Study the relevant topics: Ensure that you have a good grasp of the topics covered in the exam. Utilize resources like textbooks, notes, online tutorials, and study guides. Also, make sure to prepare well for Section B (English and Aptitude), which carries 100 marks.</div></div>
+<div class="rank-math-faq-item"><h3 class="rank-math-question">What is the synergy exam for?</h3><div class="rank-math-answer">The Synergy entrance exam is conducted by the Synergy Marine Group to select and sponsor prospective candidates for various pre-sea maritime courses and cadet programs, including DNS, GME, B.Sc. Nautical Science, B.Tech Marine Engineering, GP Rating, and Trainee General Steward.</div></div>
+<div class="rank-math-faq-item"><h3 class="rank-math-question">What is the last date to apply for synergy exam 2026?</h3><div class="rank-math-answer">The last date to register and submit applications for the Synergy Common Entrance Test (CET) 2026 was <strong>May 4, 2026 (11:00 AM)</strong>.</div></div>
+<div class="rank-math-faq-item"><h3 class="rank-math-question">What is the fees of synergy exam?</h3><div class="rank-math-answer">The registration fee for the Synergy Common Entrance Test (CET) is <strong>₹2,000 + GST</strong>.</div></div>
+<div class="rank-math-faq-item"><h3 class="rank-math-question">Is the synergy exam tough?</h3><div class="rank-math-answer">The Synergy exam is moderately challenging. Section A covers school/college level science (Physics, Chemistry, Math or Mechanical Engineering), while Section B tests logical, numerical, and spatial aptitude. Good speed and accuracy in solving the 100-mark aptitude section are key to scoring high.</div></div>
+<div class="rank-math-faq-item"><h3 class="rank-math-question">Is Merchant Navy salary high?</h3><div class="rank-math-answer">Yes, Merchant Navy salaries are typically high and often tax-free, depending on national regulations and residency status. Officers and captains can earn very high packages, though the job involves long months at sea and high levels of responsibility.</div></div>
+<div class="rank-math-faq-item"><h3 class="rank-math-question">What are the benefits of synergy?</h3><div class="rank-math-answer">Sponsorship by Synergy Marine Group guarantees placement in a top DG-approved maritime training institute and provides an assured onboard berth for training upon course completion. It offers a structured career path on one of the world's most modern fleets.</div></div>
+<div class="rank-math-faq-item"><h3 class="rank-math-question">What is the age limit for synergy exam?</h3><div class="rank-math-answer">For DNS, B.Sc. Nautical Science, Deck/Engine Cadets, and GP Rating, candidates must be born on or after <strong>December 1, 2001</strong> (max 25 years old). For GME (Graduate Marine Engineering), candidates must be born on or after <strong>December 1, 1998</strong> (max 28 years old).</div></div>
+<div class="rank-math-faq-item"><h3 class="rank-math-question">Is Synergy free to use?</h3><div class="rank-math-answer">No. Registering for the Synergy Maritime Entrance Exam requires a paid application fee of ₹2,000 + GST. <em>(Note: If you are referring to Symless Synergy mouse/keyboard sharing software, it is also a commercial utility requiring a purchase, although its underlying source code is open-source.)</em></div></div>
+<div class="rank-math-faq-item"><h3 class="rank-math-question">How to get DNS sponsorship?</h3><div class="rank-math-answer">To get a DNS sponsorship from Synergy: 1. Apply on the official Synergy portal (`https://www.synergyseastar.in/`), 2. Clear the Synergy Common Entrance Test (CET), 3. Qualify in the mandatory IMU-CET exam, and 4. Clear the interviews, psychometric tests, and medical examinations conducted by Synergy.</div></div>
+</div>
