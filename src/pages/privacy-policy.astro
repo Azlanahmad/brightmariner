@@ -1,0 +1,477 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout 
+    title="Privacy Policy | BrightMariner"
+    description="Read our privacy policy to understand how BrightMariner collects, uses, and safeguards your personal data."
+>
+    <!-- Hero Section -->
+    <section class="relative pt-32 pb-24 overflow-hidden mesh-gradient">
+        <div class="max-w-(--page-width) mx-auto px-6 lg:px-8 relative z-10 text-center">
+            <div class="inline-flex items-center gap-2 px-3 py-1 bg-canvas border border-hairline rounded-full mb-6">
+                <span class="text-[10px] font-mono uppercase tracking-widest text-mute">Compliance</span>
+                <span class="text-xs font-medium text-ink">Last Updated: June 7, 2026</span>
+            </div>
+            
+            <h1 class="text-4xl md:text-6xl font-semibold tracking-tighter text-ink mb-6 max-w-4xl mx-auto">
+                Privacy Policy
+            </h1>
+            <p class="text-lg text-body mb-8 max-w-2xl mx-auto leading-relaxed">
+                At BrightMariner, we believe transparency is the foundation of trust. Learn how we collect, use, and protect your information when you prepare for your maritime career on our platform.
+            </p>
+        </div>
+        
+        <div class="absolute bottom-0 left-0 right-0 h-px bg-linear-to-r from-transparent via-hairline to-transparent"></div>
+    </section>
+
+    <!-- Quick Summary Cards -->
+    <section class="py-12 bg-canvas-soft border-b border-hairline">
+        <div class="max-w-(--page-width) mx-auto px-6 lg:px-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <!-- Card 1 -->
+                <div class="p-6 bg-canvas border border-hairline rounded-xl card-shadow">
+                    <div class="text-primary mb-4">
+                        <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                        </svg>
+                    </div>
+                    <h3 class="text-sm font-semibold text-ink mb-2">Data We Collect</h3>
+                    <p class="text-xs text-body leading-relaxed">Account information, usage statistics, technical device details, and optionally payment information.</p>
+                </div>
+                <!-- Card 2 -->
+                <div class="p-6 bg-canvas border border-hairline rounded-xl card-shadow">
+                    <div class="text-primary mb-4">
+                        <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                        </svg>
+                    </div>
+                    <h3 class="text-sm font-semibold text-ink mb-2">How We Use It</h3>
+                    <p class="text-xs text-body leading-relaxed">To personalize your learning, improve tools, protect the site from fraud, and communicate updates.</p>
+                </div>
+                <!-- Card 3 -->
+                <div class="p-6 bg-canvas border border-hairline rounded-xl card-shadow">
+                    <div class="text-primary mb-4">
+                        <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+                        </svg>
+                    </div>
+                    <h3 class="text-sm font-semibold text-ink mb-2">Zero Data Selling</h3>
+                    <p class="text-xs text-body leading-relaxed">We never sell, rent, or trade your personal information. Sharing is strictly limited to core operations.</p>
+                </div>
+                <!-- Card 4 -->
+                <div class="p-6 bg-canvas border border-hairline rounded-xl card-shadow">
+                    <div class="text-primary mb-4">
+                        <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+                        </svg>
+                    </div>
+                    <h3 class="text-sm font-semibold text-ink mb-2">Your Full Rights</h3>
+                    <p class="text-xs text-body leading-relaxed">Easily access, correct, restrict, download, or permanently delete your details whenever you wish.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content Layout -->
+    <section class="py-16 bg-canvas-soft">
+        <div class="max-w-(--page-width) mx-auto px-6 lg:px-8">
+            <!-- Search & Filter Controls -->
+            <div class="mb-12 max-w-md">
+                <label for="privacy-search" class="block text-xs font-mono uppercase tracking-wider text-mute mb-2">Search Policy Topics</label>
+                <div class="relative">
+                    <input 
+                        type="text" 
+                        id="privacy-search" 
+                        placeholder="Search for 'cookies', 'sharing', 'rights'..." 
+                        class="w-full px-4 py-3 bg-canvas border border-hairline rounded-lg text-sm text-ink placeholder-mute focus:outline-hidden focus:border-hairline-strong transition-all card-shadow"
+                    />
+                    <div class="absolute right-3 top-3.5 text-mute">
+                        <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                        </svg>
+                    </div>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-4 gap-12">
+                <!-- Sidebar Table of Contents (Sticky) -->
+                <aside class="hidden lg:block lg:col-span-1">
+                    <div class="sticky top-28 bg-canvas border border-hairline rounded-xl p-6 card-shadow">
+                        <h4 class="text-xs font-mono uppercase tracking-wider text-mute mb-4">Sections</h4>
+                        <nav class="flex flex-col gap-3" id="privacy-nav">
+                            <a href="#introduction" class="text-sm text-body hover:text-ink pl-3 border-l border-hairline transition-all active-nav-link font-medium border-l-primary text-ink">1. Introduction</a>
+                            <a href="#info-collect" class="text-sm text-body hover:text-ink pl-3 border-l border-hairline transition-all">2. Information We Collect</a>
+                            <a href="#info-usage" class="text-sm text-body hover:text-ink pl-3 border-l border-hairline transition-all">3. How We Use Information</a>
+                            <a href="#info-share" class="text-sm text-body hover:text-ink pl-3 border-l border-hairline transition-all">4. How We Share Information</a>
+                            <a href="#info-protect" class="text-sm text-body hover:text-ink pl-3 border-l border-hairline transition-all">5. How We Protect Data</a>
+                            <a href="#info-retain" class="text-sm text-body hover:text-ink pl-3 border-l border-hairline transition-all">6. Data Retention</a>
+                            <a href="#choices-rights" class="text-sm text-body hover:text-ink pl-3 border-l border-hairline transition-all">7. Your Choices & Rights</a>
+                            <a href="#children" class="text-sm text-body hover:text-ink pl-3 border-l border-hairline transition-all">8. Children’s Privacy</a>
+                            <a href="#updates" class="text-sm text-body hover:text-ink pl-3 border-l border-hairline transition-all">9. Policy Updates</a>
+                            <a href="#contact" class="text-sm text-body hover:text-ink pl-3 border-l border-hairline transition-all">10. Contact Us</a>
+                        </nav>
+                    </div>
+                </aside>
+
+                <!-- Document Sections -->
+                <div class="lg:col-span-3 space-y-8" id="privacy-content">
+                    <div id="no-results" class="hidden p-12 bg-canvas border border-hairline rounded-2xl text-center card-shadow">
+                        <p class="text-mute">No sections match your search terms.</p>
+                        <button id="reset-search" class="mt-4 px-4 py-2 bg-primary text-white text-xs font-medium rounded-full hover:bg-primary/95 transition-all">Reset Search</button>
+                    </div>
+
+                    <!-- Intro Section -->
+                    <section id="introduction" data-title="Introduction" class="p-8 bg-canvas border border-hairline rounded-2xl card-shadow scroll-mt-28">
+                        <h2 class="text-2xl font-semibold text-ink mb-4">1. Introduction</h2>
+                        <p class="text-body leading-relaxed mb-4">
+                            This Privacy Policy explains how BrightMariner collects, uses, and protects your personal information when you visit or use our website, services, or products.
+                        </p>
+                        <p class="text-body leading-relaxed">
+                            We are committed to securing your data and ensuring your experience with our maritime preparation tools is safe, productive, and respectful of your digital rights.
+                        </p>
+                    </section>
+
+                    <!-- Information We Collect -->
+                    <section id="info-collect" data-title="Information We Collect" class="p-8 bg-canvas border border-hairline rounded-2xl card-shadow scroll-mt-28">
+                        <h2 class="text-2xl font-semibold text-ink mb-4">2. What Information We Collect</h2>
+                        <p class="text-body leading-relaxed mb-6">
+                            We collect information that you provide to us directly or indirectly, categorized as follows:
+                        </p>
+                        
+                        <div class="space-y-4">
+                            <div class="flex gap-4">
+                                <div class="flex-shrink-0 text-primary w-5 h-5 mt-1">
+                                    <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4" /></svg>
+                                </div>
+                                <div>
+                                    <h4 class="font-medium text-ink text-sm">Direct Contact & Profile Details</h4>
+                                    <p class="text-xs text-body mt-1">Your name, email address, phone number, and other contact details when you register, subscribe, or communicate with us.</p>
+                                </div>
+                            </div>
+                            <div class="flex gap-4">
+                                <div class="flex-shrink-0 text-primary w-5 h-5 mt-1">
+                                    <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4" /></svg>
+                                </div>
+                                <div>
+                                    <h4 class="font-medium text-ink text-sm">User Content & Interactions</h4>
+                                    <p class="text-xs text-body mt-1">Your preferences, feedback, ratings, reviews, and other interactions with our website, services, or products.</p>
+                                </div>
+                            </div>
+                            <div class="flex gap-4">
+                                <div class="flex-shrink-0 text-primary w-5 h-5 mt-1">
+                                    <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4" /></svg>
+                                </div>
+                                <div>
+                                    <h4 class="font-medium text-ink text-sm">Technical & Device Metadata</h4>
+                                    <p class="text-xs text-body mt-1">Your location, device details, browser, operating system, IP address, and other technical information compiled when you access our system.</p>
+                                </div>
+                            </div>
+                            <div class="flex gap-4">
+                                <div class="flex-shrink-0 text-primary w-5 h-5 mt-1">
+                                    <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4" /></svg>
+                                </div>
+                                <div>
+                                    <h4 class="font-medium text-ink text-sm">Billing & Payment Information</h4>
+                                    <p class="text-xs text-body mt-1">Your payment details (e.g. credit card number fragments, billing address, and transaction histories) processed securely through third-party processors during purchases or donations.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mt-6 pt-6 border-t border-hairline">
+                            <h4 class="text-sm font-semibold text-ink mb-3">Third-Party Data Sources</h4>
+                            <p class="text-body text-xs leading-relaxed mb-3">
+                                We also collect information from external partners and services, including:
+                            </p>
+                            <ul class="list-disc list-inside text-xs text-body space-y-2 pl-2">
+                                <li><strong>Social Platforms:</strong> Social media platforms (Facebook, Twitter, Instagram, etc.) when you link accounts or share our content.</li>
+                                <li><strong>Analytics & Ads:</strong> Services such as Google Analytics and Google Ads when you visit our website or click on our advertisements.</li>
+                                <li><strong>Affiliate Partnerships:</strong> Co-branded websites, services, or products linked with our workspace.</li>
+                            </ul>
+                        </div>
+                    </section>
+
+                    <!-- How We Use Your Information -->
+                    <section id="info-usage" data-title="How We Use Information" class="p-8 bg-canvas border border-hairline rounded-2xl card-shadow scroll-mt-28">
+                        <h2 class="text-2xl font-semibold text-ink mb-4">3. How We Use Your Information</h2>
+                        <p class="text-body leading-relaxed mb-6">
+                            We utilize your data only for purposeful operational objectives:
+                        </p>
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                            <div class="p-4 bg-canvas-soft border border-hairline rounded-lg">
+                                <h4 class="font-medium text-ink text-xs mb-1">Provision & Personalization</h4>
+                                <p class="text-[11px] text-body">Maintaining, improving, and customizing BrightMariner tools to suit your educational and preparation needs.</p>
+                            </div>
+                            <div class="p-4 bg-canvas-soft border border-hairline rounded-lg">
+                                <h4 class="font-medium text-ink text-xs mb-1">Direct Communications</h4>
+                                <p class="text-[11px] text-body">Sending newsletters, updates, offers, and surveys, or resolving your customer inquiries and support tickets.</p>
+                            </div>
+                            <div class="p-4 bg-canvas-soft border border-hairline rounded-lg">
+                                <h4 class="font-medium text-ink text-xs mb-1">Performance & Optimization</h4>
+                                <p class="text-[11px] text-body">Measuring website metrics, performance indexes, and marketing success to refine our content.</p>
+                            </div>
+                            <div class="p-4 bg-canvas-soft border border-hairline rounded-lg">
+                                <h4 class="font-medium text-ink text-xs mb-1">Security & Enforcement</h4>
+                                <p class="text-[11px] text-body">Detecting, preventing, and combating fraudulent use, server abuse, and general technical vulnerabilities.</p>
+                            </div>
+                        </div>
+                        <p class="text-body text-xs mt-6 leading-relaxed">
+                            Additionally, we process information to satisfy legal mandates (subpoenas, regulatory reviews, law enforcement requests) and safeguard rights, safety, and agreements.
+                        </p>
+                    </section>
+
+                    <!-- How We Share Your Information -->
+                    <section id="info-share" data-title="How We Share Information" class="p-8 bg-canvas border border-hairline rounded-2xl card-shadow scroll-mt-28">
+                        <h2 class="text-2xl font-semibold text-ink mb-4">4. How We Share Your Information</h2>
+                        
+                        <div class="p-4 bg-primary text-white rounded-lg mb-6 mesh-gradient-dark">
+                            <h4 class="font-semibold text-sm mb-1 text-white">We Do Not Sell Your Data</h4>
+                            <p class="text-xs text-white/90">We do not sell, rent, or trade your personal information to third parties. That is our absolute promise.</p>
+                        </div>
+
+                        <p class="text-body leading-relaxed mb-4">
+                            We share information strictly with selected parties under specific conditions:
+                        </p>
+
+                        <div class="space-y-4 text-xs">
+                            <div class="border-b border-hairline pb-3">
+                                <strong class="text-ink">Service Providers:</strong> Host providers, storage units, secure payment processors, and analytics platforms working on our behalf under confidentiality agreements.
+                            </div>
+                            <div class="border-b border-hairline pb-3">
+                                <strong class="text-ink">Corporate Affiliates:</strong> Corporate subsidiaries or affiliates governed by equivalent privacy regulations.
+                            </div>
+                            <div class="border-b border-hairline pb-3">
+                                <strong class="text-ink">Public Listings:</strong> Reviews, ratings, comments, or public forums where you explicitly choose to publish content.
+                            </div>
+                            <div class="border-b border-hairline pb-3">
+                                <strong class="text-ink">Integrated Integrations:</strong> External portals or tools linked inside the website. We strongly urge you to review their separate policies.
+                            </div>
+                            <div>
+                                <strong class="text-ink">Legal & Transfers:</strong> Legal authorities during mergers, acquisitions, asset transfers, or required law enforcement requests.
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- How We Protect Your Information -->
+                    <section id="info-protect" data-title="How We Protect Data" class="p-8 bg-canvas border border-hairline rounded-2xl card-shadow scroll-mt-28">
+                        <h2 class="text-2xl font-semibold text-ink mb-4">5. How We Protect Your Information</h2>
+                        <p class="text-body leading-relaxed mb-6">
+                            We employ reasonable administrative, physical, and digital safeguards to keep your data protected:
+                        </p>
+
+                        <ul class="grid grid-cols-1 md:grid-cols-2 gap-4 list-none p-0 mb-6 text-xs text-body font-geist">
+                            <li class="flex gap-2 items-center bg-canvas-soft p-3 rounded-lg border border-hairline">
+                                <svg class="w-4 h-4 text-primary flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" /></svg>
+                                <span>SSL Encryption and secure firewalls.</span>
+                            </li>
+                            <li class="flex gap-2 items-center bg-canvas-soft p-3 rounded-lg border border-hairline">
+                                <svg class="w-4 h-4 text-primary flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4" /></svg>
+                                <span>Strict internal role-based access.</span>
+                            </li>
+                            <li class="flex gap-2 items-center bg-canvas-soft p-3 rounded-lg border border-hairline">
+                                <svg class="w-4 h-4 text-primary flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" /></svg>
+                                <span>Active privacy training for team staff.</span>
+                            </li>
+                            <li class="flex gap-2 items-center bg-canvas-soft p-3 rounded-lg border border-hairline">
+                                <svg class="w-4 h-4 text-primary flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 1121.21 8H18.2" /></svg>
+                                <span>Regular security auditing and updates.</span>
+                            </li>
+                        </ul>
+
+                        <div class="p-5 bg-canvas-soft border-l-4 border-hairline-strong rounded-r-lg text-xs">
+                            <span class="font-semibold text-ink block mb-2">Important Security Warning</span>
+                            <p class="text-body leading-relaxed">
+                                No method of electronic storage or transmission is 100% secure. We encourage users to maintain secure practices: use robust, unique passwords, secure your active accounts, log out when using shared workstations, and refrain from clicking on unverified links.
+                            </p>
+                        </div>
+                    </section>
+
+                    <!-- How We Retain Your Information -->
+                    <section id="info-retain" data-title="Data Retention" class="p-8 bg-canvas border border-hairline rounded-2xl card-shadow scroll-mt-28">
+                        <h2 class="text-2xl font-semibold text-ink mb-4">6. How We Retain Your Information</h2>
+                        <p class="text-body leading-relaxed mb-4">
+                            We store your personal details only for as long as necessary to complete the collection purposes detailed in this policy, or in compliance with legal and accounting directives. 
+                        </p>
+                        <p class="text-body leading-relaxed">
+                            Once records are no longer necessary, they are permanently expunged or structured into anonymized data aggregates that do not identify individuals.
+                        </p>
+                    </section>
+
+                    <!-- How We Respect Your Choices and Rights -->
+                    <section id="choices-rights" data-title="Your Choices & Rights" class="p-8 bg-canvas border border-hairline rounded-2xl card-shadow scroll-mt-28">
+                        <h2 class="text-2xl font-semibold text-ink mb-4">7. How We Respect Your Choices and Rights</h2>
+                        <p class="text-body leading-relaxed mb-6">
+                            We respect user choices and grant several explicit rights regarding personal data:
+                        </p>
+
+                        <div class="space-y-4 text-sm">
+                            <div>
+                                <h4 class="font-medium text-ink">Account Settings and Profile Updates</h4>
+                                <p class="text-xs text-body mt-1">Directly modify your profile details (name, email, passcode) by logging in and navigating to your profile settings page.</p>
+                            </div>
+                            <div>
+                                <h4 class="font-medium text-ink">Marketing Opt-Outs</h4>
+                                <p class="text-xs text-body mt-1">Opt out of promotional emails by using the "unsubscribe" link provided at the bottom of our messages, or editing notification presets.</p>
+                            </div>
+                            <div>
+                                <h4 class="font-medium text-ink">Cookie Configurations</h4>
+                                <p class="text-xs text-body mt-1">Adjust browser preferences or clear data storage caches locally to block cookies or tracking technologies.</p>
+                            </div>
+                            <div>
+                                <h4 class="font-medium text-ink">Access, Export, Correction, or Deletion Requests</h4>
+                                <p class="text-xs text-body mt-1">
+                                    Request a comprehensive copy of your stored records, or request changes, corrections, restrictions, or permanent deletion by emailing us at 
+                                    <a href="mailto:privacy@brightmariner.com" class="text-link hover:underline">privacy@brightmariner.com</a>. 
+                                    We verify requestor identities before sharing or erasing data. Responses are issued within legally required frames, usually within 30 days.
+                                </p>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- Children's Information -->
+                    <section id="children" data-title="Children’s Privacy" class="p-8 bg-canvas border border-hairline rounded-2xl card-shadow scroll-mt-28">
+                        <h2 class="text-2xl font-semibold text-ink mb-4">8. How We Handle Children’s Information</h2>
+                        <p class="text-body leading-relaxed mb-4">
+                            Our platform is structured for active students and working professionals. We do not design our services for, or knowingly collect records from, children under 13 years old.
+                        </p>
+                        <p class="text-body leading-relaxed">
+                            If you believe a minor under 13 has supplied us with personal info without consent, please contact us immediately at 
+                            <a href="mailto:contact.brightmariner@gmail.com" class="text-link hover:underline">contact.brightmariner@gmail.com</a>, 
+                            and we will swiftly locate and purge the data.
+                        </p>
+                    </section>
+
+                    <!-- How We Update This Privacy Policy -->
+                    <section id="updates" data-title="Policy Updates" class="p-8 bg-canvas border border-hairline rounded-2xl card-shadow scroll-mt-28">
+                        <h2 class="text-2xl font-semibold text-ink mb-4">9. How We Update This Privacy Policy</h2>
+                        <p class="text-body leading-relaxed mb-4">
+                            We review and update this policy regularly to match operational enhancements or legal modifications.
+                        </p>
+                        <p class="text-body leading-relaxed">
+                            Any updates are posted on this page, and we notify registered users via email or site banners prior to structural changes taking effect. We encourage periodic reviews.
+                        </p>
+                    </section>
+
+                    <!-- How We Contact You and How You Can Contact Us -->
+                    <section id="contact" data-title="Contact Us" class="p-8 bg-canvas border border-hairline rounded-2xl card-shadow scroll-mt-28">
+                        <h2 class="text-2xl font-semibold text-ink mb-4">10. Contact Us</h2>
+                        <p class="text-body leading-relaxed mb-6">
+                            For any inquiries, data actions, or compliance feedback, please get in touch with our team:
+                        </p>
+
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                            <div class="p-6 bg-canvas-soft border border-hairline rounded-xl text-center">
+                                <h4 class="text-xs font-mono text-mute mb-2 uppercase">Privacy & Compliance</h4>
+                                <a href="mailto:privacy@brightmariner.com" class="text-sm font-semibold text-ink hover:text-link transition-colors block">privacy@brightmariner.com</a>
+                            </div>
+                            <div class="p-6 bg-canvas-soft border border-hairline rounded-xl text-center">
+                                <h4 class="text-xs font-mono text-mute mb-2 uppercase">General Support</h4>
+                                <a href="mailto:contact.brightmariner@gmail.com" class="text-sm font-semibold text-ink hover:text-link transition-colors block">contact.brightmariner@gmail.com</a>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Client-side Search and Scroll spy script -->
+    <script>
+        // Setup Search and Table of Contents behavior
+        const initPrivacyPolicy = () => {
+            const searchInput = document.getElementById('privacy-search') as HTMLInputElement;
+            const sections = document.querySelectorAll('#privacy-content section') as NodeListOf<HTMLElement>;
+            const navLinks = document.querySelectorAll('#privacy-nav a') as NodeListOf<HTMLAnchorElement>;
+            const noResults = document.getElementById('no-results') as HTMLElement;
+            const resetBtn = document.getElementById('reset-search') as HTMLButtonElement;
+
+            if (!searchInput || !sections.length || !navLinks.length) return;
+
+            // Search logic
+            const filterPolicy = (query: string) => {
+                const cleanQuery = query.toLowerCase().trim();
+                let matchesCount = 0;
+
+                sections.forEach(section => {
+                    const text = section.textContent || '';
+                    const sectionId = section.getAttribute('id') || '';
+                    const navLink = document.querySelector(`#privacy-nav a[href="#${sectionId}"]`) as HTMLElement;
+
+                    if (text.toLowerCase().includes(cleanQuery)) {
+                        section.style.display = 'block';
+                        if (navLink) navLink.style.display = 'block';
+                        matchesCount++;
+                    } else {
+                        section.style.display = 'none';
+                        if (navLink) navLink.style.display = 'none';
+                    }
+                });
+
+                if (matchesCount === 0) {
+                    noResults?.classList.remove('hidden');
+                } else {
+                    noResults?.classList.add('hidden');
+                }
+            };
+
+            searchInput.addEventListener('input', () => {
+                filterPolicy(searchInput.value);
+            });
+
+            resetBtn?.addEventListener('click', () => {
+                searchInput.value = '';
+                filterPolicy('');
+            });
+
+            // Scroll-spy logic
+            const observerOptions = {
+                root: null,
+                rootMargin: '-10% 0px -70% 0px',
+                threshold: 0
+            };
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting && searchInput.value === '') {
+                        const activeId = entry.target.getAttribute('id');
+                        
+                        navLinks.forEach(link => {
+                            const href = link.getAttribute('href');
+                            if (href === `#${activeId}`) {
+                                link.classList.add('active-nav-link', 'font-medium', 'border-l-primary', 'text-ink');
+                                link.classList.remove('text-body');
+                            } else {
+                                link.classList.remove('active-nav-link', 'font-medium', 'border-l-primary', 'text-ink');
+                                link.classList.add('text-body');
+                            }
+                        });
+                    }
+                });
+            }, observerOptions);
+
+            sections.forEach(section => {
+                observer.observe(section);
+            });
+        };
+
+        // Run immediately since Astro script modules defer execution until DOM is ready,
+        // or fallback to event listener if state is still loading.
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initPrivacyPolicy);
+        } else {
+            initPrivacyPolicy();
+        }
+    </script>
+</Layout>
+
+<style>
+    :root {
+        --page-width: 1400px;
+    }
+    .active-nav-link {
+        border-left-color: var(--color-primary);
+    }
+    .scroll-mt-28 {
+        scroll-margin-top: 7rem;
+    }
+</style>
