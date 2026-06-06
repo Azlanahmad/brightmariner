@@ -194,7 +194,7 @@ description: "Read about Privacy Policy on Bright Mariner."
 
 
 
-<li>You can request a copy of your information that we have collected and stored, or request us to correct, update, or delete your information, or restrict or object to the processing of your information, by contacting us at privacy@brightmariner.com. We will respond to your request as soon as possible, and in any case, within the time frame required by law. We may ask you to verify your identity and provide additional information or documentation to process your request. We may also charge a reasonable fee or refuse your request if it is excessive, repetitive, or unfounded, as permitted by law.</li>
+<li>You can request a copy of your information that we have collected and stored, or request us to correct, update, or delete your information, or restrict or object to the processing of your information, by contacting us at <!--email_off-->privacy@brightmariner.com<!--/email_off-->. We will respond to your request as soon as possible, and in any case, within the time frame required by law. We may ask you to verify your identity and provide additional information or documentation to process your request. We may also charge a reasonable fee or refuse your request if it is excessive, repetitive, or unfounded, as permitted by law.</li>
 </ul>
 
 
@@ -203,7 +203,7 @@ description: "Read about Privacy Policy on Bright Mariner."
 
 
 
-<p>Our website, services, or products are not intended for children under the age of 13, and we do not knowingly collect, use, or share any personal information from children under 13, unless we have obtained the consent of their parent or guardian, or as permitted by law. If we become aware that we have collected personal information from a child under 13 without such consent, we will delete it as soon as possible. If you are a parent or guardian of a child under 13, and you believe that your child has provided us with personal information without your consent, please contact us at contact.brightmariner@gmail.com</p>
+<p>Our website, services, or products are not intended for children under the age of 13, and we do not knowingly collect, use, or share any personal information from children under 13, unless we have obtained the consent of their parent or guardian, or as permitted by law. If we become aware that we have collected personal information from a child under 13 without such consent, we will delete it as soon as possible. If you are a parent or guardian of a child under 13, and you believe that your child has provided us with personal information without your consent, please contact us at <!--email_off-->contact.brightmariner@gmail.com<!--/email_off--></p>
 
 
 
@@ -223,7 +223,7 @@ description: "Read about Privacy Policy on Bright Mariner."
 
 
 
-<p>We may contact you by email, message, notification, or other means, as appropriate, to provide you with information or updates about our website, services, or products, or to respond to your inquiries, requests, or complaints. You can contact us by email at contact.brightmariner@gmail.com</p>
+<p>We may contact you by email, message, notification, or other means, as appropriate, to provide you with information or updates about our website, services, or products, or to respond to your inquiries, requests, or complaints. You can contact us by email at <!--email_off-->contact.brightmariner@gmail.com<!--/email_off--></p>
 
 
 

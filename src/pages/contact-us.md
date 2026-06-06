@@ -25,7 +25,7 @@ description: "Read about Contact Us on Bright Mariner."
 
 
 
-<p><strong>Email:</strong> <a>contact@brightmariner.com</a><br><strong>Phone:</strong></p>
+<p><strong>Email:</strong> <a><!--email_off-->contact@brightmariner.com<!--/email_off--></a><br><strong>Phone:</strong></p>
 
 
 
@@ -37,7 +37,7 @@ description: "Read about Contact Us on Bright Mariner."
 
 
 
-<p><strong>Email:</strong> <a>partner@brightmariner.com</a></p>
+<p><strong>Email:</strong> <a><!--email_off-->partner@brightmariner.com<!--/email_off--></a></p>
 
 
 

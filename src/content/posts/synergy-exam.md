@@ -39,7 +39,7 @@ image: "https://brightmariner.com/wp-content/uploads/2022/01/Screenshot-2022-01-
 
 
 
-<p>In case you have concerns regarding any of the above information, please contact us immediately at&nbsp;<a href="mailto:synergysupport@pearson.com">synergysupport@pearson.com</a>&nbsp;or<strong> Call +91 9958836883</strong><br>Synergy Maritime has been conducting separate exams for&nbsp;<strong>Deck Cadets&nbsp;</strong>and&nbsp;<strong>Engine Cadets</strong>.</p>
+<p>In case you have concerns regarding any of the above information, please contact us immediately at&nbsp;<!--email_off--><a href="mailto:synergysupport@pearson.com">synergysupport@pearson.com</a><!--/email_off-->&nbsp;or<strong> Call +91 9958836883</strong><br>Synergy Maritime has been conducting separate exams for&nbsp;<strong>Deck Cadets&nbsp;</strong>and&nbsp;<strong>Engine Cadets</strong>.</p>
 
 
 
