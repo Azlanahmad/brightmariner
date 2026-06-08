@@ -3,6 +3,10 @@ import json
 import glob
 from fpdf import FPDF
 
+# Absolute paths based on script location
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+REPO_ROOT = os.path.dirname(SCRIPT_DIR)
+
 # Course ID to Name mapping
 course_names = {
     'efa': 'Elementary First Aid (EFA)',
@@ -64,28 +68,61 @@ class MaritimePDF(FPDF):
     def __init__(self, course_title):
         super().__init__()
         self.course_title = course_title
+        # Set margins: Left=10mm, Top=30mm, Right=10mm
+        self.set_margins(10, 30, 10)
 
     def header(self):
-        if self.page_no() > 1:
-            self.set_font('Helvetica', 'I', 8)
-            self.set_text_color(100, 100, 100)
-            self.cell(0, 10, f'{self.course_title} Exit Exam Questions & Answers - Bright Mariner', new_x="LMARGIN", new_y="NEXT", align='L')
-            self.line(10, 17, 200, 17)
-            self.ln(5)
+        # Draw logo image (apple-touch-icon.png)
+        # Position: top-right of page, x = 185, y = 8, width = 14, height = 14
+        # Link: https://brightmariner.com
+        logo_path = os.path.join(REPO_ROOT, 'public/apple-touch-icon.png')
+        if os.path.exists(logo_path):
+            self.image(logo_path, x=185, y=8, w=14, h=14, link="https://brightmariner.com")
+            
+        # Draw header text and link
+        self.set_font('Helvetica', 'I', 8)
+        self.set_text_color(100, 100, 100)
+        
+        # Left-aligned header text
+        self.set_xy(10, 11)
+        self.cell(0, 8, clean_text(f'{self.course_title} Exit Exam Prep'), align='L')
+        
+        # Right-aligned site link (clickable)
+        self.set_xy(10, 11)
+        self.set_font('Helvetica', 'B', 8)
+        self.set_text_color(26, 54, 93) # primary blue
+        self.cell(172, 8, 'brightmariner.com', align='R', link="https://brightmariner.com")
+        
+        # Header line below text and logo
+        self.line(10, 24, 200, 24)
 
     def footer(self):
         self.set_y(-15)
         self.set_font('Helvetica', 'I', 8)
         self.set_text_color(100, 100, 100)
         self.line(10, 282, 200, 282)
-        self.cell(0, 10, f'Page {self.page_no()}', align='C')
+        
+        # Right-aligned page number
+        self.cell(0, 10, f'Page {self.page_no()}', align='R')
+        
+        # Left-aligned clickable site domain and watermark
+        self.set_x(10)
+        self.set_text_color(26, 54, 93)
+        self.set_font('Helvetica', 'B', 8)
+        self.cell(0, 10, 'brightmariner.com', link="https://brightmariner.com", align='L')
+        
+        self.set_x(38)
+        self.set_font('Helvetica', '', 8)
+        self.set_text_color(100, 100, 100)
+        self.cell(0, 10, '| Free STCW MCQ Practice Platform', align='L')
 
 def generate_pdf(course_id):
     # Fetch course full name
     course_name = course_names.get(course_id, course_id.upper())
     
     # Load all questions for this course
-    question_files = glob.glob(f'brightmariner/src/content/questions/{course_id}/**/*.json', recursive=True)
+    questions_path = os.path.join(REPO_ROOT, f'src/content/questions/{course_id}/**/*.json')
+    question_files = glob.glob(questions_path, recursive=True)
     questions = []
     
     for f in question_files:
@@ -127,10 +164,12 @@ def generate_pdf(course_id):
     
     pdf.set_font('Helvetica', 'I', 10)
     pdf.set_text_color(113, 128, 150)
-    pdf.cell(0, 10, clean_text('Updated for DG Shipping India (Ship 07 Portal) | Source: brightmariner.com'), new_x="LMARGIN", new_y="NEXT", align='C')
-    pdf.ln(10)
+    pdf.cell(0, 10, clean_text('Updated for DG Shipping India Exams | Source: brightmariner.com'), new_x="LMARGIN", new_y="NEXT", align='C')
+    pdf.ln(2)
     
-    pdf.line(10, 55, 200, 55)
+    # Draw line dynamically at current Y
+    line_y = pdf.get_y()
+    pdf.line(10, line_y, 200, line_y)
     pdf.ln(5)
     
     current_set = None
@@ -187,7 +226,7 @@ def generate_pdf(course_id):
             
         pdf.ln(5)
         
-    output_dir = 'brightmariner/public'
+    output_dir = os.path.join(REPO_ROOT, 'public')
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, f'{course_id}-exit-exam-questions-answers.pdf')
     pdf.output(output_path)
