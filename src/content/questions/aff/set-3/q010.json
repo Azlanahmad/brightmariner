@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q10",
+  "text": "Class 1 watertight doors are:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hinged type"
+    },
+    {
+      "id": "B",
+      "text": "Vertical sliding type"
+    },
+    {
+      "id": "C",
+      "text": "Horizontal sliding type"
+    },
+    {
+      "id": "D",
+      "text": "Rolling type"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q22",
+  "text": "Carbon dioxide as a fire fighting agent has which advantage over other agents?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It causes minimal damage."
+    },
+    {
+      "id": "B",
+      "text": "It is safer for personnel."
+    },
+    {
+      "id": "C",
+      "text": "It is cheaper."
+    },
+    {
+      "id": "D",
+      "text": "It is most effective on a per unit basis."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

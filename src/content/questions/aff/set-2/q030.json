@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q30",
+  "text": "Before using a fixed CO2 system to fight an engine room fire, you must:",
+  "options": [
+    {
+      "id": "A",
+      "text": "secure the engine room ventilation"
+    },
+    {
+      "id": "B",
+      "text": "secure the machinery in the engine room"
+    },
+    {
+      "id": "C",
+      "text": "evacuate all engine room personnel"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

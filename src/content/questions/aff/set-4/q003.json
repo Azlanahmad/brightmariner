@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q3",
+  "text": "What, when removed, will assist in the self-extinguishment of a fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nitrogen"
+    },
+    {
+      "id": "B",
+      "text": "Carbon dioxide"
+    },
+    {
+      "id": "C",
+      "text": "Oxygen"
+    },
+    {
+      "id": "D",
+      "text": "Argon"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

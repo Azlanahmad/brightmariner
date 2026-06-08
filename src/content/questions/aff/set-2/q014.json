@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q14",
+  "text": "Which of the following statements is FALSE, concerning the regulations pertaining to the cylinder room of a fixed CO2 fire extinguishing system?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The temperature of the room should never exceed 130°F."
+    },
+    {
+      "id": "B",
+      "text": "The door must be kept unlocked."
+    },
+    {
+      "id": "C",
+      "text": "The compartment must be properly ventilated."
+    },
+    {
+      "id": "D",
+      "text": "The compartment shall be clearly marked and identifiable."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

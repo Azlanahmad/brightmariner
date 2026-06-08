@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q15",
+  "text": "As a firefighting medium, CO2 can be dangerous under certain conditions as it can cause:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Severe toxic vapor contamination inside boiler loops"
+    },
+    {
+      "id": "B",
+      "text": "Freeze burns and blistering"
+    },
+    {
+      "id": "C",
+      "text": "Spontaneous flashover due to compression waves"
+    },
+    {
+      "id": "D",
+      "text": "Corrosion of sensitive mechanical gears"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q23",
+  "text": "Portable foam fire extinguishers are designed for use on which classes of fires?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Class A and B fires"
+    },
+    {
+      "id": "B",
+      "text": "Class B and C fires"
+    },
+    {
+      "id": "C",
+      "text": "Class C and D fires"
+    },
+    {
+      "id": "D",
+      "text": "Class A and D fires"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

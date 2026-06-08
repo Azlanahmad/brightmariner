@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q7",
+  "text": "The fire protection provided for the propulsion motor and generator of a diesel-electric drive vessel is usually a:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fixed foam system"
+    },
+    {
+      "id": "B",
+      "text": "Fixed CO2 system"
+    },
+    {
+      "id": "C",
+      "text": "Water sprinkler system"
+    },
+    {
+      "id": "D",
+      "text": "Dry powder station"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

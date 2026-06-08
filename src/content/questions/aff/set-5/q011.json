@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q11",
+  "text": "The deep fryer oil overheated because of a:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lack of fresh liquid fat inputs"
+    },
+    {
+      "id": "B",
+      "text": "Thermostat malfunctioning"
+    },
+    {
+      "id": "C",
+      "text": "Mechanical failure inside the extractor canopy"
+    },
+    {
+      "id": "D",
+      "text": "Blockage inside draining pipe lines"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q21",
+  "text": "A fire hose can be used for purposes other than firefighting service when:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Washing down cargo decks at sea"
+    },
+    {
+      "id": "B",
+      "text": "Used for drills and testing"
+    },
+    {
+      "id": "C",
+      "text": "Supplying cooling fluid to a temporary generator"
+    },
+    {
+      "id": "D",
+      "text": "Clearing choked scupper valves"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

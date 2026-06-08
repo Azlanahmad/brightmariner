@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q5",
+  "text": "The minimum flashpoint of oil fuel carried on board a ship is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "40 degrees Celsius"
+    },
+    {
+      "id": "B",
+      "text": "50 degrees Celsius"
+    },
+    {
+      "id": "C",
+      "text": "60 degrees Celsius"
+    },
+    {
+      "id": "D",
+      "text": "70 degrees Celsius"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q14",
+  "text": "If you see an oil leakage, you clean it immediately. This is an example of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Preventive machinery tuning parameters"
+    },
+    {
+      "id": "B",
+      "text": "ISO structural standard declaration rules"
+    },
+    {
+      "id": "C",
+      "text": "Good housekeeping"
+    },
+    {
+      "id": "D",
+      "text": "Deck log monitoring instructions"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

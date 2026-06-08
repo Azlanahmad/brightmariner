@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q13",
+  "text": "Which dangerous condition should be kept in mind after using a 6.8 kg CO2 fire extinguisher on a small oil fire on the engine room floor plates?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Suffocation inside the main casing"
+    },
+    {
+      "id": "B",
+      "text": "Rupture of downstream valves"
+    },
+    {
+      "id": "C",
+      "text": "Rekindling of the fire"
+    },
+    {
+      "id": "D",
+      "text": "Freezing of mechanical controls"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

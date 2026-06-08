@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q17",
+  "text": "Mechanical foam used for firefighting is produced by mechanically mixing and agitating:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Foam chemical with nitrogen gas"
+    },
+    {
+      "id": "B",
+      "text": "Liquid CO2 with water solution"
+    },
+    {
+      "id": "C",
+      "text": "Foam chemical with air and water"
+    },
+    {
+      "id": "D",
+      "text": "Dry chemical powder with water stream"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

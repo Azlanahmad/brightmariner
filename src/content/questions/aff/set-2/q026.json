@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q26",
+  "text": "On cargo vessels, the discharge of the required quantity of carbon dioxide into any 'tight' space shall be completed within:",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 minute"
+    },
+    {
+      "id": "B",
+      "text": "2 minutes"
+    },
+    {
+      "id": "C",
+      "text": "4 minutes"
+    },
+    {
+      "id": "D",
+      "text": "6 minutes"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q26",
+  "text": "What is NOT a characteristic of a carbon dioxide fire extinguishing agent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It leaves no messy residue after use"
+    },
+    {
+      "id": "B",
+      "text": "It is effective even if ventilation is not shut down"
+    },
+    {
+      "id": "C",
+      "text": "It displaces air to smother a fire"
+    },
+    {
+      "id": "D",
+      "text": "It can cause frostbite upon contact with skin"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

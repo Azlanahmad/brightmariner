@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q28",
+  "text": "As per NFPA (National Fire Protection Association), a fire in cooking appliances involving vegetable/animal oils and fats is classified as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Class B"
+    },
+    {
+      "id": "B",
+      "text": "Class D"
+    },
+    {
+      "id": "C",
+      "text": "Class C"
+    },
+    {
+      "id": "D",
+      "text": "Class K"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

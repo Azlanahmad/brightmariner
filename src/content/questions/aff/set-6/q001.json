@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q1",
+  "text": "The extinguishing agent most likely to allow re-ignition of a fire is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mechanical foam spray"
+    },
+    {
+      "id": "B",
+      "text": "Carbon dioxide"
+    },
+    {
+      "id": "C",
+      "text": "Water fog"
+    },
+    {
+      "id": "D",
+      "text": "Dry chemical powder"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q25",
+  "text": "Dangerous goods are classified into how many groups?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Three groups"
+    },
+    {
+      "id": "B",
+      "text": "Five groups"
+    },
+    {
+      "id": "C",
+      "text": "Nine groups"
+    },
+    {
+      "id": "D",
+      "text": "Twelve groups"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

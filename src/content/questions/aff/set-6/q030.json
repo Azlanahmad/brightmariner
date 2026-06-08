@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q30",
+  "text": "What is the minimum number of portable fire extinguishers that must be carried on ships of 1000 GRT and above?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Two"
+    },
+    {
+      "id": "B",
+      "text": "Three"
+    },
+    {
+      "id": "C",
+      "text": "Five"
+    },
+    {
+      "id": "D",
+      "text": "Eight"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

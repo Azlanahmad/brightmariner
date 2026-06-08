@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q14",
+  "text": "Tapioca is susceptible to ________ when damp.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chemical crystallization"
+    },
+    {
+      "id": "B",
+      "text": "Liquefaction slide effects"
+    },
+    {
+      "id": "C",
+      "text": "Spontaneous combustion"
+    },
+    {
+      "id": "D",
+      "text": "Electrostatic discharges"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

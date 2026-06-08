@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q8",
+  "text": "The international shore connection:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Links ship navigation logs with port administration grids"
+    },
+    {
+      "id": "B",
+      "text": "Allows hookup of firefighting water from shore facilities"
+    },
+    {
+      "id": "C",
+      "text": "Supplies high voltage electrical power to propulsion links"
+    },
+    {
+      "id": "D",
+      "text": "Drains oily bilge slops safely to dockside collection tanks"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q4",
+  "text": "Classification of fire bulkheads inside accommodation spaces is based on fire resisting capabilities. They are classified as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Class A, B, C"
+    },
+    {
+      "id": "B",
+      "text": "Class X, Y, Z"
+    },
+    {
+      "id": "C",
+      "text": "Class 1, 2, 3"
+    },
+    {
+      "id": "D",
+      "text": "Class H, J, K"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q23",
+  "text": "Which extinguishing agent is most likely to allow reflash as a result of not cooling the fuel below its ignition temperature?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aqueous film-forming foam (AFFF)"
+    },
+    {
+      "id": "B",
+      "text": "CO2"
+    },
+    {
+      "id": "C",
+      "text": "Water fog stream"
+    },
+    {
+      "id": "D",
+      "text": "Dry chemical powder mix"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

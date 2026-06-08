@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q22",
+  "text": "When water fog is used as an extinguishing agent, the fire is extinguished principally by the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Displacement of active fuel structures safely"
+    },
+    {
+      "id": "B",
+      "text": "Absorption of heat"
+    },
+    {
+      "id": "C",
+      "text": "Exclusion of atmospheric nitrogen elements"
+    },
+    {
+      "id": "D",
+      "text": "Chemical breakdown of active free radicals"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

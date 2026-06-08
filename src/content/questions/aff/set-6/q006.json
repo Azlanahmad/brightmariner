@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q6",
+  "text": "You are operating a fire hose with an applicator attached. If you put the handle of the nozzle in the vertical position, you will use:",
+  "options": [
+    {
+      "id": "A",
+      "text": "High velocity solid jet stream"
+    },
+    {
+      "id": "B",
+      "text": "Shutoff position with zero output flow"
+    },
+    {
+      "id": "C",
+      "text": "Low velocity fog"
+    },
+    {
+      "id": "D",
+      "text": "Foam solution delivery parameter"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

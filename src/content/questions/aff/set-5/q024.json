@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q24",
+  "text": "A vessel's Fire Control plan shall have:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Blueprint files locked exclusively in the captain's office"
+    },
+    {
+      "id": "B",
+      "text": "A duplicate set of plans permanently stored outside the deck house in a prominent weatherproof enclosure"
+    },
+    {
+      "id": "C",
+      "text": "Microfiche summary records mounted inside all lifeboats"
+    },
+    {
+      "id": "D",
+      "text": "Plastic layout cards stapled on every accommodation deck door"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

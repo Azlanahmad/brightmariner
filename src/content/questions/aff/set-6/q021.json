@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q21",
+  "text": "Which firefighting agent is most effective in removing heat?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carbon dioxide vapor stream"
+    },
+    {
+      "id": "B",
+      "text": "Dry chemical powder blanket throw"
+    },
+    {
+      "id": "C",
+      "text": "Water spray"
+    },
+    {
+      "id": "D",
+      "text": "Mechanical structural foam solution"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

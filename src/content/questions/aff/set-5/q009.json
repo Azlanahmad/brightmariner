@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q9",
+  "text": "During cargo operations, a deck fire has occurred due to a leaking cargo line. You should first:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rig a mechanical foam generator station"
+    },
+    {
+      "id": "B",
+      "text": "Sound the international collision alarm whistle"
+    },
+    {
+      "id": "C",
+      "text": "Stop the transfer of cargo"
+    },
+    {
+      "id": "D",
+      "text": "Douse structural pipelines with sea spray"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

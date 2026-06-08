@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q25",
+  "text": "A fixed carbon dioxide extinguishing system for a machinery space, designed WITHOUT a stop valve in the line leading to the protected space, is actuated by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "one control"
+    },
+    {
+      "id": "B",
+      "text": "two controls"
+    },
+    {
+      "id": "C",
+      "text": "three controls"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

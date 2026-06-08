@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q7",
+  "text": "To safely enter a compartment where CO2 has been released from a fixed extinguishing system, you should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Wear a generic particulate dust filter mask"
+    },
+    {
+      "id": "B",
+      "text": "Run a hand-held exhaust blower for five minutes first"
+    },
+    {
+      "id": "C",
+      "text": "Wear a self-contained breathing apparatus (SCBA)"
+    },
+    {
+      "id": "D",
+      "text": "Wait ten minutes for gas settlement before walking in"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

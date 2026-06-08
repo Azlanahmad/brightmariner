@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q11",
+  "text": "When pilot cylinder pressure is used as a means to release the CO2 from a fixed fire extinguishing system consisting of four storage cylinders, the number of pilot cylinders shall be at least:",
+  "options": [
+    {
+      "id": "A",
+      "text": "1"
+    },
+    {
+      "id": "B",
+      "text": "4"
+    },
+    {
+      "id": "C",
+      "text": "3"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

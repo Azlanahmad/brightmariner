@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q9",
+  "text": "An important tool for fire prevention is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Periodic paint applications"
+    },
+    {
+      "id": "B",
+      "text": "Cleaning and good housekeeping"
+    },
+    {
+      "id": "C",
+      "text": "Keeping internal ventilation doors wide open"
+    },
+    {
+      "id": "D",
+      "text": "Increasing high-expansion foam reserves"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

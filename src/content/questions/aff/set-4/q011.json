@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q11",
+  "text": "A person may operate an air compressor in which of the following areas on board a tank barge?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inside a cargo tank hatch"
+    },
+    {
+      "id": "B",
+      "text": "Pumproom space"
+    },
+    {
+      "id": "C",
+      "text": "Generator room"
+    },
+    {
+      "id": "D",
+      "text": "Open deck near vapor manifold lines"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

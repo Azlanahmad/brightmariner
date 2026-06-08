@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q13",
+  "text": "The control panel of a fire detection system must have all of the following EXCEPT:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Visual indicators showing alarm sectors"
+    },
+    {
+      "id": "B",
+      "text": "An audible device to signal alarms or system faults"
+    },
+    {
+      "id": "C",
+      "text": "A way to bypass the entire panel if it malfunctions"
+    },
+    {
+      "id": "D",
+      "text": "Test switches to check structural loop indicators"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

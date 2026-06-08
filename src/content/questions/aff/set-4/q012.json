@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q12",
+  "text": "The most efficient way of transferring heat in liquids and gases is called:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Conduction"
+    },
+    {
+      "id": "B",
+      "text": "Convection"
+    },
+    {
+      "id": "C",
+      "text": "Radiation"
+    },
+    {
+      "id": "D",
+      "text": "Insulation"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

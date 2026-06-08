@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q24",
+  "text": "The fixed CO2 fire extinguishing system has been activated to extinguish a large engine room bilge fire. When is the best time to vent the combustible products from the engine room?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Immediately after the fire goes out"
+    },
+    {
+      "id": "B",
+      "text": "After the metal surfaces have cooled down"
+    },
+    {
+      "id": "C",
+      "text": "Right before entering the space with an SCBA"
+    },
+    {
+      "id": "D",
+      "text": "One hour after initial discharge regardless of temperature"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q17",
+  "text": "If passengers are on board when an abandon ship drill is carried out, they should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Remain inside their cabins behind closed safety doors"
+    },
+    {
+      "id": "B",
+      "text": "Gather exclusively at public dining lounges"
+    },
+    {
+      "id": "C",
+      "text": "Take part"
+    },
+    {
+      "id": "D",
+      "text": "Be evacuated on an auxiliary service tender craft"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

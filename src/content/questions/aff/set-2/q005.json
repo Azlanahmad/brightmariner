@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q5",
+  "text": "The FIRST course of action in fighting a fire in a cargo or fuel oil tank is to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Spray the tank boundaries with a fire hose to promote cooling"
+    },
+    {
+      "id": "B",
+      "text": "Direct a fire hose into the tank and energize the fire main"
+    },
+    {
+      "id": "C",
+      "text": "Discharge an initial charge of CO2 with a hand portable extinguisher"
+    },
+    {
+      "id": "D",
+      "text": "Secure all openings to the tank"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

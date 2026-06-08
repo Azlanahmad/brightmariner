@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q12",
+  "text": "Which statement describes the primary process by which fires are extinguished by dry chemical?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The dry chemical creates a dense visual foam overlay block"
+    },
+    {
+      "id": "B",
+      "text": "The dry chemical powder attacks the fuel and oxygen chain reaction"
+    },
+    {
+      "id": "C",
+      "text": "The active agent drops fuel core parameters past absolute freezing margins"
+    },
+    {
+      "id": "D",
+      "text": "It relies on heavy moisture transformation into structural vapor screens"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

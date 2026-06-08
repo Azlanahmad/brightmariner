@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q34",
+  "text": "In a fixed carbon dioxide extinguishing system for a machinery space, designed WITH a stop valve in the line leading to the protected space, the flow of CO2 is established by actuating:",
+  "options": [
+    {
+      "id": "A",
+      "text": "three controls"
+    },
+    {
+      "id": "B",
+      "text": "two controls"
+    },
+    {
+      "id": "C",
+      "text": "one control"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

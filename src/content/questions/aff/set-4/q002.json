@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q2",
+  "text": "Containers are manufactured as per standards set by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "IMO"
+    },
+    {
+      "id": "B",
+      "text": "SOLAS"
+    },
+    {
+      "id": "C",
+      "text": "ISO"
+    },
+    {
+      "id": "D",
+      "text": "MARPOL"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

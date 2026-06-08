@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q25",
+  "text": "A definite advantage of using water as a firefighting agent is its characteristic of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Breaking down chemical bonding chains safely"
+    },
+    {
+      "id": "B",
+      "text": "Non-conductivity near live machinery"
+    },
+    {
+      "id": "C",
+      "text": "Rapid expansion as water absorbs heat and changes to steam"
+    },
+    {
+      "id": "D",
+      "text": "Leaving clean residue that acts as a fire barrier"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

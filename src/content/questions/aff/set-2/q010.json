@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q10",
+  "text": "Your vessel is equipped with a fixed CO2 system and a fire main system. In the event of an electrical fire in the engine room what is the correct procedure for fighting the fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Evacuate the engine room and use the fire main system."
+    },
+    {
+      "id": "B",
+      "text": "Evacuate the engine room and use the CO2 system."
+    },
+    {
+      "id": "C",
+      "text": "Use the fire main system and evacuate the engine room."
+    },
+    {
+      "id": "D",
+      "text": "Use the CO2 system and evacuate the engine room."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

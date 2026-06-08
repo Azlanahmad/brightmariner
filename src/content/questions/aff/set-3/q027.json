@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q27",
+  "text": "It is necessary to secure the forced ventilation to a compartment where there is a fire to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prevent additional oxygen from reaching the fire"
+    },
+    {
+      "id": "B",
+      "text": "Retain toxic gases to help smother flames"
+    },
+    {
+      "id": "C",
+      "text": "Protect the ventilation fan motor from overspeeding"
+    },
+    {
+      "id": "D",
+      "text": "Limit the expansion of cooling steam lines"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

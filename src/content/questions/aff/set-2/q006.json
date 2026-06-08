@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q6",
+  "text": "Three side of fire triangle are fuel, heat and ............?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Petrol"
+    },
+    {
+      "id": "B",
+      "text": "Gases"
+    },
+    {
+      "id": "C",
+      "text": "Oxygen"
+    },
+    {
+      "id": "D",
+      "text": "Combustible material"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q5",
+  "text": "During a fire onboard, communication is to be:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Complex, thoroughly detailed, and extensive"
+    },
+    {
+      "id": "B",
+      "text": "Concise, precise, and short"
+    },
+    {
+      "id": "C",
+      "text": "Relayed solely via messengers"
+    },
+    {
+      "id": "D",
+      "text": "Postponed until structural assessments end"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

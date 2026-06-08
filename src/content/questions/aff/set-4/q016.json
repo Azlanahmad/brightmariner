@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q16",
+  "text": "In order to achieve the fire safety objective, which of the following functional requirements are embodied in SOLAS regulations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Division of the ship into main horizontal/vertical zones by thermal and structural boundaries"
+    },
+    {
+      "id": "B",
+      "text": "Separation of accommodation spaces from the remainder of the ship by thermal and structural boundaries"
+    },
+    {
+      "id": "C",
+      "text": "Protective means of escape and access for firefighting"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

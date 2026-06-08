@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q17",
+  "text": "The expansion of IBC code is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "International Bulk Cargo code"
+    },
+    {
+      "id": "B",
+      "text": "International Bulk Chemical code"
+    },
+    {
+      "id": "C",
+      "text": "Intermaritime Boiler Construction code"
+    },
+    {
+      "id": "D",
+      "text": "International Bilge Control code"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

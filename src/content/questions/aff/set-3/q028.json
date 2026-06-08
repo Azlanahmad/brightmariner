@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q28",
+  "text": "The four basic components of a fire are a chain reaction, heat, fuel, and:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nitrogen"
+    },
+    {
+      "id": "B",
+      "text": "Carbon dioxide"
+    },
+    {
+      "id": "C",
+      "text": "Oxygen"
+    },
+    {
+      "id": "D",
+      "text": "Carbon monoxide"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

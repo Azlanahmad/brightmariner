@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q23",
+  "text": "CO2 cylinders forming part of a fixed fire extinguishing system must be pressure tested at least every:",
+  "options": [
+    {
+      "id": "A",
+      "text": "12 years"
+    },
+    {
+      "id": "B",
+      "text": "6 years"
+    },
+    {
+      "id": "C",
+      "text": "2 years"
+    },
+    {
+      "id": "D",
+      "text": "year"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q7",
+  "text": "The oxidation process creates:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cooling vapors"
+    },
+    {
+      "id": "B",
+      "text": "Heavy scale deposits"
+    },
+    {
+      "id": "C",
+      "text": "Heat"
+    },
+    {
+      "id": "D",
+      "text": "Free radical inhibitors"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

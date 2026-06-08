@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q29",
+  "text": "What shall be conducted during a fire and boat drill?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cargo tank hatches must be opened for visual gas checking"
+    },
+    {
+      "id": "B",
+      "text": "All watertight doors in the vicinity of the drill shall be operated"
+    },
+    {
+      "id": "C",
+      "text": "Emergency bilge suctions must be run on full backflow parameters"
+    },
+    {
+      "id": "D",
+      "text": "Lifeboats must be launched and run at service speeds for an hour"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

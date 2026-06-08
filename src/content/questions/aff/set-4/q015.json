@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q15",
+  "text": "You can find the location of your abandon ship post by checking the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deck logbook entries"
+    },
+    {
+      "id": "B",
+      "text": "Bridge passage plan"
+    },
+    {
+      "id": "C",
+      "text": "Master list"
+    },
+    {
+      "id": "D",
+      "text": "Safety equipment certificate booklet"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

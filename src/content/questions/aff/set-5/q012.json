@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q12",
+  "text": "The best way to test the Inmarsat-C terminal is to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Place a voice phone link call to shore coordination networks"
+    },
+    {
+      "id": "B",
+      "text": "Compose and send a brief message to your own Inmarsat-C terminal"
+    },
+    {
+      "id": "C",
+      "text": "Sound the internal automatic distress loop button"
+    },
+    {
+      "id": "D",
+      "text": "Contact an adjacent vessel via bridge VHF radio link"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

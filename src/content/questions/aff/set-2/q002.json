@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q2",
+  "text": "Apart from red what other color is frequently used for a CO2 extinguisher:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Blue"
+    },
+    {
+      "id": "B",
+      "text": "Yellow"
+    },
+    {
+      "id": "C",
+      "text": "Black"
+    },
+    {
+      "id": "D",
+      "text": "Red"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

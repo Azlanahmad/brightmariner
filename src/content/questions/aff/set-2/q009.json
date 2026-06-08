@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q9",
+  "text": "Fixed CO2 systems would not be used on crew's quarters or:",
+  "options": [
+    {
+      "id": "A",
+      "text": "the engine room"
+    },
+    {
+      "id": "B",
+      "text": "cargo holds"
+    },
+    {
+      "id": "C",
+      "text": "spaces open to the atmosphere"
+    },
+    {
+      "id": "D",
+      "text": "the paint locker"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

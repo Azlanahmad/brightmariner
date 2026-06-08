@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q18",
+  "text": "Control valves of a CO2 system may be located within the protected space when:",
+  "options": [
+    {
+      "id": "A",
+      "text": "an automatic heat-sensing trip is installed"
+    },
+    {
+      "id": "B",
+      "text": "the CO2 cylinders are also in the space"
+    },
+    {
+      "id": "C",
+      "text": "there is also a control valve outside"
+    },
+    {
+      "id": "D",
+      "text": "it is impractical to locate them outside"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

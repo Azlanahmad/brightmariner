@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q2",
+  "text": "Which fire detection system is actuated by sensing a heat rise in a compartment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flame detection system"
+    },
+    {
+      "id": "B",
+      "text": "Manual pull stations"
+    },
+    {
+      "id": "C",
+      "text": "Automatic fire detection system"
+    },
+    {
+      "id": "D",
+      "text": "Smoke obstruction system"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

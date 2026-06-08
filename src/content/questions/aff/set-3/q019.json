@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q19",
+  "text": "The fire main system should be flushed with fresh water whenever possible to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Minimize downstream supply pressure"
+    },
+    {
+      "id": "B",
+      "text": "Help destroy marine growth"
+    },
+    {
+      "id": "C",
+      "text": "Lubricate fire pump impellers"
+    },
+    {
+      "id": "D",
+      "text": "Reduce systemic scale formation"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

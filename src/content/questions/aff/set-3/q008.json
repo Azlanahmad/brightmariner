@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q8",
+  "text": "Metal fires should be fought using which extinguisher type?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carbon dioxide"
+    },
+    {
+      "id": "B",
+      "text": "Aqueous film-forming foam (AFFF)"
+    },
+    {
+      "id": "C",
+      "text": "Dry powder"
+    },
+    {
+      "id": "D",
+      "text": "Halon gas"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

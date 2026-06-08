@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q27",
+  "text": "For the safety of the personnel working with fire hoses, the fire pumps are fitted with a:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Remote automated vacuum seal breaker"
+    },
+    {
+      "id": "B",
+      "text": "Mechanical safety clutch linkage on driving engines"
+    },
+    {
+      "id": "C",
+      "text": "Pressure gauge and relief valve on the discharge side"
+    },
+    {
+      "id": "D",
+      "text": "Flexible expansion joint directly on the water suction intake"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

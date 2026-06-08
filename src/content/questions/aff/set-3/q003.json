@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q3",
+  "text": "Water fog is an effective firefighting agent because it:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Has a great cooling ability"
+    },
+    {
+      "id": "B",
+      "text": "Breaks the molecular chain reaction chemically"
+    },
+    {
+      "id": "C",
+      "text": "Displaces oxygen completely"
+    },
+    {
+      "id": "D",
+      "text": "Smothers the fire using dense foam"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q19",
+  "text": "Which statement concerning carbon dioxide is FALSE?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It leaves no dynamic residue on machinery components"
+    },
+    {
+      "id": "B",
+      "text": "It is safe to use near personnel in a confined space"
+    },
+    {
+      "id": "C",
+      "text": "It extinguishes fire by smothering action"
+    },
+    {
+      "id": "D",
+      "text": "It can be utilized safely on electrical fires"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

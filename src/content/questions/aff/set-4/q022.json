@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q22",
+  "text": "How many CO2 fire extinguishers ought to be kept in accommodation areas?",
+  "options": [
+    {
+      "id": "A",
+      "text": "One per room corridor"
+    },
+    {
+      "id": "B",
+      "text": "No extinguishers"
+    },
+    {
+      "id": "C",
+      "text": "Two near the galley spaces"
+    },
+    {
+      "id": "D",
+      "text": "Four on each deck landing"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

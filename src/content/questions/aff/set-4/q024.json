@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q24",
+  "text": "The removal of fuel in the firefighting process is known as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Smothering"
+    },
+    {
+      "id": "B",
+      "text": "Cooling"
+    },
+    {
+      "id": "C",
+      "text": "Starvation"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

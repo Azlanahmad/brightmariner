@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q4",
+  "text": "A large oil fire on the deck of a ship can be fought most effectively with:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Solid streams of sea water"
+    },
+    {
+      "id": "B",
+      "text": "High pressure carbon dioxide gas grids"
+    },
+    {
+      "id": "C",
+      "text": "Foam"
+    },
+    {
+      "id": "D",
+      "text": "Portable dry powder spray canisters"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

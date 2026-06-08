@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q4",
+  "text": "In fighting a fire in a fuel tank, the first action you should attempt is to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Station someone at the fixed CO2 release controls"
+    },
+    {
+      "id": "B",
+      "text": "Top off the tank to force out all vapors"
+    },
+    {
+      "id": "C",
+      "text": "Begin transferring the fuel to other tanks"
+    },
+    {
+      "id": "D",
+      "text": "Secure all sources of fresh air to the tank"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

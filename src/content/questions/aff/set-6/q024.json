@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q24",
+  "text": "Fire extinguishers of sizes 3, 4, and 5 are designated as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hand portable"
+    },
+    {
+      "id": "B",
+      "text": "Semi-portable"
+    },
+    {
+      "id": "C",
+      "text": "Fixed system bank units"
+    },
+    {
+      "id": "D",
+      "text": "Auxiliary utility modules"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

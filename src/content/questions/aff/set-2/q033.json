@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q33",
+  "text": "What is NOT a characteristic of carbon dioxide fire-extinguishing agents?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Effective even if ventilation is not shut down"
+    },
+    {
+      "id": "B",
+      "text": "Will not deteriorate in storage"
+    },
+    {
+      "id": "C",
+      "text": "Non-corrosive"
+    },
+    {
+      "id": "D",
+      "text": "Effective on electrical equipment"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

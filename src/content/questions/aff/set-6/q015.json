@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q15",
+  "text": "When dry chemical extinguishers are used to put out Class B fires, there is a danger of reflash because dry chemical:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reacts aggressively with marine steel materials"
+    },
+    {
+      "id": "B",
+      "text": "Does little or no cooling"
+    },
+    {
+      "id": "C",
+      "text": "Displaces air structures for only a few seconds"
+    },
+    {
+      "id": "D",
+      "text": "Vaporizes into flammable gas compounds under heat exposure"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

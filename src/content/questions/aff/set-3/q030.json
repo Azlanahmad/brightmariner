@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q30",
+  "text": "A fire must be ventilated:",
+  "options": [
+    {
+      "id": "A",
+      "text": "To supply additional oxygen to speed up burning"
+    },
+    {
+      "id": "B",
+      "text": "To prevent the gases of combustion from surrounding the firefighters"
+    },
+    {
+      "id": "C",
+      "text": "Immediately after triggering a fixed gas smothering system"
+    },
+    {
+      "id": "D",
+      "text": "To cool down fuel reservoirs below their flashpoints"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

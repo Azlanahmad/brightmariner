@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q18",
+  "text": "Carbon dioxide is stored under pressure in liquid form inside a fire:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hose connection reel"
+    },
+    {
+      "id": "B",
+      "text": "Foam applicator drum"
+    },
+    {
+      "id": "C",
+      "text": "Cylinder"
+    },
+    {
+      "id": "D",
+      "text": "Storage box enclosure"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

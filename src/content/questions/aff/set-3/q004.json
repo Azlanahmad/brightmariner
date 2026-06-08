@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q4",
+  "text": "A fire of escaping liquefied flammable gas is best extinguished by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flooding with low-velocity fog"
+    },
+    {
+      "id": "B",
+      "text": "Stopping the flow of gas"
+    },
+    {
+      "id": "C",
+      "text": "Applying large amounts of dry chemical powder"
+    },
+    {
+      "id": "D",
+      "text": "Cooling the surrounding storage cylinders"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

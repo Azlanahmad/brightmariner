@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q10",
+  "text": "An extinguishing agent which effectively cools, dilutes combustible vapors, removes oxygen, and provides a heat and smoke screen is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Halon gas"
+    },
+    {
+      "id": "B",
+      "text": "Dry chemical powder formulation"
+    },
+    {
+      "id": "C",
+      "text": "Water fog"
+    },
+    {
+      "id": "D",
+      "text": "Aqueous film-forming foam solution"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

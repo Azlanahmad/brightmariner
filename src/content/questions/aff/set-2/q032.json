@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q32",
+  "text": "Which advantage does dry chemical have over carbon dioxide (CO2) in firefighting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Compatible with all foam agents"
+    },
+    {
+      "id": "B",
+      "text": "More protective against re-flash"
+    },
+    {
+      "id": "C",
+      "text": "Cleaner"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

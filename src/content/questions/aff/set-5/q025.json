@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q25",
+  "text": "In the regulations for cargo vessels, which statement is true concerning a fireman's outfit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Each outfit must contain an electric welding cutting tool"
+    },
+    {
+      "id": "B",
+      "text": "Each fireman's outfit shall contain a flame safety lamp of an approved type"
+    },
+    {
+      "id": "C",
+      "text": "Air tanks must carry five hours of continuous storage reserves"
+    },
+    {
+      "id": "D",
+      "text": "Two outfits are needed for each active deck crewman"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

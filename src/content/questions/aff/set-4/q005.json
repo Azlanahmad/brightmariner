@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q5",
+  "text": "Good housekeeping on a vessel prevents fire by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Improving the speed of bilge pumps"
+    },
+    {
+      "id": "B",
+      "text": "Eliminating potential fuel sources"
+    },
+    {
+      "id": "C",
+      "text": "Cooling electrical control systems"
+    },
+    {
+      "id": "D",
+      "text": "Increasing structural fire boundaries"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

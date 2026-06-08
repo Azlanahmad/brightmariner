@@ -1,0 +1,18 @@
+{
+  "id": "aff-s2-q3",
+  "text": "Flue gases are used directly for inerting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

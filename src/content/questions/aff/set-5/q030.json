@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q30",
+  "text": "When approaching a fire from windward, you should shield firefighters from the fire by using an applicator and:",
+  "options": [
+    {
+      "id": "A",
+      "text": "High velocity solid water jet"
+    },
+    {
+      "id": "B",
+      "text": "High expansion foam blanket throw"
+    },
+    {
+      "id": "C",
+      "text": "Low velocity fog"
+    },
+    {
+      "id": "D",
+      "text": "CO2 continuous vapor jet"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

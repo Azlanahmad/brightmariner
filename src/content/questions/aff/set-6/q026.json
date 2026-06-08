@@ -1,0 +1,18 @@
+{
+  "id": "aff-s6-q26",
+  "text": "Fire safety is achieved by using fire retardant materials.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

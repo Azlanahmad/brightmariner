@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q28",
+  "text": "Which statement is true concerning the use of dry chemical extinguishers?",
+  "options": [
+    {
+      "id": "A",
+      "text": "You should direct the spray at the top edges of structural smoke screens"
+    },
+    {
+      "id": "B",
+      "text": "You should direct the spray at the base of the fire"
+    },
+    {
+      "id": "C",
+      "text": "They are deployed safely on metal fires like sodium or magnesium"
+    },
+    {
+      "id": "D",
+      "text": "They provide deep cooling to prevent any risk of re-ignition"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

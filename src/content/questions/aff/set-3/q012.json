@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q12",
+  "text": "The symbols for Fire Control plans are approved by which organization?",
+  "options": [
+    {
+      "id": "A",
+      "text": "International Labor Organization (ILO)"
+    },
+    {
+      "id": "B",
+      "text": "International Maritime Organization (IMO)"
+    },
+    {
+      "id": "C",
+      "text": "National Fire Protection Association (NFPA)"
+    },
+    {
+      "id": "D",
+      "text": "International Standards Organization (ISO)"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

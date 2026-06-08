@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q8",
+  "text": "In a fixed CO2 fire extinguishing system where pressure from pilot cylinders is used to release the CO2 from the main bank of cylinders, the number of required pilot cylinders shall be at least:",
+  "options": [
+    {
+      "id": "A",
+      "text": "6"
+    },
+    {
+      "id": "B",
+      "text": "4"
+    },
+    {
+      "id": "C",
+      "text": "3"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

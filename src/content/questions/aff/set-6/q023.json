@@ -1,0 +1,18 @@
+{
+  "id": "aff-s6-q23",
+  "text": "While fighting a coal fire, forced ventilation can be used to bring down the temperature.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q13",
+  "text": "Fire and lifeboat stations are required to be listed on the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Logbook register"
+    },
+    {
+      "id": "B",
+      "text": "Master list (station bill)"
+    },
+    {
+      "id": "C",
+      "text": "Cargo manifest layout"
+    },
+    {
+      "id": "D",
+      "text": "Crew contract binder"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

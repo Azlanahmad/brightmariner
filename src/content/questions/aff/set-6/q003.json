@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q3",
+  "text": "Why should foam be banked off a bulkhead when extinguishing an oil fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "To speed up chemical stabilization loops of active foam bubbles"
+    },
+    {
+      "id": "B",
+      "text": "To prevent agitation of the oil and spreading the fire"
+    },
+    {
+      "id": "C",
+      "text": "To maximize the coverage range of standard delivery equipment"
+    },
+    {
+      "id": "D",
+      "text": "To avoid cooling structural steel components unevenly"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

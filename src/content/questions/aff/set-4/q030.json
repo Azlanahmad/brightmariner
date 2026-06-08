@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q30",
+  "text": "Designated areas for smoking are specified in the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "International code manual"
+    },
+    {
+      "id": "B",
+      "text": "Company manual"
+    },
+    {
+      "id": "C",
+      "text": "Port state entry document"
+    },
+    {
+      "id": "D",
+      "text": "Crew mess instruction card"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q6",
+  "text": "\"Below lower flammable limit\" means:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The vapor mixture is highly volatile and ready to explode"
+    },
+    {
+      "id": "B",
+      "text": "It is a mixture of hydrocarbon gases which is not sufficient to initiate a fire (too lean)"
+    },
+    {
+      "id": "C",
+      "text": "The atmosphere is completely saturated with fuel vapors (too rich)"
+    },
+    {
+      "id": "D",
+      "text": "There is insufficient structural oxygen available for combustion"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

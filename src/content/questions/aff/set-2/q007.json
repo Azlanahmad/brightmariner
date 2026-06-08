@@ -1,0 +1,22 @@
+{
+  "id": "aff-s2-q7",
+  "text": "Why should not carbon dioxide extinguisher be used in accommodation space:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Frostbite risk"
+    },
+    {
+      "id": "B",
+      "text": "It can displace the oxygen, causing Asphyxiation"
+    },
+    {
+      "id": "C",
+      "text": "Health hazard"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q15",
+  "text": "You are releasing carbon dioxide gas (CO2) into an engine compartment to extinguish a fire. The CO2 will be most effective if the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "air flow to the compartment is increased with blowers"
+    },
+    {
+      "id": "B",
+      "text": "compartment is closed and airtight"
+    },
+    {
+      "id": "C",
+      "text": "compartment is left open to the air"
+    },
+    {
+      "id": "D",
+      "text": "compartment is closed and ventilators are opened"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

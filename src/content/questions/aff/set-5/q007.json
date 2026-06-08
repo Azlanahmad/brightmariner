@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q7",
+  "text": "Immediately after extinguishing a fire with CO2, it is advisable to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Restore structural compartment ventilation fully"
+    },
+    {
+      "id": "B",
+      "text": "Open up all access ports to inspect inside details"
+    },
+    {
+      "id": "C",
+      "text": "Stand by with water or other agents"
+    },
+    {
+      "id": "D",
+      "text": "Drain internal oil recovery sumps directly"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

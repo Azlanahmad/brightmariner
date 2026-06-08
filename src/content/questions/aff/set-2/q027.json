@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q27",
+  "text": "Aboard a cargo vessel, the supply of carbon dioxide used in a fixed extinguishing system MUST at least be sufficient for what space:",
+  "options": [
+    {
+      "id": "A",
+      "text": "the space requiring the largest amount"
+    },
+    {
+      "id": "B",
+      "text": "the engine room and largest cargo space"
+    },
+    {
+      "id": "C",
+      "text": "all cargo spaces"
+    },
+    {
+      "id": "D",
+      "text": "all the spaces of a vessel"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

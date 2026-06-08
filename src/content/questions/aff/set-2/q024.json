@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q24",
+  "text": "Fixed carbon dioxide extinguishing systems, for machinery spaces that are normally manned, are actuated by one control to open the stop valve in the line leading to the space, and:",
+  "options": [
+    {
+      "id": "A",
+      "text": "three separate controls to release the CO2"
+    },
+    {
+      "id": "B",
+      "text": "two separate controls to release the CO2"
+    },
+    {
+      "id": "C",
+      "text": "a separate control to release the CO2"
+    },
+    {
+      "id": "D",
+      "text": "the same control releasing the CO2"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

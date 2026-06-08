@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q16",
+  "text": "As per NFPA, a fire in an electrical generator is considered to be a:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Class A fire"
+    },
+    {
+      "id": "B",
+      "text": "Class B fire"
+    },
+    {
+      "id": "C",
+      "text": "Class C fire"
+    },
+    {
+      "id": "D",
+      "text": "Class D fire"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

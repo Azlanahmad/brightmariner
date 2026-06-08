@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q6",
+  "text": "The lowest temperature at which the vapors of a flammable liquid will ignite and cause self-sustained combustion in the presence of a spark or flame is the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flash Point"
+    },
+    {
+      "id": "B",
+      "text": "Ignition Point"
+    },
+    {
+      "id": "C",
+      "text": "Fire Point"
+    },
+    {
+      "id": "D",
+      "text": "Critical Point"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q1",
+  "text": "A fire in a radio transmitter would be of what class under NFPA?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Class A"
+    },
+    {
+      "id": "B",
+      "text": "Class B"
+    },
+    {
+      "id": "C",
+      "text": "Class C"
+    },
+    {
+      "id": "D",
+      "text": "Class D"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

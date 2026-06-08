@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q1",
+  "text": "A safety is provided on the CO2 discharge piping to prevent:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flooding of a space where personnel are present"
+    },
+    {
+      "id": "B",
+      "text": "Over pressurization of the CO2 discharge piping"
+    },
+    {
+      "id": "C",
+      "text": "Rupture of cylinder due to temperature increase"
+    },
+    {
+      "id": "D",
+      "text": "Over pressurization of the space being flooded"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

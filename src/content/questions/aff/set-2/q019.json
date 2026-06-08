@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q19",
+  "text": "While you are working in a space, the fixed CO2 system is accidentally activated. You should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "make sure all doors and vents are secured"
+    },
+    {
+      "id": "B",
+      "text": "retreat to fresh air and ventilate the compartment before returning"
+    },
+    {
+      "id": "C",
+      "text": "continue with your work as there is nothing you can do to stop the flow of CO2"
+    },
+    {
+      "id": "D",
+      "text": "secure the applicators to preserve the charge in the cylinders"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q20",
+  "text": "Large volumes of carbon dioxide are safe and effective for fighting fires in enclosed spaces, such as in a pumproom, provided that the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "ventilation system is kept operating"
+    },
+    {
+      "id": "B",
+      "text": "ventilation system is secured and all persons leave the space"
+    },
+    {
+      "id": "C",
+      "text": "persons in the space wear damp cloths over their mouths and nostrils"
+    },
+    {
+      "id": "D",
+      "text": "persons in the space wear gas masks"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

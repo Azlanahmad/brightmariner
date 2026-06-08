@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q21",
+  "text": "If a fire ignites in the engine room as a result of a high-pressure fuel oil leak, you should first:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Evacuate all personnel immediately"
+    },
+    {
+      "id": "B",
+      "text": "Release the fixed CO2 system"
+    },
+    {
+      "id": "C",
+      "text": "Shut off the fuel oil supply"
+    },
+    {
+      "id": "D",
+      "text": "Direct a stream of water at the flames"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q22",
+  "text": "The height of a VHF radio antenna is more important than the power output wattage of the radio because:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Skywave atmospheric returns are highly unstable at sea"
+    },
+    {
+      "id": "B",
+      "text": "VHF communications are basically line of sight"
+    },
+    {
+      "id": "C",
+      "text": "Higher placement reduces tracking ground interference loops"
+    },
+    {
+      "id": "D",
+      "text": "Internal wire resistances limit low-level signal paths"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

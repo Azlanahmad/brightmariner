@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q8",
+  "text": "Ships carrying more than 36 passengers should maintain a:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Continuous automated water system monitor"
+    },
+    {
+      "id": "B",
+      "text": "Fire patrol system"
+    },
+    {
+      "id": "C",
+      "text": "Double bulkhead smoke containment grid"
+    },
+    {
+      "id": "D",
+      "text": "Dedicated fire drill barge trailer connection"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

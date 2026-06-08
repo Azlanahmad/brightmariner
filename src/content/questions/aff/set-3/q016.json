@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q16",
+  "text": "On international voyages, tank ships of 500 gross tons or more are required to have facilities to enable connection on each side of the ship for this fire control equipment:",
+  "options": [
+    {
+      "id": "A",
+      "text": "International Shore connection"
+    },
+    {
+      "id": "B",
+      "text": "High expansion foam generator"
+    },
+    {
+      "id": "C",
+      "text": "Fixed sprinkler bypass valve"
+    },
+    {
+      "id": "D",
+      "text": "Emergency bilge pump suction manifold"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q20",
+  "text": "Which class division is considered capable of preventing the passage of ONLY flame to the end of the first half-hour of a standard fire test?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Class A"
+    },
+    {
+      "id": "B",
+      "text": "Class B"
+    },
+    {
+      "id": "C",
+      "text": "Class C"
+    },
+    {
+      "id": "D",
+      "text": "Class D"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

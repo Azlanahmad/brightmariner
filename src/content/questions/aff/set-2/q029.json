@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q29",
+  "text": "In weighing CO2 cylinders, they must be recharged if weight loss exceeds:",
+  "options": [
+    {
+      "id": "A",
+      "text": "10% of weight of charge"
+    },
+    {
+      "id": "B",
+      "text": "20% of weight of charge"
+    },
+    {
+      "id": "C",
+      "text": "15% of weight of full bottle"
+    },
+    {
+      "id": "D",
+      "text": "10% of weight of full bottle"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

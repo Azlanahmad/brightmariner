@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q15",
+  "text": "Dry powder fire extinguishers which contain a mixture of graphite and sodium chloride as firefighting agents are generally used to fight which type of fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Class A wood fire"
+    },
+    {
+      "id": "B",
+      "text": "Class B fuel oil fire"
+    },
+    {
+      "id": "C",
+      "text": "Class C electrical fire"
+    },
+    {
+      "id": "D",
+      "text": "Class D metal fire"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

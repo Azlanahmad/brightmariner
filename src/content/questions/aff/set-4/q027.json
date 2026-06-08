@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q27",
+  "text": "Which of the listed extinguishing agents is NOT suitable for fighting a liquid paint fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dry chemical powder"
+    },
+    {
+      "id": "B",
+      "text": "Carbon dioxide gas"
+    },
+    {
+      "id": "C",
+      "text": "Water"
+    },
+    {
+      "id": "D",
+      "text": "Mechanical foam spray"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

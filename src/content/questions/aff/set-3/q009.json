@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q9",
+  "text": "Which type of portable fire extinguisher is best suited for putting out a Class D fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carbon dioxide"
+    },
+    {
+      "id": "B",
+      "text": "Water spray"
+    },
+    {
+      "id": "C",
+      "text": "Dry powder"
+    },
+    {
+      "id": "D",
+      "text": "Dry chemical"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

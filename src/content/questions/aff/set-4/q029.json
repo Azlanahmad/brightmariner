@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q29",
+  "text": "Foam is effective in combating which classes of fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Class A and B"
+    },
+    {
+      "id": "B",
+      "text": "Class B and C"
+    },
+    {
+      "id": "C",
+      "text": "Class C and D"
+    },
+    {
+      "id": "D",
+      "text": "Class A and D"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

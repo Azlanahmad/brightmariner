@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q18",
+  "text": "On the vessel's Fire Control plan, all parts of a fixed fire suppression system are listed EXCEPT:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Location of piping distribution loops"
+    },
+    {
+      "id": "B",
+      "text": "Total weight and type of chemical storage canisters"
+    },
+    {
+      "id": "C",
+      "text": "Instructions for activation of the system"
+    },
+    {
+      "id": "D",
+      "text": "Placement of discharge nozzles across compartments"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

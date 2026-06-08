@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q16",
+  "text": "CO2 cylinders, which protect the small space in which they are stored must:",
+  "options": [
+    {
+      "id": "A",
+      "text": "NOT contain more than 200 pounds of CO2"
+    },
+    {
+      "id": "B",
+      "text": "have an audible alarm"
+    },
+    {
+      "id": "C",
+      "text": "be automatically operated by a heat actuator"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

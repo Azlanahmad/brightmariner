@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q13",
+  "text": "In a fixed CO2 extinguishing system where provision is made for the release of CO2 by operation of a remote control, provision shall also be made for releasing the CO2:",
+  "options": [
+    {
+      "id": "A",
+      "text": "at the cylinder location"
+    },
+    {
+      "id": "B",
+      "text": "from the cargo control station"
+    },
+    {
+      "id": "C",
+      "text": "from the bridge"
+    },
+    {
+      "id": "D",
+      "text": "from inside the engine room"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

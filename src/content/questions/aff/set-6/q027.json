@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q27",
+  "text": "The discharge from a carbon dioxide fire extinguisher should be directed:",
+  "options": [
+    {
+      "id": "A",
+      "text": "At the top perimeter layout of smoke clouds"
+    },
+    {
+      "id": "B",
+      "text": "At the base of the flames"
+    },
+    {
+      "id": "C",
+      "text": "Directly into adjacent ventilation return trunks"
+    },
+    {
+      "id": "D",
+      "text": "In wide looping circles across structural partition bulkheads"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

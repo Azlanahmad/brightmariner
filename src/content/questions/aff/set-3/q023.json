@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q23",
+  "text": "Which of the listed classes of fires can best be extinguished with a water fog?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Class A and B"
+    },
+    {
+      "id": "B",
+      "text": "Class B and C"
+    },
+    {
+      "id": "C",
+      "text": "Class C and D"
+    },
+    {
+      "id": "D",
+      "text": "Class A and D"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

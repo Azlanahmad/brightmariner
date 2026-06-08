@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q1",
+  "text": "The spreading of fire as a result of heat being carried through a vessel's ventilation system is an example of heat transfer by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Conduction"
+    },
+    {
+      "id": "B",
+      "text": "Convection"
+    },
+    {
+      "id": "C",
+      "text": "Radiation"
+    },
+    {
+      "id": "D",
+      "text": "Absorption"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

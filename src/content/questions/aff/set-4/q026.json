@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q26",
+  "text": "Why is a CO2 type of fire extinguisher preferred for electrical installations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It provides extensive long-term cooling"
+    },
+    {
+      "id": "B",
+      "text": "It expands into a sticky visual foam barrier"
+    },
+    {
+      "id": "C",
+      "text": "It leaves no residue and does not damage any equipment"
+    },
+    {
+      "id": "D",
+      "text": "It can be safely deployed without isolating power circuits"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q26",
+  "text": "Fire alarm system thermostats are actuated by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Air pressure changes inside trunk compartments"
+    },
+    {
+      "id": "B",
+      "text": "The difference in thermal expansion of two dissimilar metals"
+    },
+    {
+      "id": "C",
+      "text": "Light scattering effects across laser sensors"
+    },
+    {
+      "id": "D",
+      "text": "Moisture tracking limits inside structural wiring panels"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

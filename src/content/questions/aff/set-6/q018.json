@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q18",
+  "text": "As compared to carbon dioxide, dry chemical has which advantage?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It leaves no visible residue cleanup footprint on components"
+    },
+    {
+      "id": "B",
+      "text": "It offers significant localized thermal cooling effects"
+    },
+    {
+      "id": "C",
+      "text": "Greater range"
+    },
+    {
+      "id": "D",
+      "text": "It is non-toxic inside confined spaces"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

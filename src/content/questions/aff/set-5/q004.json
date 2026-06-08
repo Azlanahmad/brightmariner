@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q4",
+  "text": "Actuating the fixed CO2 system should cause the automatic shutdown of the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Main engine propulsion controls"
+    },
+    {
+      "id": "B",
+      "text": "Emergency bilge pump circuits"
+    },
+    {
+      "id": "C",
+      "text": "Supply and exhaust ventilation"
+    },
+    {
+      "id": "D",
+      "text": "Main switchboard power grid distribution"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q28",
+  "text": "Dry chemical extinguishers extinguish Class B fires to the greatest extent by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cooling fuel temperatures down below flashpoint margins"
+    },
+    {
+      "id": "B",
+      "text": "Displacing essential atmospheric nitrogen compounds"
+    },
+    {
+      "id": "C",
+      "text": "Breaking the chain reaction"
+    },
+    {
+      "id": "D",
+      "text": "Freezing burning vapor pools immediately"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

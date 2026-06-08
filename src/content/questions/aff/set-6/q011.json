@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q11",
+  "text": "The expansion of LFL is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Liquid Fuel Line"
+    },
+    {
+      "id": "B",
+      "text": "Low Flashpoint Liquid"
+    },
+    {
+      "id": "C",
+      "text": "Lower Flammable Limit"
+    },
+    {
+      "id": "D",
+      "text": "Light Flame Location"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

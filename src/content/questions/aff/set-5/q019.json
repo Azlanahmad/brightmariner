@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q19",
+  "text": "Through which of the listed processes is sufficient heat produced to cause spontaneous ignition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heat of condensation"
+    },
+    {
+      "id": "B",
+      "text": "Heat of vaporization"
+    },
+    {
+      "id": "C",
+      "text": "Heat of oxidation"
+    },
+    {
+      "id": "D",
+      "text": "Heat of radiation"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": "aff-s4-q14",
+  "text": "Radiation is a process of heat transfer where no mass is exchanged and no medium is required.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

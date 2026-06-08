@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q9",
+  "text": "A fire has broken out on the stern of your vessel. You should maneuver your vessel so the wind:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Comes directly over the stern layout beam"
+    },
+    {
+      "id": "B",
+      "text": "Blows at right angles to cross-vent the hull decks"
+    },
+    {
+      "id": "C",
+      "text": "Comes over the bow"
+    },
+    {
+      "id": "D",
+      "text": "Changes into circular thermal swirling patterns"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

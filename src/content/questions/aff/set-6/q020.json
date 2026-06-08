@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q20",
+  "text": "An example of a type of smoke detector is the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thermal differential bimetallic link switch"
+    },
+    {
+      "id": "B",
+      "text": "Ionization type"
+    },
+    {
+      "id": "C",
+      "text": "Hydrostatic expansion capsule sensor"
+    },
+    {
+      "id": "D",
+      "text": "Visual infrared flame scanner screen"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

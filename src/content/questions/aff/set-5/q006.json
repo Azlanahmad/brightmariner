@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q6",
+  "text": "A solid stream of water is produced by an all-purpose firefighting nozzle when the handle is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pushed all the way forward"
+    },
+    {
+      "id": "B",
+      "text": "Positioned halfway into its casing"
+    },
+    {
+      "id": "C",
+      "text": "Pulled all the way back"
+    },
+    {
+      "id": "D",
+      "text": "Twisted ninety degrees counterclockwise"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

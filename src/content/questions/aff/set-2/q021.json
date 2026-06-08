@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q21",
+  "text": "Automatic mechanical ventilation shutdown is required for CO2 systems protecting the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "galley"
+    },
+    {
+      "id": "B",
+      "text": "living quarters"
+    },
+    {
+      "id": "C",
+      "text": "cargo compartments"
+    },
+    {
+      "id": "D",
+      "text": "machinery spaces"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

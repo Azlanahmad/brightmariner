@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q11",
+  "text": "A fire in a fuel oil settling tank is a:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Class A fire"
+    },
+    {
+      "id": "B",
+      "text": "Class B fire"
+    },
+    {
+      "id": "C",
+      "text": "Class C fire"
+    },
+    {
+      "id": "D",
+      "text": "Class D fire"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q2",
+  "text": "The risk of fire and explosion is ________ in tankers.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Negligible under standard cruising speeds"
+    },
+    {
+      "id": "B",
+      "text": "Very high"
+    },
+    {
+      "id": "C",
+      "text": "Identical to generic dry cargo vessels"
+    },
+    {
+      "id": "D",
+      "text": "Controlled solely by hull thickness layout"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

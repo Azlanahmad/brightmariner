@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q18",
+  "text": "What must be mounted at a small passenger vessel's operating station for use by the master and crew?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vessel maintenance record"
+    },
+    {
+      "id": "B",
+      "text": "Emergency instructions"
+    },
+    {
+      "id": "C",
+      "text": "SOLAS training booklet"
+    },
+    {
+      "id": "D",
+      "text": "International code of signals chart"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

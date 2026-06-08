@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q12",
+  "text": "After extinguishing a paint locker fire using the fixed CO2 system, the next action is to have the space:",
+  "options": [
+    {
+      "id": "A",
+      "text": "doused with water to prevent reflash"
+    },
+    {
+      "id": "B",
+      "text": "checked for oxygen content"
+    },
+    {
+      "id": "C",
+      "text": "left closed with vents off until all boundaries are cool"
+    },
+    {
+      "id": "D",
+      "text": "opened and burned material removed"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

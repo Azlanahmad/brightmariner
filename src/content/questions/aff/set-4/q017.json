@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q17",
+  "text": "The vessel's Fire Control plan is laid out on which of the following types of plan?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Midship structural section"
+    },
+    {
+      "id": "B",
+      "text": "General arrangement"
+    },
+    {
+      "id": "C",
+      "text": "Lines plan drawing"
+    },
+    {
+      "id": "D",
+      "text": "Tank capacity schematic"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

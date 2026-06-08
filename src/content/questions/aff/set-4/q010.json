@@ -1,0 +1,26 @@
+{
+  "id": "aff-s4-q10",
+  "text": "The tendency or ability of a liquid to vaporize is called:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Viscosity"
+    },
+    {
+      "id": "B",
+      "text": "Volatility"
+    },
+    {
+      "id": "C",
+      "text": "Density"
+    },
+    {
+      "id": "D",
+      "text": "Capillarity"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q17",
+  "text": "In areas where CO2 piping is installed, such piping may not be used for any other purpose EXCEPT:",
+  "options": [
+    {
+      "id": "A",
+      "text": "to run the emergency wiring to the space"
+    },
+    {
+      "id": "B",
+      "text": "to ventilate the space"
+    },
+    {
+      "id": "C",
+      "text": "in connection with the water sprinkler system"
+    },
+    {
+      "id": "D",
+      "text": "in connection with the fire-detecting system"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

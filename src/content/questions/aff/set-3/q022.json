@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q22",
+  "text": "If there has been a fire in a closed, unventilated compartment, it may be unsafe to enter because of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "High accumulations of nitrogen gas"
+    },
+    {
+      "id": "B",
+      "text": "Excess relative humidity"
+    },
+    {
+      "id": "C",
+      "text": "A lack of oxygen"
+    },
+    {
+      "id": "D",
+      "text": "Built-up electrostatic charges"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

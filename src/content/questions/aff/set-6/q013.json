@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q13",
+  "text": "What is the most important consideration when determining to fight an electrical fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The replacement costs of burnt circuitry components"
+    },
+    {
+      "id": "B",
+      "text": "The clean-up time required for active extinguishing residue"
+    },
+    {
+      "id": "C",
+      "text": "Danger of shock to personnel"
+    },
+    {
+      "id": "D",
+      "text": "Shutting down auxiliary lighting networks across accommodation spaces"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

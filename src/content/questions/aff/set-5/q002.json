@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q2",
+  "text": "On cargo and miscellaneous vessels, what is NOT a required part of the fireman's outfit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Protective clothing"
+    },
+    {
+      "id": "B",
+      "text": "Rigid boots and gloves"
+    },
+    {
+      "id": "C",
+      "text": "Combustible gas indicator"
+    },
+    {
+      "id": "D",
+      "text": "Flame safety lamp or breathing apparatus"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

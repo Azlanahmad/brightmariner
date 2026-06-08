@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q14",
+  "text": "What emergency equipment is NOT found in the crew mess in the view of a Fire Control plan?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Portable fire extinguisher"
+    },
+    {
+      "id": "B",
+      "text": "Heat sensor"
+    },
+    {
+      "id": "C",
+      "text": "Fire axe"
+    },
+    {
+      "id": "D",
+      "text": "Emergency escape breathing device (EEBD)"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

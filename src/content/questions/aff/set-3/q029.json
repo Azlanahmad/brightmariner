@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q29",
+  "text": "The flammable limits of an atmosphere are the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Maximum temperatures at which an oil source produces vapors"
+    },
+    {
+      "id": "B",
+      "text": "Upper and lower percentage of vapor concentrations in an atmosphere which will burn if an ignition source is present"
+    },
+    {
+      "id": "C",
+      "text": "Safe ambient operating thresholds for storage facilities"
+    },
+    {
+      "id": "D",
+      "text": "Minimum moisture concentrations needed to halt spontaneous ignition"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

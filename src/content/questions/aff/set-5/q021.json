@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q21",
+  "text": "You have just extinguished an oil fire on the floor plates of the engine room with a 15-pound CO2 extinguisher. Which of the listed dangers should you now be preparing to handle?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Complete systemic failure of main engine gear oil feeds"
+    },
+    {
+      "id": "B",
+      "text": "Toxic gas ignition inside air trunk lines"
+    },
+    {
+      "id": "C",
+      "text": "Reflashing of the fire"
+    },
+    {
+      "id": "D",
+      "text": "Frostbite cracks inside fuel line connection joints"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

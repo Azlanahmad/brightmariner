@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q10",
+  "text": "Radio station logs involving communication during a disaster shall be kept by the station licensee for at least:",
+  "options": [
+    {
+      "id": "A",
+      "text": "One year from entry initiation"
+    },
+    {
+      "id": "B",
+      "text": "Three years from the date of the last entry"
+    },
+    {
+      "id": "C",
+      "text": "Five years under legal maritime seals"
+    },
+    {
+      "id": "D",
+      "text": "Ten years inside safe archive storage boxes"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

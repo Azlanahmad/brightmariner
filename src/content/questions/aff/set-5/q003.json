@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q3",
+  "text": "A fire hose kept in its box should have a wrench and an:",
+  "options": [
+    {
+      "id": "A",
+      "text": "All-purpose nozzle"
+    },
+    {
+      "id": "B",
+      "text": "High expansion foam generator tube"
+    },
+    {
+      "id": "C",
+      "text": "International Shore standard coupling flange"
+    },
+    {
+      "id": "D",
+      "text": "High-pressure mechanical lance tool"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

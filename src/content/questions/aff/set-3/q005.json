@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q5",
+  "text": "When combating a Class C fire, which of the following dangers may be present?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Spontaneous combustion of scrap metal"
+    },
+    {
+      "id": "B",
+      "text": "High expansion foam flashover"
+    },
+    {
+      "id": "C",
+      "text": "Toxic fumes from burning insulation or electric shock"
+    },
+    {
+      "id": "D",
+      "text": "Exploding fuel-air vapor mixtures"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q28",
+  "text": "How often must CO2 systems be inspected to confirm cylinders are within 10% of the stamped full weight of the charge:",
+  "options": [
+    {
+      "id": "A",
+      "text": "quarterly"
+    },
+    {
+      "id": "B",
+      "text": "semiannually"
+    },
+    {
+      "id": "C",
+      "text": "annually"
+    },
+    {
+      "id": "D",
+      "text": "biannually"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

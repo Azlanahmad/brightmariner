@@ -1,0 +1,26 @@
+{
+  "id": "aff-s6-q19",
+  "text": "Which of the listed firefighting agents and associated applications provide the largest shielding effect for the firefighter?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Straight high-velocity water jet"
+    },
+    {
+      "id": "B",
+      "text": "High-expansion chemical foam spray"
+    },
+    {
+      "id": "C",
+      "text": "Low velocity water fog"
+    },
+    {
+      "id": "D",
+      "text": "Continuous carbon dioxide stream jet"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aff",
+  "set": 6,
+  "explanation": ""
+}

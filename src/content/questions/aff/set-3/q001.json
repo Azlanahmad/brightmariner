@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q1",
+  "text": "An important step in fighting any electrical fire is to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Apply water fog immediately"
+    },
+    {
+      "id": "B",
+      "text": "De-energize the circuit"
+    },
+    {
+      "id": "C",
+      "text": "Increase ventilation"
+    },
+    {
+      "id": "D",
+      "text": "Use chemical foam"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}

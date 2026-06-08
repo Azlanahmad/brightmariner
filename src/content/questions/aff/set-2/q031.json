@@ -1,0 +1,26 @@
+{
+  "id": "aff-s2-q31",
+  "text": "The CO2 flooding system is actuated by a sequence of steps which are:",
+  "options": [
+    {
+      "id": "A",
+      "text": "open stop valve, open control valve, trip alarm"
+    },
+    {
+      "id": "B",
+      "text": "open bypass valve, break glass, pull handle"
+    },
+    {
+      "id": "C",
+      "text": "sound evacuation alarm, pull handle"
+    },
+    {
+      "id": "D",
+      "text": "break glass, pull valve, break glass, pull cylinder control"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aff",
+  "set": 2,
+  "explanation": ""
+}

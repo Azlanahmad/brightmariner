@@ -1,0 +1,26 @@
+{
+  "id": "aff-s5-q20",
+  "text": "Fusible link fire dampers are operated by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Electronic loop control commands from the safety desk"
+    },
+    {
+      "id": "B",
+      "text": "The heat of the fire melting the link"
+    },
+    {
+      "id": "C",
+      "text": "Hydrostatic water pressure changes from water spray systems"
+    },
+    {
+      "id": "D",
+      "text": "Structural balance wires linked with the bridge desk"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aff",
+  "set": 5,
+  "explanation": ""
+}

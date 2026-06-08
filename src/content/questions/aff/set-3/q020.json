@@ -1,0 +1,26 @@
+{
+  "id": "aff-s3-q20",
+  "text": "The muster list shows each rig hand's muster station, his duties during abandonment, basic instructions, and:",
+  "options": [
+    {
+      "id": "A",
+      "text": "All emergency signals"
+    },
+    {
+      "id": "B",
+      "text": "Navigation course parameters"
+    },
+    {
+      "id": "C",
+      "text": "Next port of call logistics"
+    },
+    {
+      "id": "D",
+      "text": "Engine room operating instructions"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aff",
+  "set": 3,
+  "explanation": ""
+}
