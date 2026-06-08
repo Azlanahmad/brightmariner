@@ -140,9 +140,25 @@ const description = 'Practice updated AFF exit exam questions online. Study Adva
 
             <!-- SEO Content Section (Guides & Info) -->
             <section class="grid grid-cols-1 lg:grid-cols-3 gap-12 border-t border-hairline pt-16">
-                <!-- Sidebar Quick Info -->
+                <!-- Sidebar Quick Info & PDF Download -->
                 <div class="lg:col-span-1 space-y-8">
-                    <div class="bg-canvas border border-hairline rounded-xl p-6 shadow-sm">
+                    <!-- PDF Download Card -->
+                    <div class="group relative overflow-hidden bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong">
+                        <div class="absolute top-0 right-0 w-24 h-24 bg-linear-to-bl from-blue-500/5 to-transparent rounded-bl-full pointer-events-none"></div>
+                        <h3 class="text-sm font-semibold tracking-wider uppercase text-ink mb-3">PDF Download</h3>
+                        <p class="text-sm text-body mb-5 leading-relaxed">
+                            Get the complete list of AFF exit exam questions and answers in a print-ready PDF format for offline preparation.
+                        </p>
+                        <a href="/aff-exit-exam-questions-answers.pdf" download class="inline-flex items-center justify-center w-full px-5 py-3 bg-primary text-white font-medium rounded-full hover:bg-primary/95 shadow-md shadow-primary/10 transition-all hover:scale-[1.01] gap-2 cursor-pointer text-sm">
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                            </svg>
+                            Download Questions PDF
+                        </a>
+                    </div>
+
+                    <!-- Exam Summary Card -->
+                    <div class="group bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong">
                         <h3 class="text-sm font-semibold tracking-wider uppercase text-ink mb-4">Exam Summary</h3>
                         <dl class="space-y-4 text-sm">
                             <div>
@@ -168,28 +184,29 @@ const description = 'Practice updated AFF exit exam questions online. Study Adva
                         </dl>
                     </div>
 
-                    <div class="bg-canvas border border-hairline rounded-xl p-6 shadow-sm">
+                    <!-- Key Learning Areas Card -->
+                    <div class="group bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong">
                         <h3 class="text-sm font-semibold tracking-wider uppercase text-ink mb-4">Key Learning Areas</h3>
-                        <ul class="space-y-2 text-sm text-body">
+                        <ul class="space-y-2.5 text-sm text-body">
                             <li class="flex items-start gap-2">
                                 <span class="text-primary font-bold">✓</span>
-                                Firefighting command & control on ships
+                                <span>Firefighting command & control on ships</span>
                             </li>
                             <li class="flex items-start gap-2">
                                 <span class="text-primary font-bold">✓</span>
-                                Ventilation control & compartment isolation
+                                <span>Ventilation control & compartment isolation</span>
                             </li>
                             <li class="flex items-start gap-2">
                                 <span class="text-primary font-bold">✓</span>
-                                Fixed fire extinguishing systems (CO2, foam)
+                                <span>Fixed fire extinguishing systems (CO2, foam)</span>
                             </li>
                             <li class="flex items-start gap-2">
                                 <span class="text-primary font-bold">✓</span>
-                                Fire detection & warning systems
+                                <span>Fire detection & warning systems</span>
                             </li>
                             <li class="flex items-start gap-2">
                                 <span class="text-primary font-bold">✓</span>
-                                Search & rescue operations in smoke
+                                <span>Search & rescue operations in smoke</span>
                             </li>
                         </ul>
                     </div>

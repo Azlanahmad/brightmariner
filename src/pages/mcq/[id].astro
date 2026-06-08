@@ -47,15 +47,19 @@ const courseNames: Record<string, string> = {
 
 const courseAbbr = baseCourseId === 'refresher' ? 'Refresher' : baseCourseId === 'rfpff' ? 'Refresher FPFF' : baseCourseId.toUpperCase();
 const courseName = courseNames[baseCourseId as string] || baseCourseId?.toUpperCase();
-const title = `${courseAbbr} Exit Exam MCQ Questions | Bright Mariner`;
-const description = `Practice ${courseName} exit exam questions and answers. Access multiple sets of updated STCW MCQs for DG Shipping exams. Improve your preparation with Bright Mariner.`;
+const title = `${courseAbbr} Exit Exam MCQ Questions & Answers | Bright Mariner`;
+const description = `Practice updated ${courseAbbr} exit exam questions and answers online. Download the ${courseAbbr} exit exam MCQ PDF and study ${courseName} STCW exam prep.`;
 
 // Define dynamic FAQ data for each course type
-const getFaqs = (courseId: string, name: string) => {
+const getFaqs = (courseId: string, name: string, abbr: string) => {
   const defaultFaqs = [
     {
       question: `What is the ${name} exit exam?`,
       answer: `The <strong>${name} exit exam</strong> is a mandatory assessment conducted for maritime professionals under DG Shipping regulations to verify proficiency in the respective STCW modular course.`
+    },
+    {
+      question: `Where can I download the ${abbr} exit exam questions and answers PDF?`,
+      answer: `You can download the comprehensive <strong>${abbr} exit exam questions and answers PDF</strong> directly from the download section in the sidebar on this page. The PDF contains all practice questions, answers, and explanations for offline study.`
     },
     {
       question: `How many questions are in the ${name} exit exam?`,
@@ -146,12 +150,12 @@ const getFaqs = (courseId: string, name: string) => {
 
   const specific = courseSpecific[courseId];
   if (specific) {
-    return [...specific, ...defaultFaqs.slice(1)];
+    return [defaultFaqs[0], defaultFaqs[1], ...specific, ...defaultFaqs.slice(2)];
   }
   return defaultFaqs;
 };
 
-const faqs = getFaqs(baseCourseId, courseName);
+const faqs = getFaqs(baseCourseId, courseName, courseAbbr);
 
 const faqPageSchema = {
   "@context": "https://schema.org",
@@ -190,6 +194,215 @@ const breadcrumbSchema = {
     }
   ]
 };
+
+const courseConfigs: Record<string, {
+    keyLearningAreas: string[];
+    studyGuideIntro: string;
+    syllabusList: string[];
+    examPortalDetails: string[];
+}> = {
+    efa: {
+        keyLearningAreas: [
+            "Basic life support & CPR techniques",
+            "Severe bleeding control & wound dressing",
+            "Shock management & unconsciousness protocols",
+            "Burns, scalds, and fracture treatment",
+            "Casualty rescue & transport methods"
+        ],
+        studyGuideIntro: "The Elementary First Aid (EFA) exit exam is a critical STCW modular safety assessment. Candidates must show proficiency in basic medical emergency response and casualty care to earn their certificates.",
+        syllabusList: [
+            "First aid kits, bandages, and resuscitation equipment.",
+            "Assessing emergency scenes and calling for medical assistance.",
+            "CPR chest compression and mouth-to-mouth ratios.",
+            "Stabilizing skeletal fractures and dressing open wounds."
+        ],
+        examPortalDetails: [
+            "30 multiple-choice questions selected from the EFA database.",
+            "A strict 30-minute exam time limit on the Ship 07 portal.",
+            "Passing score threshold set at 60% (18 marks out of 30).",
+            "Practicing MCQ sets helps build recall speed and confidence."
+        ]
+    },
+    fpff: {
+        keyLearningAreas: [
+            "Chemistry of fire & the fire tetrahedron",
+            "Portable fire extinguishers (Water, CO2, DCP, Foam)",
+            "Fixed fire fighting installations (CO2 flooding)",
+            "SCBA breathing apparatus & search tactics",
+            "Shipboard emergency organization & alarms"
+        ],
+        studyGuideIntro: "The Fire Prevention and Fire Fighting (FPFF) exit exam tests your understanding of shipboard fire chemistry, extinguishing equipment, and emergency team drills.",
+        syllabusList: [
+            "Classes of fire (A, B, C, D, K) and extinguishing agents.",
+            "Deploying boundary cooling and fire hose lines.",
+            "SCBA entry procedures and emergency egress timings.",
+            "Fixed fire suppression systems operation and alarms."
+        ],
+        examPortalDetails: [
+            "30 questions covering shipboard fire safety and extinguishing.",
+            "30-minute online examination under DG Shipping portal.",
+            "Passing mark is 60% (answering at least 18 questions correctly).",
+            "Practicing interactive sets is recommended to clear the exam."
+        ]
+    },
+    pst: {
+        keyLearningAreas: [
+            "Sea survival principles & exposure management",
+            "Lifeboat and inflatable liferaft operation",
+            "Lifejackets & immersion suits donning rules",
+            "Distress pyrotechnics (flares, smoke signals)",
+            "Abandon ship procedures & emergency signals"
+        ],
+        studyGuideIntro: "The Personal Survival Techniques (PST) exit exam focuses on the guidelines for abandoning ship, exposure management, and operating life-saving appliances (LSA) in survival craft.",
+        syllabusList: [
+            "Donning and water-entry protocols for immersion suits.",
+            "Hydrostatic release units (HRUs) and float-free launch.",
+            "Survival craft emergency rations and equipment inventory.",
+            "Handling pyrotechnic distress signals and EPIRB radios."
+        ],
+        examPortalDetails: [
+            "30 randomized questions from the PST STCW modular database.",
+            "30-minute duration on the official digital portal.",
+            "A minimum score of 60% (18 correct answers) is required to pass.",
+            "Regular self-testing helps seafarers master LSA concepts."
+        ]
+    },
+    pssr: {
+        keyLearningAreas: [
+            "Shipboard safety briefings & escape pathways",
+            "MARPOL marine pollution prevention rules",
+            "Safe working habits & accident prevention",
+            "Effective crew communication & teamwork",
+            "Fatigue management & mental health basics"
+        ],
+        studyGuideIntro: "The Personal Safety and Social Responsibilities (PSSR) exit exam ensures that seafarers understand safety briefs, work hazards, and MARPOL regulations on board.",
+        syllabusList: [
+            "Marine environment protection and garbage management.",
+            "Shipboard safety signs, escape routes, and emergency alarms.",
+            "Accident reporting and personal protective equipment (PPE).",
+            "Effective communication, human relations, and deck coordination."
+        ],
+        examPortalDetails: [
+            "30 multiple-choice questions focusing on safety and team behavior.",
+            "30-minute exam time limit on the DG Shipping system.",
+            "Passing threshold is 60% (18 correct answers out of 30).",
+            "Online MCQ practice helps familiarize seafarers with MARPOL rules."
+        ]
+    },
+    stsdsd: {
+        keyLearningAreas: [
+            "ISPS Code & maritime security terminology",
+            "Ship security levels (1, 2, 3) & duties",
+            "Weapons, dangerous substances, and threats",
+            "Security searches, drills, and Citadel protocols",
+            "Crowd control & emergency communication"
+        ],
+        studyGuideIntro: "The Security Training for Seafarers with Designated Security Duties (STSDSD) exit exam verifies your readiness to recognize threats, perform searches, and handle ship security duties.",
+        syllabusList: [
+            "Understanding the International Ship and Port Facility Security (ISPS) Code.",
+            "Citadel procedures and anti-piracy tactics at sea.",
+            "Access control, shipboard searches, and threat recognition.",
+            "Port interface security coordination and drills."
+        ],
+        examPortalDetails: [
+            "30 randomized MCQs on ship security and ISPS rules.",
+            "30-minute online exam session under DG Shipping.",
+            "Passing grade is 60% (18 marks) with no negative marking.",
+            "Preparing with our questions prepares seafarers for port security duties."
+        ]
+    },
+    mfa: {
+        keyLearningAreas: [
+            "Advanced first aid kits & medicine storage",
+            "Spinal injury & skeletal fracture immobilization",
+            "Basic shipboard pharmacology & drug safety",
+            "Coordinating Radio Medical Advice (RMA)",
+            "Toxicological hazards & emergency response"
+        ],
+        studyGuideIntro: "The Medical First Aid (MFA) exit exam is an advanced modular assessment for officers and crew. It covers advanced trauma care, RMA, and shipboard medical inventories.",
+        syllabusList: [
+            "Assessing trauma victims and managing spinal support.",
+            "Standard medical chests, inventory checklists, and oxygen setups.",
+            "Communicating clinical symptoms to radio medical doctors.",
+            "Splints, bandages, and suture procedures under medical direction."
+        ],
+        examPortalDetails: [
+            "30 advanced questions covering medical care and RMA.",
+            "30-minute duration on the online examination portal.",
+            "Passing mark is 60% (18 correct responses) to obtain the certificate.",
+            "Historically, over 25 questions in the actual exam are similar to our sets."
+        ]
+    },
+    tasco: {
+        keyLearningAreas: [
+            "Physical & chemical cargo properties of oil",
+            "Cargo pumps, pipelines, and venting control",
+            "Inert Gas Systems (IGS) & Crude Oil Washing (COW)",
+            "MARPOL oil pollution prevention & response",
+            "Gas detection instruments & MSDS review"
+        ],
+        studyGuideIntro: "The Advanced Training for Oil Tanker Cargo Operations (TASCO) exit exam is mandatory for tanker crew, validating their safety and cargo handling skills.",
+        syllabusList: [
+            "Oil cargo handling plans, loading, and discharging safety.",
+            "Operating IGS systems and boundary oxygen levels.",
+            "Crude oil washing procedures and gas free safety checks.",
+            "Emergency shutdown (ESD) systems and spill containment."
+        ],
+        examPortalDetails: [
+            "30 advanced multiple-choice questions on tanker cargo operations.",
+            "30-minute exam session on the DG Shipping database.",
+            "A minimum score of 60% (18 marks out of 30) is required to pass.",
+            "Practicing interactive sets is key to mastering tanker safety."
+        ]
+    },
+    refresher: {
+        keyLearningAreas: [
+            "Updated maritime rules & STCW amendments",
+            "Practical drill review for fire & survival",
+            "Emergency response command & coordination",
+            "Analysis of recent maritime accident case studies",
+            "New equipment & technology safety review"
+        ],
+        studyGuideIntro: "The Refresher Course exit exam tests your understanding of updated STCW rules, recent safety regulations, and re-validated emergency procedures.",
+        syllabusList: [
+            "Re-validation of modular survival and fire fighting skills.",
+            "Review of recent SOLAS and MARPOL amendments.",
+            "Advanced first aid and resuscitation reviews.",
+            "Drill requirements and emergency response coordination."
+        ],
+        examPortalDetails: [
+            "30 multiple-choice questions on safety and rule changes.",
+            "30-minute digital exam on the DG Shipping platform.",
+            "Passing score is 60% (18 correct answers out of 30).",
+            "Online practice is highly recommended for re-validation success."
+        ]
+    }
+};
+
+const defaultCourseConfig = {
+    keyLearningAreas: [
+        "Core STCW syllabus requirements",
+        "Official DG Shipping modular guidelines",
+        "Interactive test set question banks",
+        "Detailed correct options & explanations",
+        "Self-testing exam prep tools"
+    ],
+    studyGuideIntro: `The exit exam is a mandatory safety assessment under DG Shipping rules. This guide helps you review the key modular course topics.`,
+    syllabusList: [
+        "Core theoretical concepts and terminology",
+        "Safety procedures and emergency organization",
+        "Handling rescue equipment and appliances",
+        "Rules, protocols, and compliance standards"
+    ],
+    examPortalDetails: [
+        "Randomly selected multiple-choice questions",
+        "Strict 30-minute exam time limit",
+        "Passing score requirement of 60%",
+        "No negative marking for incorrect choices"
+    ]
+};
+
+const activeConfig = courseConfigs[baseCourseId as string] || defaultCourseConfig;
 ---
 
 <Layout title={title} description={description}>
@@ -200,67 +413,195 @@ const breadcrumbSchema = {
 
     <div class="py-24 px-6 lg:px-8 bg-canvas-soft min-h-[calc(100vh-64px)]">
         <div class="max-w-5xl mx-auto">
-            <nav class="flex items-center gap-2 text-xs font-mono uppercase tracking-widest text-mute mb-8">
+            <!-- Breadcrumbs Navigation -->
+            <nav class="flex items-center gap-2 text-xs font-mono uppercase tracking-widest text-mute mb-8" aria-label="Breadcrumb">
                 <a href="/mcq/" class="hover:text-ink transition-colors">Practice</a>
                 <span>/</span>
-                <span class="text-ink">{baseCourseId}</span>
+                <span class="text-ink">{courseAbbr}</span>
             </nav>
 
+            <!-- Hero/Header Section -->
             <header class="mb-16">
-                <h1 class="text-4xl font-semibold tracking-tight text-ink mb-4">{courseName}</h1>
-                <p class="text-body text-lg max-w-2xl">
-                    {baseCourseId === 'mfa' 
-                        ? "Most asked questions in MFA Exit exam. More than 25 questions comes from these sets in exit exam. MFA exit exam questions based on DG exit Exam"
-                        : "Practicing in sets of 30 questions helps improve focus and retention. Choose a set to begin."}
+                <h1 class="text-4xl md:text-5xl font-semibold tracking-tight text-ink mb-4">
+                    {courseAbbr} Exit Exam Questions and Answers
+                </h1>
+                <p class="text-body text-lg max-w-3xl leading-relaxed">
+                    Prepare with the latest <strong>{courseAbbr} exit exam questions and answers</strong>. Access {courseQuestions.length} high-quality, updated multiple-choice questions organized into interactive practice sets designed to match the official DG Shipping online portal.
                 </p>
             </header>
 
-            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                {sets.map(setNum => (
-                    <a href={`/mcq/${id}/${setNum}/`} class="group p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all">
-                        <div class="flex items-center justify-between mb-4">
-                            <span class="text-xs font-mono uppercase tracking-widest text-mute">Set {setNum}</span>
-                            <div class="w-8 h-8 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all">
-                                <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-                                </svg>
-                            </div>
-                        </div>
-                        <h3 class="text-xl font-medium text-ink">Questions { (setNum - 1) * setSize + 1 } - { Math.min(setNum * setSize, courseQuestions.length) }</h3>
-                        <p class="text-sm text-body mt-2">Comprehensive practice set for {courseName}.</p>
-                    </a>
-                ))}
-            </div>
-            
-            {courseQuestions.length === 0 && (
-                <div class="flex flex-col items-center justify-center py-12">
-                    <h2 class="text-xl font-medium text-ink mb-4">No questions available yet.</h2>
-                    <a href="/mcq/" class="text-link hover:underline">Back to MCQ Practice</a>
-                </div>
-            )}
-
-            {/* FAQs Section with custom interactive accordion details style */}
-            <section class="mt-20 space-y-6" aria-labelledby="faq-title">
-                <div class="h-px bg-hairline mb-12"></div>
-                <h2 id="faq-title" class="text-2xl font-semibold tracking-tight text-ink">
-                    {courseName} Exit Exam FAQs
+            <!-- Interactive Practice Sets Grid -->
+            <section class="mb-20" aria-labelledby="practice-sets-title">
+                <h2 id="practice-sets-title" class="text-xs font-mono uppercase tracking-widest text-mute mb-8 flex items-center gap-4">
+                    Interactive Practice Sets
+                    <div class="h-px flex-grow bg-hairline"></div>
                 </h2>
-                <div class="space-y-4">
-                    {faqs.map(faq => (
-                        <details class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden">
-                            <summary class="flex items-center justify-between p-6 cursor-pointer select-none">
-                                <h3 class="text-lg font-medium text-ink group-open:text-primary transition-colors">
-                                    {faq.question}
-                                </h3>
-                                <span class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300">
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                    {sets.map(setNum => (
+                        <a href={`/mcq/${id}/${setNum}/`} class="group p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all duration-300">
+                            <div class="flex items-center justify-between mb-4">
+                                <span class="text-xs font-mono uppercase tracking-widest text-mute">Set {setNum}</span>
+                                <div class="w-8 h-8 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all duration-300">
+                                    <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
                                     </svg>
-                                </span>
-                            </summary>
-                            <div class="px-6 pb-6 text-sm text-body leading-relaxed border-t border-hairline pt-4" set:html={faq.answer} />
-                        </details>
+                                </div>
+                            </div>
+                            <h3 class="text-xl font-medium text-ink">Questions { (setNum - 1) * setSize + 1 } - { Math.min(setNum * setSize, courseQuestions.length) }</h3>
+                            <p class="text-sm text-body mt-2">Comprehensive practice set for {courseName}.</p>
+                        </a>
                     ))}
+                </div>
+                
+                {courseQuestions.length === 0 && (
+                    <div class="flex flex-col items-center justify-center py-12 bg-canvas border border-hairline rounded-xl">
+                        <h3 class="text-xl font-medium text-ink mb-4">No questions available yet.</h3>
+                        <a href="/mcq/" class="text-link hover:underline">Back to MCQ Practice</a>
+                    </div>
+                )}
+            </section>
+
+            <!-- SEO Content Section (Guides & Info) -->
+            <section class="grid grid-cols-1 lg:grid-cols-3 gap-12 border-t border-hairline pt-16">
+                <!-- Sidebar Quick Info & PDF Download -->
+                <div class="lg:col-span-1 space-y-8">
+                    <!-- PDF Download Card -->
+                    <div class="group relative overflow-hidden bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong">
+                        <div class="absolute top-0 right-0 w-24 h-24 bg-linear-to-bl from-blue-500/5 to-transparent rounded-bl-full pointer-events-none"></div>
+                        <h3 class="text-sm font-semibold tracking-wider uppercase text-ink mb-3">PDF Download</h3>
+                        <p class="text-sm text-body mb-5 leading-relaxed">
+                            Get the complete list of {courseAbbr} exit exam questions and answers in a print-ready PDF format for offline preparation.
+                        </p>
+                        <a href={`/${baseCourseId}-exit-exam-questions-answers.pdf`} download class="inline-flex items-center justify-center w-full px-5 py-3 bg-primary text-white font-medium rounded-full hover:bg-primary/95 shadow-md shadow-primary/10 transition-all hover:scale-[1.01] gap-2 cursor-pointer text-sm">
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                            </svg>
+                            Download Questions PDF
+                        </a>
+                    </div>
+
+                    <!-- Exam Summary Card -->
+                    <div class="group bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong">
+                        <h3 class="text-sm font-semibold tracking-wider uppercase text-ink mb-4">Exam Summary</h3>
+                        <dl class="space-y-4 text-sm">
+                            <div>
+                                <dt class="font-mono text-mute uppercase text-xs">Course Name</dt>
+                                <dd class="font-medium text-ink mt-0.5">{courseName}</dd>
+                            </div>
+                            <div>
+                                <dt class="font-mono text-mute uppercase text-xs">Governing Body</dt>
+                                <dd class="font-medium text-ink mt-0.5">DG Shipping, India</dd>
+                            </div>
+                            <div>
+                                <dt class="font-mono text-mute uppercase text-xs">Question Pattern</dt>
+                                <dd class="font-medium text-ink mt-0.5">Multiple Choice Questions (MCQ)</dd>
+                            </div>
+                            <div>
+                                <dt class="font-mono text-mute uppercase text-xs">Passing Criteria</dt>
+                                <dd class="font-medium text-ink mt-0.5">60% (18 out of 30 marks)</dd>
+                            </div>
+                            <div>
+                                <dt class="font-mono text-mute uppercase text-xs">Total Questions Available</dt>
+                                <dd class="font-medium text-ink mt-0.5">{courseQuestions.length} Questions</dd>
+                            </div>
+                        </dl>
+                    </div>
+
+                    <!-- Key Learning Areas Card -->
+                    <div class="group bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong">
+                        <h3 class="text-sm font-semibold tracking-wider uppercase text-ink mb-4">Key Learning Areas</h3>
+                        <ul class="space-y-2.5 text-sm text-body">
+                            {activeConfig.keyLearningAreas.map(area => (
+                                <li class="flex items-start gap-2">
+                                    <span class="text-primary font-bold">✓</span>
+                                    <span>{area}</span>
+                                </li>
+                            ))}
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Detailed Reading Content -->
+                <div class="lg:col-span-2 space-y-12">
+                    <article class="prose max-w-none text-body">
+                        <h2 class="text-3xl font-semibold tracking-tight text-ink mb-6">
+                            Overview of the {courseAbbr} Exit Exam Questions and Answers
+                        </h2>
+                        
+                        <p class="leading-relaxed mb-6">
+                            {activeConfig.studyGuideIntro}
+                        </p>
+
+                        <p class="leading-relaxed mb-6">
+                            Under the modern <strong>Ship 07</strong> online examination framework, the questions test candidates on both theoretical and practical safety dimensions. To make sure you clear the exam on your first attempt, we have compiled the full bank of updated <strong>{courseAbbr} exit exam questions</strong> into structured, interactive practice rooms simulating the actual test interface.
+                        </p>
+
+                        <h3 class="text-2xl font-medium tracking-tight text-ink mt-8 mb-4">
+                            Syllabus and Topics Covered in the {courseAbbr} Exit Exam
+                        </h3>
+                        <p class="leading-relaxed mb-6">
+                            To prepare effectively for the <strong>{courseAbbr} exit exam MCQ</strong> test, seafarers must study the core areas of the STCW modular course:
+                        </p>
+                        <ul class="list-disc pl-6 space-y-3 mb-6">
+                            {activeConfig.syllabusList.map(item => (
+                                <li>{item}</li>
+                            ))}
+                        </ul>
+
+                        <h3 class="text-2xl font-medium tracking-tight text-ink mt-8 mb-4">
+                            Exam Structure and Passing Marks on the DG Shipping Portal
+                        </h3>
+                        <p class="leading-relaxed mb-6">
+                            When taking the test on the official <strong>DG Shipping</strong> portal, candidates need to be aware of the following structure:
+                        </p>
+                        <ul class="list-disc pl-6 space-y-3 mb-6">
+                            {activeConfig.examPortalDetails.map(detail => (
+                                <li>{detail}</li>
+                            ))}
+                        </ul>
+
+                        <h3 class="text-2xl font-medium tracking-tight text-ink mt-8 mb-4">
+                            Why Download the {courseAbbr} Exit Exam Questions and Answers PDF?
+                        </h3>
+                        
+                        <p class="leading-relaxed mb-6">
+                            Studying online is highly effective, but seafarers often face poor internet connectivity while at sea or traveling. To bridge this gap, we offer a comprehensive <strong>{courseAbbr} exit exam questions and answers PDF</strong>.
+                        </p>
+                        
+                        <p class="leading-relaxed mb-6">
+                            By downloading this PDF, you can:
+                        </p>
+                        <ul class="list-disc pl-6 space-y-3 mb-6">
+                            <li>Study offline anytime, anywhere, without requiring a network connection.</li>
+                            <li>Review all questions sorted by sets, complete with marked correct options and descriptive explanations.</li>
+                            <li>Self-test your knowledge by printing the pages or hiding answers to simulate the exam.</li>
+                        </ul>
+                    </article>
+
+                    <!-- FAQs Section with custom interactive accordion details style -->
+                    <section class="space-y-6" aria-labelledby="faq-title">
+                        <h2 id="faq-title" class="text-2xl font-semibold tracking-tight text-ink">
+                            {courseAbbr} Exit Exam FAQs
+                        </h2>
+                        <div class="space-y-4">
+                            {faqs.map((faq, index) => (
+                                <details class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden" open={index === 0}>
+                                    <summary class="flex items-center justify-between p-6 cursor-pointer select-none">
+                                        <h3 class="text-lg font-medium text-ink group-open:text-primary transition-colors">
+                                            {faq.question}
+                                        </h3>
+                                        <span class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                            </svg>
+                                        </span>
+                                    </summary>
+                                    <div class="px-6 pb-6 text-sm text-body leading-relaxed border-t border-hairline pt-4" set:html={faq.answer} />
+                                </details>
+                            ))}
+                        </div>
+                    </section>
                 </div>
             </section>
         </div>
