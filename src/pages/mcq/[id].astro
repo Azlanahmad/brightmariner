@@ -67,7 +67,7 @@ const getFaqs = (courseId: string, name: string, abbr: string) => {
     },
     {
       question: `What is the passing criteria for the ${name} exit exam?`,
-      answer: `To pass the ${name} exit exam, candidates must score at least 60% (which equals 18 correct answers out of 30 questions) as per standard DG Shipping guidelines.`
+      answer: `To pass the ${name} exit exam, candidates must score at least 50% (which equals 15 correct answers out of 30 questions) as per standard DG Shipping guidelines.`
     },
     {
       question: `Are these ${name} exit exam questions updated?`,
@@ -103,7 +103,7 @@ const getFaqs = (courseId: string, name: string, abbr: string) => {
       },
       {
         question: "What is the passing score for the PST exit exam?",
-        answer: "You must score at least 60% (18 marks out of 30) to pass the PST exit exam. There is no negative marking in the DG Shipping exam."
+        answer: "You must score at least 50% (15 marks out of 30) to pass the PST exit exam. There is no negative marking in the DG Shipping exam."
       }
     ],
     pssr: [
@@ -219,7 +219,7 @@ const courseConfigs: Record<string, {
         examPortalDetails: [
             "30 multiple-choice questions selected from the EFA database.",
             "A strict 30-minute exam time limit on the Ship 07 portal.",
-            "Passing score threshold set at 60% (18 marks out of 30).",
+            "Passing score threshold set at 50% (15 marks out of 30).",
             "Practicing MCQ sets helps build recall speed and confidence."
         ]
     },
@@ -241,7 +241,7 @@ const courseConfigs: Record<string, {
         examPortalDetails: [
             "30 questions covering shipboard fire safety and extinguishing.",
             "30-minute online examination under DG Shipping portal.",
-            "Passing mark is 60% (answering at least 18 questions correctly).",
+            "Passing mark is 50% (answering at least 15 questions correctly).",
             "Practicing interactive sets is recommended to clear the exam."
         ]
     },
@@ -263,7 +263,7 @@ const courseConfigs: Record<string, {
         examPortalDetails: [
             "30 randomized questions from the PST STCW modular database.",
             "30-minute duration on the official digital portal.",
-            "A minimum score of 60% (18 correct answers) is required to pass.",
+            "A minimum score of 50% (15 correct answers) is required to pass.",
             "Regular self-testing helps seafarers master LSA concepts."
         ]
     },
@@ -285,7 +285,7 @@ const courseConfigs: Record<string, {
         examPortalDetails: [
             "30 multiple-choice questions focusing on safety and team behavior.",
             "30-minute exam time limit on the DG Shipping system.",
-            "Passing threshold is 60% (18 correct answers out of 30).",
+            "Passing threshold is 50% (15 correct answers out of 30).",
             "Online MCQ practice helps familiarize seafarers with MARPOL rules."
         ]
     },
@@ -307,7 +307,7 @@ const courseConfigs: Record<string, {
         examPortalDetails: [
             "30 randomized MCQs on ship security and ISPS rules.",
             "30-minute online exam session under DG Shipping.",
-            "Passing grade is 60% (18 marks) with no negative marking.",
+            "Passing grade is 50% (15 marks) with no negative marking.",
             "Preparing with our questions prepares seafarers for port security duties."
         ]
     },
@@ -329,7 +329,7 @@ const courseConfigs: Record<string, {
         examPortalDetails: [
             "30 advanced questions covering medical care and RMA.",
             "30-minute duration on the online examination portal.",
-            "Passing mark is 60% (18 correct responses) to obtain the certificate.",
+            "Passing mark is 50% (15 correct responses) to obtain the certificate.",
             "Historically, over 25 questions in the actual exam are similar to our sets."
         ]
     },
@@ -351,7 +351,7 @@ const courseConfigs: Record<string, {
         examPortalDetails: [
             "30 advanced multiple-choice questions on tanker cargo operations.",
             "30-minute exam session on the DG Shipping database.",
-            "A minimum score of 60% (18 marks out of 30) is required to pass.",
+            "A minimum score of 50% (15 marks out of 30) is required to pass.",
             "Practicing interactive sets is key to mastering tanker safety."
         ]
     },
@@ -373,7 +373,7 @@ const courseConfigs: Record<string, {
         examPortalDetails: [
             "30 multiple-choice questions on safety and rule changes.",
             "30-minute digital exam on the DG Shipping platform.",
-            "Passing score is 60% (18 correct answers out of 30).",
+            "Passing score is 50% (15 correct answers out of 30).",
             "Online practice is highly recommended for re-validation success."
         ]
     }
@@ -397,7 +397,7 @@ const defaultCourseConfig = {
     examPortalDetails: [
         "Randomly selected multiple-choice questions",
         "Strict 30-minute exam time limit",
-        "Passing score requirement of 60%",
+        "Passing score requirement of 50%",
         "No negative marking for incorrect choices"
     ]
 };
@@ -499,7 +499,7 @@ const activeConfig = courseConfigs[baseCourseId as string] || defaultCourseConfi
                             </div>
                             <div>
                                 <dt class="font-mono text-mute uppercase text-xs">Passing Criteria</dt>
-                                <dd class="font-medium text-ink mt-0.5">60% (18 out of 30 marks)</dd>
+                                <dd class="font-medium text-ink mt-0.5">50% (15 out of 30 marks)</dd>
                             </div>
                             <div>
                                 <dt class="font-mono text-mute uppercase text-xs">Total Questions Available</dt>
