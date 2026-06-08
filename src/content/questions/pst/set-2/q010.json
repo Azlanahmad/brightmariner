@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q10",
+  "text": "A distress signal on deck:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pyrotechnics"
+    },
+    {
+      "id": "B",
+      "text": "Open fire"
+    },
+    {
+      "id": "C",
+      "text": "NC Flag"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

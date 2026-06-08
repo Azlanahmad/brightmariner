@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q1",
+  "text": "Emergency Position Indicating Radio Beacon (EPIRB) is considered as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Primary means of alerting device"
+    },
+    {
+      "id": "B",
+      "text": "Secondary means of alerting device"
+    },
+    {
+      "id": "C",
+      "text": "Both primary and secondary"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

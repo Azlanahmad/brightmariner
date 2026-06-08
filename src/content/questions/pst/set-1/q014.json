@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q14",
+  "text": "Choose the right combination of VHF channels for emergency communication during search and rescue for ship-to-ship and ship-to-aircraft communication:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Channel 21 and 23"
+    },
+    {
+      "id": "B",
+      "text": "Channel 06 and 30"
+    },
+    {
+      "id": "C",
+      "text": "Channel 16 and 06"
+    },
+    {
+      "id": "D",
+      "text": "Channel 70 and 16"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

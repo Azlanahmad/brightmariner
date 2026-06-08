@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q1",
+  "text": "The number of lifebuoys on ship is dependent on:",
+  "options": [
+    {
+      "id": "A",
+      "text": "What owners provide"
+    },
+    {
+      "id": "B",
+      "text": "Minimum of 10"
+    },
+    {
+      "id": "C",
+      "text": "Minimum of 15"
+    },
+    {
+      "id": "D",
+      "text": "Length of the vessel"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q24",
+  "text": "What should be the duration and luminous intensity of a hand flare?",
+  "options": [
+    {
+      "id": "A",
+      "text": "60 seconds with 30,000 candles"
+    },
+    {
+      "id": "B",
+      "text": "60 seconds with 15,000 candles"
+    },
+    {
+      "id": "C",
+      "text": "120 seconds with 30,000 candles"
+    },
+    {
+      "id": "D",
+      "text": "120 seconds with 15,000 candles"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

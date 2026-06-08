@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q3",
+  "text": "Which of the following requirements for Immersion suit is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Donned within 2 minutes"
+    },
+    {
+      "id": "B",
+      "text": "Allow the wearer to jump from 4.5m"
+    },
+    {
+      "id": "C",
+      "text": "Allow the wearer to climb a vertical ladder of 5mtrs"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

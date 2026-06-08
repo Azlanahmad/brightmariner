@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q22",
+  "text": "Which one of the listed requirements regarding LSA do not corresponds to present regulations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "All prescribed LSA shall be made of non-combustible or fire retardant material"
+    },
+    {
+      "id": "B",
+      "text": "All prescribed LSA shall be of a highly visible colour"
+    },
+    {
+      "id": "C",
+      "text": "All prescribed LSA shall be fitted with a retro reflective material which will assist in detection"
+    },
+    {
+      "id": "D",
+      "text": "All prescribed LSA shall be resistant to deterioration where exposed to sunlight"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

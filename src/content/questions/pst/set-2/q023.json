@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q23",
+  "text": "Which one of the listed requirements regarding launching appliances for survival craft and rescue boat do not corresponds to present regulation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Parts requiring regular maintenance by ships crew shall be readily accessible"
+    },
+    {
+      "id": "B",
+      "text": "The launching mechanism shall be arranged for actuating from a position within the survival craft or rescue boat in addition to a position on the ships deck"
+    },
+    {
+      "id": "C",
+      "text": "All launching appliances shall be capable of recovering survival craft and rescue boats with their crew"
+    },
+    {
+      "id": "D",
+      "text": "Launching appliances shall be constructed for minimum amount of routine maintainance"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

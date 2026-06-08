@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q21",
+  "text": "The rescue vessel is approaching an activated SART at a distance of five miles. What indication appears on the rescue vessel radar screen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "SOS symbol appears on the display of the radar screen"
+    },
+    {
+      "id": "B",
+      "text": "Concentric circles"
+    },
+    {
+      "id": "C",
+      "text": "A series of 12 equally spaced blips outward from the SART's position along its line of bearing"
+    },
+    {
+      "id": "D",
+      "text": "Wide arcs"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

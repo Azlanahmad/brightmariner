@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q15",
+  "text": "Davit-launched life raft can be boarded:",
+  "options": [
+    {
+      "id": "A",
+      "text": "From the water only"
+    },
+    {
+      "id": "B",
+      "text": "At the deck"
+    },
+    {
+      "id": "C",
+      "text": "By jumping down onto it"
+    },
+    {
+      "id": "D",
+      "text": "Through the escape tube"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

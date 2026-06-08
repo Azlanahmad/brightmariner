@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q26",
+  "text": "Checking and servicing life rafts as per PMS is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Once a year"
+    },
+    {
+      "id": "B",
+      "text": "Twice a year"
+    },
+    {
+      "id": "C",
+      "text": "Once in 5 years"
+    },
+    {
+      "id": "D",
+      "text": "Based on condition of Liferaft"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

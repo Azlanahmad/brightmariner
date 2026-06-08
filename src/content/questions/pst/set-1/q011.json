@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q11",
+  "text": "Which statement concerning locating signals in the GMDSS is false?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Locating signals are transmitted by survival craft VHF transceivers"
+    },
+    {
+      "id": "B",
+      "text": "Locating signals are transmitted by search and rescue radar transponders"
+    },
+    {
+      "id": "C",
+      "text": "Locating signals are intended to facilitate the finding of distress vessel or survivors"
+    },
+    {
+      "id": "D",
+      "text": "Locating signals are not transmitted by auto alarm generators"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

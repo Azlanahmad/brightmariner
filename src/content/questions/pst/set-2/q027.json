@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q27",
+  "text": "Before lifting a Lifeboat from water it should be ensured that:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bottom plug is secured tight"
+    },
+    {
+      "id": "B",
+      "text": "Falls wires are clear and secured tightly"
+    },
+    {
+      "id": "C",
+      "text": "Engine is going astern"
+    },
+    {
+      "id": "D",
+      "text": "Sea anchor is streamed"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

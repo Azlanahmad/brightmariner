@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q10",
+  "text": "What is the type of battery used for EPIRB and your SART?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lead acid battery"
+    },
+    {
+      "id": "B",
+      "text": "Solar rechargeable cells"
+    },
+    {
+      "id": "C",
+      "text": "Lithium non-rechargeable"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

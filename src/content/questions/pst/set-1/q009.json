@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q9",
+  "text": "You are on a survival craft broadcasting a distress message. What information is essential for rescuers?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nature of distress"
+    },
+    {
+      "id": "B",
+      "text": "Time of the day"
+    },
+    {
+      "id": "C",
+      "text": "Your radio call sign"
+    },
+    {
+      "id": "D",
+      "text": "Your position by latitude and longitude"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

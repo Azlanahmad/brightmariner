@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q8",
+  "text": "Life jacket light shall be capable of providing luminous intensity of ______ for a period of ______:",
+  "options": [
+    {
+      "id": "A",
+      "text": ".75cd/8hrs"
+    },
+    {
+      "id": "B",
+      "text": ".50cd/8hrs"
+    },
+    {
+      "id": "C",
+      "text": ".75cd/6hrs"
+    },
+    {
+      "id": "D",
+      "text": ".50cd/6hrs"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

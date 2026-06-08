@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q16",
+  "text": "Quantity of water in Life raft per person:",
+  "options": [
+    {
+      "id": "A",
+      "text": "1.5 Ltrs"
+    },
+    {
+      "id": "B",
+      "text": "2 Ltrs"
+    },
+    {
+      "id": "C",
+      "text": "3 Ltrs"
+    },
+    {
+      "id": "D",
+      "text": "2.5 Ltrs"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

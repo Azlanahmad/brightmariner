@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q18",
+  "text": "With a sprinkler system and air system on and all hatches shut, the survival craft will provide protection from:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nuclear environment"
+    },
+    {
+      "id": "B",
+      "text": "Fire and toxic environment"
+    },
+    {
+      "id": "C",
+      "text": "Storm or a hurricane"
+    },
+    {
+      "id": "D",
+      "text": "Sea creatures"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

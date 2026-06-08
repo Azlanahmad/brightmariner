@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q22",
+  "text": "On what frequency do EPIRBs transmit information to satellites on emergency activation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "121.5 MHz"
+    },
+    {
+      "id": "B",
+      "text": "243 MHz"
+    },
+    {
+      "id": "C",
+      "text": "156.8 MHz"
+    },
+    {
+      "id": "D",
+      "text": "406 MHz"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

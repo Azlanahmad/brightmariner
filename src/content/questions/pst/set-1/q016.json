@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q16",
+  "text": "Cargo ships of 100 meters and above but less than 150 meters should have how many life buoys?",
+  "options": [
+    {
+      "id": "A",
+      "text": "8"
+    },
+    {
+      "id": "B",
+      "text": "12"
+    },
+    {
+      "id": "C",
+      "text": "30"
+    },
+    {
+      "id": "D",
+      "text": "14"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

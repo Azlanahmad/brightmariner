@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q26",
+  "text": "Crew duties to passengers in an emergency especially in a passenger vessel involve:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Warn all passengers"
+    },
+    {
+      "id": "B",
+      "text": "Keeping the movement of the passengers towards the muster station"
+    },
+    {
+      "id": "C",
+      "text": "Seeing that they have suitably donned the life jackets in a correct manner"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

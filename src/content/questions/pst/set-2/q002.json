@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q2",
+  "text": "EPIRB stands for:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Emergency Position Indicating Radio Beacon"
+    },
+    {
+      "id": "B",
+      "text": "Emergency Position Indicating Radar Beacon"
+    },
+    {
+      "id": "C",
+      "text": "Escape Position Indicating Radar Beacon"
+    },
+    {
+      "id": "D",
+      "text": "Escape Position Indicating Radio Beacon"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

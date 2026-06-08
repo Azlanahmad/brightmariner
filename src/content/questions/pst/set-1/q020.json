@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q20",
+  "text": "The most important reason for taking anti-seasickness pills as soon as possible after entering into a life raft is to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Assist in sleeping"
+    },
+    {
+      "id": "B",
+      "text": "Reduce appetite by decreasing nausea"
+    },
+    {
+      "id": "C",
+      "text": "Prevent loss of body moisture by vomiting"
+    },
+    {
+      "id": "D",
+      "text": "Prevent impact judgment due to motion-induced deliriousness"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

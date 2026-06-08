@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q6",
+  "text": "How many survival craft VHF walkie-talkies are required to be carried on cargo ships above 500 Gross Registered Tonnage (GRT)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Two numbers"
+    },
+    {
+      "id": "B",
+      "text": "Three numbers"
+    },
+    {
+      "id": "C",
+      "text": "Four numbers"
+    },
+    {
+      "id": "D",
+      "text": "Five numbers"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

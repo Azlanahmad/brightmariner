@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q2",
+  "text": "How can a Search and Rescue Radar Transponder (SART) effective range be maximized?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The SART should be placed in water immediately after activation"
+    },
+    {
+      "id": "B",
+      "text": "The SART should be put on high power mode"
+    },
+    {
+      "id": "C",
+      "text": "Mount the SART horizontally with respect to rescue vessel radar"
+    },
+    {
+      "id": "D",
+      "text": "It should be as high as possible"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

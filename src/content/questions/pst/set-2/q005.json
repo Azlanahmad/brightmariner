@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q5",
+  "text": "When person floating in the water in group, they should be in:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Help position"
+    },
+    {
+      "id": "B",
+      "text": "Huddle position"
+    },
+    {
+      "id": "C",
+      "text": "Yoga position"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

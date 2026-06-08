@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q27",
+  "text": "What indication does an EPIRB give on activation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Voice prompt saying EPIRB is activated"
+    },
+    {
+      "id": "B",
+      "text": "Strobe lights or flashes on top of the EPIRB"
+    },
+    {
+      "id": "C",
+      "text": "Gives out a printout of distress message sent"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

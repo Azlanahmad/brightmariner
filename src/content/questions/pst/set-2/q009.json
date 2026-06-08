@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q9",
+  "text": "Lifeboat must be stowed in such a way that they can be launched in ______ mins:",
+  "options": [
+    {
+      "id": "A",
+      "text": "10 mins"
+    },
+    {
+      "id": "B",
+      "text": "15 mins"
+    },
+    {
+      "id": "C",
+      "text": "20 mins"
+    },
+    {
+      "id": "D",
+      "text": "05 mins"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

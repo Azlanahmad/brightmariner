@@ -1,0 +1,18 @@
+{
+  "id": "pst-s2-q19",
+  "text": "In free fall Lifeboat, instead of Immersion suit TPA is provided for all persons:",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

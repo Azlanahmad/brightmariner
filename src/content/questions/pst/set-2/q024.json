@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q24",
+  "text": "Maximum carrying capacity of a lifeboat:",
+  "options": [
+    {
+      "id": "A",
+      "text": "100 Persons"
+    },
+    {
+      "id": "B",
+      "text": "150 Persons"
+    },
+    {
+      "id": "C",
+      "text": "50 Persons"
+    },
+    {
+      "id": "D",
+      "text": "25 Persons"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

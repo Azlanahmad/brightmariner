@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q4",
+  "text": "The Thermal Protective Aid (TPA) should permit the wearer to remove it in the water:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Not more than two minutes"
+    },
+    {
+      "id": "B",
+      "text": "Not more than five minutes"
+    },
+    {
+      "id": "C",
+      "text": "Not more than 10 minutes"
+    },
+    {
+      "id": "D",
+      "text": "Not more than 15 minutes"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

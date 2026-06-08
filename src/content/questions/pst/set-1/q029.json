@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q29",
+  "text": "A life jacket has:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Whistle and light"
+    },
+    {
+      "id": "B",
+      "text": "Reflective tape"
+    },
+    {
+      "id": "C",
+      "text": "Whistle, reflective tape, and a light"
+    },
+    {
+      "id": "D",
+      "text": "Only a whistle"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

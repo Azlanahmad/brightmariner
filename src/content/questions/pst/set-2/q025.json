@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q25",
+  "text": "An Immersion suit shall permit the person wearing it:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Climb up and down a vertical ladder of atleast 5m in length"
+    },
+    {
+      "id": "B",
+      "text": "Perform normal duties associated with abandoning ship"
+    },
+    {
+      "id": "C",
+      "text": "Jump from a height of not less than 4.5m"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

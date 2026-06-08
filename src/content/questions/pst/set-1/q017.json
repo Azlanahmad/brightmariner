@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q17",
+  "text": "Which onboard equipment will detect a signal from a search and rescue radar transponder (SART)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "S-band radar"
+    },
+    {
+      "id": "B",
+      "text": "Digital selective calling (DSC) receiver"
+    },
+    {
+      "id": "C",
+      "text": "Satellite communication terminals"
+    },
+    {
+      "id": "D",
+      "text": "X-band radar"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

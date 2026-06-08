@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q12",
+  "text": "The person aboard a vessel signaling by raising and lowering his or her outstretched arms to each side is indicating:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Danger, stay away"
+    },
+    {
+      "id": "B",
+      "text": "All is clear, it is safe to pass"
+    },
+    {
+      "id": "C",
+      "text": "All is clear, it is safe to approach"
+    },
+    {
+      "id": "D",
+      "text": "A distress signal"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

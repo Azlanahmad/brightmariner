@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q13",
+  "text": "You are involved in an emergency landing of a helicopter in water. You should inflate your life jacket:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Upon entering the helicopter"
+    },
+    {
+      "id": "B",
+      "text": "Prior to reaching the water"
+    },
+    {
+      "id": "C",
+      "text": "After reaching the water but prior to exiting the helicopter"
+    },
+    {
+      "id": "D",
+      "text": "After clear of the helicopter"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

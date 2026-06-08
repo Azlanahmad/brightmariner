@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q6",
+  "text": "How should the painter of a liferaft which is fitted with hydrostatic release unit be secured to the ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Secured via weak link to a secured point on the ship"
+    },
+    {
+      "id": "B",
+      "text": "Secured to the part of hydrostatic release that is designed to break free"
+    },
+    {
+      "id": "C",
+      "text": "It should not be secured anyway"
+    },
+    {
+      "id": "D",
+      "text": "Directly to a secure point on the ship"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

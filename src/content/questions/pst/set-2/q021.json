@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q21",
+  "text": "Which one of the listed requirements regarding the stowage of a survival craft corresponds to present SOLAS regulations? Each survival craft shall be stowed:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Wherever space is available"
+    },
+    {
+      "id": "B",
+      "text": "In a state of readiness so that two crew members can prepare"
+    },
+    {
+      "id": "C",
+      "text": "On the starboard side of the ship"
+    },
+    {
+      "id": "D",
+      "text": "In a secure and sheltered position and protected from damage by fire and explosion"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

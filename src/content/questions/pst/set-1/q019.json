@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q19",
+  "text": "What must be the characteristics of a lifebuoy attached with a self-igniting light and smoke?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Two hours of light with two candle luminous intensity with 15 minutes of smoke"
+    },
+    {
+      "id": "B",
+      "text": "One hour of light with 15 minutes of smoke"
+    },
+    {
+      "id": "C",
+      "text": "Two hours of light with two hours of smoke"
+    },
+    {
+      "id": "D",
+      "text": "15 minutes of light with 15 minutes of smoke"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

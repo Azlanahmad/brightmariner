@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q28",
+  "text": "Which one of the routine test and inspection of LSA is not required by regulations:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lifeboat engine should be run for atleast 3 mins every week"
+    },
+    {
+      "id": "B",
+      "text": "General emergency alarm to be tested daily"
+    },
+    {
+      "id": "C",
+      "text": "Survival craft and Rescue boats with launching appliances shall be visually inspected weekly"
+    },
+    {
+      "id": "D",
+      "text": "Inspection of Lifeboat equipments shall be carried out monthly"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

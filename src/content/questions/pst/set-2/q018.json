@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q18",
+  "text": "Which of the listed requirements do not corresponds to present regulation the life raft shall have:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Manually controlled lamp visible of at least two miles fitted at the top of the canopy"
+    },
+    {
+      "id": "B",
+      "text": "All entrances fitted with rigid boarding ramps for boarding the life raft"
+    },
+    {
+      "id": "C",
+      "text": "Floor preventing the ingress of water"
+    },
+    {
+      "id": "D",
+      "text": "Manually controlled lamp fitted inside the liferaft"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

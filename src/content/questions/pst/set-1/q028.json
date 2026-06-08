@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q28",
+  "text": "How many buoyant orange smoke floats should be kept on the bridge of a vessel?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Two"
+    },
+    {
+      "id": "B",
+      "text": "Four"
+    },
+    {
+      "id": "C",
+      "text": "Six"
+    },
+    {
+      "id": "D",
+      "text": "None"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

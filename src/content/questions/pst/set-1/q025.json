@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q25",
+  "text": "One of the main characteristics of a life jacket is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "To swim"
+    },
+    {
+      "id": "B",
+      "text": "To maintain the face of an unconscious person above the water level"
+    },
+    {
+      "id": "C",
+      "text": "To float"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

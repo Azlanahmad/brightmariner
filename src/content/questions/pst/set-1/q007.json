@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q7",
+  "text": "You are at sea in an inflatable life raft in high altitudes, the greatest danger is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Collapse of the raft due to cold temperatures"
+    },
+    {
+      "id": "B",
+      "text": "Asphyxiation due to keeping the canopy closed"
+    },
+    {
+      "id": "C",
+      "text": "Hypothermia caused by cold temperature"
+    },
+    {
+      "id": "D",
+      "text": "Starvation"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

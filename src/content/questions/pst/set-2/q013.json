@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q13",
+  "text": "What is a fire wire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Wire for pulling burning ships off the pier"
+    },
+    {
+      "id": "B",
+      "text": "Wire for handling fire bucket"
+    },
+    {
+      "id": "C",
+      "text": "Wire for pulling fire hoses upto the top bridge"
+    },
+    {
+      "id": "D",
+      "text": "Wire for securing smoke divers"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

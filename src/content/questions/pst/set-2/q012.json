@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q12",
+  "text": "Your vessel has been in collision and you are not sure if your vessel is sinking or not, How will you handle this situation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Make sure that the lifeboat has as much fuel as possible and make your course for nearest land"
+    },
+    {
+      "id": "B",
+      "text": "Wait and see how the situation is developing"
+    },
+    {
+      "id": "C",
+      "text": "Search for missing person, continue to monitor the situation and prepare for event management in case it becomes necessary"
+    },
+    {
+      "id": "D",
+      "text": "Leave the vessel and stay not closer than 5 NM"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

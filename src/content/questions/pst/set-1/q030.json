@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q30",
+  "text": "How do you know how many persons a lifeboat can accommodate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ask your chief officer"
+    },
+    {
+      "id": "B",
+      "text": "No limitations, you can put maximum persons inside"
+    },
+    {
+      "id": "C",
+      "text": "Number of persons it can hold is clearly marked on the outside of the lifeboat"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

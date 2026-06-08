@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q5",
+  "text": "Which channel is designated as the VHF follow-on Communication channel required in all portable survival craft equipment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Channel 06"
+    },
+    {
+      "id": "B",
+      "text": "Channel 70"
+    },
+    {
+      "id": "C",
+      "text": "Channel 13"
+    },
+    {
+      "id": "D",
+      "text": "Channel 16"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

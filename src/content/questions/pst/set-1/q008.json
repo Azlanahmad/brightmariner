@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q8",
+  "text": "Prior to lowering the lifeboat, the most important item to check is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oars"
+    },
+    {
+      "id": "B",
+      "text": "Sail"
+    },
+    {
+      "id": "C",
+      "text": "Boat plug"
+    },
+    {
+      "id": "D",
+      "text": "Life preservers"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

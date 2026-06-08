@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q14",
+  "text": "Quantity of water in lifeboat per person:",
+  "options": [
+    {
+      "id": "A",
+      "text": "3Ltrs"
+    },
+    {
+      "id": "B",
+      "text": "5Ltrs"
+    },
+    {
+      "id": "C",
+      "text": "4Ltrs"
+    },
+    {
+      "id": "D",
+      "text": "2Ltrs"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

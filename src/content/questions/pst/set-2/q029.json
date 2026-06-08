@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q29",
+  "text": "The function of hydrostatic release unit is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Substitute for limit switch of gravity davits"
+    },
+    {
+      "id": "B",
+      "text": "To automatically unhook the lashing and release the life raft when the ship sinks"
+    },
+    {
+      "id": "C",
+      "text": "For releasing life raft in bad weather"
+    },
+    {
+      "id": "D",
+      "text": "For releasing lifeboat from sinking vessel"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q23",
+  "text": "What is the biggest danger to life when your vessel has collided with another ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oil pollution"
+    },
+    {
+      "id": "B",
+      "text": "Building of compartments"
+    },
+    {
+      "id": "C",
+      "text": "Damage to the ship"
+    },
+    {
+      "id": "D",
+      "text": "Possibility of capsizing"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

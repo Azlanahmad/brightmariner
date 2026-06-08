@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q30",
+  "text": "Lifeboat should have:",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 Buoyant rescue quoits, attached to not less than 30mtrs buoyant line"
+    },
+    {
+      "id": "B",
+      "text": "2 buoyant rescue quoits attached to not less than 15mtrs buoyant line"
+    },
+    {
+      "id": "C",
+      "text": "1 Buoyant rescue quoits, attached to not less than 30mtrs buoyant line"
+    },
+    {
+      "id": "D",
+      "text": "1 buoyant rescue quoits attached to not less than 15mtrs buoyant line"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

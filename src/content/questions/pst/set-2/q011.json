@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q11",
+  "text": "SART stands for:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Search and Rescue Radar Transponder"
+    },
+    {
+      "id": "B",
+      "text": "Search and Rescue Radar Transformer"
+    },
+    {
+      "id": "C",
+      "text": "Search and Rescue Radar Transmission"
+    },
+    {
+      "id": "D",
+      "text": "Search and Rescue Radar Transmitor"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

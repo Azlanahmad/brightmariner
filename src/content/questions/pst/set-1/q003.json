@@ -1,0 +1,26 @@
+{
+  "id": "pst-s1-q3",
+  "text": "On a passenger ship, muster of passengers must be carried out:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Within one week after boarding the person"
+    },
+    {
+      "id": "B",
+      "text": "Within 24 hours of leaving the port"
+    },
+    {
+      "id": "C",
+      "text": "Whenever the passengers are settled out"
+    },
+    {
+      "id": "D",
+      "text": "Anytime by surprise as decided by the master"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 1,
+  "explanation": ""
+}

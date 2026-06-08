@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q17",
+  "text": "What equipment is provided in Life raft to help you keep warm in cold weather?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The floor of the raft has a second layer which can be inflated to give additional insulation from the cold"
+    },
+    {
+      "id": "B",
+      "text": "The floor of the raft has a second layer which can be inflated to help insulation in addition to the TPA"
+    },
+    {
+      "id": "C",
+      "text": "TPA for each person"
+    },
+    {
+      "id": "D",
+      "text": "At least 10% or 2 TPA of the total crew"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pst-s2-q7",
+  "text": "LTA is used as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Messenger line"
+    },
+    {
+      "id": "B",
+      "text": "Heaving line"
+    },
+    {
+      "id": "C",
+      "text": "Mooring Line"
+    },
+    {
+      "id": "D",
+      "text": "Lashing line"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 2,
+  "explanation": ""
+}
