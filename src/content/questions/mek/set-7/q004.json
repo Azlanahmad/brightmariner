@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q4",
+  "text": "Main fire pump is located",
+  "options": [
+    {
+      "id": "A",
+      "text": "on main deck"
+    },
+    {
+      "id": "B",
+      "text": "at the fire station"
+    },
+    {
+      "id": "C",
+      "text": "in the engine room"
+    },
+    {
+      "id": "D",
+      "text": "in the steering flat"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

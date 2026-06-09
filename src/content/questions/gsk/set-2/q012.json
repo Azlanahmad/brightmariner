@@ -1,0 +1,18 @@
+{
+  "id": "gsk-s2-q12",
+  "text": "Lack of confidence is an Internal barrier to communication.",
+  "options": [
+    {
+      "id": "A",
+      "text": "False"
+    },
+    {
+      "id": "B",
+      "text": "True"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q17",
+  "text": "A Mercator chart is a:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Polar chart"
+    },
+    {
+      "id": "B",
+      "text": "Stellar chart"
+    },
+    {
+      "id": "C",
+      "text": "Navigational chart"
+    },
+    {
+      "id": "D",
+      "text": "Pictorial chart"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

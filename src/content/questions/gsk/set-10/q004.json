@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q4",
+  "text": "On a container ship containers have to be secure as per the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Convenience of the lashing gang"
+    },
+    {
+      "id": "B",
+      "text": "Availability of the lashing material"
+    },
+    {
+      "id": "C",
+      "text": "Size of the container"
+    },
+    {
+      "id": "D",
+      "text": "Approved lashing plan"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

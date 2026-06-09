@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q5",
+  "text": "When the ship is alongside a wharf the safe access to the ship is by the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gangway"
+    },
+    {
+      "id": "B",
+      "text": "Combination ladder"
+    },
+    {
+      "id": "C",
+      "text": "Coolie ladder"
+    },
+    {
+      "id": "D",
+      "text": "Pilot ladder"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

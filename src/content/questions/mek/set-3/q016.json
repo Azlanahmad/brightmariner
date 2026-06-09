@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q16",
+  "text": "The purpose of \"COMPRESSED AIR\" in a diesel engine is to_________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Turns turbo Charger"
+    },
+    {
+      "id": "B",
+      "text": "Starts Engine"
+    },
+    {
+      "id": "C",
+      "text": "Gives Power"
+    },
+    {
+      "id": "D",
+      "text": "Controls fuel Supply"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

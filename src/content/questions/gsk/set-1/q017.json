@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q17",
+  "text": "Learning becomes permanent only by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reading"
+    },
+    {
+      "id": "B",
+      "text": "Use of Senses"
+    },
+    {
+      "id": "C",
+      "text": "Practice"
+    },
+    {
+      "id": "D",
+      "text": "Asking questions"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

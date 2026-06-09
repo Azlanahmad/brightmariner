@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q27",
+  "text": "Steering gear is used to turn the",
+  "options": [
+    {
+      "id": "A",
+      "text": "crane boom/jib"
+    },
+    {
+      "id": "B",
+      "text": "main engine"
+    },
+    {
+      "id": "C",
+      "text": "propeller"
+    },
+    {
+      "id": "D",
+      "text": "rudder"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

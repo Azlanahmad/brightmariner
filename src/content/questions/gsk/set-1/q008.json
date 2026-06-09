@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q8",
+  "text": "Telephone is an example of",
+  "options": [
+    {
+      "id": "A",
+      "text": "Barrier in communication"
+    },
+    {
+      "id": "B",
+      "text": "Receiver"
+    },
+    {
+      "id": "C",
+      "text": "Sender"
+    },
+    {
+      "id": "D",
+      "text": "Channel of communication"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

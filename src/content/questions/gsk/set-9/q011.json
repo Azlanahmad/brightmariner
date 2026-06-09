@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q11",
+  "text": "The crane jib is raised and lowered with the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Running block"
+    },
+    {
+      "id": "B",
+      "text": "Moving block"
+    },
+    {
+      "id": "C",
+      "text": "Topping block"
+    },
+    {
+      "id": "D",
+      "text": "Standing block"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

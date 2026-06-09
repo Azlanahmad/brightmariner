@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q6",
+  "text": "Exhaust gas economiser produces",
+  "options": [
+    {
+      "id": "A",
+      "text": "fresh water"
+    },
+    {
+      "id": "B",
+      "text": "steam"
+    },
+    {
+      "id": "C",
+      "text": "inert gas"
+    },
+    {
+      "id": "D",
+      "text": "electricity"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q26",
+  "text": "Use of personal protective gear while handling chemicals...Mark the incorrect one",
+  "options": [
+    {
+      "id": "A",
+      "text": "Face mask"
+    },
+    {
+      "id": "B",
+      "text": "Apron"
+    },
+    {
+      "id": "C",
+      "text": "Rubber gloves"
+    },
+    {
+      "id": "D",
+      "text": "Sun protect Goggles"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

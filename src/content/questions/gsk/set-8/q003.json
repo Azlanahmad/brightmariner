@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q3",
+  "text": "Bell on the forecastle is fitted to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Raise an alarm in case of emergency."
+    },
+    {
+      "id": "B",
+      "text": "Signal change of watch"
+    },
+    {
+      "id": "C",
+      "text": "Wake the crew Up"
+    },
+    {
+      "id": "D",
+      "text": "Indicate number of anchor shackles paid out"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

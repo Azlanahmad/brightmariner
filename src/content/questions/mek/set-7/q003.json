@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q3",
+  "text": "Not a part of a fire triangle",
+  "options": [
+    {
+      "id": "A",
+      "text": "fuel"
+    },
+    {
+      "id": "B",
+      "text": "heat"
+    },
+    {
+      "id": "C",
+      "text": "electricity"
+    },
+    {
+      "id": "D",
+      "text": "air"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

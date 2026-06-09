@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q13",
+  "text": "Who is more important in communication process?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Self"
+    },
+    {
+      "id": "B",
+      "text": "Receiver"
+    },
+    {
+      "id": "C",
+      "text": "People"
+    },
+    {
+      "id": "D",
+      "text": "Sender"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

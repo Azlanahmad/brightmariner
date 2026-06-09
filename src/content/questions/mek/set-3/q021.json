@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q21",
+  "text": "The purpose of Turbocharger in a Diesel engine is to _________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reduces friction"
+    },
+    {
+      "id": "B",
+      "text": "Increase air supply"
+    },
+    {
+      "id": "C",
+      "text": "Gives power"
+    },
+    {
+      "id": "D",
+      "text": "Turns turbo charger"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

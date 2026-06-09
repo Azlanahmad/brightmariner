@@ -18,7 +18,9 @@ course_names = {
     'pscrb': 'PSCRB (Proficiency in Survival Craft and Rescue Boats)',
     'mfa': 'Medical First Aid (MFA)',
     'tasco': 'Advanced Training for Oil Tanker Cargo Operations (TASCO)',
-    'refresher': 'Refresher Course'
+    'refresher': 'Refresher Course',
+    'gsk': 'General Ship Knowledge (GSK)',
+    'mek': 'Marine Engineering Knowledge (MEK)'
 }
 
 def clean_text(text):

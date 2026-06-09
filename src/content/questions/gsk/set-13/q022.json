@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q22",
+  "text": "During Bunkering",
+  "options": [
+    {
+      "id": "A",
+      "text": "Plug sounding pipes"
+    },
+    {
+      "id": "B",
+      "text": "Plug all deck scuppers"
+    },
+    {
+      "id": "C",
+      "text": "Plug air pipes"
+    },
+    {
+      "id": "D",
+      "text": "Raise the gangway"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

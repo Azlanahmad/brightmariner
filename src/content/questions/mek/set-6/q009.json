@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q9",
+  "text": "While bunkering is going on, what will be the most important thing to monitor",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oil sample is being taken"
+    },
+    {
+      "id": "B",
+      "text": "Temperature of oil being supplied"
+    },
+    {
+      "id": "C",
+      "text": "Oil sounding in the tank being filled"
+    },
+    {
+      "id": "D",
+      "text": "Oil sounding in bunker barge"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

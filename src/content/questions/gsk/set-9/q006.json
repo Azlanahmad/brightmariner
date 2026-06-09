@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q6",
+  "text": "The rubber packing in the hatch cover is used to make it",
+  "options": [
+    {
+      "id": "A",
+      "text": "Water tight"
+    },
+    {
+      "id": "B",
+      "text": "Resistant to ships motion"
+    },
+    {
+      "id": "C",
+      "text": "Weather tight"
+    },
+    {
+      "id": "D",
+      "text": "Airtight"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

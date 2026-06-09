@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q37",
+  "text": "Ability to start the emergency fire pump is required in all",
+  "options": [
+    {
+      "id": "A",
+      "text": "The crew members"
+    },
+    {
+      "id": "B",
+      "text": "Deck officers"
+    },
+    {
+      "id": "C",
+      "text": "Duty engineers"
+    },
+    {
+      "id": "D",
+      "text": "Engine crew"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

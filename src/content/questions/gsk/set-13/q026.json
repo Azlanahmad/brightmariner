@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q26",
+  "text": "The familiarization of the joining crew is done by the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cadets"
+    },
+    {
+      "id": "B",
+      "text": "Chief engineer"
+    },
+    {
+      "id": "C",
+      "text": "Outgoing crew member"
+    },
+    {
+      "id": "D",
+      "text": "Master"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

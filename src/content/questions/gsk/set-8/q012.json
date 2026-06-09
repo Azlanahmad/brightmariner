@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q12",
+  "text": "Length of each shackle in the anchor cable is",
+  "options": [
+    {
+      "id": "A",
+      "text": "27.5 kms"
+    },
+    {
+      "id": "B",
+      "text": "28.5 mtrs"
+    },
+    {
+      "id": "C",
+      "text": "29.5 mtrs"
+    },
+    {
+      "id": "D",
+      "text": "27.5 mtrs"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

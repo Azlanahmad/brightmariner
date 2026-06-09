@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q17",
+  "text": "When anchoring the order \"let go\" means",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tighten the windlass brake."
+    },
+    {
+      "id": "B",
+      "text": "Allow the anchor to run out by releasing the windlass brake"
+    },
+    {
+      "id": "C",
+      "text": "Increase the speed of the windlass"
+    },
+    {
+      "id": "D",
+      "text": "Keep clear of anchor chain"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

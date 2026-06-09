@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q11",
+  "text": "Cleaning Holds or Tanks requires",
+  "options": [
+    {
+      "id": "A",
+      "text": "Max. efforts by Eng.Crew"
+    },
+    {
+      "id": "B",
+      "text": "Max. efforts with sweeping, thorough washing and drying by Deck Crew with Bosun"
+    },
+    {
+      "id": "C",
+      "text": "Quick sweeping by Deck Crew"
+    },
+    {
+      "id": "D",
+      "text": "Quick mopping by any crew."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

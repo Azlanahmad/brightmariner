@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q14",
+  "text": "What is not a system",
+  "options": [
+    {
+      "id": "A",
+      "text": "Boiler"
+    },
+    {
+      "id": "B",
+      "text": "Purifier"
+    },
+    {
+      "id": "C",
+      "text": "Air compressor"
+    },
+    {
+      "id": "D",
+      "text": "Main Engine"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

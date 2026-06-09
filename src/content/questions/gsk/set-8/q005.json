@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q5",
+  "text": "Communication between the bridge and the mooring station is conducted by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hand signals"
+    },
+    {
+      "id": "B",
+      "text": "Walkie Talkie"
+    },
+    {
+      "id": "C",
+      "text": "Shouting orders"
+    },
+    {
+      "id": "D",
+      "text": "Light signals"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

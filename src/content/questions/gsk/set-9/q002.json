@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q2",
+  "text": "Sounding pipe cap is opened with a",
+  "options": [
+    {
+      "id": "A",
+      "text": "T' spanner"
+    },
+    {
+      "id": "B",
+      "text": "Wheel spanner"
+    },
+    {
+      "id": "C",
+      "text": "Box spanner"
+    },
+    {
+      "id": "D",
+      "text": "Ring spanner"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

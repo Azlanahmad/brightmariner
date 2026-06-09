@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q28",
+  "text": "Bilges should be cleaned, covered with burlap and cemented",
+  "options": [
+    {
+      "id": "A",
+      "text": "After loading bulk cargo"
+    },
+    {
+      "id": "B",
+      "text": "After discharging bulk cargo"
+    },
+    {
+      "id": "C",
+      "text": "Prior to loading bulk cargo"
+    },
+    {
+      "id": "D",
+      "text": "Prior to cleaning the cargo hold"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

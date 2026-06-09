@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q30",
+  "text": "A RoRo Ship is designed to carry",
+  "options": [
+    {
+      "id": "A",
+      "text": "40 Feet Containers"
+    },
+    {
+      "id": "B",
+      "text": "Heavy unpacked machinery"
+    },
+    {
+      "id": "C",
+      "text": "Vehicles on Wheels"
+    },
+    {
+      "id": "D",
+      "text": "Steel Coils"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

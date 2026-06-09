@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q5",
+  "text": "The heaving line is used when berthing to send the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Walkie Talkie ashore"
+    },
+    {
+      "id": "B",
+      "text": "Fire hose ashore"
+    },
+    {
+      "id": "C",
+      "text": "Mooring rope ashore"
+    },
+    {
+      "id": "D",
+      "text": "Rat guard ashore"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

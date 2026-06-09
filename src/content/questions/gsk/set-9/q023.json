@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q23",
+  "text": "The weight of the hatch cover in the open position is taken by the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Side rollers"
+    },
+    {
+      "id": "B",
+      "text": "Cleats"
+    },
+    {
+      "id": "C",
+      "text": "Eccentric rollers"
+    },
+    {
+      "id": "D",
+      "text": "Wedges"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

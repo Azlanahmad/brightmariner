@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q10",
+  "text": "Match the term \"ONE DEGREE\" with the most suitable answers given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "30 nautical miles"
+    },
+    {
+      "id": "B",
+      "text": "60 nautical miles"
+    },
+    {
+      "id": "C",
+      "text": "360 degrees"
+    },
+    {
+      "id": "D",
+      "text": "Compass error"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q13",
+  "text": "Diesel engine bearing will get damaged if supply of ___________ is not enough",
+  "options": [
+    {
+      "id": "A",
+      "text": "air"
+    },
+    {
+      "id": "B",
+      "text": "fuel"
+    },
+    {
+      "id": "C",
+      "text": "water"
+    },
+    {
+      "id": "D",
+      "text": "lubricating oil"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

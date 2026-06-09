@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q19",
+  "text": "When a vessel is at anchor the bow stopper relieves the stress on the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Anchor Chain"
+    },
+    {
+      "id": "B",
+      "text": "Anchor Brake"
+    },
+    {
+      "id": "C",
+      "text": "Hawse pipe"
+    },
+    {
+      "id": "D",
+      "text": "Warping drum"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

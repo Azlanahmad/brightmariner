@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q5",
+  "text": "A wire snotter is a type of a",
+  "options": [
+    {
+      "id": "A",
+      "text": "Wire sling"
+    },
+    {
+      "id": "B",
+      "text": "Cargo net"
+    },
+    {
+      "id": "C",
+      "text": "Net sling"
+    },
+    {
+      "id": "D",
+      "text": "Wooden tray"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q8",
+  "text": "For Mooring and Unmooring ship",
+  "options": [
+    {
+      "id": "A",
+      "text": "Primarily one Deck Team with Ch.Off. goes forward & one deck team with 2nd.Off. goes aft."
+    },
+    {
+      "id": "B",
+      "text": "Deck Crew goes forward and Eng.Crew goes aft"
+    },
+    {
+      "id": "C",
+      "text": "Mooring & Unmooring is done by shore people"
+    },
+    {
+      "id": "D",
+      "text": "Deck crew without any officer goes Forward & Aft"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

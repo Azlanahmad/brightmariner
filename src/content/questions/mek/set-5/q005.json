@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q5",
+  "text": "A sounding tape is used for measuring level of a liquid in a:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tank"
+    },
+    {
+      "id": "B",
+      "text": "Boiler"
+    },
+    {
+      "id": "C",
+      "text": "Crank case"
+    },
+    {
+      "id": "D",
+      "text": "Cylinder"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q14",
+  "text": "Full form of PASS....Mark the correct one",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pull, Aim, Smoke,"
+    },
+    {
+      "id": "B",
+      "text": "Pull, Aim, Squeeze, Sweep"
+    },
+    {
+      "id": "C",
+      "text": "Pull, Aim, Sponge, Sweep"
+    },
+    {
+      "id": "D",
+      "text": "Push, Automatic, Sweep, Squeeze"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

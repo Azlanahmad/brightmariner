@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q26",
+  "text": "All entries of offence in the Official Log Book against a seaman have to be signed by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Master only"
+    },
+    {
+      "id": "B",
+      "text": "Master and one crew member"
+    },
+    {
+      "id": "C",
+      "text": "Master, Chief Officer and one crew member"
+    },
+    {
+      "id": "D",
+      "text": "Master and Chief Officer"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

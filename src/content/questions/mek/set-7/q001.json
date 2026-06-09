@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q1",
+  "text": "Emergencies that can occur in the Engine room",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stoppage of Main engine"
+    },
+    {
+      "id": "B",
+      "text": "Crank case explosion"
+    },
+    {
+      "id": "C",
+      "text": "Flooding of the engine room"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

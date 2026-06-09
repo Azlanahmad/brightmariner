@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q6",
+  "text": "Chipping & Painting on Deck is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Done by shore staff only"
+    },
+    {
+      "id": "B",
+      "text": "Done by Deck crew as and when required"
+    },
+    {
+      "id": "C",
+      "text": "Done only in Dry dock"
+    },
+    {
+      "id": "D",
+      "text": "Done by Eng. crew"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

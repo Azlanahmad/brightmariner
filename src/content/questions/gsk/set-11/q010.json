@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q10",
+  "text": "A single sheave block is used to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prevent the wire from being damaged"
+    },
+    {
+      "id": "B",
+      "text": "Act as a lead block"
+    },
+    {
+      "id": "C",
+      "text": "Eliminate friction"
+    },
+    {
+      "id": "D",
+      "text": "Increase the power gained"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q12",
+  "text": "What is used to prevent the transfer of heat from pipes or equipment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Insulating material"
+    },
+    {
+      "id": "B",
+      "text": "Cooling system"
+    },
+    {
+      "id": "C",
+      "text": "Turbo charger"
+    },
+    {
+      "id": "D",
+      "text": "Air circulation"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

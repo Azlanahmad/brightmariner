@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q7",
+  "text": "An anchor is used by the ship to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Navigate in shallow waters."
+    },
+    {
+      "id": "B",
+      "text": "Make the ship fast to seabed."
+    },
+    {
+      "id": "C",
+      "text": "Tow the ship"
+    },
+    {
+      "id": "D",
+      "text": "Make the ship fast alongside a jetty."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

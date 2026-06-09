@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q14",
+  "text": "Engine Dept. consists of",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ch.Eng & 2nd.Eng"
+    },
+    {
+      "id": "B",
+      "text": "Ch.Eng., 2nd.Eng., 3rd.Eng., 4th.Eng., & Eng. Ratings"
+    },
+    {
+      "id": "C",
+      "text": "2nd.Eng. & Eng. Ratings"
+    },
+    {
+      "id": "D",
+      "text": "Ch.Eng., Ch.Off., 2nd.Eng. & Eng.Ratings"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q13",
+  "text": "When you use a word file in a computer What do you mean by the term \"SPELL GRAMMER\" ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Opens an existing file"
+    },
+    {
+      "id": "B",
+      "text": "Writes numbered bullets"
+    },
+    {
+      "id": "C",
+      "text": "Changes the color of the text"
+    },
+    {
+      "id": "D",
+      "text": "Spelling and grammer check"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

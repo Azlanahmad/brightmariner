@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q14",
+  "text": "The term \"commence weighing anchor means\" to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lower the anchor to the water level"
+    },
+    {
+      "id": "B",
+      "text": "Lower the anchor to the seabed"
+    },
+    {
+      "id": "C",
+      "text": "Heave the anchor up from the seabed"
+    },
+    {
+      "id": "D",
+      "text": "Check the weight of the anchor"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

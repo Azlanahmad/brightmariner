@@ -1,0 +1,18 @@
+{
+  "id": "mek-s5-q16",
+  "text": "While working with Insulating material such as glass wool, you must not protect your body using gloves and goggles",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

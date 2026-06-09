@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q16",
+  "text": "One of the function of lubricating oil in a diesel engine is to reduce",
+  "options": [
+    {
+      "id": "A",
+      "text": "exhaust temperatures"
+    },
+    {
+      "id": "B",
+      "text": "friction between moving parts"
+    },
+    {
+      "id": "C",
+      "text": "wexhaust gases"
+    },
+    {
+      "id": "D",
+      "text": "weight of the engine"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

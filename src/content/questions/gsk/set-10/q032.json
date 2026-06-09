@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q32",
+  "text": "All cargo gear should have",
+  "options": [
+    {
+      "id": "A",
+      "text": "Test certificates"
+    },
+    {
+      "id": "B",
+      "text": "Maintenance certificates"
+    },
+    {
+      "id": "C",
+      "text": "Name codes"
+    },
+    {
+      "id": "D",
+      "text": "Colour codes"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

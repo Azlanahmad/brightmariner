@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q8",
+  "text": "Exhaust gases from the main engine go to the atmosphere through",
+  "options": [
+    {
+      "id": "A",
+      "text": "inert gasgenerator"
+    },
+    {
+      "id": "B",
+      "text": "oil fired boiler"
+    },
+    {
+      "id": "C",
+      "text": "exhaust fan"
+    },
+    {
+      "id": "D",
+      "text": "exhaust gas boiler"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

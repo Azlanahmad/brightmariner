@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q8",
+  "text": "Which of the following is not within the engine room?",
+  "options": [
+    {
+      "id": "A",
+      "text": "fresh water generator"
+    },
+    {
+      "id": "B",
+      "text": "fire pump"
+    },
+    {
+      "id": "C",
+      "text": "fridge room"
+    },
+    {
+      "id": "D",
+      "text": "refrigeration machinery"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

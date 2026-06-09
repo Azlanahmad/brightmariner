@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q21",
+  "text": "The welding arc length should be:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Equal to the diameter of the electrode"
+    },
+    {
+      "id": "B",
+      "text": "Less than the diameter of the electrode"
+    },
+    {
+      "id": "C",
+      "text": "20mm"
+    },
+    {
+      "id": "D",
+      "text": "6-12mm"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

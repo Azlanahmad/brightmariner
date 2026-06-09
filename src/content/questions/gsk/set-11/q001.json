@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q1",
+  "text": "Wire rope should be condemned if more than",
+  "options": [
+    {
+      "id": "A",
+      "text": "10% of the wires are broken in a length of eight diameters"
+    },
+    {
+      "id": "B",
+      "text": "12% of the wires are broken in a length of eight diameters"
+    },
+    {
+      "id": "C",
+      "text": "12% of the wires are broken in a length of eight diameters"
+    },
+    {
+      "id": "D",
+      "text": "9% of the wires are broken in a length of eight diameters"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

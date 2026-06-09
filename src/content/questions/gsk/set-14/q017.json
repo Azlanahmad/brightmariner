@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q17",
+  "text": "Emergency escape routes should be kept",
+  "options": [
+    {
+      "id": "A",
+      "text": "Open when needed"
+    },
+    {
+      "id": "B",
+      "text": "Open always"
+    },
+    {
+      "id": "C",
+      "text": "Locked at sea"
+    },
+    {
+      "id": "D",
+      "text": "Locked in port"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

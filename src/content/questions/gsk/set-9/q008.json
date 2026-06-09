@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q8",
+  "text": "Sounding of tanks and bilges are taken",
+  "options": [
+    {
+      "id": "A",
+      "text": "Weekly"
+    },
+    {
+      "id": "B",
+      "text": "Fortnightly"
+    },
+    {
+      "id": "C",
+      "text": "Daily"
+    },
+    {
+      "id": "D",
+      "text": "Monthly"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

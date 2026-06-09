@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q21",
+  "text": "Safe working load of cargo gear is the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Minimum stress or weight required to break it"
+    },
+    {
+      "id": "B",
+      "text": "Minimum weight which can be lifted safely"
+    },
+    {
+      "id": "C",
+      "text": "Total weight required to stretch the wire"
+    },
+    {
+      "id": "D",
+      "text": "Maximum weight which can be lifted safely"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

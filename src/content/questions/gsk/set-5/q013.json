@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q13",
+  "text": "A strict fire and safety patrol should be kept in the dry dock because",
+  "options": [
+    {
+      "id": "A",
+      "text": "There is no water in dry dock"
+    },
+    {
+      "id": "B",
+      "text": "Of repair work being carried out"
+    },
+    {
+      "id": "C",
+      "text": "There is no ship power supply"
+    },
+    {
+      "id": "D",
+      "text": "There are shore staff present on board"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

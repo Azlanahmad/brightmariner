@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q8",
+  "text": "Aft back spring is used to keep the vessel from moving",
+  "options": [
+    {
+      "id": "A",
+      "text": "Athwart ship direction"
+    },
+    {
+      "id": "B",
+      "text": "Astern"
+    },
+    {
+      "id": "C",
+      "text": "Away from the jetty"
+    },
+    {
+      "id": "D",
+      "text": "Ahead"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

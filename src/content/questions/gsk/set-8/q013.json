@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q13",
+  "text": "Breast rope is used in mooring system to prevent the vessel from moving",
+  "options": [
+    {
+      "id": "A",
+      "text": "Towards the jetty"
+    },
+    {
+      "id": "B",
+      "text": "Fore and aft direction"
+    },
+    {
+      "id": "C",
+      "text": "Ahead"
+    },
+    {
+      "id": "D",
+      "text": "Away from the jetty"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

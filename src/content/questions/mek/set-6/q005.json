@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q5",
+  "text": "Sounding pipes on tanks are fitted for finding",
+  "options": [
+    {
+      "id": "A",
+      "text": "level of liquid in the tank"
+    },
+    {
+      "id": "B",
+      "text": "pressure in the tank"
+    },
+    {
+      "id": "C",
+      "text": "temperature in the tank"
+    },
+    {
+      "id": "D",
+      "text": "abnormal sound in the tank"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q6",
+  "text": "Means of forcing water out of a portable extinguisher",
+  "options": [
+    {
+      "id": "A",
+      "text": "CO2 cartridge"
+    },
+    {
+      "id": "B",
+      "text": "air cartridge"
+    },
+    {
+      "id": "C",
+      "text": "chemical cartridge"
+    },
+    {
+      "id": "D",
+      "text": "nitrogen cartridge"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

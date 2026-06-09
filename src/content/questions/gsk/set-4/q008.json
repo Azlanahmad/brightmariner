@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s4-q8",
+  "text": "\"Cuts\" are caused by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Blunt chisels"
+    },
+    {
+      "id": "B",
+      "text": "Hammers"
+    },
+    {
+      "id": "C",
+      "text": "Sharp objects"
+    },
+    {
+      "id": "D",
+      "text": "Flat spanners"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

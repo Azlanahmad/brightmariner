@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q1",
+  "text": "The pump room in a tanker should be ventilated",
+  "options": [
+    {
+      "id": "A",
+      "text": "When the pumps are running"
+    },
+    {
+      "id": "B",
+      "text": "After entering"
+    },
+    {
+      "id": "C",
+      "text": "Only when there is a gas leak"
+    },
+    {
+      "id": "D",
+      "text": "Prior entry"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

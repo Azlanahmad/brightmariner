@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q10",
+  "text": "What type of portable extinguisher should be used for oil fire",
+  "options": [
+    {
+      "id": "A",
+      "text": "Foam type"
+    },
+    {
+      "id": "B",
+      "text": "Soda water"
+    },
+    {
+      "id": "C",
+      "text": "CO2 type"
+    },
+    {
+      "id": "D",
+      "text": "Water type"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

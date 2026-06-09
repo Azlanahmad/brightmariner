@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s4-q21",
+  "text": "\"Hand Gloves\" are utilised to protect______________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Body"
+    },
+    {
+      "id": "B",
+      "text": "Feet"
+    },
+    {
+      "id": "C",
+      "text": "Hands"
+    },
+    {
+      "id": "D",
+      "text": "Nose & mouth, Face"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

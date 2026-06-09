@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q2",
+  "text": "Safety helmet is used to protect the head",
+  "options": [
+    {
+      "id": "A",
+      "text": "Against adverse weather"
+    },
+    {
+      "id": "B",
+      "text": "From falling objects"
+    },
+    {
+      "id": "C",
+      "text": "From getting wet"
+    },
+    {
+      "id": "D",
+      "text": "From inflammable gases"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

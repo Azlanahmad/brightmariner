@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q26",
+  "text": "During rough weather or at night before going on deck you must inform",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bosun"
+    },
+    {
+      "id": "B",
+      "text": "Duty engineer"
+    },
+    {
+      "id": "C",
+      "text": "Duty officer"
+    },
+    {
+      "id": "D",
+      "text": "Chief officer"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

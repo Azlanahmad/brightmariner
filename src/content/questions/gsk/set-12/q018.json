@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q18",
+  "text": "If more than 10% in 8 diameters is broken the wire should be",
+  "options": [
+    {
+      "id": "A",
+      "text": "Renewed"
+    },
+    {
+      "id": "B",
+      "text": "Welded"
+    },
+    {
+      "id": "C",
+      "text": "Turned end to end"
+    },
+    {
+      "id": "D",
+      "text": "Cut and spliced"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

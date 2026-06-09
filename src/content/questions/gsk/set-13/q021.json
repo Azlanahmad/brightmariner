@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q21",
+  "text": "Safety harness is used",
+  "options": [
+    {
+      "id": "A",
+      "text": "When working aloft"
+    },
+    {
+      "id": "B",
+      "text": "To prevent backache"
+    },
+    {
+      "id": "C",
+      "text": "When cleaning the wheelhouse"
+    },
+    {
+      "id": "D",
+      "text": "To store safety items"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

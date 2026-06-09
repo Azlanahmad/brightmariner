@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q7",
+  "text": "Match the term \"DISTANCE\" with the most suitable answers given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Planet"
+    },
+    {
+      "id": "B",
+      "text": "Divider"
+    },
+    {
+      "id": "C",
+      "text": "Parallel ruler"
+    },
+    {
+      "id": "D",
+      "text": "Depth in metres"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q23",
+  "text": "A seaman is guilty of an offense against discipline if he/she",
+  "options": [
+    {
+      "id": "A",
+      "text": "Is unable to steer the ship steadily"
+    },
+    {
+      "id": "B",
+      "text": "Does not live in a hygienic condition"
+    },
+    {
+      "id": "C",
+      "text": "Assaults another seaman on board"
+    },
+    {
+      "id": "D",
+      "text": "Forgets to wear his safety shoes"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

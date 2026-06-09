@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q31",
+  "text": "A ballast tank must not be pressurized as it will",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cause pollution"
+    },
+    {
+      "id": "B",
+      "text": "Damage the tank"
+    },
+    {
+      "id": "C",
+      "text": "Sink the ship"
+    },
+    {
+      "id": "D",
+      "text": "Increase the draft"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

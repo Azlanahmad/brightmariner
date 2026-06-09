@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q15",
+  "text": "Crankshaft in a Diesel engine _______",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rotates in place"
+    },
+    {
+      "id": "B",
+      "text": "Oscillates"
+    },
+    {
+      "id": "C",
+      "text": "Moves up and down"
+    },
+    {
+      "id": "D",
+      "text": "Stays in place"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

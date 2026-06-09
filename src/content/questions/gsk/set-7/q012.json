@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q12",
+  "text": "A vessel can drag anchor when the sea is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Calm with strong tide"
+    },
+    {
+      "id": "B",
+      "text": "Rough with strong tide"
+    },
+    {
+      "id": "C",
+      "text": "Rough with no tide"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

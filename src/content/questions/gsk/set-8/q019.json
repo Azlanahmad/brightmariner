@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q19",
+  "text": "A merchant ship anchors in the anchorage waiting area when her",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fresh water tank has to be cleaned"
+    },
+    {
+      "id": "B",
+      "text": "Aft draft has to be reduced"
+    },
+    {
+      "id": "C",
+      "text": "Berth is not vacant"
+    },
+    {
+      "id": "D",
+      "text": "Hatch cover has to be chipped and painted"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

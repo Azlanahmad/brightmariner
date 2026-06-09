@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q31",
+  "text": "The lower span block of the derrick is connected to the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mast"
+    },
+    {
+      "id": "B",
+      "text": "Middle of the derrick"
+    },
+    {
+      "id": "C",
+      "text": "Head of the derrick"
+    },
+    {
+      "id": "D",
+      "text": "Heel of the derrick"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

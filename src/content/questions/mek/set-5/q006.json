@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q6",
+  "text": "A gauge-glass for checking liquid level is fitted on which tanks",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fore Peak Ballast Tank"
+    },
+    {
+      "id": "B",
+      "text": "FO Storage Double Bottom Tank"
+    },
+    {
+      "id": "C",
+      "text": "After Peak Ballast Tank"
+    },
+    {
+      "id": "D",
+      "text": "Lub Oil Storage Tank"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

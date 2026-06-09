@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q25",
+  "text": "Electrode should be kept at a distance of ________ above the spot where we wish to strike the arc",
+  "options": [
+    {
+      "id": "A",
+      "text": "30-40 mm"
+    },
+    {
+      "id": "B",
+      "text": "20-30 mm"
+    },
+    {
+      "id": "C",
+      "text": "40-50 mm"
+    },
+    {
+      "id": "D",
+      "text": "35-45 mm"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q11",
+  "text": "Anchor ball is hoisted on the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Radar Mast"
+    },
+    {
+      "id": "B",
+      "text": "Stern Post"
+    },
+    {
+      "id": "C",
+      "text": "Fore Castle"
+    },
+    {
+      "id": "D",
+      "text": "Main Mast"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q28",
+  "text": "A LoLo Ship is designed to carry",
+  "options": [
+    {
+      "id": "A",
+      "text": "Full Containers cargo"
+    },
+    {
+      "id": "B",
+      "text": "Lubricating Oil"
+    },
+    {
+      "id": "C",
+      "text": "Grain"
+    },
+    {
+      "id": "D",
+      "text": "Logs"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

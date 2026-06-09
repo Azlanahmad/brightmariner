@@ -1,0 +1,18 @@
+{
+  "id": "mek-s5-q19",
+  "text": "While assembling pipes, take care in removing the lagging and putting it back after completing the work",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

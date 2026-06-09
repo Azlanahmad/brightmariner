@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q8",
+  "text": "The authority which inspects foreign ships in national ports is called",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flag State Control"
+    },
+    {
+      "id": "B",
+      "text": "Port State Control"
+    },
+    {
+      "id": "C",
+      "text": "Pollution Control"
+    },
+    {
+      "id": "D",
+      "text": "Merchant Ship Control"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

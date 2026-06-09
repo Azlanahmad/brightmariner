@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q10",
+  "text": "One of the main duties of the Shipping Master includes",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inspection of cargo holds"
+    },
+    {
+      "id": "B",
+      "text": "Engagement and discharge of officers and ratings"
+    },
+    {
+      "id": "C",
+      "text": "Navigation of the ship"
+    },
+    {
+      "id": "D",
+      "text": "Conducting marine surveys on the ship"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

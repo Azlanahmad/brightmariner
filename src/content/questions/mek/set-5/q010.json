@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q10",
+  "text": "The most common item provided for checking oil level in a small machine is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sounding tape"
+    },
+    {
+      "id": "B",
+      "text": "Sounding rod"
+    },
+    {
+      "id": "C",
+      "text": "Sight glass"
+    },
+    {
+      "id": "D",
+      "text": "Remote level indicator"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

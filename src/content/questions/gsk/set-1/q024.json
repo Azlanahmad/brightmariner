@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q24",
+  "text": "While doing work, priority should be to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Most important work"
+    },
+    {
+      "id": "B",
+      "text": "Most important and urgent work"
+    },
+    {
+      "id": "C",
+      "text": "Needs of others"
+    },
+    {
+      "id": "D",
+      "text": "Most urgent work"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

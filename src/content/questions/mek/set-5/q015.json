@@ -1,0 +1,18 @@
+{
+  "id": "mek-s5-q15",
+  "text": "Woolen garments, blankets and quilts are termed as Insulating Materials",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

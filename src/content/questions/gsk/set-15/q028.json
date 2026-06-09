@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q28",
+  "text": "A seaman lawfully engaged can have his CDC suspended by DGS if he is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Delayed in returning back to the ship from shore"
+    },
+    {
+      "id": "B",
+      "text": "Unable to operate the crane to the satisfaction of the duty officer"
+    },
+    {
+      "id": "C",
+      "text": "Convicted of an offense of smuggling narcotics"
+    },
+    {
+      "id": "D",
+      "text": "Found indulging in gossip"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

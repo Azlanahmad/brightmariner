@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q6",
+  "text": "When berthing a gant line is used to send the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heaving line ashore"
+    },
+    {
+      "id": "B",
+      "text": "Lashing material ashore"
+    },
+    {
+      "id": "C",
+      "text": "Mooring wire ashore"
+    },
+    {
+      "id": "D",
+      "text": "Fenders ashore"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

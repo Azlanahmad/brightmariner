@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q13",
+  "text": "What immediate action will you take if you see a man falling overboard at sea",
+  "options": [
+    {
+      "id": "A",
+      "text": "Release lifebuoy and MOB"
+    },
+    {
+      "id": "B",
+      "text": "Sound emergency station"
+    },
+    {
+      "id": "C",
+      "text": "Jump into the sea"
+    },
+    {
+      "id": "D",
+      "text": "Inform duty officer"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

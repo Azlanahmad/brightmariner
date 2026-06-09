@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q6",
+  "text": "Strongest rope for the same diameter is made of",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nylon"
+    },
+    {
+      "id": "B",
+      "text": "Polypropylene"
+    },
+    {
+      "id": "C",
+      "text": "Hemp"
+    },
+    {
+      "id": "D",
+      "text": "Manila"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

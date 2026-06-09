@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q26",
+  "text": "The SWL of derrick",
+  "options": [
+    {
+      "id": "A",
+      "text": "May be exceeded once a voyage"
+    },
+    {
+      "id": "B",
+      "text": "Can be exceeded sometimes"
+    },
+    {
+      "id": "C",
+      "text": "Should never be exceeded"
+    },
+    {
+      "id": "D",
+      "text": "Can be exceeded"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

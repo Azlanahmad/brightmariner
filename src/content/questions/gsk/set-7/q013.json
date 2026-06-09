@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q13",
+  "text": "Fenders are placed on the shipside when coming alongside a jetty to protect the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bow thrusters from contact damage"
+    },
+    {
+      "id": "B",
+      "text": "Shore bollards"
+    },
+    {
+      "id": "C",
+      "text": "Mooring ropes from wear and tear"
+    },
+    {
+      "id": "D",
+      "text": "Shipside from contact damage"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

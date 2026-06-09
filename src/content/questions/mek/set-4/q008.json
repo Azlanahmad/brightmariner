@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q8",
+  "text": "What Machine Tool will you be Using for Removing extra material after welding",
+  "options": [
+    {
+      "id": "A",
+      "text": "Drill machine"
+    },
+    {
+      "id": "B",
+      "text": "Lathe machine"
+    },
+    {
+      "id": "C",
+      "text": "Grinding machine"
+    },
+    {
+      "id": "D",
+      "text": "Bending machine"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

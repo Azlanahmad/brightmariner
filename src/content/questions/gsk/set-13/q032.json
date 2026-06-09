@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q32",
+  "text": "Match the term \"ONE PROLONGED BLAST FOLLOWED BY THREE BLASTS IN SUCCESSION\" with the most suitable answers given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Five short blasts"
+    },
+    {
+      "id": "B",
+      "text": "Six short blasts"
+    },
+    {
+      "id": "C",
+      "text": "Altering course to Starboard"
+    },
+    {
+      "id": "D",
+      "text": "Vessel being towed"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

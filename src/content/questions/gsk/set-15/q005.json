@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q5",
+  "text": "The shore pass to the ships staff is issued by the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Customs"
+    },
+    {
+      "id": "B",
+      "text": "Immigration"
+    },
+    {
+      "id": "C",
+      "text": "Port Health"
+    },
+    {
+      "id": "D",
+      "text": "Port Control"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

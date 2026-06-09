@@ -1,0 +1,18 @@
+{
+  "id": "mek-s5-q32",
+  "text": "The thruster placed in the aft of the ship is called Bow Thruster",
+  "options": [
+    {
+      "id": "A",
+      "text": "False"
+    },
+    {
+      "id": "B",
+      "text": "True"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

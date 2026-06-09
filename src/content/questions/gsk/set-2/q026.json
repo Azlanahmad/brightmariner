@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q26",
+  "text": "When you use a word file in a computer What do you mean by the term \"PRINT PREVIEW\" ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Open a new word document"
+    },
+    {
+      "id": "B",
+      "text": "Paste copied or cut files into the document"
+    },
+    {
+      "id": "C",
+      "text": "Changes the color of the text"
+    },
+    {
+      "id": "D",
+      "text": "Shows a preview of files before they print"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

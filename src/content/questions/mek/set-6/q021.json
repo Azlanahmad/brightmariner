@@ -1,0 +1,18 @@
+{
+  "id": "mek-s6-q21",
+  "text": "General Alarm and Co2 alarm are same",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

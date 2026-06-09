@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q22",
+  "text": "Before you start welding you must obtain a",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cold work permit"
+    },
+    {
+      "id": "B",
+      "text": "Hot work permit"
+    },
+    {
+      "id": "C",
+      "text": "Shore leave permit"
+    },
+    {
+      "id": "D",
+      "text": "Enclosed place permit"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

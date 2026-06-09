@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q21",
+  "text": "When you use a computer, What do you mean by the term \"PRINTER\" ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Getting Music"
+    },
+    {
+      "id": "B",
+      "text": "Like a T.V."
+    },
+    {
+      "id": "C",
+      "text": "Peripheral to the computer"
+    },
+    {
+      "id": "D",
+      "text": "Like a type-writer ;communicates with computer"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

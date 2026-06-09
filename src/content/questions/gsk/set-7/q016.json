@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q16",
+  "text": "The anchor ball is hoisted when the vessel is",
+  "options": [
+    {
+      "id": "A",
+      "text": "During anchorage."
+    },
+    {
+      "id": "B",
+      "text": "During repairs to anchor and anchor chain."
+    },
+    {
+      "id": "C",
+      "text": "During Manoeuvring at the anchorage area"
+    },
+    {
+      "id": "D",
+      "text": "During anchoring operations"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

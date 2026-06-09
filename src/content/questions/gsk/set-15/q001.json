@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q1",
+  "text": "DGS stands for",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deputy General of Shipping"
+    },
+    {
+      "id": "B",
+      "text": "Director Governor of Shipping"
+    },
+    {
+      "id": "C",
+      "text": "Deputy Governor of Shipping"
+    },
+    {
+      "id": "D",
+      "text": "Directorate General of Shipping"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

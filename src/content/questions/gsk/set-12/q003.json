@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q3",
+  "text": "The lay of a right hand lay rope is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Midship to right"
+    },
+    {
+      "id": "B",
+      "text": "Left to left"
+    },
+    {
+      "id": "C",
+      "text": "From right to left"
+    },
+    {
+      "id": "D",
+      "text": "Left to right"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

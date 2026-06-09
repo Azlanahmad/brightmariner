@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q31",
+  "text": "Liquid Bulk Cargo is carried in",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tanker"
+    },
+    {
+      "id": "B",
+      "text": "Bulk Carrier"
+    },
+    {
+      "id": "C",
+      "text": "General Cargo ship"
+    },
+    {
+      "id": "D",
+      "text": "Container ship"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

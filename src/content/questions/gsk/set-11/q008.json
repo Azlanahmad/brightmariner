@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q8",
+  "text": "To increase the life of a steel wire rope in a crane it should be",
+  "options": [
+    {
+      "id": "A",
+      "text": "Greased regularly"
+    },
+    {
+      "id": "B",
+      "text": "Painted"
+    },
+    {
+      "id": "C",
+      "text": "Changed end to end"
+    },
+    {
+      "id": "D",
+      "text": "Kept slack on the drum"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

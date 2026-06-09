@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q35",
+  "text": "Breathing apparatus is used for",
+  "options": [
+    {
+      "id": "A",
+      "text": "For navigating the ship in fog"
+    },
+    {
+      "id": "B",
+      "text": "Launching a lifeboat"
+    },
+    {
+      "id": "C",
+      "text": "Keeping a bridge watch"
+    },
+    {
+      "id": "D",
+      "text": "Entering a comchapterment full of smoke"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

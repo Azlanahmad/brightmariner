@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q11",
+  "text": "Which of the following is job of an engine room rating?",
+  "options": [
+    {
+      "id": "A",
+      "text": "start and stop engine"
+    },
+    {
+      "id": "B",
+      "text": "overhaul air compressor"
+    },
+    {
+      "id": "C",
+      "text": "assist in maintenance work"
+    },
+    {
+      "id": "D",
+      "text": "report to bridge about engine condition"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

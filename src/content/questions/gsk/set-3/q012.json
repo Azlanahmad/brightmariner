@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q12",
+  "text": "A GP Rating Certificate holder can work in",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deck, Eng. Or Catering Dept."
+    },
+    {
+      "id": "B",
+      "text": "Deck and/or Eng. Dechapterment"
+    },
+    {
+      "id": "C",
+      "text": "Deck Dechapterment only"
+    },
+    {
+      "id": "D",
+      "text": "Eng. Dept. only"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

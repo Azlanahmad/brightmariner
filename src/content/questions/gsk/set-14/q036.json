@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q36",
+  "text": "The Garbage Management Plan indicates the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Procedure for disposing laundry waste"
+    },
+    {
+      "id": "B",
+      "text": "Capacity of the storage drums"
+    },
+    {
+      "id": "C",
+      "text": "Procedure for disposing ships garbage"
+    },
+    {
+      "id": "D",
+      "text": "Location of the ships incinerator"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

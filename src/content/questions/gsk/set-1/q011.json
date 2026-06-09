@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q11",
+  "text": "Skill is an ability gained by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Responding well"
+    },
+    {
+      "id": "B",
+      "text": "Dominating others"
+    },
+    {
+      "id": "C",
+      "text": "Practicing or learning"
+    },
+    {
+      "id": "D",
+      "text": "Cooperating with others"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

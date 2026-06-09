@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q14",
+  "text": "Eye splice is used",
+  "options": [
+    {
+      "id": "A",
+      "text": "to make a permenant eye at end of the rope"
+    },
+    {
+      "id": "B",
+      "text": "To join two ropes together"
+    },
+    {
+      "id": "C",
+      "text": "For preventing the rope end from unlaying"
+    },
+    {
+      "id": "D",
+      "text": "To prevent the strands from unlaying"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

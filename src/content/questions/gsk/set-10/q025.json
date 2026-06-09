@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q25",
+  "text": "The safe working load of the derrick or crane can be",
+  "options": [
+    {
+      "id": "A",
+      "text": "Exceeded when required"
+    },
+    {
+      "id": "B",
+      "text": "Exceeded"
+    },
+    {
+      "id": "C",
+      "text": "Should not be exceeded"
+    },
+    {
+      "id": "D",
+      "text": "Exceeded if operating slowly"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

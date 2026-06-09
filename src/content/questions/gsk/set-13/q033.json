@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q33",
+  "text": "Safety hand gloves are used to protect the hands while",
+  "options": [
+    {
+      "id": "A",
+      "text": "Steering the ship"
+    },
+    {
+      "id": "B",
+      "text": "Handling wire ropes"
+    },
+    {
+      "id": "C",
+      "text": "Handling food stuff"
+    },
+    {
+      "id": "D",
+      "text": "Cleaning crew’s mess room"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q11",
+  "text": "Under ISPS Code the agent on boarding the ship should be given a",
+  "options": [
+    {
+      "id": "A",
+      "text": "Visitor’s card"
+    },
+    {
+      "id": "B",
+      "text": "Custom card"
+    },
+    {
+      "id": "C",
+      "text": "Audit Card"
+    },
+    {
+      "id": "D",
+      "text": "Greeting card"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

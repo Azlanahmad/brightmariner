@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q21",
+  "text": "Entries in the Official Log Book are made by the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Second Engineer"
+    },
+    {
+      "id": "B",
+      "text": "Second Officer"
+    },
+    {
+      "id": "C",
+      "text": "Master"
+    },
+    {
+      "id": "D",
+      "text": "Chief Engineer"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

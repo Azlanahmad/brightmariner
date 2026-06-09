@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q3",
+  "text": "The purpose of Exhaust Gas in a Diesel engine is to ___",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reduces friction"
+    },
+    {
+      "id": "B",
+      "text": "Increases air supply"
+    },
+    {
+      "id": "C",
+      "text": "Turns turbo charger"
+    },
+    {
+      "id": "D",
+      "text": "Gives power"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

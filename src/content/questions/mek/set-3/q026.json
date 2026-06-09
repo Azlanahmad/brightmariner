@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q26",
+  "text": "Main engine is part of _________ system",
+  "options": [
+    {
+      "id": "A",
+      "text": "feed water"
+    },
+    {
+      "id": "B",
+      "text": "Electricity generation"
+    },
+    {
+      "id": "C",
+      "text": "Bilge"
+    },
+    {
+      "id": "D",
+      "text": "Propulsion"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

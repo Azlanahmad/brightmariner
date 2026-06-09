@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q2",
+  "text": "Chain Stopper is used to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prevent anchor chain from running out"
+    },
+    {
+      "id": "B",
+      "text": "Prevent gangway from slipping"
+    },
+    {
+      "id": "C",
+      "text": "Hold tight mooring wire when being transferred"
+    },
+    {
+      "id": "D",
+      "text": "Prevent chain from slipping through hawse pipe"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

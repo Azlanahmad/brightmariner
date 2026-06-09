@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q13",
+  "text": "On finding an injured person in the engine room, your first action will be to",
+  "options": [
+    {
+      "id": "A",
+      "text": "apply first aid"
+    },
+    {
+      "id": "B",
+      "text": "report to the duty officer on watch"
+    },
+    {
+      "id": "C",
+      "text": "bring a stretcher"
+    },
+    {
+      "id": "D",
+      "text": "look for the cause of injury"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

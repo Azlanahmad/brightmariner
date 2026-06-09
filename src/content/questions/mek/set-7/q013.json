@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q13",
+  "text": "Which one of the following will be used first on a small fire in the engine room",
+  "options": [
+    {
+      "id": "A",
+      "text": "portable fire extinguisher"
+    },
+    {
+      "id": "B",
+      "text": "fire blancket"
+    },
+    {
+      "id": "C",
+      "text": "fixed fire extinguishing system"
+    },
+    {
+      "id": "D",
+      "text": "fire pumps and hoses"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

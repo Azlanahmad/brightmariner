@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q2",
+  "text": "Keeping Engine Room and all Eng.machinery very clean is important job of",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deck Ratings"
+    },
+    {
+      "id": "B",
+      "text": "Eng. Crew & Eng. Staff"
+    },
+    {
+      "id": "C",
+      "text": "Bosun"
+    },
+    {
+      "id": "D",
+      "text": "Ch.Officer"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

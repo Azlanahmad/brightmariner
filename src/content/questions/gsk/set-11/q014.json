@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q14",
+  "text": "The size of a manila rope is usually indicated by its",
+  "options": [
+    {
+      "id": "A",
+      "text": "Diameter"
+    },
+    {
+      "id": "B",
+      "text": "Length"
+    },
+    {
+      "id": "C",
+      "text": "Weight"
+    },
+    {
+      "id": "D",
+      "text": "Circumference"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

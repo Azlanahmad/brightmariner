@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q18",
+  "text": "Electrical Insulation prevent flow of ......",
+  "options": [
+    {
+      "id": "A",
+      "text": "Power"
+    },
+    {
+      "id": "B",
+      "text": "Resistance"
+    },
+    {
+      "id": "C",
+      "text": "Electricity"
+    },
+    {
+      "id": "D",
+      "text": "Voltage"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

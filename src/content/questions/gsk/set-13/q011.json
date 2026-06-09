@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q11",
+  "text": "Match the term \"MAKING WAY THROUGH WATER\" with the most suitable answers given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Five short blasts"
+    },
+    {
+      "id": "B",
+      "text": "Altering course to Stateboard"
+    },
+    {
+      "id": "C",
+      "text": "One prolonged blast every two minutes"
+    },
+    {
+      "id": "D",
+      "text": "One prolonged blast followed by two short"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

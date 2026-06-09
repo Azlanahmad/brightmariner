@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q1",
+  "text": "What Machine Tool will you be Using for Making Axial hole in a Round bar.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bending machine"
+    },
+    {
+      "id": "B",
+      "text": "Grinding machine"
+    },
+    {
+      "id": "C",
+      "text": "Drill machine"
+    },
+    {
+      "id": "D",
+      "text": "Lathe machine"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

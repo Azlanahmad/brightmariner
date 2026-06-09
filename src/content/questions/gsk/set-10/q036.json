@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q36",
+  "text": "Containers are interlocked together with",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bridge fittings"
+    },
+    {
+      "id": "B",
+      "text": "Linkage plate"
+    },
+    {
+      "id": "C",
+      "text": "Twist locks"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

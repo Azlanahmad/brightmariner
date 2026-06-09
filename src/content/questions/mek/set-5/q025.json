@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q25",
+  "text": "Chemicals are mainly used for",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fuel treatment"
+    },
+    {
+      "id": "B",
+      "text": "Boilers"
+    },
+    {
+      "id": "C",
+      "text": "Testing quality of water"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

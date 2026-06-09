@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q15",
+  "text": "While diesel engine is operating ,one of the important pressure to check is ______",
+  "options": [
+    {
+      "id": "A",
+      "text": "lubricating oil"
+    },
+    {
+      "id": "B",
+      "text": "sarting air"
+    },
+    {
+      "id": "C",
+      "text": "exhaust gas"
+    },
+    {
+      "id": "D",
+      "text": "steam pressure"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

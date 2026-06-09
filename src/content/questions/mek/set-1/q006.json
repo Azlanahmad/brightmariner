@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q6",
+  "text": "Which of the following is lower most part of a diesel engine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "turbo charger"
+    },
+    {
+      "id": "B",
+      "text": "exhaust valve"
+    },
+    {
+      "id": "C",
+      "text": "bed plate"
+    },
+    {
+      "id": "D",
+      "text": "piston"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

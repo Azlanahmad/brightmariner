@@ -1,0 +1,18 @@
+{
+  "id": "mek-s1-q17",
+  "text": "A DIE can be is used to make threads on a pipe",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mek-s3-q22",
+  "text": "Turbo Alternator is a generator operating on steam produced from waste heat of Main engine exhaust gases",
+  "options": [
+    {
+      "id": "A",
+      "text": "False"
+    },
+    {
+      "id": "B",
+      "text": "True"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q9",
+  "text": "Relief valves are provided on main engine cylinders for protection against high",
+  "options": [
+    {
+      "id": "A",
+      "text": "pressure"
+    },
+    {
+      "id": "B",
+      "text": "exhaust temperature"
+    },
+    {
+      "id": "C",
+      "text": "speed"
+    },
+    {
+      "id": "D",
+      "text": "level of water"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

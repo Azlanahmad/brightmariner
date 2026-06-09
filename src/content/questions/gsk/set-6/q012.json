@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q12",
+  "text": "Courtesy Flag is the flag of the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Country which the ship is calling"
+    },
+    {
+      "id": "B",
+      "text": "Country in which the ship is registered"
+    },
+    {
+      "id": "C",
+      "text": "Company"
+    },
+    {
+      "id": "D",
+      "text": "Commonwealth Countries"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

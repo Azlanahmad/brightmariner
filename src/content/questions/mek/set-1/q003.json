@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q3",
+  "text": "Main Engine is part of the _________________ system",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ballast"
+    },
+    {
+      "id": "B",
+      "text": "Electrical"
+    },
+    {
+      "id": "C",
+      "text": "Propulsion"
+    },
+    {
+      "id": "D",
+      "text": "Bilge"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q3",
+  "text": "Safety goggles are used to protect the eyes from",
+  "options": [
+    {
+      "id": "A",
+      "text": "Foreign bodies entering"
+    },
+    {
+      "id": "B",
+      "text": "Wet weather"
+    },
+    {
+      "id": "C",
+      "text": "Heavy weather"
+    },
+    {
+      "id": "D",
+      "text": "Snow"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

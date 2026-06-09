@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q4",
+  "text": "The advantage of using a purchase is that for a given size of wire rope",
+  "options": [
+    {
+      "id": "A",
+      "text": "smaller weight can be lifted"
+    },
+    {
+      "id": "B",
+      "text": "A greater weight can be lifted"
+    },
+    {
+      "id": "C",
+      "text": "The same weight can be lifted"
+    },
+    {
+      "id": "D",
+      "text": "The frictional forces are reduced"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q7",
+  "text": "Turbo chargers on diesel engine",
+  "options": [
+    {
+      "id": "A",
+      "text": "acts as fuel charger"
+    },
+    {
+      "id": "B",
+      "text": "decreases the pressure of intake air"
+    },
+    {
+      "id": "C",
+      "text": "increases pressure of intake air"
+    },
+    {
+      "id": "D",
+      "text": "increases RPM"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

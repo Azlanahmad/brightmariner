@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q20",
+  "text": "On the day of exam, one should reach the exam center______ before exam",
+  "options": [
+    {
+      "id": "A",
+      "text": "5 minutes"
+    },
+    {
+      "id": "B",
+      "text": "1 hour"
+    },
+    {
+      "id": "C",
+      "text": "30 minutes"
+    },
+    {
+      "id": "D",
+      "text": "15 minutes"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

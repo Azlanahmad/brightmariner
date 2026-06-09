@@ -1,0 +1,18 @@
+{
+  "id": "gsk-s4-q7",
+  "text": "You DO NOT need a HOT WORK PERMIT, before doing Hot Work",
+  "options": [
+    {
+      "id": "A",
+      "text": "False"
+    },
+    {
+      "id": "B",
+      "text": "True"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q2",
+  "text": "Which of the following is bottom most part of a diesel engine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Connecting Rod"
+    },
+    {
+      "id": "B",
+      "text": "Piston"
+    },
+    {
+      "id": "C",
+      "text": "Turbo charger"
+    },
+    {
+      "id": "D",
+      "text": "Exhaust valve"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

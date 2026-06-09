@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q7",
+  "text": "To make temporary eye at one end the most useful knot is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reef knot"
+    },
+    {
+      "id": "B",
+      "text": "Figure of eight knot"
+    },
+    {
+      "id": "C",
+      "text": "Overhand knot"
+    },
+    {
+      "id": "D",
+      "text": "Bowline"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

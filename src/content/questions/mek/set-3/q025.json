@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q25",
+  "text": "Steam turbine driven generator is called",
+  "options": [
+    {
+      "id": "A",
+      "text": "Shaft generator"
+    },
+    {
+      "id": "B",
+      "text": "Turbo alternator"
+    },
+    {
+      "id": "C",
+      "text": "Generator"
+    },
+    {
+      "id": "D",
+      "text": "Alternator"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

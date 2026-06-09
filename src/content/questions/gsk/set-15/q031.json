@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q31",
+  "text": "A maritime declaration of health is to be submitted to the Port Health to obtain",
+  "options": [
+    {
+      "id": "A",
+      "text": "Contact with signal station"
+    },
+    {
+      "id": "B",
+      "text": "Pilot"
+    },
+    {
+      "id": "C",
+      "text": "Contact with port control"
+    },
+    {
+      "id": "D",
+      "text": "Free Pratique"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

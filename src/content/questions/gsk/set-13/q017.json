@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q17",
+  "text": "The following task requires a hot work permit",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lifeboat drill"
+    },
+    {
+      "id": "B",
+      "text": "Welding on deck"
+    },
+    {
+      "id": "C",
+      "text": "Painting on deck"
+    },
+    {
+      "id": "D",
+      "text": "Opening hatch covers"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q6",
+  "text": "Hatches are battened down by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lowering eccentric rollers"
+    },
+    {
+      "id": "B",
+      "text": "Cross wedges"
+    },
+    {
+      "id": "C",
+      "text": "Placing locking pins"
+    },
+    {
+      "id": "D",
+      "text": "Covering with tarpaulin"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

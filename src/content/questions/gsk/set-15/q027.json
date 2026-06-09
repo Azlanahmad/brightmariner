@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q27",
+  "text": "Any act of misconduct requiring disciplinary action against a seaman is entered in the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bridge Movement Book"
+    },
+    {
+      "id": "B",
+      "text": "C.D.C"
+    },
+    {
+      "id": "C",
+      "text": "Engine Log Book"
+    },
+    {
+      "id": "D",
+      "text": "Official Log Book"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

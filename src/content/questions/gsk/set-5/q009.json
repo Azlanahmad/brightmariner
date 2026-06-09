@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q9",
+  "text": "The intercode flag which is hosted when the vessel is handling dangerous cargo",
+  "options": [
+    {
+      "id": "A",
+      "text": "B"
+    },
+    {
+      "id": "B",
+      "text": "C"
+    },
+    {
+      "id": "C",
+      "text": "A"
+    },
+    {
+      "id": "D",
+      "text": "D"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

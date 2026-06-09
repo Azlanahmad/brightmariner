@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q22",
+  "text": "When starting engine on diesel oil, before injection the oil is",
+  "options": [
+    {
+      "id": "A",
+      "text": "heated to same temp s heavy oil"
+    },
+    {
+      "id": "B",
+      "text": "heated if necessary in cold climate"
+    },
+    {
+      "id": "C",
+      "text": "passed through the purifier"
+    },
+    {
+      "id": "D",
+      "text": "mixed with steam"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

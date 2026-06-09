@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q3",
+  "text": "SOPEP Items, L.S.A. & F.F.A are maintained by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Engineers"
+    },
+    {
+      "id": "B",
+      "text": "Deck Officer and Deck Crew"
+    },
+    {
+      "id": "C",
+      "text": "Eng. Crew"
+    },
+    {
+      "id": "D",
+      "text": "Elect.Officer"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

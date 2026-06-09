@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q13",
+  "text": "Kinks in the rope",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cause a permanent reduction to the length of the rope"
+    },
+    {
+      "id": "B",
+      "text": "Damage the fairleads"
+    },
+    {
+      "id": "C",
+      "text": "Can cause permanent injury to the rope"
+    },
+    {
+      "id": "D",
+      "text": "Damage the warping drum"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

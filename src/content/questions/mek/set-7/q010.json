@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q10",
+  "text": "Your first action upon finding a fire",
+  "options": [
+    {
+      "id": "A",
+      "text": "use portable extinguisher"
+    },
+    {
+      "id": "B",
+      "text": "use portable extinguisher"
+    },
+    {
+      "id": "C",
+      "text": "raise an alarm"
+    },
+    {
+      "id": "D",
+      "text": "switch off electrical power supply"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

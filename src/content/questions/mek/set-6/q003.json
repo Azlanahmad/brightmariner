@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q3",
+  "text": "A quick closing valve",
+  "options": [
+    {
+      "id": "A",
+      "text": "prevents fire from occuring"
+    },
+    {
+      "id": "B",
+      "text": "can be remotely closed in an emergency"
+    },
+    {
+      "id": "C",
+      "text": "prevents oil spills in engine room"
+    },
+    {
+      "id": "D",
+      "text": "stops air supply to main engine"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

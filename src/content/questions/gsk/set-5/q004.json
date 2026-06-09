@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q4",
+  "text": "Finished with wheel",
+  "options": [
+    {
+      "id": "A",
+      "text": "Switch off steering motor"
+    },
+    {
+      "id": "B",
+      "text": "Change over to emergency steering"
+    },
+    {
+      "id": "C",
+      "text": "Change to auto pilot"
+    },
+    {
+      "id": "D",
+      "text": "Helms no longer required"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

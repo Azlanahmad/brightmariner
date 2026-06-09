@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q16",
+  "text": "Which of the following is a NOT a quality of a good leader:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inspiring"
+    },
+    {
+      "id": "B",
+      "text": "Dedication"
+    },
+    {
+      "id": "C",
+      "text": "Forward looking"
+    },
+    {
+      "id": "D",
+      "text": "Demanding"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q6",
+  "text": "SOLAS stands for",
+  "options": [
+    {
+      "id": "A",
+      "text": "Survival of Life at Sea"
+    },
+    {
+      "id": "B",
+      "text": "Safety of Life at Sea"
+    },
+    {
+      "id": "C",
+      "text": "Sustaining of Life at Sea"
+    },
+    {
+      "id": "D",
+      "text": "Survival of Lifeboat at Sea"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

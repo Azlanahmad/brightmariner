@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s4-q15",
+  "text": "What is the most likely cause of fracture limbs",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flying dust"
+    },
+    {
+      "id": "B",
+      "text": "Fall"
+    },
+    {
+      "id": "C",
+      "text": "Too much noise."
+    },
+    {
+      "id": "D",
+      "text": "Sharp objects"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

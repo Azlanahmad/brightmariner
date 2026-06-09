@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q13",
+  "text": "The Intercode flag which is hoisted when the vessel requires a pilot is",
+  "options": [
+    {
+      "id": "A",
+      "text": "G"
+    },
+    {
+      "id": "B",
+      "text": "H"
+    },
+    {
+      "id": "C",
+      "text": "P"
+    },
+    {
+      "id": "D",
+      "text": "Q"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

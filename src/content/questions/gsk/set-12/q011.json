@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q11",
+  "text": "When a wire rope is joined to a fiber rope it should be",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tied with a knot to the fiber rope"
+    },
+    {
+      "id": "B",
+      "text": "Connected with a shackle"
+    },
+    {
+      "id": "C",
+      "text": "Spliced to fiber rope"
+    },
+    {
+      "id": "D",
+      "text": "Fitted with a thimble"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

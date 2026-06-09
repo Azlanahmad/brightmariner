@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q8",
+  "text": "Risk assessment is carried out to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Assess the time required for a job"
+    },
+    {
+      "id": "B",
+      "text": "Fill up the required forms"
+    },
+    {
+      "id": "C",
+      "text": "Identify the risks involved with a chaptericular task"
+    },
+    {
+      "id": "D",
+      "text": "Decide how many people are required for a job"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q15",
+  "text": "When rigging the bosun chair the gantline is secured to the chair with",
+  "options": [
+    {
+      "id": "A",
+      "text": "Round turn and two half hitches"
+    },
+    {
+      "id": "B",
+      "text": "Reef knot"
+    },
+    {
+      "id": "C",
+      "text": "Double sheet bend"
+    },
+    {
+      "id": "D",
+      "text": "Clove hitch"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

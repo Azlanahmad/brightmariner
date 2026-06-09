@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q21",
+  "text": "General cargo consists of",
+  "options": [
+    {
+      "id": "A",
+      "text": "Liquid cargo"
+    },
+    {
+      "id": "B",
+      "text": "LNG"
+    },
+    {
+      "id": "C",
+      "text": "Bales"
+    },
+    {
+      "id": "D",
+      "text": "Bulk grain"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

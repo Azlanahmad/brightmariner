@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q12",
+  "text": "International standards for the safe management and operation of ships is stated in  the",
+  "options": [
+    {
+      "id": "A",
+      "text": "LSA Code"
+    },
+    {
+      "id": "B",
+      "text": "BLU Code"
+    },
+    {
+      "id": "C",
+      "text": "ISPS Code"
+    },
+    {
+      "id": "D",
+      "text": "ISM Code"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

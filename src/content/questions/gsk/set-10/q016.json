@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q16",
+  "text": "Purpose of a handlead line is to measure the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Height"
+    },
+    {
+      "id": "B",
+      "text": "Depth of water"
+    },
+    {
+      "id": "C",
+      "text": "Length of a ship"
+    },
+    {
+      "id": "D",
+      "text": "Draft"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

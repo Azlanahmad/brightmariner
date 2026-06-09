@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q10",
+  "text": "One nautical mile is equal to",
+  "options": [
+    {
+      "id": "A",
+      "text": "1800 meters"
+    },
+    {
+      "id": "B",
+      "text": "1825 meters"
+    },
+    {
+      "id": "C",
+      "text": "1852 meters"
+    },
+    {
+      "id": "D",
+      "text": "1865 meters"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

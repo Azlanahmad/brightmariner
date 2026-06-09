@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q17",
+  "text": "Rope should be stored",
+  "options": [
+    {
+      "id": "A",
+      "text": "In a dry well ventilated space"
+    },
+    {
+      "id": "B",
+      "text": "Close to hot bulkheads"
+    },
+    {
+      "id": "C",
+      "text": "In a place which is exposed to hot sunlight"
+    },
+    {
+      "id": "D",
+      "text": "Close to chemicals and paints"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

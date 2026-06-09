@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q4",
+  "text": "Select which is not the  chapters of a Personal Computer",
+  "options": [
+    {
+      "id": "A",
+      "text": "Monitor"
+    },
+    {
+      "id": "B",
+      "text": "Central Processing unit (CPU)"
+    },
+    {
+      "id": "C",
+      "text": "Mouse"
+    },
+    {
+      "id": "D",
+      "text": "Steering wheel"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q2",
+  "text": "The level measuring device, Level Indicator can be used for",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oil level in generator crankcase"
+    },
+    {
+      "id": "B",
+      "text": "Sumps of purifiers, compressors, etc"
+    },
+    {
+      "id": "C",
+      "text": "Oil can"
+    },
+    {
+      "id": "D",
+      "text": "Small to large tanks within the engine room"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

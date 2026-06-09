@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q27",
+  "text": "When a ship goes from cold region to warmer region there is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Warm sweat"
+    },
+    {
+      "id": "B",
+      "text": "Ship sweat"
+    },
+    {
+      "id": "C",
+      "text": "Cold sweat"
+    },
+    {
+      "id": "D",
+      "text": "Cargo sweat"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

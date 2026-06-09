@@ -1,0 +1,18 @@
+{
+  "id": "gsk-s1-q28",
+  "text": "Verbal communication means speaking",
+  "options": [
+    {
+      "id": "A",
+      "text": "False"
+    },
+    {
+      "id": "B",
+      "text": "True"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

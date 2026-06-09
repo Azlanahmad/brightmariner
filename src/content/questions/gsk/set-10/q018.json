@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q18",
+  "text": "Cargo hold washing are pumped out",
+  "options": [
+    {
+      "id": "A",
+      "text": "Through the double bottom tank"
+    },
+    {
+      "id": "B",
+      "text": "Into the side"
+    },
+    {
+      "id": "C",
+      "text": "Through the hold bilges"
+    },
+    {
+      "id": "D",
+      "text": "Into the engine bilges"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

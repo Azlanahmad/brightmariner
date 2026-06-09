@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s4-q6",
+  "text": "What is the most likely cause of \"chaptericle in eye\"",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sharp objects"
+    },
+    {
+      "id": "B",
+      "text": "Fall"
+    },
+    {
+      "id": "C",
+      "text": "Flying dust"
+    },
+    {
+      "id": "D",
+      "text": "Lack of oxygen"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

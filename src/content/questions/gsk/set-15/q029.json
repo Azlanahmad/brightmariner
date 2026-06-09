@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q29",
+  "text": "A vessel which has a dead person on board should anchor at the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pilot anchorage"
+    },
+    {
+      "id": "B",
+      "text": "Inner anchorage"
+    },
+    {
+      "id": "C",
+      "text": "Working anchorage"
+    },
+    {
+      "id": "D",
+      "text": "Quarantine anchorage"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

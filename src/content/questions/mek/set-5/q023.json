@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q23",
+  "text": "Chemicals on-board are not to be used for",
+  "options": [
+    {
+      "id": "A",
+      "text": "cleaning the boiler"
+    },
+    {
+      "id": "B",
+      "text": "cleaning the cooking utensils"
+    },
+    {
+      "id": "C",
+      "text": "boiler water treatment"
+    },
+    {
+      "id": "D",
+      "text": "fuel oil treatment"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

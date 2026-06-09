@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q19",
+  "text": "Before working on the stage the seaman should inspect the stage to ensure that the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Length of the stage is 2m"
+    },
+    {
+      "id": "B",
+      "text": "Mooring lines are kept tight"
+    },
+    {
+      "id": "C",
+      "text": "Wood is intact and free from grease"
+    },
+    {
+      "id": "D",
+      "text": "Rope is of polypropylene"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

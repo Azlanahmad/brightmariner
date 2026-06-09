@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q9",
+  "text": "During lathe work, goggles protect our eyes from _______",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fumes"
+    },
+    {
+      "id": "B",
+      "text": "Heat"
+    },
+    {
+      "id": "C",
+      "text": "Metal chips"
+    },
+    {
+      "id": "D",
+      "text": "Flash Light"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

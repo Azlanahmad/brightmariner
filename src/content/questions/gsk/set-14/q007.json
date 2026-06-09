@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q7",
+  "text": "The objective of Marpol is to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Improve safety in accommodation"
+    },
+    {
+      "id": "B",
+      "text": "Prevent and control pollution from ships"
+    },
+    {
+      "id": "C",
+      "text": "Ensure adequate stability for ships"
+    },
+    {
+      "id": "D",
+      "text": "Improve cleanliness on board"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

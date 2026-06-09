@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q26",
+  "text": "Welding gloves made from tanned leather can be following combinations",
+  "options": [
+    {
+      "id": "A",
+      "text": "3-finger and 5-finger type"
+    },
+    {
+      "id": "B",
+      "text": "2-finger and 4-finger type"
+    },
+    {
+      "id": "C",
+      "text": "4-finger and 6-finger type"
+    },
+    {
+      "id": "D",
+      "text": "1-finger and 2-finger type"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

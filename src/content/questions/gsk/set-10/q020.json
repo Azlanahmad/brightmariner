@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q20",
+  "text": "Inert gas has a",
+  "options": [
+    {
+      "id": "A",
+      "text": "High content of oxygen"
+    },
+    {
+      "id": "B",
+      "text": "Low content of nitrogen"
+    },
+    {
+      "id": "C",
+      "text": "High content of sulphur"
+    },
+    {
+      "id": "D",
+      "text": "Low content of oxygen"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

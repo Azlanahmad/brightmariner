@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q20",
+  "text": "Which of the following is unethical? Being",
+  "options": [
+    {
+      "id": "A",
+      "text": "Arrogant"
+    },
+    {
+      "id": "B",
+      "text": "Honest"
+    },
+    {
+      "id": "C",
+      "text": "Cooperative"
+    },
+    {
+      "id": "D",
+      "text": "Punctual"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

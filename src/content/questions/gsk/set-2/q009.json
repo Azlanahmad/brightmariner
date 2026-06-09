@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q9",
+  "text": "One of the most important practice while talking to a person is to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hold hands"
+    },
+    {
+      "id": "B",
+      "text": "Maintain eye contact"
+    },
+    {
+      "id": "C",
+      "text": "Speak politely"
+    },
+    {
+      "id": "D",
+      "text": "Stand very close to the person"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

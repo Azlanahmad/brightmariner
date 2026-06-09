@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q9",
+  "text": "The purpose of Inlet valve on a generator engine is for ________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Safety"
+    },
+    {
+      "id": "B",
+      "text": "Fresh air intake"
+    },
+    {
+      "id": "C",
+      "text": "Compress air"
+    },
+    {
+      "id": "D",
+      "text": "Fuel inlet"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

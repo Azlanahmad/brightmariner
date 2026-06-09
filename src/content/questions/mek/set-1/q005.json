@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q5",
+  "text": "Which of the following is top most part of a diesel engine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "piston"
+    },
+    {
+      "id": "B",
+      "text": "cylinder head"
+    },
+    {
+      "id": "C",
+      "text": "crank shaft"
+    },
+    {
+      "id": "D",
+      "text": "crankcase door"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

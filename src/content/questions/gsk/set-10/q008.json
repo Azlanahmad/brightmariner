@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q8",
+  "text": "Disposal of all cargo residue should be entered in the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Garbage record book"
+    },
+    {
+      "id": "B",
+      "text": "Oil record book"
+    },
+    {
+      "id": "C",
+      "text": "Stevedores record book"
+    },
+    {
+      "id": "D",
+      "text": "Official log book"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

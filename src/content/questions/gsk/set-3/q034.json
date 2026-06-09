@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q34",
+  "text": "Iron Ore is carried in",
+  "options": [
+    {
+      "id": "A",
+      "text": "General Cargo ship"
+    },
+    {
+      "id": "B",
+      "text": "Dry Bulk Carrier"
+    },
+    {
+      "id": "C",
+      "text": "Tanker"
+    },
+    {
+      "id": "D",
+      "text": "Navy ship"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

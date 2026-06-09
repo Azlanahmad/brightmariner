@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q3",
+  "text": "Grabs are used for loading",
+  "options": [
+    {
+      "id": "A",
+      "text": "Liquid cargo"
+    },
+    {
+      "id": "B",
+      "text": "Chemical cargo"
+    },
+    {
+      "id": "C",
+      "text": "General cargo"
+    },
+    {
+      "id": "D",
+      "text": "Bulk cargo"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

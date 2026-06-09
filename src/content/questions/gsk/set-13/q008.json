@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q8",
+  "text": "Disposal of all food waste should be entered in the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oil record book"
+    },
+    {
+      "id": "B",
+      "text": "Garbage record book"
+    },
+    {
+      "id": "C",
+      "text": "Bridge log book"
+    },
+    {
+      "id": "D",
+      "text": "Cargo record book"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

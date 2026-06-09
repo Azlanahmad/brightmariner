@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q32",
+  "text": "Careless housekeeping can result in",
+  "options": [
+    {
+      "id": "A",
+      "text": "Wastage of ship stores"
+    },
+    {
+      "id": "B",
+      "text": "Accident, injury and fire"
+    },
+    {
+      "id": "C",
+      "text": "Bad odour"
+    },
+    {
+      "id": "D",
+      "text": "Higher inventory costs"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

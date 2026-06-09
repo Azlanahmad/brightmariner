@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q31",
+  "text": "The PHYSICAL symptom of stress is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inability to concentrate"
+    },
+    {
+      "id": "B",
+      "text": "Sweating hands"
+    },
+    {
+      "id": "C",
+      "text": "Tension"
+    },
+    {
+      "id": "D",
+      "text": "Trouble sleeping"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q36",
+  "text": "Before entering ballast tanks you must",
+  "options": [
+    {
+      "id": "A",
+      "text": "Wear face mask"
+    },
+    {
+      "id": "B",
+      "text": "Wear hand gloves"
+    },
+    {
+      "id": "C",
+      "text": "Open tank for ventilation to air out foul gases"
+    },
+    {
+      "id": "D",
+      "text": "Keep fire extinguisher ready near the entrance"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

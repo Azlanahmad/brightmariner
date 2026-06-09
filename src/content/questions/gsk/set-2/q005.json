@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q5",
+  "text": "Stress is a _________ strain",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mental"
+    },
+    {
+      "id": "B",
+      "text": "Social"
+    },
+    {
+      "id": "C",
+      "text": "Physical"
+    },
+    {
+      "id": "D",
+      "text": "Emotional"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q3",
+  "text": "The Intercode flag which is hoisted before the vessel is ready to sail is",
+  "options": [
+    {
+      "id": "A",
+      "text": "A"
+    },
+    {
+      "id": "B",
+      "text": "Q"
+    },
+    {
+      "id": "C",
+      "text": "P"
+    },
+    {
+      "id": "D",
+      "text": "B"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

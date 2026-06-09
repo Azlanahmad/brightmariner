@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q25",
+  "text": "A working aloft permit is to be completed before working on the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Navigational bridge deck"
+    },
+    {
+      "id": "B",
+      "text": "Aft deck"
+    },
+    {
+      "id": "C",
+      "text": "Mast house on deck"
+    },
+    {
+      "id": "D",
+      "text": "Fore mast"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

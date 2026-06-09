@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q6",
+  "text": "Forward spring is used in mooring system to prevent the vessel from moving",
+  "options": [
+    {
+      "id": "A",
+      "text": "Away from the jetty"
+    },
+    {
+      "id": "B",
+      "text": "Athwartships direction"
+    },
+    {
+      "id": "C",
+      "text": "Ahead"
+    },
+    {
+      "id": "D",
+      "text": "Astern"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

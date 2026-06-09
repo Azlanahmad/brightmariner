@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q17",
+  "text": "When the tug is pulling the ship, the ship's crew should",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stand close to the bollard where the rope is secured"
+    },
+    {
+      "id": "B",
+      "text": "Keep well clear of the tug’s rope"
+    },
+    {
+      "id": "C",
+      "text": "Keep slacking the rope as the weight comes on it"
+    },
+    {
+      "id": "D",
+      "text": "Tie a rope stopper to the tugs rope"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

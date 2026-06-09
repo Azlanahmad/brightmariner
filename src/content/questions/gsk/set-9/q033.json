@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q33",
+  "text": "Cargo holds carrying dangerous cargo should",
+  "options": [
+    {
+      "id": "A",
+      "text": "Have portable foam extinguishers"
+    },
+    {
+      "id": "B",
+      "text": "Not have a fixed fire fighting system"
+    },
+    {
+      "id": "C",
+      "text": "Have portable CO2 extinguishers"
+    },
+    {
+      "id": "D",
+      "text": "Have a fixed fire fighting system"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

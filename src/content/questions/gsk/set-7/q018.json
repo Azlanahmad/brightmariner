@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q18",
+  "text": "All modern ships have a",
+  "options": [
+    {
+      "id": "A",
+      "text": "Kedge anchor"
+    },
+    {
+      "id": "B",
+      "text": "Stockless anchor"
+    },
+    {
+      "id": "C",
+      "text": "Mushroom anchor"
+    },
+    {
+      "id": "D",
+      "text": "Stock anchor"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

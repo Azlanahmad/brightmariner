@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q16",
+  "text": "Chief Cook, General Steward & Catering Rating form",
+  "options": [
+    {
+      "id": "A",
+      "text": "Catering Dechapterment"
+    },
+    {
+      "id": "B",
+      "text": "General Dechapterment"
+    },
+    {
+      "id": "C",
+      "text": "Galley Dechapterment"
+    },
+    {
+      "id": "D",
+      "text": "Cooking Dechapterment"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

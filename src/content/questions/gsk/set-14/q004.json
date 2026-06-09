@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q4",
+  "text": "An enclosed space entry permit is to be completed before entering into the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Forepeak store"
+    },
+    {
+      "id": "B",
+      "text": "Loaded cargo hold"
+    },
+    {
+      "id": "C",
+      "text": "Paint store"
+    },
+    {
+      "id": "D",
+      "text": "Provision store"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

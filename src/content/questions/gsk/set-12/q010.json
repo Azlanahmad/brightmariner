@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q10",
+  "text": "The knot used at the end of a heaving line is a",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bowline on the bight"
+    },
+    {
+      "id": "B",
+      "text": "Carrick bend"
+    },
+    {
+      "id": "C",
+      "text": "Monkey fist"
+    },
+    {
+      "id": "D",
+      "text": "Crown knot"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q10",
+  "text": "Boiler suit is used to protect the body",
+  "options": [
+    {
+      "id": "A",
+      "text": "When working on deck"
+    },
+    {
+      "id": "B",
+      "text": "In wet weather"
+    },
+    {
+      "id": "C",
+      "text": "Against chemical contamination"
+    },
+    {
+      "id": "D",
+      "text": "When using the washing machine"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

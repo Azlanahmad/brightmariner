@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q7",
+  "text": "High expansion foam system is suitable for fighting fires in",
+  "options": [
+    {
+      "id": "A",
+      "text": "accommodation"
+    },
+    {
+      "id": "B",
+      "text": "cargo holds"
+    },
+    {
+      "id": "C",
+      "text": "engine room"
+    },
+    {
+      "id": "D",
+      "text": "deck of ship"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

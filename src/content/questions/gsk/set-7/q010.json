@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q10",
+  "text": "The anchor wash valve provides wash water for the",
+  "options": [
+    {
+      "id": "A",
+      "text": "The anchor wash valve provides wash water for the"
+    },
+    {
+      "id": "B",
+      "text": "Windlass"
+    },
+    {
+      "id": "C",
+      "text": "Hosing down on deck"
+    },
+    {
+      "id": "D",
+      "text": "Chain locker"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

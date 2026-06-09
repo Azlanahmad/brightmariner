@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q4",
+  "text": "What Machine Tool will you be Using for Joining two plates.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Drill machine"
+    },
+    {
+      "id": "B",
+      "text": "Lathe machine"
+    },
+    {
+      "id": "C",
+      "text": "Grinding machine"
+    },
+    {
+      "id": "D",
+      "text": "Welding machine"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

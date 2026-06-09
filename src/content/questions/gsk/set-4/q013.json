@@ -1,0 +1,18 @@
+{
+  "id": "gsk-s4-q13",
+  "text": "When a Senior Officer Asks you to perform dangerous task without proper safety measures, You must SAY NO",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

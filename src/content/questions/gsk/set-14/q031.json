@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q31",
+  "text": "Face mask is used on board to protect the face from",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bacteria"
+    },
+    {
+      "id": "B",
+      "text": "Poison"
+    },
+    {
+      "id": "C",
+      "text": "Water spray"
+    },
+    {
+      "id": "D",
+      "text": "Fume inhalation"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q3",
+  "text": "What machine will you use for cutting a large plate",
+  "options": [
+    {
+      "id": "A",
+      "text": "Welding Machine"
+    },
+    {
+      "id": "B",
+      "text": "Drill Machine"
+    },
+    {
+      "id": "C",
+      "text": "Gas Cutting Machine"
+    },
+    {
+      "id": "D",
+      "text": "Grinding Machine"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

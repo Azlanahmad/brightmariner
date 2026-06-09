@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q18",
+  "text": "Match the term \"PORT HAND BUOY\" with the most suitable answers given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Green conical buoy"
+    },
+    {
+      "id": "B",
+      "text": "Depth in metres"
+    },
+    {
+      "id": "C",
+      "text": "Star"
+    },
+    {
+      "id": "D",
+      "text": "Red can buoy"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

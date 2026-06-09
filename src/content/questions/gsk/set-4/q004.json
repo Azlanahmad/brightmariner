@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s4-q4",
+  "text": "What is the most likely course of Accident when working with Sharp tools",
+  "options": [
+    {
+      "id": "A",
+      "text": "Suffocation"
+    },
+    {
+      "id": "B",
+      "text": "Falls"
+    },
+    {
+      "id": "C",
+      "text": "Head injury"
+    },
+    {
+      "id": "D",
+      "text": "Cuts"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

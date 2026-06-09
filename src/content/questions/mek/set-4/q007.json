@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q7",
+  "text": "Which of these is NOT a part of a lathe",
+  "options": [
+    {
+      "id": "A",
+      "text": "Anvil"
+    },
+    {
+      "id": "B",
+      "text": "Head stock"
+    },
+    {
+      "id": "C",
+      "text": "Tool post"
+    },
+    {
+      "id": "D",
+      "text": "Chuck"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

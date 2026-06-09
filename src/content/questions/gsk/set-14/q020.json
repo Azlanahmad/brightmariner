@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q20",
+  "text": "Match the term \"ONE SHORT BLAST\" with the most suitable answers given below:",
+  "options": [
+    {
+      "id": "A",
+      "text": "One prolonged blast followed by two short"
+    },
+    {
+      "id": "B",
+      "text": "Altering course to Starboard"
+    },
+    {
+      "id": "C",
+      "text": "Five short blasts"
+    },
+    {
+      "id": "D",
+      "text": "One prolonged blast every two minutes"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

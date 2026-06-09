@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q2",
+  "text": "Match the term \"MODE OF COMMUNICATION\" with the most suitable answer given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Computer"
+    },
+    {
+      "id": "B",
+      "text": "Receiver"
+    },
+    {
+      "id": "C",
+      "text": "Noise"
+    },
+    {
+      "id": "D",
+      "text": "Speaker"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

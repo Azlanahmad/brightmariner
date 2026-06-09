@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q17",
+  "text": "Generator engine on board ships is started using",
+  "options": [
+    {
+      "id": "A",
+      "text": "Compressed air"
+    },
+    {
+      "id": "B",
+      "text": "Air compressor"
+    },
+    {
+      "id": "C",
+      "text": "Hydraulic Oil Motors / Pressure"
+    },
+    {
+      "id": "D",
+      "text": "Turbo generator"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

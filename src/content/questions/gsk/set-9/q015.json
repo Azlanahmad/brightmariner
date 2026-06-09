@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q15",
+  "text": "A cruise liner carries",
+  "options": [
+    {
+      "id": "A",
+      "text": "Grain cargo"
+    },
+    {
+      "id": "B",
+      "text": "Stowaways"
+    },
+    {
+      "id": "C",
+      "text": "Ro Ro cargo"
+    },
+    {
+      "id": "D",
+      "text": "Passengers"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

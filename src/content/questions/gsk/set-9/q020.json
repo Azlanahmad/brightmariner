@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q20",
+  "text": "Bottle screw is used for",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tightening wire ropes"
+    },
+    {
+      "id": "B",
+      "text": "Putting screws"
+    },
+    {
+      "id": "C",
+      "text": "Tightening man ropes"
+    },
+    {
+      "id": "D",
+      "text": "Dunnage"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

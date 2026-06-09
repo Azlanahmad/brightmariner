@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q30",
+  "text": "A LNG tanker carries",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chemicals"
+    },
+    {
+      "id": "B",
+      "text": "Petroleum gases"
+    },
+    {
+      "id": "C",
+      "text": "Crude oil"
+    },
+    {
+      "id": "D",
+      "text": "Liquefied natural gas"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

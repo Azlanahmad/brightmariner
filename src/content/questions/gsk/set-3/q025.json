@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q25",
+  "text": "Liquid Petroleum Gas Tanker carries",
+  "options": [
+    {
+      "id": "A",
+      "text": "Liquid Chemical Products"
+    },
+    {
+      "id": "B",
+      "text": "Liquid petroleum products"
+    },
+    {
+      "id": "C",
+      "text": "Liquefied Petroleum Gas"
+    },
+    {
+      "id": "D",
+      "text": "Liquid Palm Oil"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

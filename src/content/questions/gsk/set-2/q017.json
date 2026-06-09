@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q17",
+  "text": "If stressed with some work, one should",
+  "options": [
+    {
+      "id": "A",
+      "text": "Leave it for some time"
+    },
+    {
+      "id": "B",
+      "text": "Give up"
+    },
+    {
+      "id": "C",
+      "text": "Keep doing it till it is complete"
+    },
+    {
+      "id": "D",
+      "text": "Tell someone else to do it"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

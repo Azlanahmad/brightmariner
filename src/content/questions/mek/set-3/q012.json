@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q12",
+  "text": "Connecting rod in a Diesel engine ___________.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Moves up and down"
+    },
+    {
+      "id": "B",
+      "text": "Stays in place"
+    },
+    {
+      "id": "C",
+      "text": "Oscillates"
+    },
+    {
+      "id": "D",
+      "text": "Rotates in place"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

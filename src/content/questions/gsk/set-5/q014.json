@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q14",
+  "text": "A vessel steering a course of zero degrees true from the equator without the effect of wind or current",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreases in latitude steadily"
+    },
+    {
+      "id": "B",
+      "text": "Increases in longitude steadily"
+    },
+    {
+      "id": "C",
+      "text": "Decreases in longitude steadily"
+    },
+    {
+      "id": "D",
+      "text": "Increases in latitude steadily"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

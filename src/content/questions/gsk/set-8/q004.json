@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q4",
+  "text": "Fenders are placed on the jetty to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prevent damage to the shipside"
+    },
+    {
+      "id": "B",
+      "text": "To help cargo operations"
+    },
+    {
+      "id": "C",
+      "text": "Keep the ship alongside"
+    },
+    {
+      "id": "D",
+      "text": "To minimize pollution"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

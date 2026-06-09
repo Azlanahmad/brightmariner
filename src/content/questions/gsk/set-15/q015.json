@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q15",
+  "text": "IMO stands for",
+  "options": [
+    {
+      "id": "A",
+      "text": "International Marine Organization"
+    },
+    {
+      "id": "B",
+      "text": "Indian Maritime Organization"
+    },
+    {
+      "id": "C",
+      "text": "International Maritime Organization"
+    },
+    {
+      "id": "D",
+      "text": "International Monetary Organization"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

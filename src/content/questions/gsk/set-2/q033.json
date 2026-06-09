@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q33",
+  "text": "Barriers to communication",
+  "options": [
+    {
+      "id": "A",
+      "text": "Create problems in communication"
+    },
+    {
+      "id": "B",
+      "text": "Make the communication better"
+    },
+    {
+      "id": "C",
+      "text": "Are essential for communication"
+    },
+    {
+      "id": "D",
+      "text": "Do not influence communication"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q12",
+  "text": "Flag clips are used to join together two or more",
+  "options": [
+    {
+      "id": "A",
+      "text": "Seizing wires"
+    },
+    {
+      "id": "B",
+      "text": "Halyards"
+    },
+    {
+      "id": "C",
+      "text": "Heaving lines"
+    },
+    {
+      "id": "D",
+      "text": "Flags"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q2",
+  "text": "When you use a computer, What do you mean by the term \"MONITOR\" ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Like a type-writer; communicates with computer"
+    },
+    {
+      "id": "B",
+      "text": "Like a T.V"
+    },
+    {
+      "id": "C",
+      "text": "The brain of the computer"
+    },
+    {
+      "id": "D",
+      "text": "Peripheral to the computer"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q15",
+  "text": "The anchor cable is marked to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prevent corrosion"
+    },
+    {
+      "id": "B",
+      "text": "Recognize the number of the shackle coming up on deck"
+    },
+    {
+      "id": "C",
+      "text": "Measure the length of each cable"
+    },
+    {
+      "id": "D",
+      "text": "Record when the cable was last painted"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

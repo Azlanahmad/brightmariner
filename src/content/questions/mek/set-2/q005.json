@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q5",
+  "text": "Turning gear on main engine is provided for",
+  "options": [
+    {
+      "id": "A",
+      "text": "releasing parts if jammed"
+    },
+    {
+      "id": "B",
+      "text": "turning the engine during overhaul"
+    },
+    {
+      "id": "C",
+      "text": "remove exhaus gases from cylinder"
+    },
+    {
+      "id": "D",
+      "text": "ensure turning of propeller"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

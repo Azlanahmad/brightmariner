@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q10",
+  "text": "When passing towline to tug from mooring deck",
+  "options": [
+    {
+      "id": "A",
+      "text": "Take full three turns on the bitts and throw the line towards tug"
+    },
+    {
+      "id": "B",
+      "text": "Pass both ends of the rope to the tug"
+    },
+    {
+      "id": "C",
+      "text": "Take half turn on bitts and pass one eye to the tug"
+    },
+    {
+      "id": "D",
+      "text": "Make fast both ends on board and pass the bight to the tug"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q9",
+  "text": "Which of the following is not within the engine room?",
+  "options": [
+    {
+      "id": "A",
+      "text": "boiler"
+    },
+    {
+      "id": "B",
+      "text": "mooring winch"
+    },
+    {
+      "id": "C",
+      "text": "air compressor"
+    },
+    {
+      "id": "D",
+      "text": "generator engine"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

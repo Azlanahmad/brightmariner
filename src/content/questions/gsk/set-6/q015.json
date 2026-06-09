@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q15",
+  "text": "Match the term \"AZIMUTH MIRROR\" with the most suitable answers given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Green buoy"
+    },
+    {
+      "id": "B",
+      "text": "Solar system"
+    },
+    {
+      "id": "C",
+      "text": "60 nautical miles"
+    },
+    {
+      "id": "D",
+      "text": "Compass error"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

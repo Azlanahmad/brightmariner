@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q30",
+  "text": "Engine room bilges are pumped into the sea through the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oily water separator"
+    },
+    {
+      "id": "B",
+      "text": "Shore connection"
+    },
+    {
+      "id": "C",
+      "text": "Bilge line"
+    },
+    {
+      "id": "D",
+      "text": "Overboard valve"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

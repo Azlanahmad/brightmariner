@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q14",
+  "text": "Preventer guy is used when the derrick is working as a",
+  "options": [
+    {
+      "id": "A",
+      "text": "Union purchase"
+    },
+    {
+      "id": "B",
+      "text": "Jumbo derrick"
+    },
+    {
+      "id": "C",
+      "text": "Stulcken derrick"
+    },
+    {
+      "id": "D",
+      "text": "Swinging derrick"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

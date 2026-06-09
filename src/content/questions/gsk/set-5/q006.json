@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q6",
+  "text": "Whilst receiving bunkers you must hoist Intercode flag",
+  "options": [
+    {
+      "id": "A",
+      "text": "“A” (Alpha)"
+    },
+    {
+      "id": "B",
+      "text": "“D” (Delta)"
+    },
+    {
+      "id": "C",
+      "text": "“B” (Bravo)"
+    },
+    {
+      "id": "D",
+      "text": "“C” (Charlie)"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

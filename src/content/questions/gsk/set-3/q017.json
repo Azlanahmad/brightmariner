@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q17",
+  "text": "Deck Dept. consists of",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ch.Off, 2nd.Off , 3rd.Off. and Deck Cadet"
+    },
+    {
+      "id": "B",
+      "text": "Master, Ch.Engr., 2nd.Eng & Ch.Off"
+    },
+    {
+      "id": "C",
+      "text": "Ch.Off, 2nd.Off, 3rtd.Off,Dk.Cadet, Bosun,ABs & OSs"
+    },
+    {
+      "id": "D",
+      "text": "Deck Crew & Cabin Crew"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

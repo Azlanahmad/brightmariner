@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q13",
+  "text": "An important duty of Deck Rating at Sea is",
+  "options": [
+    {
+      "id": "A",
+      "text": "To Keep Lookout on Bridge"
+    },
+    {
+      "id": "B",
+      "text": "To Clean decks"
+    },
+    {
+      "id": "C",
+      "text": "To assist Bosun"
+    },
+    {
+      "id": "D",
+      "text": "To study books"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

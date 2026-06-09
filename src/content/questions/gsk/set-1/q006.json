@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q6",
+  "text": "We communicate to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Send information"
+    },
+    {
+      "id": "B",
+      "text": "Please others"
+    },
+    {
+      "id": "C",
+      "text": "Receive information"
+    },
+    {
+      "id": "D",
+      "text": "Send and receive information"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

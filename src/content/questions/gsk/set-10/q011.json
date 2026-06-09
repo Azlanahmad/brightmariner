@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q11",
+  "text": "When the derrick is secured for sea the head will rest on the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mast house"
+    },
+    {
+      "id": "B",
+      "text": "Hatch cover"
+    },
+    {
+      "id": "C",
+      "text": "Deck"
+    },
+    {
+      "id": "D",
+      "text": "Crutch stand"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

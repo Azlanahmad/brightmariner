@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q2",
+  "text": "House flag is the flag of the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Port of call"
+    },
+    {
+      "id": "B",
+      "text": "State"
+    },
+    {
+      "id": "C",
+      "text": "Shipping Company"
+    },
+    {
+      "id": "D",
+      "text": "Country"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

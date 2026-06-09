@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q38",
+  "text": "An oil fire can be extinguished by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Smothering with foam"
+    },
+    {
+      "id": "B",
+      "text": "Cooling with a water jet"
+    },
+    {
+      "id": "C",
+      "text": "Cutting off the fuel supply"
+    },
+    {
+      "id": "D",
+      "text": "Removing the burning material"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

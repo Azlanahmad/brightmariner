@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s4-q23",
+  "text": "What is the most likely course of Accident when working under Falling objects",
+  "options": [
+    {
+      "id": "A",
+      "text": "Eyes injury"
+    },
+    {
+      "id": "B",
+      "text": "Head injury"
+    },
+    {
+      "id": "C",
+      "text": "Falls"
+    },
+    {
+      "id": "D",
+      "text": "Burns"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q1",
+  "text": "Boiler is related to __________________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Steam Generation"
+    },
+    {
+      "id": "B",
+      "text": "Human waste"
+    },
+    {
+      "id": "C",
+      "text": "Storing Vegetables"
+    },
+    {
+      "id": "D",
+      "text": "Steering"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

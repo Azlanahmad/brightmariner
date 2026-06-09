@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q34",
+  "text": "The course of the ship is entered every watch in the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Medical Log Book"
+    },
+    {
+      "id": "B",
+      "text": "Official Log Book"
+    },
+    {
+      "id": "C",
+      "text": "Deck Log Book"
+    },
+    {
+      "id": "D",
+      "text": "GMDSS Log Book"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

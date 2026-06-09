@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q6",
+  "text": "Quick closing valve operation is carried out from",
+  "options": [
+    {
+      "id": "A",
+      "text": "remote location outside engine room"
+    },
+    {
+      "id": "B",
+      "text": "anywhere in the engine room"
+    },
+    {
+      "id": "C",
+      "text": "steering flat"
+    },
+    {
+      "id": "D",
+      "text": "navigation bridge"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

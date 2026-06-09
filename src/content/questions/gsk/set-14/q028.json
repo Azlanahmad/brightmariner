@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q28",
+  "text": "The familiarization checklist should be completed when the crew member joins the vessel",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prior to commencement of their duties on joining the ship"
+    },
+    {
+      "id": "B",
+      "text": "Within one month of joining the ship"
+    },
+    {
+      "id": "C",
+      "text": "Within one week of joining the ship"
+    },
+    {
+      "id": "D",
+      "text": "Within two months of joining the ship"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

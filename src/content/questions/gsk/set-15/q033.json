@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q33",
+  "text": "STCW stands for",
+  "options": [
+    {
+      "id": "A",
+      "text": "Structured ,Training, Certification and Watch keeping"
+    },
+    {
+      "id": "B",
+      "text": "Shipboard, Training, Certification and Watch keeping"
+    },
+    {
+      "id": "C",
+      "text": "Standards of Training, Certification and Watch keeping"
+    },
+    {
+      "id": "D",
+      "text": "Seafarers, Training, Certification and Watch keeping"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

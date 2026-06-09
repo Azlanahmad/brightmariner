@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q18",
+  "text": "In dry dock the anchor cable is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Renewed at one end"
+    },
+    {
+      "id": "B",
+      "text": "Renewed at both ends"
+    },
+    {
+      "id": "C",
+      "text": "Interchanged in the middle"
+    },
+    {
+      "id": "D",
+      "text": "Changed end to end"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

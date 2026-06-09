@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q4",
+  "text": "Purpose of fresh water circulation through diesel engine cylinder is to",
+  "options": [
+    {
+      "id": "A",
+      "text": "prevent corrosion"
+    },
+    {
+      "id": "B",
+      "text": "remove heat of combustion"
+    },
+    {
+      "id": "C",
+      "text": "clean exhaust gases"
+    },
+    {
+      "id": "D",
+      "text": "lubricate moving part"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

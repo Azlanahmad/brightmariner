@@ -1,0 +1,18 @@
+{
+  "id": "mek-s3-q18",
+  "text": "Trunk type engines have Piston rod between Piston and Connecting Rod",
+  "options": [
+    {
+      "id": "A",
+      "text": "False"
+    },
+    {
+      "id": "B",
+      "text": "True"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

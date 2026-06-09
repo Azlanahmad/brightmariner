@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q16",
+  "text": "The earth is a planet in the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lunar system"
+    },
+    {
+      "id": "B",
+      "text": "Satellite system"
+    },
+    {
+      "id": "C",
+      "text": "Nuclear system"
+    },
+    {
+      "id": "D",
+      "text": "Solar system"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

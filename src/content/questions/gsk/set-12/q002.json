@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q2",
+  "text": "When a purchase is rigged to disadvantage the pull is from the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Running block"
+    },
+    {
+      "id": "B",
+      "text": "Standing block"
+    },
+    {
+      "id": "C",
+      "text": "Moving block"
+    },
+    {
+      "id": "D",
+      "text": "Lifting block"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

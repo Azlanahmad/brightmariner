@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q7",
+  "text": "When you use a computer, What do you mean by the term \"MOUSE\" ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The brain of the computer"
+    },
+    {
+      "id": "B",
+      "text": "Data can be written and rewritten on the CD"
+    },
+    {
+      "id": "C",
+      "text": "Used to point objects on the monitor"
+    },
+    {
+      "id": "D",
+      "text": "Getting Music"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q5",
+  "text": "The strum box is located in the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Galley"
+    },
+    {
+      "id": "B",
+      "text": "Hold bilges"
+    },
+    {
+      "id": "C",
+      "text": "Fore peak store"
+    },
+    {
+      "id": "D",
+      "text": "Mast house"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

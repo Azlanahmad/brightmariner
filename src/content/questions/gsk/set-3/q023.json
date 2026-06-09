@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q23",
+  "text": "Main Function of OSV is",
+  "options": [
+    {
+      "id": "A",
+      "text": "To Ferry Provisons, Stores, Crew to Offshore installations like Oil Rigs and Oil Wells"
+    },
+    {
+      "id": "B",
+      "text": "To Patrol Sea near Ocean Rigs"
+    },
+    {
+      "id": "C",
+      "text": "To tow barges"
+    },
+    {
+      "id": "D",
+      "text": "To carry cargo to coastal ports"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

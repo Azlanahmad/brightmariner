@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s4-q10",
+  "text": "One should use _____________ to protect Nose, Mouth and Face",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hand gloves"
+    },
+    {
+      "id": "B",
+      "text": "Safety shoes"
+    },
+    {
+      "id": "C",
+      "text": "Safety Goggles"
+    },
+    {
+      "id": "D",
+      "text": "Face shield"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

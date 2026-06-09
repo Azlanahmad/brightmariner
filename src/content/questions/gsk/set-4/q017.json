@@ -1,0 +1,18 @@
+{
+  "id": "gsk-s4-q17",
+  "text": "You must wear safety hand gloves and safety goggles while using chipping hammer",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

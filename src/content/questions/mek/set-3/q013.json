@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q13",
+  "text": "The purpose of Fuel Oil in a Diesel engine is to _____",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reduces friction"
+    },
+    {
+      "id": "B",
+      "text": "Gives power"
+    },
+    {
+      "id": "C",
+      "text": "Turns turbo charger"
+    },
+    {
+      "id": "D",
+      "text": "Causes explosion"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

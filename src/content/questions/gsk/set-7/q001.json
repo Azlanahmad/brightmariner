@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q1",
+  "text": "The cemented spurling pipe prevents",
+  "options": [
+    {
+      "id": "A",
+      "text": "Seaman from falling into the chain locker"
+    },
+    {
+      "id": "B",
+      "text": "Rust from entering into the chain locker."
+    },
+    {
+      "id": "C",
+      "text": "Cover from getting rusted"
+    },
+    {
+      "id": "D",
+      "text": "Water from entering into the chain locker"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

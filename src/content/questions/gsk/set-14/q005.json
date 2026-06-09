@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q5",
+  "text": "The ullage tape lowered into a cargo tank of a tanker should be earthed to prevent",
+  "options": [
+    {
+      "id": "A",
+      "text": "Static hazards"
+    },
+    {
+      "id": "B",
+      "text": "Tank going empty"
+    },
+    {
+      "id": "C",
+      "text": "Pump running dry"
+    },
+    {
+      "id": "D",
+      "text": "Tank overflow"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

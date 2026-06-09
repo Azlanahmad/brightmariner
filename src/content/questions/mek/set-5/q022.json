@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q22",
+  "text": "If any chemical fall on the body, first action should be",
+  "options": [
+    {
+      "id": "A",
+      "text": "apply medicine to affected area"
+    },
+    {
+      "id": "B",
+      "text": "wipe clean the affected area"
+    },
+    {
+      "id": "C",
+      "text": "call for the doctor"
+    },
+    {
+      "id": "D",
+      "text": "thoroughly wash affected area"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

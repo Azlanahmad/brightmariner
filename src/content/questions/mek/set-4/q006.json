@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q6",
+  "text": "To make a new flange for a pipe you will need:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chisel, hammer and drilling machine"
+    },
+    {
+      "id": "B",
+      "text": "Lathe machine and drilling machine"
+    },
+    {
+      "id": "C",
+      "text": "Grinding machine, drilling machine and pipe cutter"
+    },
+    {
+      "id": "D",
+      "text": "Welding machine and milling machine"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

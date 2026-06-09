@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q19",
+  "text": "Side guys are used on",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gantry cranes"
+    },
+    {
+      "id": "B",
+      "text": "Cranes"
+    },
+    {
+      "id": "C",
+      "text": "Derricks"
+    },
+    {
+      "id": "D",
+      "text": "Chain blocks"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

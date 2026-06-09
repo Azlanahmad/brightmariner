@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q17",
+  "text": "Details of the SWL of the shackles and blocks used for the derrick are given in the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Capacity plan"
+    },
+    {
+      "id": "B",
+      "text": "Rigging plan"
+    },
+    {
+      "id": "C",
+      "text": "Ships chaptericulars"
+    },
+    {
+      "id": "D",
+      "text": "General Arrangement plan"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

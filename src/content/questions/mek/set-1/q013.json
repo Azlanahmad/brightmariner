@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q13",
+  "text": "Sewage Treatment Plant is related to __________________.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Starting of Main Engine"
+    },
+    {
+      "id": "B",
+      "text": "Steering"
+    },
+    {
+      "id": "C",
+      "text": "Human waste"
+    },
+    {
+      "id": "D",
+      "text": "Storing Vegetables"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": "gsk-s4-q11",
+  "text": "Enclosed Spaces can kill you by SUFFOCATION, if proper safe working procedures are not followed.",
+  "options": [
+    {
+      "id": "A",
+      "text": "False"
+    },
+    {
+      "id": "B",
+      "text": "True"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q2",
+  "text": "The scope of cable depends on the",
+  "options": [
+    {
+      "id": "A",
+      "text": "The size of the anchor chain"
+    },
+    {
+      "id": "B",
+      "text": "The thickness of the anchor chain"
+    },
+    {
+      "id": "C",
+      "text": "Length of anchor chain used"
+    },
+    {
+      "id": "D",
+      "text": "The size of the anchor"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

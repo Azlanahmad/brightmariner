@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q9",
+  "text": "Container are loaded on board a gearless cellular container ship by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Floating cranes"
+    },
+    {
+      "id": "B",
+      "text": "Derricks"
+    },
+    {
+      "id": "C",
+      "text": "Shore gantry cranes"
+    },
+    {
+      "id": "D",
+      "text": "Grabs"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

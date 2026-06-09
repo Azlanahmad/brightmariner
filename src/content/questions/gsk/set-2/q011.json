@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q11",
+  "text": "When you use a computer, What do you mean by the term \"CD-ROM DRIVE\"?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Used to point objects on the monitor"
+    },
+    {
+      "id": "B",
+      "text": "Data can be written and rewritten on the CD"
+    },
+    {
+      "id": "C",
+      "text": "Sending Messages"
+    },
+    {
+      "id": "D",
+      "text": "Peripheral to the computer"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

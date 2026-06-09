@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q20",
+  "text": "What is the minimum value of shock current (AC) which can be fatal",
+  "options": [
+    {
+      "id": "A",
+      "text": "25 mA"
+    },
+    {
+      "id": "B",
+      "text": "35 mA"
+    },
+    {
+      "id": "C",
+      "text": "20 mA"
+    },
+    {
+      "id": "D",
+      "text": "15mA"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q29",
+  "text": "At sea container lashings should be tightened",
+  "options": [
+    {
+      "id": "A",
+      "text": "Daily"
+    },
+    {
+      "id": "B",
+      "text": "Fortnightly"
+    },
+    {
+      "id": "C",
+      "text": "Weekly"
+    },
+    {
+      "id": "D",
+      "text": "Only after rough weather is encountered"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

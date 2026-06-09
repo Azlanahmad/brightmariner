@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q3",
+  "text": "CDC stands for",
+  "options": [
+    {
+      "id": "A",
+      "text": "Current Discharge Certificate"
+    },
+    {
+      "id": "B",
+      "text": "Coastal Discharge Certificate"
+    },
+    {
+      "id": "C",
+      "text": "Continuous Discharge Certificate"
+    },
+    {
+      "id": "D",
+      "text": "Country Domicile Certificate"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

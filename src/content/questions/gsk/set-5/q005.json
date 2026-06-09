@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q5",
+  "text": "Match the term \"COMPASS ROSE\" with the most suitable answers given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Green buoy"
+    },
+    {
+      "id": "B",
+      "text": "60 nautical miles"
+    },
+    {
+      "id": "C",
+      "text": "Solar system"
+    },
+    {
+      "id": "D",
+      "text": "360 degrees"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

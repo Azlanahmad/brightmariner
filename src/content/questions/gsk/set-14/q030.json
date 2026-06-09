@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q30",
+  "text": "Prior to the tug pulling the tug line should be kept on the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Air pipe"
+    },
+    {
+      "id": "B",
+      "text": "Bow stopper"
+    },
+    {
+      "id": "C",
+      "text": "Bollard"
+    },
+    {
+      "id": "D",
+      "text": "Warping drum"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

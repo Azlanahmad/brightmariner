@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q25",
+  "text": "Before starting writing in the exam, one should",
+  "options": [
+    {
+      "id": "A",
+      "text": "Write the name and roll no. in answer sheet"
+    },
+    {
+      "id": "B",
+      "text": "Ask question to invigilator"
+    },
+    {
+      "id": "C",
+      "text": "Read the instructions properly"
+    },
+    {
+      "id": "D",
+      "text": "Just start writing"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

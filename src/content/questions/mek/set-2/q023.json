@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q23",
+  "text": "A cam shaft on diesel engine operates",
+  "options": [
+    {
+      "id": "A",
+      "text": "fuel injection pump"
+    },
+    {
+      "id": "B",
+      "text": "flywheel"
+    },
+    {
+      "id": "C",
+      "text": "fuel valves"
+    },
+    {
+      "id": "D",
+      "text": "starting valves"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

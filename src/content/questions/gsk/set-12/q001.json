@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q1",
+  "text": "The purpose of mousing a hook is to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prevent the hook from getting fouled"
+    },
+    {
+      "id": "B",
+      "text": "Increase the SWL of the hook"
+    },
+    {
+      "id": "C",
+      "text": "Prevent the sling from slipping out"
+    },
+    {
+      "id": "D",
+      "text": "Reduce the swing of the object"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

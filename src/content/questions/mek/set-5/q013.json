@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q13",
+  "text": "What is the common name for item used for preventing the loss of heat from pipes or equipment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lagging"
+    },
+    {
+      "id": "B",
+      "text": "Cooling system"
+    },
+    {
+      "id": "C",
+      "text": "Exhaust boiler"
+    },
+    {
+      "id": "D",
+      "text": "Air circulation"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

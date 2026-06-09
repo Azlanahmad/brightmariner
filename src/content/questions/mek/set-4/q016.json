@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q16",
+  "text": "When starting to weld you must hold the electrode at an angle of about?",
+  "options": [
+    {
+      "id": "A",
+      "text": "50°"
+    },
+    {
+      "id": "B",
+      "text": "70°"
+    },
+    {
+      "id": "C",
+      "text": "30°"
+    },
+    {
+      "id": "D",
+      "text": "90°"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

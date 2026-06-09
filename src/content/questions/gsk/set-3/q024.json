@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q24",
+  "text": "LNG Carrier is designed to carry",
+  "options": [
+    {
+      "id": "A",
+      "text": "Liquid Non Corrosive Oil"
+    },
+    {
+      "id": "B",
+      "text": "Gravel Stones"
+    },
+    {
+      "id": "C",
+      "text": "Liquid Nitrogen Gas"
+    },
+    {
+      "id": "D",
+      "text": "Light Density Products"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q31",
+  "text": "An emergency alarm is sounded when the ship",
+  "options": [
+    {
+      "id": "A",
+      "text": "Is overtaking another ship"
+    },
+    {
+      "id": "B",
+      "text": "Has had a collision"
+    },
+    {
+      "id": "C",
+      "text": "Is altering course"
+    },
+    {
+      "id": "D",
+      "text": "Navigating in heavy traffic"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q11",
+  "text": "Before starting a generator engine, LO hand pump should be operated to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Warm up the engine"
+    },
+    {
+      "id": "B",
+      "text": "Supply lub oil to moving parts"
+    },
+    {
+      "id": "C",
+      "text": "Check the level of the tank"
+    },
+    {
+      "id": "D",
+      "text": "Turn the engine"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

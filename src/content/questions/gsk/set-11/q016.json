@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q16",
+  "text": "To rig a threefold purchase what blocks are required",
+  "options": [
+    {
+      "id": "A",
+      "text": "One 2 -sheave and one 3 sheave block"
+    },
+    {
+      "id": "B",
+      "text": "Two 3 -sheave blocks"
+    },
+    {
+      "id": "C",
+      "text": "Two 2- sheave blocks"
+    },
+    {
+      "id": "D",
+      "text": "One 2- sheave bock and a single sheave block"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

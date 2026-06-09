@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q20",
+  "text": "Two Distinct Dechapterments on ship are",
+  "options": [
+    {
+      "id": "A",
+      "text": "Crew Dept. & Officers Dept"
+    },
+    {
+      "id": "B",
+      "text": "Eng.Rating Dept & Deck Rating Dept"
+    },
+    {
+      "id": "C",
+      "text": "Nautical Dechapterment & Engine Dechapterment"
+    },
+    {
+      "id": "D",
+      "text": "Cabin Dechapterment & Deck Dechapterment"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

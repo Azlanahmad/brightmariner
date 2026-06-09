@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q14",
+  "text": "The inspection of ships in their country of registry is done by",
+  "options": [
+    {
+      "id": "A",
+      "text": "RSC"
+    },
+    {
+      "id": "B",
+      "text": "PSC"
+    },
+    {
+      "id": "C",
+      "text": "FSC"
+    },
+    {
+      "id": "D",
+      "text": "SSC"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

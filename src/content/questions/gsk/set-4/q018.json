@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s4-q18",
+  "text": "What is the most likely cause of Chemical burns",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lack of oxygen"
+    },
+    {
+      "id": "B",
+      "text": "Acids and alkalis"
+    },
+    {
+      "id": "C",
+      "text": "Welding"
+    },
+    {
+      "id": "D",
+      "text": "Too much noise"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

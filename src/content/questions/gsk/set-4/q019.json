@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s4-q19",
+  "text": "\"Safety Helmet\" is utilised to protect_____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Body"
+    },
+    {
+      "id": "B",
+      "text": "Hands"
+    },
+    {
+      "id": "C",
+      "text": "Head"
+    },
+    {
+      "id": "D",
+      "text": "Nose & mouth, Face"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

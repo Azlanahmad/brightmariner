@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q18",
+  "text": "The lower most ring on a diesel engine piston is called",
+  "options": [
+    {
+      "id": "A",
+      "text": "split ring"
+    },
+    {
+      "id": "B",
+      "text": "compression ring"
+    },
+    {
+      "id": "C",
+      "text": "pressure ring"
+    },
+    {
+      "id": "D",
+      "text": "oil scraper ring"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q16",
+  "text": "Which Instrument is used for testing Insulation",
+  "options": [
+    {
+      "id": "A",
+      "text": "Driver"
+    },
+    {
+      "id": "B",
+      "text": "Megger"
+    },
+    {
+      "id": "C",
+      "text": "Drager"
+    },
+    {
+      "id": "D",
+      "text": "Jagger"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q24",
+  "text": "Fire extinguishing medium in cargo tank of tanker is",
+  "options": [
+    {
+      "id": "A",
+      "text": "CO 2"
+    },
+    {
+      "id": "B",
+      "text": "Dry Powder"
+    },
+    {
+      "id": "C",
+      "text": "Sea water"
+    },
+    {
+      "id": "D",
+      "text": "Foam"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

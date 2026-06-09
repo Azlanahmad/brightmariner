@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q1",
+  "text": "Eng. Rating when in E/R watch must",
+  "options": [
+    {
+      "id": "A",
+      "text": "Frequently drink coffee to remain awake"
+    },
+    {
+      "id": "B",
+      "text": "Constantly monitor all machinery and indicators and promptly report any abnormality to duty engr"
+    },
+    {
+      "id": "C",
+      "text": "Remain in airconditioned ECR (Eng.Control Room)"
+    },
+    {
+      "id": "D",
+      "text": "Remain in accommodation"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

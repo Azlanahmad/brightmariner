@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q12",
+  "text": "Eccentric rollers are lifted on steel hatch covers",
+  "options": [
+    {
+      "id": "A",
+      "text": "To batten down the hatch cover"
+    },
+    {
+      "id": "B",
+      "text": "To make the hatch cover roll on the trackway"
+    },
+    {
+      "id": "C",
+      "text": "When the hatch cover has to be repaired"
+    },
+    {
+      "id": "D",
+      "text": "Grease the eccentric rollers"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

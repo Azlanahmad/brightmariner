@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q8",
+  "text": "Match the term \"NON-VERBAL COMMUNICATION\" with the most suitable answer given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Facial Expression"
+    },
+    {
+      "id": "B",
+      "text": "Lack of confidence"
+    },
+    {
+      "id": "C",
+      "text": "Computer"
+    },
+    {
+      "id": "D",
+      "text": "Noise"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": "gsk-s2-q29",
+  "text": "Non Verbal communication is speaking out aloud",
+  "options": [
+    {
+      "id": "A",
+      "text": "False"
+    },
+    {
+      "id": "B",
+      "text": "True"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

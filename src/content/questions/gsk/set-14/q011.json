@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q11",
+  "text": "After every use, a fire hose must",
+  "options": [
+    {
+      "id": "A",
+      "text": "Be hung up to dry and later correctly stowed"
+    },
+    {
+      "id": "B",
+      "text": "Be tested to a pressure of 4 Kg/cm2"
+    },
+    {
+      "id": "C",
+      "text": "Be stowed in a safety equipment locker"
+    },
+    {
+      "id": "D",
+      "text": "Have their couplings removed"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

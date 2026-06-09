@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q12",
+  "text": "Before going out to sea all hatch covers should be",
+  "options": [
+    {
+      "id": "A",
+      "text": "Battened down"
+    },
+    {
+      "id": "B",
+      "text": "Kept chapterly open"
+    },
+    {
+      "id": "C",
+      "text": "Closed but not battened down"
+    },
+    {
+      "id": "D",
+      "text": "Battened down chapterly"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

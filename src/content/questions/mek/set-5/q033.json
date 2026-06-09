@@ -1,0 +1,18 @@
+{
+  "id": "mek-s5-q33",
+  "text": "The thruster placed in the forward end of the ship is called Stern Thruster",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

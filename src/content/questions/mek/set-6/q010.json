@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q10",
+  "text": "Quick Closing Valves can be operated...",
+  "options": [
+    {
+      "id": "A",
+      "text": "All of the above"
+    },
+    {
+      "id": "B",
+      "text": "Locally"
+    },
+    {
+      "id": "C",
+      "text": "Pneumatically"
+    },
+    {
+      "id": "D",
+      "text": "Remotely"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

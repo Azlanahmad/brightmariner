@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q20",
+  "text": "Ships propeller is fitted to",
+  "options": [
+    {
+      "id": "A",
+      "text": "stern tube"
+    },
+    {
+      "id": "B",
+      "text": "intermediate shaft"
+    },
+    {
+      "id": "C",
+      "text": "tail shaft"
+    },
+    {
+      "id": "D",
+      "text": "crankshaft"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

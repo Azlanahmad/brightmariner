@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q7",
+  "text": "Lift on lift off hatches are used on",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gear less bulk carriers"
+    },
+    {
+      "id": "B",
+      "text": "Car carriers"
+    },
+    {
+      "id": "C",
+      "text": "Cellular container ships"
+    },
+    {
+      "id": "D",
+      "text": "General cargo ships"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

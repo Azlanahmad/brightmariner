@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q5",
+  "text": "To fight an electric fire you would use",
+  "options": [
+    {
+      "id": "A",
+      "text": "dry powder"
+    },
+    {
+      "id": "B",
+      "text": "steam jet"
+    },
+    {
+      "id": "C",
+      "text": "water spray"
+    },
+    {
+      "id": "D",
+      "text": "special foam"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

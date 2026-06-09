@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q28",
+  "text": "When filling a ballast tank it is important to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Open the manhole cover"
+    },
+    {
+      "id": "B",
+      "text": "Take gas readings"
+    },
+    {
+      "id": "C",
+      "text": "Make sure that the tank air vents are open"
+    },
+    {
+      "id": "D",
+      "text": "Press up the tank"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

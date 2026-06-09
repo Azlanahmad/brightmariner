@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q17",
+  "text": "Whipping is carried out",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prevent the ends of a rope from unlaying"
+    },
+    {
+      "id": "B",
+      "text": "To protect the rope from weather"
+    },
+    {
+      "id": "C",
+      "text": "Protect the ends from chafing damage"
+    },
+    {
+      "id": "D",
+      "text": "Join two ropes of equal size"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

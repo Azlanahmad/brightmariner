@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q37",
+  "text": "A tank entry permit is to be completed before entering into the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ballast comchapterment"
+    },
+    {
+      "id": "B",
+      "text": "Battery room"
+    },
+    {
+      "id": "C",
+      "text": "Steering gear comchapterment"
+    },
+    {
+      "id": "D",
+      "text": "Meat room"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

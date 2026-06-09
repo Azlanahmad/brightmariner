@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q2",
+  "text": "Man hole door on a tank is fitted for",
+  "options": [
+    {
+      "id": "A",
+      "text": "allowing entry to the tank when needed"
+    },
+    {
+      "id": "B",
+      "text": "preventing entry by unauthorized persons"
+    },
+    {
+      "id": "C",
+      "text": "preventing damage on tanks"
+    },
+    {
+      "id": "D",
+      "text": "strengthening the tank"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

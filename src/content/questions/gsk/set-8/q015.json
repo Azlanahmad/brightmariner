@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q15",
+  "text": "Bollard is a",
+  "options": [
+    {
+      "id": "A",
+      "text": "Steel block"
+    },
+    {
+      "id": "B",
+      "text": "Stanchion"
+    },
+    {
+      "id": "C",
+      "text": "Air pipe"
+    },
+    {
+      "id": "D",
+      "text": "For making fast mooring ropes/wires."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q20",
+  "text": "Match the term \"JUPITER\" with the most suitable answers given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Compass error"
+    },
+    {
+      "id": "B",
+      "text": "60 nautical miles"
+    },
+    {
+      "id": "C",
+      "text": "Solar system"
+    },
+    {
+      "id": "D",
+      "text": "Green buoy"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

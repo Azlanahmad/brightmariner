@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q14",
+  "text": "Speed of diesel engine is adjusted by changing the supply of",
+  "options": [
+    {
+      "id": "A",
+      "text": "air"
+    },
+    {
+      "id": "B",
+      "text": "fuel"
+    },
+    {
+      "id": "C",
+      "text": "water"
+    },
+    {
+      "id": "D",
+      "text": "lubricating oil"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

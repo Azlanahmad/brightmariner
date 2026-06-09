@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q34",
+  "text": "Canvas covers gives air pipes additional protection against",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rust"
+    },
+    {
+      "id": "B",
+      "text": "Corrosion"
+    },
+    {
+      "id": "C",
+      "text": "Pollution"
+    },
+    {
+      "id": "D",
+      "text": "Water ingress in rough weather"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

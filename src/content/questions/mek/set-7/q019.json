@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q19",
+  "text": "Dry full contact body resistance is about ______ ohms at 250V",
+  "options": [
+    {
+      "id": "A",
+      "text": "4000"
+    },
+    {
+      "id": "B",
+      "text": "5000"
+    },
+    {
+      "id": "C",
+      "text": "2000"
+    },
+    {
+      "id": "D",
+      "text": "3000"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

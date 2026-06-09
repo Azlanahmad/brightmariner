@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q27",
+  "text": "The distress signals, required to be kept in a lifeboat are",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hand flares"
+    },
+    {
+      "id": "B",
+      "text": "Rocket parachutes + Hand flares"
+    },
+    {
+      "id": "C",
+      "text": "Smoke signals + Line throwing apparatus"
+    },
+    {
+      "id": "D",
+      "text": "Rocket parachutes + Hand flares+ Smoke signals"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

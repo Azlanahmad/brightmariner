@@ -1,0 +1,18 @@
+{
+  "id": "mek-s6-q19",
+  "text": "Accident can't happen in the engine room due to falling objects",
+  "options": [
+    {
+      "id": "A",
+      "text": "False"
+    },
+    {
+      "id": "B",
+      "text": "True"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

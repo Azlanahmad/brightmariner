@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q11",
+  "text": "A Mercator chart has the following identity:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Only title"
+    },
+    {
+      "id": "B",
+      "text": "Only number"
+    },
+    {
+      "id": "C",
+      "text": "Alphabetical Code"
+    },
+    {
+      "id": "D",
+      "text": "Title and a number"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

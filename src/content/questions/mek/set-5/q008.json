@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q8",
+  "text": "The level measuring device, Dip stick can be used for",
+  "options": [
+    {
+      "id": "A",
+      "text": "Multi Purpose"
+    },
+    {
+      "id": "B",
+      "text": "Oil level in generator crankcase"
+    },
+    {
+      "id": "C",
+      "text": "Tanks of large depth"
+    },
+    {
+      "id": "D",
+      "text": "Oil can"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q28",
+  "text": "Best method for fighting a fire in the paint room is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Use a soda acid extinguisher"
+    },
+    {
+      "id": "B",
+      "text": "Use a foam type extinguisher"
+    },
+    {
+      "id": "C",
+      "text": "Use a water jet"
+    },
+    {
+      "id": "D",
+      "text": "Use a fire blanket"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

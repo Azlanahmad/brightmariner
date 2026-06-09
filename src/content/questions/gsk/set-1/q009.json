@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q9",
+  "text": "Match the term \"VERBAL COMMUNICATION\" with the most suitable answer given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Speaking"
+    },
+    {
+      "id": "B",
+      "text": "Noise"
+    },
+    {
+      "id": "C",
+      "text": "Computer"
+    },
+    {
+      "id": "D",
+      "text": "Facial Expression"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

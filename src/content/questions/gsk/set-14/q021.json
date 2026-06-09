@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q21",
+  "text": "When you see oil slick in the water at anchorage",
+  "options": [
+    {
+      "id": "A",
+      "text": "Report to the duty officer"
+    },
+    {
+      "id": "B",
+      "text": "Lowering the lifeboat oars"
+    },
+    {
+      "id": "C",
+      "text": "Do nothing"
+    },
+    {
+      "id": "D",
+      "text": "Keep the lifeboat close to the embarkation deck"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

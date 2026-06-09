@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q18",
+  "text": "Immersion suit is used to prevent",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypothermia"
+    },
+    {
+      "id": "B",
+      "text": "Drowning"
+    },
+    {
+      "id": "C",
+      "text": "Injuries"
+    },
+    {
+      "id": "D",
+      "text": "Heat burns"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

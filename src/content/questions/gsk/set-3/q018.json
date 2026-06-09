@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q18",
+  "text": "Maintenance Of Machinery and Propulsion System is responsibility of",
+  "options": [
+    {
+      "id": "A",
+      "text": "Machinery Dechapterment"
+    },
+    {
+      "id": "B",
+      "text": "Chief Engineer Dechapterment"
+    },
+    {
+      "id": "C",
+      "text": "Engine Dechapterment"
+    },
+    {
+      "id": "D",
+      "text": "2nd.Engineer"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q5",
+  "text": "The SWL of each block is punched on the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Swivel"
+    },
+    {
+      "id": "B",
+      "text": "Binding straps"
+    },
+    {
+      "id": "C",
+      "text": "Hook"
+    },
+    {
+      "id": "D",
+      "text": "Cheek"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q1",
+  "text": "Thrust block for main engine is fitted at the",
+  "options": [
+    {
+      "id": "A",
+      "text": "End of the cam shaft"
+    },
+    {
+      "id": "B",
+      "text": "Tail Shaft"
+    },
+    {
+      "id": "C",
+      "text": "Forward side of Engine"
+    },
+    {
+      "id": "D",
+      "text": "Aft side of Engine"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

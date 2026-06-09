@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q22",
+  "text": "OSV Vessels are",
+  "options": [
+    {
+      "id": "A",
+      "text": "Offshore Supply Vessel"
+    },
+    {
+      "id": "B",
+      "text": "Onshore Supply Vessels"
+    },
+    {
+      "id": "C",
+      "text": "Oil Bulk Oil Vessels"
+    },
+    {
+      "id": "D",
+      "text": "Oceangoing Sailing Vessels"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q1",
+  "text": "The latitude of north pole is at",
+  "options": [
+    {
+      "id": "A",
+      "text": "90 degrees North"
+    },
+    {
+      "id": "B",
+      "text": "0 degrees North"
+    },
+    {
+      "id": "C",
+      "text": "20 degrees South"
+    },
+    {
+      "id": "D",
+      "text": "100 degrees North"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

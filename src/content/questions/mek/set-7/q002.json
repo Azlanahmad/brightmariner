@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q2",
+  "text": "Fixed fire fighting system for engine room",
+  "options": [
+    {
+      "id": "A",
+      "text": "DCP"
+    },
+    {
+      "id": "B",
+      "text": "CO2"
+    },
+    {
+      "id": "C",
+      "text": "inert gas"
+    },
+    {
+      "id": "D",
+      "text": "nitrogen"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q35",
+  "text": "Prior to loading bulk cargo the holds should be",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cleaned and all the dunnage piled up in one section of the hold"
+    },
+    {
+      "id": "B",
+      "text": "Cleaned in all respects for the next cargo"
+    },
+    {
+      "id": "C",
+      "text": "Swept clean and all sweepings put in the bilges"
+    },
+    {
+      "id": "D",
+      "text": "Cleaned with the bilge cover kept open"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

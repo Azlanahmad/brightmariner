@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q19",
+  "text": "Watch keepers will be granted rest as per the requirements of the",
+  "options": [
+    {
+      "id": "A",
+      "text": "LSA Code"
+    },
+    {
+      "id": "B",
+      "text": "STCW Convention"
+    },
+    {
+      "id": "C",
+      "text": "MARPOL Convention"
+    },
+    {
+      "id": "D",
+      "text": "SOLAS Convention"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

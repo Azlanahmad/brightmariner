@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q18",
+  "text": "On completion of a seafarer's contract the repatriation expenses will be borne by the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Seaman"
+    },
+    {
+      "id": "B",
+      "text": "Shared between the seaman company and the seaman"
+    },
+    {
+      "id": "C",
+      "text": "Shipping company"
+    },
+    {
+      "id": "D",
+      "text": "Shipping Master"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

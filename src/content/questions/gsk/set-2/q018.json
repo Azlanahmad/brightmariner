@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q18",
+  "text": "Match the term \"NEED FOR COMMUNICATION\" with the most suitable answer given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Noise"
+    },
+    {
+      "id": "B",
+      "text": "Facial Expression"
+    },
+    {
+      "id": "C",
+      "text": "Feedback"
+    },
+    {
+      "id": "D",
+      "text": "Self-Expression"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

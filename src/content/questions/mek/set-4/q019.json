@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q19",
+  "text": "Before starting arc welding you must:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Extend the welding cables"
+    },
+    {
+      "id": "B",
+      "text": "Connect the electrode holder to the earth clamp"
+    },
+    {
+      "id": "C",
+      "text": "Connect the welding cable to the earth clamp"
+    },
+    {
+      "id": "D",
+      "text": "Connect the earth Clamp to the work piece"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q1",
+  "text": "The vessels position is plotted on the chart as",
+  "options": [
+    {
+      "id": "A",
+      "text": "Greenwich Mean Time"
+    },
+    {
+      "id": "B",
+      "text": "Longitude only"
+    },
+    {
+      "id": "C",
+      "text": "Latitude only"
+    },
+    {
+      "id": "D",
+      "text": "Latitude and Longitude"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q28",
+  "text": "Steering gear is located in the",
+  "options": [
+    {
+      "id": "A",
+      "text": "forward of engine room"
+    },
+    {
+      "id": "B",
+      "text": "on the bridge"
+    },
+    {
+      "id": "C",
+      "text": "in a separate compartment aft of engine room"
+    },
+    {
+      "id": "D",
+      "text": "forecastle"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

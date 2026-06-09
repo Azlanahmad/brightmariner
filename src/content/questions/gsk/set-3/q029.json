@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q29",
+  "text": "A LoLo Ship is",
+  "options": [
+    {
+      "id": "A",
+      "text": "general Cargo Ship"
+    },
+    {
+      "id": "B",
+      "text": "Lift On Lift Off Container ship"
+    },
+    {
+      "id": "C",
+      "text": "Chemical Tanker"
+    },
+    {
+      "id": "D",
+      "text": "Same as RoRo Ship"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

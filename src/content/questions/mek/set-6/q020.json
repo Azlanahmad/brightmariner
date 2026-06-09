@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q20",
+  "text": "Which of the following is NOT an audio visual alram",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fire Alarm"
+    },
+    {
+      "id": "B",
+      "text": "Co2 Alarm"
+    },
+    {
+      "id": "C",
+      "text": "Ship security alarm"
+    },
+    {
+      "id": "D",
+      "text": "Machinery Alarm"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q4",
+  "text": "The union purschase is rigged with a",
+  "options": [
+    {
+      "id": "A",
+      "text": "Seizing wire"
+    },
+    {
+      "id": "B",
+      "text": "Mooring wire"
+    },
+    {
+      "id": "C",
+      "text": "Bowsing wire"
+    },
+    {
+      "id": "D",
+      "text": "Preventer wire"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

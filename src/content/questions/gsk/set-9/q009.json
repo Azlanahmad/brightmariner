@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q9",
+  "text": "The lower the angle of the boom of the derrick or crane",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lesser will be the lifting capacity"
+    },
+    {
+      "id": "B",
+      "text": "Greater will be the lifting capacity"
+    },
+    {
+      "id": "C",
+      "text": "Lesser will be the hoisting rate"
+    },
+    {
+      "id": "D",
+      "text": "Greater will be the hoisting rate"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

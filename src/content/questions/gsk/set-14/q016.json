@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q16",
+  "text": "When lifting up weights, one should",
+  "options": [
+    {
+      "id": "A",
+      "text": "Keep knees straight and lift weight with bent arms"
+    },
+    {
+      "id": "B",
+      "text": "Keep the legs and arms straight"
+    },
+    {
+      "id": "C",
+      "text": "Keep arms outstretched and pick up weights"
+    },
+    {
+      "id": "D",
+      "text": "Sit on knees and lift weight with a straight back"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

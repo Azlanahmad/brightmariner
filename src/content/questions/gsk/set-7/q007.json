@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q7",
+  "text": "A gant line acts as a",
+  "options": [
+    {
+      "id": "A",
+      "text": "Marking line"
+    },
+    {
+      "id": "B",
+      "text": "Rocket line"
+    },
+    {
+      "id": "C",
+      "text": "Heaving line"
+    },
+    {
+      "id": "D",
+      "text": "Messenger line"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

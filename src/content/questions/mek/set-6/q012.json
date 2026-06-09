@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q12",
+  "text": "Storage Tank in the engine room will be called as ______ if the tank capacity is in between 2-50 tonnes",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ballast Tank"
+    },
+    {
+      "id": "B",
+      "text": "Medium Tank"
+    },
+    {
+      "id": "C",
+      "text": "Large Tank"
+    },
+    {
+      "id": "D",
+      "text": "Small Tank"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

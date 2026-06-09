@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q21",
+  "text": "At night a port hand buoy has a _______ light",
+  "options": [
+    {
+      "id": "A",
+      "text": "Green light"
+    },
+    {
+      "id": "B",
+      "text": "Red light"
+    },
+    {
+      "id": "C",
+      "text": "Orange light"
+    },
+    {
+      "id": "D",
+      "text": "White light"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

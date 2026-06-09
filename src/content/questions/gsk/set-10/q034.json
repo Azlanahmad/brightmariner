@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q34",
+  "text": "Gooseneck of a derrick is an arrangement",
+  "options": [
+    {
+      "id": "A",
+      "text": "Which supports a derrick block"
+    },
+    {
+      "id": "B",
+      "text": "Which supports the derrick heel"
+    },
+    {
+      "id": "C",
+      "text": "For rigging a Derrick"
+    },
+    {
+      "id": "D",
+      "text": "To house the derrick when at sea"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

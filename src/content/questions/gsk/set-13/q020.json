@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q20",
+  "text": "Inspection of life saving appliances shall be carried out",
+  "options": [
+    {
+      "id": "A",
+      "text": "Monthly"
+    },
+    {
+      "id": "B",
+      "text": "Half yearly"
+    },
+    {
+      "id": "C",
+      "text": "Bimonthly"
+    },
+    {
+      "id": "D",
+      "text": "Weekly"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

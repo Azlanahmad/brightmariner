@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q10",
+  "text": "Which of the following is required for success of a project?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Purpose and Goal"
+    },
+    {
+      "id": "B",
+      "text": "Lots of money"
+    },
+    {
+      "id": "C",
+      "text": "Politics"
+    },
+    {
+      "id": "D",
+      "text": "Personal gain"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

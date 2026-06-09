@@ -1,0 +1,18 @@
+{
+  "id": "gsk-s4-q14",
+  "text": "Safety Shoes are utilised to protect hands and fingers",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

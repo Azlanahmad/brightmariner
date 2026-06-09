@@ -1,0 +1,18 @@
+{
+  "id": "gsk-s2-q6",
+  "text": "Keyboard is like a TV",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

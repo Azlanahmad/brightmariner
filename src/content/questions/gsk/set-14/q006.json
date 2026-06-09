@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q6",
+  "text": "FFA on board means",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fire fighting arrangements"
+    },
+    {
+      "id": "B",
+      "text": "Fire fighting appliances"
+    },
+    {
+      "id": "C",
+      "text": "Foam fire apparatus"
+    },
+    {
+      "id": "D",
+      "text": "Fixed fire appliances"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

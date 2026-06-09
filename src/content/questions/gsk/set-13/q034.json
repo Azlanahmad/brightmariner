@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q34",
+  "text": "Match the term \"TO ATTRACT ATTENTION\" with the most suitable answers given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vessel being towed"
+    },
+    {
+      "id": "B",
+      "text": "Five short blasts"
+    },
+    {
+      "id": "C",
+      "text": "One prolonged blast followed by two short"
+    },
+    {
+      "id": "D",
+      "text": "Six short blasts"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q26",
+  "text": "The purpose of Injector valve on a generator engine is for _____",
+  "options": [
+    {
+      "id": "A",
+      "text": "Safety"
+    },
+    {
+      "id": "B",
+      "text": "Fresh air intake"
+    },
+    {
+      "id": "C",
+      "text": "Fuel inlet"
+    },
+    {
+      "id": "D",
+      "text": "Compress air"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

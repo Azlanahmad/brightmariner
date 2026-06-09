@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q25",
+  "text": "One of the internal barriers to communication is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Noise"
+    },
+    {
+      "id": "B",
+      "text": "Time"
+    },
+    {
+      "id": "C",
+      "text": "Ego"
+    },
+    {
+      "id": "D",
+      "text": "Distraction"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

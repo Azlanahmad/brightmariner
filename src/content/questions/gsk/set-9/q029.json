@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q29",
+  "text": "Rope slings are used for loading",
+  "options": [
+    {
+      "id": "A",
+      "text": "Motor cars"
+    },
+    {
+      "id": "B",
+      "text": "Containers"
+    },
+    {
+      "id": "C",
+      "text": "Locomotives"
+    },
+    {
+      "id": "D",
+      "text": "Bagged cargo"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

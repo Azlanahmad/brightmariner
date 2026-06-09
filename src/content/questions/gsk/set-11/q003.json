@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q3",
+  "text": "Block which has a hinged side is known as",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heel block"
+    },
+    {
+      "id": "B",
+      "text": "Chain block"
+    },
+    {
+      "id": "C",
+      "text": "Snatch block"
+    },
+    {
+      "id": "D",
+      "text": "Gin Block"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

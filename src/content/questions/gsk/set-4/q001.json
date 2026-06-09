@@ -1,0 +1,18 @@
+{
+  "id": "gsk-s4-q1",
+  "text": "Welding can damage your eye sight if NOT DONE with proper protection",
+  "options": [
+    {
+      "id": "A",
+      "text": "False"
+    },
+    {
+      "id": "B",
+      "text": "True"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

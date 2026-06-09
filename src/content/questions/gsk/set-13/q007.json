@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q7",
+  "text": "SOLAS deals with",
+  "options": [
+    {
+      "id": "A",
+      "text": "Safety"
+    },
+    {
+      "id": "B",
+      "text": "Tank cleaning"
+    },
+    {
+      "id": "C",
+      "text": "Crew welfare"
+    },
+    {
+      "id": "D",
+      "text": "Pollution"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

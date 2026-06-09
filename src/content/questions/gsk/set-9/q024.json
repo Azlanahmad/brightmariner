@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q24",
+  "text": "Bulk carrier discharge cargo with",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hosepipes"
+    },
+    {
+      "id": "B",
+      "text": "Shovels"
+    },
+    {
+      "id": "C",
+      "text": "Grabs"
+    },
+    {
+      "id": "D",
+      "text": "Buckets"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q27",
+  "text": "A PCC is designed to carry",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dry Chemicals in cases"
+    },
+    {
+      "id": "B",
+      "text": "Cars Only"
+    },
+    {
+      "id": "C",
+      "text": "Petrol Products"
+    },
+    {
+      "id": "D",
+      "text": "20 Feet Small Containers"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

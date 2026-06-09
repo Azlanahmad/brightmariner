@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q30",
+  "text": "Sending information is the opposite of",
+  "options": [
+    {
+      "id": "A",
+      "text": "Encoding message"
+    },
+    {
+      "id": "B",
+      "text": "Action"
+    },
+    {
+      "id": "C",
+      "text": "Receiving information"
+    },
+    {
+      "id": "D",
+      "text": "Transmitting information"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

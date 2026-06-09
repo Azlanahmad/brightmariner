@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q2",
+  "text": "What Machine Tool will you be Using for Cutting a joint.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lathe machine"
+    },
+    {
+      "id": "B",
+      "text": "Bending machine"
+    },
+    {
+      "id": "C",
+      "text": "Drill machine"
+    },
+    {
+      "id": "D",
+      "text": "Scissors"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

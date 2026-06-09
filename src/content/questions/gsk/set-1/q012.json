@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q12",
+  "text": "Which of the following is NOT a communication skill?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Teaming"
+    },
+    {
+      "id": "B",
+      "text": "Writing"
+    },
+    {
+      "id": "C",
+      "text": "Speaking"
+    },
+    {
+      "id": "D",
+      "text": "Reading"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

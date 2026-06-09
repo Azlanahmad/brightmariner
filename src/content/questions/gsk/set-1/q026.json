@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q26",
+  "text": "While studying for examination, one should",
+  "options": [
+    {
+      "id": "A",
+      "text": "Memorize everything"
+    },
+    {
+      "id": "B",
+      "text": "Highlight the main points in the book"
+    },
+    {
+      "id": "C",
+      "text": "Try to understand the matter"
+    },
+    {
+      "id": "D",
+      "text": "Read very carefully"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q10",
+  "text": "Deck Crew Other jobs consist of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cleaning Eng.Room"
+    },
+    {
+      "id": "B",
+      "text": "Handle mooring lines, splice&repair ropes,wires,cordage"
+    },
+    {
+      "id": "C",
+      "text": "Cook food in the evenings"
+    },
+    {
+      "id": "D",
+      "text": "Oil Eng. Room machinery"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

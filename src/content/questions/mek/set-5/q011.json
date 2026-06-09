@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q11",
+  "text": "What material is not a commonly used as insulation material?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Plastic"
+    },
+    {
+      "id": "B",
+      "text": "Wood"
+    },
+    {
+      "id": "C",
+      "text": "Glass Wool"
+    },
+    {
+      "id": "D",
+      "text": "Fire Bricks"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

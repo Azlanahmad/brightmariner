@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q30",
+  "text": "Hatch covers can be of the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lift on Lift off"
+    },
+    {
+      "id": "B",
+      "text": "Folding type"
+    },
+    {
+      "id": "C",
+      "text": "Side opening type"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q15",
+  "text": "The colour of a starboard hand buoy is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Green"
+    },
+    {
+      "id": "B",
+      "text": "Red"
+    },
+    {
+      "id": "C",
+      "text": "Orange"
+    },
+    {
+      "id": "D",
+      "text": "Brown"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

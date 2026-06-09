@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q17",
+  "text": "A general alarm is activated",
+  "options": [
+    {
+      "id": "A",
+      "text": "from the bridge"
+    },
+    {
+      "id": "B",
+      "text": "automatically on machinery failure"
+    },
+    {
+      "id": "C",
+      "text": "due to black out"
+    },
+    {
+      "id": "D",
+      "text": "due to high bilge level"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

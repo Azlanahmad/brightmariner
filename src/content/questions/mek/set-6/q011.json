@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q11",
+  "text": "Each tank is required to have at least the following",
+  "options": [
+    {
+      "id": "A",
+      "text": "All of the above"
+    },
+    {
+      "id": "B",
+      "text": "Outlet Line"
+    },
+    {
+      "id": "C",
+      "text": "Air Vent"
+    },
+    {
+      "id": "D",
+      "text": "Sounding Pipe"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

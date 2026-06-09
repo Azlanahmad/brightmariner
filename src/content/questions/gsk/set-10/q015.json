@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q15",
+  "text": "Cellular container vessels have several lift on lift off hatch covers to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prevent water from entering into the cargo hold"
+    },
+    {
+      "id": "B",
+      "text": "Reduce the weight of each hatch cover"
+    },
+    {
+      "id": "C",
+      "text": "Carry more containers on deck Reduce the weight of each hatch cover"
+    },
+    {
+      "id": "D",
+      "text": "Minimize stress on the trackway"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

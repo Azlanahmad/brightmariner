@@ -1,0 +1,18 @@
+{
+  "id": "mek-s1-q19",
+  "text": "A TAP is used to make internal threads inside a drilled hole",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

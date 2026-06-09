@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q18",
+  "text": "Machinery cases loaded in the cargo hold should be lashed with",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nets"
+    },
+    {
+      "id": "B",
+      "text": "Heaving lines"
+    },
+    {
+      "id": "C",
+      "text": "Wire and turnbuckles"
+    },
+    {
+      "id": "D",
+      "text": "Twist locks"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q19",
+  "text": "For good combustion,the color of the exhaust from diesel engine should be",
+  "options": [
+    {
+      "id": "A",
+      "text": "light brown"
+    },
+    {
+      "id": "B",
+      "text": "colourless"
+    },
+    {
+      "id": "C",
+      "text": "light grey"
+    },
+    {
+      "id": "D",
+      "text": "bluish white"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

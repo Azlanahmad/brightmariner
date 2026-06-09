@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q1",
+  "text": "When you use a word file in a computer What do you mean by the term \"PASTE\" ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Spelling and grammer check"
+    },
+    {
+      "id": "B",
+      "text": "Paste copied or cut files into the document"
+    },
+    {
+      "id": "C",
+      "text": "Opens an existing file"
+    },
+    {
+      "id": "D",
+      "text": "Shows a preview of files before they print"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

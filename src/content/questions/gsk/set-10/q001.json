@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q1",
+  "text": "Eccentric rollers are lowered on steel hatch covers",
+  "options": [
+    {
+      "id": "A",
+      "text": "When the hatch cover has to be repaired"
+    },
+    {
+      "id": "B",
+      "text": "To make the hatch cover roll on the trackway"
+    },
+    {
+      "id": "C",
+      "text": "To make the hatch cover sit on the trackway"
+    },
+    {
+      "id": "D",
+      "text": "Grease the eccentric rollers"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

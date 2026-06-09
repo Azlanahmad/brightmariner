@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q24",
+  "text": "All accesses to a cargo hold should be",
+  "options": [
+    {
+      "id": "A",
+      "text": "Corrosion resistant"
+    },
+    {
+      "id": "B",
+      "text": "Water tight"
+    },
+    {
+      "id": "C",
+      "text": "Weather tight"
+    },
+    {
+      "id": "D",
+      "text": "Held tight"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

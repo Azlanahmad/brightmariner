@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q3",
+  "text": "When the low pressure alarm sounds on the SCBA the user should",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vacate the comchapterment immediately"
+    },
+    {
+      "id": "B",
+      "text": "Close the air bottle valve"
+    },
+    {
+      "id": "C",
+      "text": "Remove the face mask"
+    },
+    {
+      "id": "D",
+      "text": "Monitor the pressure in the bottles"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q27",
+  "text": "A Ro Ro ship can be used to carry",
+  "options": [
+    {
+      "id": "A",
+      "text": "All of the below"
+    },
+    {
+      "id": "B",
+      "text": "Passengers"
+    },
+    {
+      "id": "C",
+      "text": "Trucks"
+    },
+    {
+      "id": "D",
+      "text": "Cars"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q6",
+  "text": "A lead block is used in a derrick when rigging the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Purchase to advantage"
+    },
+    {
+      "id": "B",
+      "text": "Stay wire"
+    },
+    {
+      "id": "C",
+      "text": "Preventer wire"
+    },
+    {
+      "id": "D",
+      "text": "Heel block"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

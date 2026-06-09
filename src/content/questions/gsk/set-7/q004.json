@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q4",
+  "text": "Bow stopper is used to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prevent Anchor chain from running out."
+    },
+    {
+      "id": "B",
+      "text": "Prevent Anchor chain from coming in"
+    },
+    {
+      "id": "C",
+      "text": "Prevent the Anchor chain from fouling."
+    },
+    {
+      "id": "D",
+      "text": "Prevent the Anchor from dragging"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

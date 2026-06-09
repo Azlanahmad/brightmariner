@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q1",
+  "text": "The forecastle of the ship is in the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Midship chapter"
+    },
+    {
+      "id": "B",
+      "text": "Aft chapter"
+    },
+    {
+      "id": "C",
+      "text": "Rear chapter"
+    },
+    {
+      "id": "D",
+      "text": "Forward chapter"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

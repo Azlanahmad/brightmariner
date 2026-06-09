@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q13",
+  "text": "Can hooks are used for loading",
+  "options": [
+    {
+      "id": "A",
+      "text": "Machinery cases"
+    },
+    {
+      "id": "B",
+      "text": "Drums"
+    },
+    {
+      "id": "C",
+      "text": "Gunny bags"
+    },
+    {
+      "id": "D",
+      "text": "Pipes"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

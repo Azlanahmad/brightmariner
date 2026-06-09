@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q6",
+  "text": "A merchant ship is dry docked at intervals of",
+  "options": [
+    {
+      "id": "A",
+      "text": "18 months"
+    },
+    {
+      "id": "B",
+      "text": "30 months"
+    },
+    {
+      "id": "C",
+      "text": "10 months"
+    },
+    {
+      "id": "D",
+      "text": "20 months"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

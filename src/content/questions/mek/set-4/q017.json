@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q17",
+  "text": "Oxygen and ______ is used in gas welding on board",
+  "options": [
+    {
+      "id": "A",
+      "text": "Argon"
+    },
+    {
+      "id": "B",
+      "text": "Acetylene"
+    },
+    {
+      "id": "C",
+      "text": "Nitrogen"
+    },
+    {
+      "id": "D",
+      "text": "LPG"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

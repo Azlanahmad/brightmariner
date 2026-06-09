@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q19",
+  "text": "The stage can be lowered over side for shipside painting when the vessel is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Making way through water in good weather"
+    },
+    {
+      "id": "B",
+      "text": "At anchor in good weather"
+    },
+    {
+      "id": "C",
+      "text": "Underway"
+    },
+    {
+      "id": "D",
+      "text": "Manoeuvring alongside"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

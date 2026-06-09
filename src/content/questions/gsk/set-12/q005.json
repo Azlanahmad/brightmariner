@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q5",
+  "text": "If the gap between the sheave and the cheek plate is excessive the wire",
+  "options": [
+    {
+      "id": "A",
+      "text": "Needs to be changed"
+    },
+    {
+      "id": "B",
+      "text": "Needs to be greased"
+    },
+    {
+      "id": "C",
+      "text": "Should be spliced"
+    },
+    {
+      "id": "D",
+      "text": "Will get fouled"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

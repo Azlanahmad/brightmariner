@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q18",
+  "text": "For lifting a heavy load, you will use",
+  "options": [
+    {
+      "id": "A",
+      "text": "Eye bolt"
+    },
+    {
+      "id": "B",
+      "text": "Air Cylinder"
+    },
+    {
+      "id": "C",
+      "text": "Hydraulic Jack"
+    },
+    {
+      "id": "D",
+      "text": "Chain Block"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

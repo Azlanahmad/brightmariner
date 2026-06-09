@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q14",
+  "text": "The purpose of Lubricating Oil in a Diesel engine is to _______",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increases air supply"
+    },
+    {
+      "id": "B",
+      "text": "Reduces friction"
+    },
+    {
+      "id": "C",
+      "text": "Turns turbo charger"
+    },
+    {
+      "id": "D",
+      "text": "Gives power"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

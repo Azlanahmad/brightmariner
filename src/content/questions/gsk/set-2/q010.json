@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q10",
+  "text": "The ability to learn by practice is called",
+  "options": [
+    {
+      "id": "A",
+      "text": "Skill"
+    },
+    {
+      "id": "B",
+      "text": "Knowledge"
+    },
+    {
+      "id": "C",
+      "text": "Values"
+    },
+    {
+      "id": "D",
+      "text": "Attitude"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q15",
+  "text": "Master is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Head Of Nautical Dechapterment"
+    },
+    {
+      "id": "B",
+      "text": "Overall In Charge"
+    },
+    {
+      "id": "C",
+      "text": "Head Of Engine Dechapterment"
+    },
+    {
+      "id": "D",
+      "text": "In Charge Of Deck Officers"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

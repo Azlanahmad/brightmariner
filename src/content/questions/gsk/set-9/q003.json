@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q3",
+  "text": "Prior to loading cargo the hatch covers should be",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hose tested"
+    },
+    {
+      "id": "B",
+      "text": "Painted"
+    },
+    {
+      "id": "C",
+      "text": "Visually checked"
+    },
+    {
+      "id": "D",
+      "text": "Greased"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

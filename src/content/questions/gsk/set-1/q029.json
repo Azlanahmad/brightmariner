@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q29",
+  "text": "When you use a computer, What do you mean by the term \"NUMBERING\"?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Undoes previous actions"
+    },
+    {
+      "id": "B",
+      "text": "Zoom in and Zoom out"
+    },
+    {
+      "id": "C",
+      "text": "Writes numbered bullets"
+    },
+    {
+      "id": "D",
+      "text": "Opens a new word document"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q4",
+  "text": "What is to be checked on a running Main engine , during watch.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Exhaust temperature"
+    },
+    {
+      "id": "B",
+      "text": "Oil coming out of water side"
+    },
+    {
+      "id": "C",
+      "text": "Steering angle"
+    },
+    {
+      "id": "D",
+      "text": "Discharge pressure of liquid"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

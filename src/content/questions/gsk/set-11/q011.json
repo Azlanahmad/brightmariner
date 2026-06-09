@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q11",
+  "text": "A shackle is moused to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prevent corrosion of the pin"
+    },
+    {
+      "id": "B",
+      "text": "Strengthen the shackle"
+    },
+    {
+      "id": "C",
+      "text": "Prevent the pin from slipping"
+    },
+    {
+      "id": "D",
+      "text": "Increase the SWL of the shackle"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

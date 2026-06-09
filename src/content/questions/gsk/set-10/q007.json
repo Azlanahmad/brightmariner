@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q7",
+  "text": "The capacity of tank with depth is available in the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oil record book"
+    },
+    {
+      "id": "B",
+      "text": "ASTM tables"
+    },
+    {
+      "id": "C",
+      "text": "Calibration tables"
+    },
+    {
+      "id": "D",
+      "text": "Deck log book"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

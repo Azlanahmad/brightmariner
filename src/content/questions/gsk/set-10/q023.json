@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q23",
+  "text": "Cargo hold bilge strum boxes should be cleaned",
+  "options": [
+    {
+      "id": "A",
+      "text": "After every discharge of cargo"
+    },
+    {
+      "id": "B",
+      "text": "Every year"
+    },
+    {
+      "id": "C",
+      "text": "Once a month"
+    },
+    {
+      "id": "D",
+      "text": "In dry-dock"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

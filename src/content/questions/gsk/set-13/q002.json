@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q2",
+  "text": "The full form of EEBD is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Emergency exit below deck"
+    },
+    {
+      "id": "B",
+      "text": "Emergency escape below deck"
+    },
+    {
+      "id": "C",
+      "text": "Emergency escape breaking device"
+    },
+    {
+      "id": "D",
+      "text": "Emergency escape breathing device"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

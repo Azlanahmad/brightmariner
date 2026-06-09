@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s4-q2",
+  "text": "Which one of the following is not the Enclosed spaces",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sewage Tanks"
+    },
+    {
+      "id": "B",
+      "text": "Inert Gas scrubber"
+    },
+    {
+      "id": "C",
+      "text": "Cargo Holds and Cargo Tanks"
+    },
+    {
+      "id": "D",
+      "text": "Engine Room"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

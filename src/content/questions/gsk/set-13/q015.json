@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q15",
+  "text": "Red parachute flares are called",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pyrotechnics"
+    },
+    {
+      "id": "B",
+      "text": "Fire technics"
+    },
+    {
+      "id": "C",
+      "text": "Light technics"
+    },
+    {
+      "id": "D",
+      "text": "Flare technics"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

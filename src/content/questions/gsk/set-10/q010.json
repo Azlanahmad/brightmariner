@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q10",
+  "text": "In port loading and discharging on a cellular container ship is by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Shore gantry"
+    },
+    {
+      "id": "B",
+      "text": "Derricks"
+    },
+    {
+      "id": "C",
+      "text": "Wire slings"
+    },
+    {
+      "id": "D",
+      "text": "Grabs"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

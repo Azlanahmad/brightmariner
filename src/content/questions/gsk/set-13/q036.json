@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q36",
+  "text": "On joining the ship the crew members should familiarize themselves with the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Contents of the lifeboat"
+    },
+    {
+      "id": "B",
+      "text": "Menu"
+    },
+    {
+      "id": "C",
+      "text": "Muster list"
+    },
+    {
+      "id": "D",
+      "text": "Crew list"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

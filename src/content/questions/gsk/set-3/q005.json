@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q5",
+  "text": "Winches,Cranes,Derricks,Hatchcovers,Gangways are operated by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Eng.Crew"
+    },
+    {
+      "id": "B",
+      "text": "Deck Officers"
+    },
+    {
+      "id": "C",
+      "text": "Deck Crew"
+    },
+    {
+      "id": "D",
+      "text": "Bosun"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

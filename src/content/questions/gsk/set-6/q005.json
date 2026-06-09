@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q5",
+  "text": "Ensign flag is the flag of the",
+  "options": [
+    {
+      "id": "A",
+      "text": "State"
+    },
+    {
+      "id": "B",
+      "text": "Port of call"
+    },
+    {
+      "id": "C",
+      "text": "Country"
+    },
+    {
+      "id": "D",
+      "text": "Shipping Company"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

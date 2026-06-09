@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q16",
+  "text": "In Mooring term \"Make Fast\" means",
+  "options": [
+    {
+      "id": "A",
+      "text": "Use the chain stopper"
+    },
+    {
+      "id": "B",
+      "text": "Make fast the hawser on the bitts"
+    },
+    {
+      "id": "C",
+      "text": "Do mooring operations faster."
+    },
+    {
+      "id": "D",
+      "text": "Start heaving the anchor faster"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q12",
+  "text": "What is used in case the fire in the engine room becomes out of control",
+  "options": [
+    {
+      "id": "A",
+      "text": "portable fire extinguisher"
+    },
+    {
+      "id": "B",
+      "text": "45 liters foam fire extinguisher"
+    },
+    {
+      "id": "C",
+      "text": "fixed CO2 fire extinguishing system"
+    },
+    {
+      "id": "D",
+      "text": "fire pumps and hoses"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

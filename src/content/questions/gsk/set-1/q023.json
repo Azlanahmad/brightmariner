@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q23",
+  "text": "When you use a computer, What do you mean by the term \"CPU\"?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Used to point objects on the monitor"
+    },
+    {
+      "id": "B",
+      "text": "Data can be written and rewritten on the CD"
+    },
+    {
+      "id": "C",
+      "text": "The brain of the computer"
+    },
+    {
+      "id": "D",
+      "text": "Peripheral to the computer"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

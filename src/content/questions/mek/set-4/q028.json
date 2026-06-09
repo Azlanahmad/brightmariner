@@ -1,0 +1,18 @@
+{
+  "id": "mek-s4-q28",
+  "text": "In welding screen, welding glasses are always used with Protective glasses",
+  "options": [
+    {
+      "id": "A",
+      "text": "False"
+    },
+    {
+      "id": "B",
+      "text": "True"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

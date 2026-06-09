@@ -1,0 +1,18 @@
+{
+  "id": "mek-s4-q22",
+  "text": "The function of Electrode dryer is to wet the electrodes that have been exposed to a humid atmosphere",
+  "options": [
+    {
+      "id": "A",
+      "text": "False"
+    },
+    {
+      "id": "B",
+      "text": "True"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q15",
+  "text": "Before lifting a lifeboat from the water, it must be ensured that",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bottom plug is shipped tight"
+    },
+    {
+      "id": "B",
+      "text": "Engine is going astern"
+    },
+    {
+      "id": "C",
+      "text": "Fall wires are clear and hooked securely"
+    },
+    {
+      "id": "D",
+      "text": "Sea anchor is streamed"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q19",
+  "text": "When there is any under water diving:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flag O is hoisted"
+    },
+    {
+      "id": "B",
+      "text": "Flag P is hoisted"
+    },
+    {
+      "id": "C",
+      "text": "Flag B is hoisted"
+    },
+    {
+      "id": "D",
+      "text": "Flag A is hoisted"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

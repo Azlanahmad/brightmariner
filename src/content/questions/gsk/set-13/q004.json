@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q4",
+  "text": "After abandon ship, the survivors in a lifeboat must be given",
+  "options": [
+    {
+      "id": "A",
+      "text": "Two litres of water each"
+    },
+    {
+      "id": "B",
+      "text": "One litre of water each"
+    },
+    {
+      "id": "C",
+      "text": "No water for the first twenty four hours"
+    },
+    {
+      "id": "D",
+      "text": "Half a litre of water each"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

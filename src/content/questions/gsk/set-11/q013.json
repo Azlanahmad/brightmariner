@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q13",
+  "text": "Blocks are greased to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prevent Accidents"
+    },
+    {
+      "id": "B",
+      "text": "Allow free rotation of sheaves"
+    },
+    {
+      "id": "C",
+      "text": "Maintain the SWL of the block"
+    },
+    {
+      "id": "D",
+      "text": "Keep the check nut tight"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

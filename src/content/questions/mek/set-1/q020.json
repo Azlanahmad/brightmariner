@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q20",
+  "text": "A \"STUD\" has",
+  "options": [
+    {
+      "id": "A",
+      "text": "Threads at one end with a slot at the other end"
+    },
+    {
+      "id": "B",
+      "text": "Double pitch threads"
+    },
+    {
+      "id": "C",
+      "text": "Hexagonal head and thread at the other end"
+    },
+    {
+      "id": "D",
+      "text": "Thread at both ends"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q6",
+  "text": "Match the word \"RESTRICTED IN HER ABILITY TO MANEUVER\" with the most suitable word given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "One prolonged blast followed by two short"
+    },
+    {
+      "id": "B",
+      "text": "Altering course to Stateboard"
+    },
+    {
+      "id": "C",
+      "text": "One prolonged blast every two minutes"
+    },
+    {
+      "id": "D",
+      "text": "Five short blasts"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

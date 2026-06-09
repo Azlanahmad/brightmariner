@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q31",
+  "text": "Various components of Steering Gear ...Tick the incorrect one",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hydrophore Unit"
+    },
+    {
+      "id": "B",
+      "text": "Actuating Unit"
+    },
+    {
+      "id": "C",
+      "text": "Power Unit"
+    },
+    {
+      "id": "D",
+      "text": "Control Unit"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q27",
+  "text": "Abandon ship is indicated by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intermittent ringing of the ships bell"
+    },
+    {
+      "id": "B",
+      "text": "Seven short and one long blast on ships whistle"
+    },
+    {
+      "id": "C",
+      "text": "Masters verbal orders"
+    },
+    {
+      "id": "D",
+      "text": "Continuous ringing of ship’s bell"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q8",
+  "text": "Settling tanks on ship are provided for",
+  "options": [
+    {
+      "id": "A",
+      "text": "allowing water and sludge to separate before oil seperator"
+    },
+    {
+      "id": "B",
+      "text": "mixing oils before use"
+    },
+    {
+      "id": "C",
+      "text": "storing oils before its use"
+    },
+    {
+      "id": "D",
+      "text": "filtering water from fuel oil"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

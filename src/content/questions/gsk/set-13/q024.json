@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q24",
+  "text": "A self-contained breathing apparatus",
+  "options": [
+    {
+      "id": "A",
+      "text": "Is used for underwater surveys"
+    },
+    {
+      "id": "B",
+      "text": "Contains oxygen"
+    },
+    {
+      "id": "C",
+      "text": "Is connected to the deck air line"
+    },
+    {
+      "id": "D",
+      "text": "Is used for entry in enclosed spaces"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q30",
+  "text": "For good relationship with others",
+  "options": [
+    {
+      "id": "A",
+      "text": "The two most important words: Thank you"
+    },
+    {
+      "id": "B",
+      "text": "The least important word: We"
+    },
+    {
+      "id": "C",
+      "text": "The best words are: You are wrong"
+    },
+    {
+      "id": "D",
+      "text": "The one most important word: You"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

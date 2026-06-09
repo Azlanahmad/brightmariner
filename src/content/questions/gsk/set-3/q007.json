@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q7",
+  "text": "Ship Steering is done by",
+  "options": [
+    {
+      "id": "A",
+      "text": "OS"
+    },
+    {
+      "id": "B",
+      "text": "Bosun"
+    },
+    {
+      "id": "C",
+      "text": "AB"
+    },
+    {
+      "id": "D",
+      "text": "GS"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

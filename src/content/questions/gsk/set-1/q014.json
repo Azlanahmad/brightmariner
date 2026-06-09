@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q14",
+  "text": "When you use a computer, What do you mean by the term \"KEYBOARD\" ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Used to point objects on the monitor"
+    },
+    {
+      "id": "B",
+      "text": "Data can be written and rewritten on the CD"
+    },
+    {
+      "id": "C",
+      "text": "Peripheral to the computer"
+    },
+    {
+      "id": "D",
+      "text": "Like a type-writer ;communicates with computer"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q16",
+  "text": "The conventions which sets minimum standards of basic labour rights is called",
+  "options": [
+    {
+      "id": "A",
+      "text": "ILO"
+    },
+    {
+      "id": "B",
+      "text": "ISO"
+    },
+    {
+      "id": "C",
+      "text": "SSO"
+    },
+    {
+      "id": "D",
+      "text": "RSO"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

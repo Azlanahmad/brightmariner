@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q27",
+  "text": "Exhaust valve in a Diesel engine ______",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stays in place"
+    },
+    {
+      "id": "B",
+      "text": "Opens and closes"
+    },
+    {
+      "id": "C",
+      "text": "Rotates in place"
+    },
+    {
+      "id": "D",
+      "text": "Moves up and down"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

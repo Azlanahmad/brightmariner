@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q2",
+  "text": "The shape of a port hand buoy is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Can"
+    },
+    {
+      "id": "B",
+      "text": "Hexagonal"
+    },
+    {
+      "id": "C",
+      "text": "Circular"
+    },
+    {
+      "id": "D",
+      "text": "Conical"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

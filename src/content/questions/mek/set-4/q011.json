@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q11",
+  "text": "DO'S on Machine safety...Mark the incorrect one",
+  "options": [
+    {
+      "id": "A",
+      "text": "Keep machine clean and in good condition"
+    },
+    {
+      "id": "B",
+      "text": "Check wheel rotation after running of machine"
+    },
+    {
+      "id": "C",
+      "text": "Switch off machine immediately if anything goes wrong"
+    },
+    {
+      "id": "D",
+      "text": "Check oil levels of machine before starting"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

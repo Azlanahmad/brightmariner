@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s4-q16",
+  "text": "\"Boiler Suit\" is utilised to protect______________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nose & mouth, Face"
+    },
+    {
+      "id": "B",
+      "text": "Body"
+    },
+    {
+      "id": "C",
+      "text": "Feet"
+    },
+    {
+      "id": "D",
+      "text": "Head"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

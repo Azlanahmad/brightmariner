@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q17",
+  "text": "Port customs prohibits a seaman from possessing",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tape recorders"
+    },
+    {
+      "id": "B",
+      "text": "Narcotic drugs"
+    },
+    {
+      "id": "C",
+      "text": "Gold chains"
+    },
+    {
+      "id": "D",
+      "text": "Cigarettes"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

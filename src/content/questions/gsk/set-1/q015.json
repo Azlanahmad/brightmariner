@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q15",
+  "text": "When you use a computer, What do you mean by the term \"ZOOM\"?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Zoom in and Zoom out"
+    },
+    {
+      "id": "B",
+      "text": "Opens a new word document"
+    },
+    {
+      "id": "C",
+      "text": "Cuts files into the clip-board"
+    },
+    {
+      "id": "D",
+      "text": "Writes numbered bullets"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

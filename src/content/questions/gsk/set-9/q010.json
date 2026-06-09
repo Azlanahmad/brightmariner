@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q10",
+  "text": "Hatches are secured by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chain lashing"
+    },
+    {
+      "id": "B",
+      "text": "Eccentric rollers"
+    },
+    {
+      "id": "C",
+      "text": "Quick acting cleats"
+    },
+    {
+      "id": "D",
+      "text": "Wire lashing"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q4",
+  "text": "MARPOL 73/78 does not regulate the discharge of",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oil into the sea"
+    },
+    {
+      "id": "B",
+      "text": "Chemicals into the sea"
+    },
+    {
+      "id": "C",
+      "text": "Fresh water into the sea"
+    },
+    {
+      "id": "D",
+      "text": "Garbage into the sea"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

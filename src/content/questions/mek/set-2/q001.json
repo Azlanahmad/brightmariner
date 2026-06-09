@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q1",
+  "text": "Which of this is not fitted on the cylinder head of a diesel engine",
+  "options": [
+    {
+      "id": "A",
+      "text": "exhaust valve"
+    },
+    {
+      "id": "B",
+      "text": "turbo charger"
+    },
+    {
+      "id": "C",
+      "text": "starting valve"
+    },
+    {
+      "id": "D",
+      "text": "indicator valve"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

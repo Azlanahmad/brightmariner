@@ -1,0 +1,18 @@
+{
+  "id": "gsk-s4-q5",
+  "text": "Your Safety onboard is chapterly YOUR OWN responsibility",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

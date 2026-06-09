@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q14",
+  "text": "Non- Verbal modes of communication are",
+  "options": [
+    {
+      "id": "A",
+      "text": "Words"
+    },
+    {
+      "id": "B",
+      "text": "Symbols"
+    },
+    {
+      "id": "C",
+      "text": "Channel"
+    },
+    {
+      "id": "D",
+      "text": "Speech"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

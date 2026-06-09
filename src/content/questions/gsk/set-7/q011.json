@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q11",
+  "text": "Windlass brake lining is attached to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Brake band"
+    },
+    {
+      "id": "B",
+      "text": "Gear box"
+    },
+    {
+      "id": "C",
+      "text": "Windlass motor"
+    },
+    {
+      "id": "D",
+      "text": "Windlass drum"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

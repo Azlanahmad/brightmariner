@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q20",
+  "text": "Before proceeding out to sea on a long voyage anchors are secured using",
+  "options": [
+    {
+      "id": "A",
+      "text": "Turnbuckle and wire lashing"
+    },
+    {
+      "id": "B",
+      "text": "Chain stopper"
+    },
+    {
+      "id": "C",
+      "text": "Locking Pin"
+    },
+    {
+      "id": "D",
+      "text": "Windlass Brake"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

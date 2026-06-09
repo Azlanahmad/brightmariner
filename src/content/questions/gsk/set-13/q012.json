@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q12",
+  "text": "Number of lifebuoys on a ship depends on its",
+  "options": [
+    {
+      "id": "A",
+      "text": "Length"
+    },
+    {
+      "id": "B",
+      "text": "Draught"
+    },
+    {
+      "id": "C",
+      "text": "Moulded breadth"
+    },
+    {
+      "id": "D",
+      "text": "Deadweight"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

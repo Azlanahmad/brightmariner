@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q27",
+  "text": "CPU stands for",
+  "options": [
+    {
+      "id": "A",
+      "text": "Computer processing unit"
+    },
+    {
+      "id": "B",
+      "text": "Central process unit"
+    },
+    {
+      "id": "C",
+      "text": "Computer program unit"
+    },
+    {
+      "id": "D",
+      "text": "Central processing unit"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

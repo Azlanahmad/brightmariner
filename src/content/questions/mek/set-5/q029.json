@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q29",
+  "text": "Rudder of the ship is turned by means of a",
+  "options": [
+    {
+      "id": "A",
+      "text": "hydraulic pump"
+    },
+    {
+      "id": "B",
+      "text": "propeller"
+    },
+    {
+      "id": "C",
+      "text": "Cylinder and Ram arrangement only"
+    },
+    {
+      "id": "D",
+      "text": "steering wheel"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q9",
+  "text": "The last link in the anchor chain is called",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chain end"
+    },
+    {
+      "id": "B",
+      "text": "Bitter end."
+    },
+    {
+      "id": "C",
+      "text": "Better end."
+    },
+    {
+      "id": "D",
+      "text": "Half shackle end."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

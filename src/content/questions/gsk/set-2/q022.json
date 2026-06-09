@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q22",
+  "text": "Communication can be done",
+  "options": [
+    {
+      "id": "A",
+      "text": "Non Verbally"
+    },
+    {
+      "id": "B",
+      "text": "Verbally"
+    },
+    {
+      "id": "C",
+      "text": "By self - expression"
+    },
+    {
+      "id": "D",
+      "text": "Both verbally and non- verbally"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q20",
+  "text": "When lifting a spar vertically through a manhole the hitch to use is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Clove hitch"
+    },
+    {
+      "id": "B",
+      "text": "Timber hitch"
+    },
+    {
+      "id": "C",
+      "text": "Draw hitch"
+    },
+    {
+      "id": "D",
+      "text": "Midshipman hitch"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

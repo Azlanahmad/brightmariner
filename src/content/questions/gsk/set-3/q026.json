@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q26",
+  "text": "A PCC Vessel is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Air Conditioned Passenger Ship"
+    },
+    {
+      "id": "B",
+      "text": "Pure Car Carrier"
+    },
+    {
+      "id": "C",
+      "text": "Packaged Dangerous Chemicals"
+    },
+    {
+      "id": "D",
+      "text": "Chemicals in bulk carrier"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

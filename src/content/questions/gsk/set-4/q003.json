@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s4-q3",
+  "text": "Redness in the EYE can be caused by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lack of oxygen"
+    },
+    {
+      "id": "B",
+      "text": "Flying dust"
+    },
+    {
+      "id": "C",
+      "text": "Fall"
+    },
+    {
+      "id": "D",
+      "text": "Welding"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

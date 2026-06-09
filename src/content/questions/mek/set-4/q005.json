@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q5",
+  "text": "What Machine Tool will you be Using for Making holes in a plate",
+  "options": [
+    {
+      "id": "A",
+      "text": "Grinding machine"
+    },
+    {
+      "id": "B",
+      "text": "Drill machine"
+    },
+    {
+      "id": "C",
+      "text": "Bending machine"
+    },
+    {
+      "id": "D",
+      "text": "Lathe machine"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

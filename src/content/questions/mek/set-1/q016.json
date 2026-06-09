@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q16",
+  "text": "\"Cuts\" are caused by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flat spanners"
+    },
+    {
+      "id": "B",
+      "text": "Blunt chisels"
+    },
+    {
+      "id": "C",
+      "text": "Hammers"
+    },
+    {
+      "id": "D",
+      "text": "Sharp objects"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

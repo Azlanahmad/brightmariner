@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q1",
+  "text": "A quick closing valve is fitted on",
+  "options": [
+    {
+      "id": "A",
+      "text": "boiler steam line"
+    },
+    {
+      "id": "B",
+      "text": "main engine cooling system"
+    },
+    {
+      "id": "C",
+      "text": "fuel tanks above double bottom tanks"
+    },
+    {
+      "id": "D",
+      "text": "compressed air line"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

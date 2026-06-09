@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q18",
+  "text": "A gun tackle can be used",
+  "options": [
+    {
+      "id": "A",
+      "text": "Only to advantage"
+    },
+    {
+      "id": "B",
+      "text": "Only to disadvantage"
+    },
+    {
+      "id": "C",
+      "text": "Both to advantage and disadvantage"
+    },
+    {
+      "id": "D",
+      "text": "Never to advantage"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

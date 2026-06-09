@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q18",
+  "text": "UMS stands for",
+  "options": [
+    {
+      "id": "A",
+      "text": "Uniform Machinery Space Operation"
+    },
+    {
+      "id": "B",
+      "text": "Unattended Machinery Space Operation"
+    },
+    {
+      "id": "C",
+      "text": "Undermanned Machinery Space Operation"
+    },
+    {
+      "id": "D",
+      "text": "Under Machinery Space Operation"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q21",
+  "text": "The type of engine normally used for generators on a ship is ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "4 stroke"
+    },
+    {
+      "id": "B",
+      "text": "2 stroke"
+    },
+    {
+      "id": "C",
+      "text": "6 stroke"
+    },
+    {
+      "id": "D",
+      "text": "medium stroke"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

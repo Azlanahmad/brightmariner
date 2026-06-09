@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q3",
+  "text": "The Intercode flag which is hoisted when there is a pilot on board is",
+  "options": [
+    {
+      "id": "A",
+      "text": "A"
+    },
+    {
+      "id": "B",
+      "text": "P"
+    },
+    {
+      "id": "C",
+      "text": "H"
+    },
+    {
+      "id": "D",
+      "text": "G"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

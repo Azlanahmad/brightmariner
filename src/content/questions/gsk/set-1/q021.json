@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q21",
+  "text": "When you use a word file in a computer What do you mean by the term \"NEW\" ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Open a new word document"
+    },
+    {
+      "id": "B",
+      "text": "Writes numbered bullets"
+    },
+    {
+      "id": "C",
+      "text": "Opens an existing file"
+    },
+    {
+      "id": "D",
+      "text": "Spelling and grammer check"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

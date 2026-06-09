@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q4",
+  "text": "Air vent to tanks is provided for",
+  "options": [
+    {
+      "id": "A",
+      "text": "preventing build up of pressure or vaccum"
+    },
+    {
+      "id": "B",
+      "text": "allowing liquid to come out when tank is full"
+    },
+    {
+      "id": "C",
+      "text": "preventing fire"
+    },
+    {
+      "id": "D",
+      "text": "for ventilation"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

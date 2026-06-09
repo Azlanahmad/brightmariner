@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q19",
+  "text": "Cargo Operations, Navigation & Administration are responsibility of",
+  "options": [
+    {
+      "id": "A",
+      "text": "Engine Dechapterment"
+    },
+    {
+      "id": "B",
+      "text": "Nautical Dechapterment"
+    },
+    {
+      "id": "C",
+      "text": "Captain Dechapterment"
+    },
+    {
+      "id": "D",
+      "text": "Chief Officer Dechapterment"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

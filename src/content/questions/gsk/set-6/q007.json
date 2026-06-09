@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q7",
+  "text": "Match the term \"VENUS\" with the most suitable answers given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Depth in metres"
+    },
+    {
+      "id": "B",
+      "text": "Moon"
+    },
+    {
+      "id": "C",
+      "text": "Star"
+    },
+    {
+      "id": "D",
+      "text": "Planet"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

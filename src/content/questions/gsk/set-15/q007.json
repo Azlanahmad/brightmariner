@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q7",
+  "text": "Sounding of all fuel tanks are entered in the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deck Log Book"
+    },
+    {
+      "id": "B",
+      "text": "Engine Log Book"
+    },
+    {
+      "id": "C",
+      "text": "Official Log Book"
+    },
+    {
+      "id": "D",
+      "text": "Rough Log Book"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

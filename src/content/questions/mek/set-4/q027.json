@@ -1,0 +1,18 @@
+{
+  "id": "mek-s4-q27",
+  "text": "Spats protect the ankles from melted metal and splatter",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

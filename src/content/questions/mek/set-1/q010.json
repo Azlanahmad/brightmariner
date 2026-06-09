@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q10",
+  "text": "Which of the following is not a job of an engine room rating?",
+  "options": [
+    {
+      "id": "A",
+      "text": "assist in watchkeeping"
+    },
+    {
+      "id": "B",
+      "text": "assist in watchkeeping"
+    },
+    {
+      "id": "C",
+      "text": "assist in maintenance work"
+    },
+    {
+      "id": "D",
+      "text": "operate main engine"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

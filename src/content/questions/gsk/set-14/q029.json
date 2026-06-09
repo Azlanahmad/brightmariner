@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q29",
+  "text": "For entry in any enclosed space the oxygen content in the comchapterment should be",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.16"
+    },
+    {
+      "id": "B",
+      "text": "0.19"
+    },
+    {
+      "id": "C",
+      "text": "0.21"
+    },
+    {
+      "id": "D",
+      "text": "0.18"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

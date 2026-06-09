@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q8",
+  "text": "Coastal charts are available as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Temperature charts"
+    },
+    {
+      "id": "B",
+      "text": "Bar charts"
+    },
+    {
+      "id": "C",
+      "text": "Mercator charts"
+    },
+    {
+      "id": "D",
+      "text": "Solar charts"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

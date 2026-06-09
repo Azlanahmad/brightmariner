@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q19",
+  "text": "\"Smothering\" during fire fighting is achieved by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Covering with CO2"
+    },
+    {
+      "id": "B",
+      "text": "Cutting fuel supply"
+    },
+    {
+      "id": "C",
+      "text": "Cutting contact with air"
+    },
+    {
+      "id": "D",
+      "text": "Removing heat"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

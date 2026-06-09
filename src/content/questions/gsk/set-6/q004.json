@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q4",
+  "text": "A vessel when steering by auto-pilot the helmsman",
+  "options": [
+    {
+      "id": "A",
+      "text": "Can be engage on deck"
+    },
+    {
+      "id": "B",
+      "text": "Can go off duty"
+    },
+    {
+      "id": "C",
+      "text": "Not Required on break Bridge"
+    },
+    {
+      "id": "D",
+      "text": "Required to stand by on bridge"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

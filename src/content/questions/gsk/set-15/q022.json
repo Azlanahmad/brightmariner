@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q22",
+  "text": "PSC can detain a vessel if the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Shipside is rusted chapterially"
+    },
+    {
+      "id": "B",
+      "text": "Competence of the crew is below standard"
+    },
+    {
+      "id": "C",
+      "text": "Rat guards are not placed properly on the mooring ropes"
+    },
+    {
+      "id": "D",
+      "text": "Cargo operations slows down"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

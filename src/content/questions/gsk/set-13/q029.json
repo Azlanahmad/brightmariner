@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q29",
+  "text": "The international signal for \"Man Overboard\" is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Continuous ringing of the ship’s alarm"
+    },
+    {
+      "id": "B",
+      "text": "Five short and rapid blasts"
+    },
+    {
+      "id": "C",
+      "text": "Three prolonged blasts"
+    },
+    {
+      "id": "D",
+      "text": "Seven or more short blasts followed by prolong blast"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

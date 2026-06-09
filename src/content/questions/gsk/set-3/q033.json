@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q33",
+  "text": "Reefer ship carries",
+  "options": [
+    {
+      "id": "A",
+      "text": "Trucks & Trailers"
+    },
+    {
+      "id": "B",
+      "text": "Cases of machinery"
+    },
+    {
+      "id": "C",
+      "text": "Dangerous cargo"
+    },
+    {
+      "id": "D",
+      "text": "Frozen Cargo"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

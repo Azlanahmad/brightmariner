@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q24",
+  "text": "Disposal of used/expired chemical container should be done by",
+  "options": [
+    {
+      "id": "A",
+      "text": "throwin into deep sea"
+    },
+    {
+      "id": "B",
+      "text": "disposal with ships garbage"
+    },
+    {
+      "id": "C",
+      "text": "disposal as per makers instruction"
+    },
+    {
+      "id": "D",
+      "text": "burning in incinerator"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

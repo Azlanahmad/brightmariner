@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q30",
+  "text": "The purpose of SOLAS to",
+  "options": [
+    {
+      "id": "A",
+      "text": "How to conduct boat / fire drills"
+    },
+    {
+      "id": "B",
+      "text": "How to launch life boat"
+    },
+    {
+      "id": "C",
+      "text": "Advice ship officer on how to navigate their ships"
+    },
+    {
+      "id": "D",
+      "text": "Enhance Safety of life at sea"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

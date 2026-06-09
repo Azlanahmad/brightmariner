@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q2",
+  "text": "The knot used for making a back splice is a",
+  "options": [
+    {
+      "id": "A",
+      "text": "Figure of eight knot"
+    },
+    {
+      "id": "B",
+      "text": "Reef knot"
+    },
+    {
+      "id": "C",
+      "text": "Overhand knot"
+    },
+    {
+      "id": "D",
+      "text": "Crown knot"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

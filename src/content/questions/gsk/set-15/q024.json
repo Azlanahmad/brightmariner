@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q24",
+  "text": "The following certificate need not be carried on board by the seaman",
+  "options": [
+    {
+      "id": "A",
+      "text": "Continuous Discharge Certificate"
+    },
+    {
+      "id": "B",
+      "text": "Medical Certificate"
+    },
+    {
+      "id": "C",
+      "text": "School Leaving Certificate"
+    },
+    {
+      "id": "D",
+      "text": "Mandatory STCW Certificates"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

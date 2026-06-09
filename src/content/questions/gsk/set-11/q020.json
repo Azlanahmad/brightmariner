@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q20",
+  "text": "Greasing is carried out on equipment to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reduce friction"
+    },
+    {
+      "id": "B",
+      "text": "Increase friction"
+    },
+    {
+      "id": "C",
+      "text": "Make it watertight"
+    },
+    {
+      "id": "D",
+      "text": "Make it airtight"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q19",
+  "text": "Match the term \"MUMBAI HARBOUR\" with the most suitable answers given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Compass error"
+    },
+    {
+      "id": "B",
+      "text": "60 nautical miles"
+    },
+    {
+      "id": "C",
+      "text": "Plan chart"
+    },
+    {
+      "id": "D",
+      "text": "Green buoy"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

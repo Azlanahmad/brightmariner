@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q32",
+  "text": "Scupper is",
+  "options": [
+    {
+      "id": "A",
+      "text": "flag flown on the foremast"
+    },
+    {
+      "id": "B",
+      "text": "Hand Operated pump"
+    },
+    {
+      "id": "C",
+      "text": "Rubber squuegee"
+    },
+    {
+      "id": "D",
+      "text": "Drain pipe"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

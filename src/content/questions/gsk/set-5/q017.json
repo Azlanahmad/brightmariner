@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q17",
+  "text": "Match the term \"STARBOARD HAND\" with the most suitable answers given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Red can buoy"
+    },
+    {
+      "id": "B",
+      "text": "Depth in metres"
+    },
+    {
+      "id": "C",
+      "text": "Green conical buoy"
+    },
+    {
+      "id": "D",
+      "text": "Parallel ruler"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

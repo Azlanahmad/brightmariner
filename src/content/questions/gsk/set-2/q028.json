@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q28",
+  "text": "When you use a computer, What do you mean by the term \"CUT\"?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Opens a new word document"
+    },
+    {
+      "id": "B",
+      "text": "Quick save files"
+    },
+    {
+      "id": "C",
+      "text": "Undoes previous actions"
+    },
+    {
+      "id": "D",
+      "text": "Cuts files into the clip-board"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

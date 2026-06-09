@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q2",
+  "text": "Piston in a Diesel engine _______",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stays in place"
+    },
+    {
+      "id": "B",
+      "text": "Moves up and down"
+    },
+    {
+      "id": "C",
+      "text": "Oscillates"
+    },
+    {
+      "id": "D",
+      "text": "Rotates in place"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

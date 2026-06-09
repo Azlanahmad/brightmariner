@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q9",
+  "text": "For Anchoring",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ch.Off must proceed on aft stations"
+    },
+    {
+      "id": "B",
+      "text": "Ch.Off. with Bosun & rating must go forward stations"
+    },
+    {
+      "id": "C",
+      "text": "Eng. Crew is required to go forward"
+    },
+    {
+      "id": "D",
+      "text": "Only Deck rating must go forward"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

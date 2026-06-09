@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q7",
+  "text": "Which of the following is within the engine room?",
+  "options": [
+    {
+      "id": "A",
+      "text": "paint storage room"
+    },
+    {
+      "id": "B",
+      "text": "CO2 Room"
+    },
+    {
+      "id": "C",
+      "text": "cargo pump room"
+    },
+    {
+      "id": "D",
+      "text": "purifiers room"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

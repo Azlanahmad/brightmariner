@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q9",
+  "text": "Proof Load of derrick / crane is",
+  "options": [
+    {
+      "id": "A",
+      "text": "More than breaking strength"
+    },
+    {
+      "id": "B",
+      "text": "More than safe working load"
+    },
+    {
+      "id": "C",
+      "text": "Less than"
+    },
+    {
+      "id": "D",
+      "text": "Same as safe working Load"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

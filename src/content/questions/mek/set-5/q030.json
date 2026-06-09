@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q30",
+  "text": "Which of the following is a correct statement",
+  "options": [
+    {
+      "id": "A",
+      "text": "Steering gear is located at aft part of the ship"
+    },
+    {
+      "id": "B",
+      "text": "Rudder is connected to the propeller"
+    },
+    {
+      "id": "C",
+      "text": "Rudder is located in the steering flat"
+    },
+    {
+      "id": "D",
+      "text": "Propeller is turned by the rudder"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

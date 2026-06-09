@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q12",
+  "text": "If cooling water becomes less in a diesel engine the engine will",
+  "options": [
+    {
+      "id": "A",
+      "text": "make more noise"
+    },
+    {
+      "id": "B",
+      "text": "cool down too much"
+    },
+    {
+      "id": "C",
+      "text": "get overheated"
+    },
+    {
+      "id": "D",
+      "text": "not start"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

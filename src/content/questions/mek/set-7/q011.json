@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q11",
+  "text": "Fire hose on ship are made of",
+  "options": [
+    {
+      "id": "A",
+      "text": "strong canvas"
+    },
+    {
+      "id": "B",
+      "text": "thick cloth"
+    },
+    {
+      "id": "C",
+      "text": "leather"
+    },
+    {
+      "id": "D",
+      "text": "flexible teel"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

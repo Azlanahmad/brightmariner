@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q27",
+  "text": "In a team, to achieve a goal is the responsibility of",
+  "options": [
+    {
+      "id": "A",
+      "text": "Management"
+    },
+    {
+      "id": "B",
+      "text": "All team members"
+    },
+    {
+      "id": "C",
+      "text": "An individual"
+    },
+    {
+      "id": "D",
+      "text": "The leader"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

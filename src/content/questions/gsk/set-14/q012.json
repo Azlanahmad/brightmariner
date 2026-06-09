@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q12",
+  "text": "Ship's galley is provided with the following for cooking",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fuel oil burners"
+    },
+    {
+      "id": "B",
+      "text": "LPG burners"
+    },
+    {
+      "id": "C",
+      "text": "Diesel oil burners"
+    },
+    {
+      "id": "D",
+      "text": "Electric hot plates"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

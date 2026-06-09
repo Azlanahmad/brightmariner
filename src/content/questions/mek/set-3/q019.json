@@ -1,0 +1,18 @@
+{
+  "id": "mek-s3-q19",
+  "text": "Cross head type engines doesn't have Piston Rod between Piston and Connecting Rod",
+  "options": [
+    {
+      "id": "A",
+      "text": "False"
+    },
+    {
+      "id": "B",
+      "text": "True"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

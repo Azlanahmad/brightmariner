@@ -42,7 +42,9 @@ const courseNames: Record<string, string> = {
     'mfa': 'Medical First Aid (MFA)',
     'tasco': 'Advanced Training for Oil Tanker Cargo Operations (TASCO)',
     'refresher': 'Refresher Course',
-    'rfpff': 'Refresher FPFF'
+    'rfpff': 'Refresher FPFF',
+    'gsk': 'General Ship Knowledge (GSK)',
+    'mek': 'Marine Engineering Knowledge (MEK)'
 };
 
 const courseAbbr = baseCourseId === 'refresher' ? 'Refresher' : baseCourseId === 'rfpff' ? 'Refresher FPFF' : baseCourseId.toUpperCase();
@@ -144,6 +146,26 @@ const getFaqs = (courseId: string, name: string, abbr: string) => {
       {
         question: "What does STSDSD stand for?",
         answer: "STSDSD stands for Security Training for Seafarers with Designated Security Duties. It is a mandatory course for seafarers who have security duties assigned under the Ship Security Plan."
+      }
+    ],
+    gsk: [
+      {
+        question: "What topics are covered in the General Ship Knowledge (GSK) exit exam?",
+        answer: "The GSK exam covers seamanship, ship construction, ship terminology, knots and splices, anchor work, mooring operations, cargo handling, and basic safety procedures on deck."
+      },
+      {
+        question: "How many questions are in the GSK practice sets on Bright Mariner?",
+        answer: "Our GSK practice room contains 424 questions divided into 15 chapters/sets representing the latest BEST and DG Shipping exit exam databases."
+      }
+    ],
+    mek: [
+      {
+        question: "What topics are covered in the Marine Engineering Knowledge (MEK) exit exam?",
+        answer: "The MEK exam focuses on engine room machinery, main propulsion engines, auxiliary machinery (pumps, compressors, purifiers), boilers, workshop hand tools, safety systems, and electrical maintenance."
+      },
+      {
+        question: "How many questions are in the MEK practice sets on Bright Mariner?",
+        answer: "Our MEK practice room contains 176 questions organized into 7 parts/sets, curated from actual DG Shipping online engine watchkeeping rating exams."
       }
     ]
   };
@@ -353,6 +375,50 @@ const courseConfigs: Record<string, {
             "30-minute exam session on the DG Shipping database.",
             "A minimum score of 50% (15 marks out of 30) is required to pass.",
             "Practicing interactive sets is key to mastering tanker safety."
+        ]
+    },
+    gsk: {
+        keyLearningAreas: [
+            "Seamanship, ropes, and knot tying",
+            "Ship construction & nomenclature of parts",
+            "Anchor and mooring equipment operations",
+            "Cargo handling, hatch covers & load lines",
+            "IALA buoyage system & watchkeeping duties"
+        ],
+        studyGuideIntro: "The General Ship Knowledge (GSK) exit exam is a core assessment for GP Rating seafarers. Candidates must demonstrate knowledge of ship structure, deck work, and seamanship.",
+        syllabusList: [
+            "Knots, splices, and rope maintenance.",
+            "Understanding parts of a ship (bow, stern, keel, draft).",
+            "Mooring operations and windlass handling.",
+            "Plimsoll line, cargo gears, and deck safety regulations."
+        ],
+        examPortalDetails: [
+            "Multiple-choice questions covering ship layout and seamanship.",
+            "30-minute exam time limit on the DG Shipping online portal.",
+            "Passing score is set at 50% (15 marks out of 30).",
+            "Comprehensive mock tests help candidates pass BEST Board exams."
+        ]
+    },
+    mek: {
+        keyLearningAreas: [
+            "Basic working of marine diesel engines (2/4 stroke)",
+            "Engine room auxiliary machinery (pumps, purifiers, air compressors)",
+            "Workshop hand tools & safe workshop practices",
+            "Boilers and steam generation plants on board",
+            "Engine room watches & emergency safety systems"
+        ],
+        studyGuideIntro: "The Marine Engineering Knowledge (MEK) exit exam is mandatory for engine room ratings under GP Rating. It tests basic engineering tools, diesel systems, and safe operations.",
+        syllabusList: [
+            "Diesel engine components (piston, cylinder head, bedplate).",
+            "Common hand tools, files, dies, taps, and jacks.",
+            "Piping color codes, valves, and fluid systems.",
+            "Starting air compressors and purification systems."
+        ],
+        examPortalDetails: [
+            "Multiple-choice questions testing auxiliary machinery and workshop tools.",
+            "30-minute exam time limit on the DG Shipping portal.",
+            "Passing threshold is 50% (at least 15 correct answers out of 30).",
+            "Regular practice is highly recommended for passing the oral and computer tests."
         ]
     },
     refresher: {

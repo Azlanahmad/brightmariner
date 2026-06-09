@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q1",
+  "text": "In freezing weather the mooring winches should be started at least 30 minutes before use to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Remove the ropes from the store"
+    },
+    {
+      "id": "B",
+      "text": "Check the oil level"
+    },
+    {
+      "id": "C",
+      "text": "Warm up the system"
+    },
+    {
+      "id": "D",
+      "text": "Lower the anchor"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

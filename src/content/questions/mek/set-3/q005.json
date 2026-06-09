@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q5",
+  "text": "Air starting valve in a Diesel engine _____",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oscillates"
+    },
+    {
+      "id": "B",
+      "text": "Moves up and down"
+    },
+    {
+      "id": "C",
+      "text": "Moves from side to side"
+    },
+    {
+      "id": "D",
+      "text": "Opens only at engine starting"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

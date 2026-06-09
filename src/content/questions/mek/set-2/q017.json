@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q17",
+  "text": "Function of crankcase lubricating oil in a diesel engine is to ____",
+  "options": [
+    {
+      "id": "A",
+      "text": "improve combustion"
+    },
+    {
+      "id": "B",
+      "text": "prevent corrosion"
+    },
+    {
+      "id": "C",
+      "text": "supply power"
+    },
+    {
+      "id": "D",
+      "text": "turn crankshaft"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

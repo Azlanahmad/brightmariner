@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q15",
+  "text": "Following is not a part of Fire detection system",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heat Detector"
+    },
+    {
+      "id": "B",
+      "text": "Flame Detector"
+    },
+    {
+      "id": "C",
+      "text": "Body Detector"
+    },
+    {
+      "id": "D",
+      "text": "Smoke Detector"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q5",
+  "text": "Which is  the  duties of a Deck rating",
+  "options": [
+    {
+      "id": "A",
+      "text": "Monitor engine, machinery and equipment indicators and report abnormalities to ship engineer officer on watch"
+    },
+    {
+      "id": "B",
+      "text": "Lubricate moving chapters of engines, machinery and equipments"
+    },
+    {
+      "id": "C",
+      "text": "Steer ship under the direction of the officer on watch"
+    },
+    {
+      "id": "D",
+      "text": "painting the engine room"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

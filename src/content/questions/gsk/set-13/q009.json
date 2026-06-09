@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q9",
+  "text": "While working near the funnel, check with the officer on the bridge that he has informed the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Count number of seamen working"
+    },
+    {
+      "id": "B",
+      "text": "Engine room to switch off air/steam to whistle"
+    },
+    {
+      "id": "C",
+      "text": "Master"
+    },
+    {
+      "id": "D",
+      "text": "Engine room to switch off power on deck"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

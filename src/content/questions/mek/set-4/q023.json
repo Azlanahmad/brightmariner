@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q23",
+  "text": "Too long an arc will cause",
+  "options": [
+    {
+      "id": "A",
+      "text": "This is bulb up the weld pool"
+    },
+    {
+      "id": "B",
+      "text": "Low penetration coarse splatter & flat bead"
+    },
+    {
+      "id": "C",
+      "text": "Uncontrolled penetration slag globules electrode stuck to weld"
+    },
+    {
+      "id": "D",
+      "text": "Even bead & good penetration & good welding"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

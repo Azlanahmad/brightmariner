@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q8",
+  "text": "Which of the following provided for connecting to shore water supply",
+  "options": [
+    {
+      "id": "A",
+      "text": "foam tank"
+    },
+    {
+      "id": "B",
+      "text": "fixed foam system"
+    },
+    {
+      "id": "C",
+      "text": "fire hydrant"
+    },
+    {
+      "id": "D",
+      "text": "international shore connection"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

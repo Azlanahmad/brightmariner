@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q14",
+  "text": "When lowering the tug rope to the tug, the crew must",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lower the rope with a rope stopper"
+    },
+    {
+      "id": "B",
+      "text": "Allow the tug to pull the rope"
+    },
+    {
+      "id": "C",
+      "text": "Lower the rope in a controlled manner"
+    },
+    {
+      "id": "D",
+      "text": "Let the rope run out immediately"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q7",
+  "text": "What is important for studying?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reading speed"
+    },
+    {
+      "id": "B",
+      "text": "Self - Discipline"
+    },
+    {
+      "id": "C",
+      "text": "Good teacher"
+    },
+    {
+      "id": "D",
+      "text": "Proper techniques for studying"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

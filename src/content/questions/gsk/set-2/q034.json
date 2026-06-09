@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s2-q34",
+  "text": "When you use a computer, What do you mean by the term \"REDO\"?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Quick save files"
+    },
+    {
+      "id": "B",
+      "text": "Undoes previous actions"
+    },
+    {
+      "id": "C",
+      "text": "Zoom in and Zoom out"
+    },
+    {
+      "id": "D",
+      "text": "Redoes previous actions"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 2,
+  "explanation": ""
+}

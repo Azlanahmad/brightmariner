@@ -1,0 +1,18 @@
+{
+  "id": "mek-s4-q13",
+  "text": "While working with machines do not wash your hands with coolant",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

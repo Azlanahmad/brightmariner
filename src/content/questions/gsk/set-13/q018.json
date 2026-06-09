@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q18",
+  "text": "Ear muffs are used to protect the ears from",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heat radiation"
+    },
+    {
+      "id": "B",
+      "text": "Inflammable gases"
+    },
+    {
+      "id": "C",
+      "text": "High intensity sound"
+    },
+    {
+      "id": "D",
+      "text": "Bacterial infection"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

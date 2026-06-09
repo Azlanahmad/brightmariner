@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q9",
+  "text": "In berth rat guards are placed on the ships mooring ropes to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Catch the rats as they move on the mooring rope"
+    },
+    {
+      "id": "B",
+      "text": "Prevent the rats from chewing the rope"
+    },
+    {
+      "id": "C",
+      "text": "Kill the rats as they move on the mooring rope"
+    },
+    {
+      "id": "D",
+      "text": "Prevent rats from entering and leaving the ship"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

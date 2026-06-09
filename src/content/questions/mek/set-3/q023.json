@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q23",
+  "text": "Why diesel engine generator does not have a reversing mechanism",
+  "options": [
+    {
+      "id": "A",
+      "text": "Running reverse its phase sequence will change"
+    },
+    {
+      "id": "B",
+      "text": "Running reverse it produces DC instead of AC"
+    },
+    {
+      "id": "C",
+      "text": "Running reverse it consumes power instead of producing power"
+    },
+    {
+      "id": "D",
+      "text": "Running reverse does not produce power"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

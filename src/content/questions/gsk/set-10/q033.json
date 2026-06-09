@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q33",
+  "text": "Discharge of chemical cargo tank washing should comply with",
+  "options": [
+    {
+      "id": "A",
+      "text": "ISM"
+    },
+    {
+      "id": "B",
+      "text": "STCW"
+    },
+    {
+      "id": "C",
+      "text": "MARPOL"
+    },
+    {
+      "id": "D",
+      "text": "SOLAS"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

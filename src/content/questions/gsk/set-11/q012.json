@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s11-q12",
+  "text": "A purchase is roveto advantage when",
+  "options": [
+    {
+      "id": "A",
+      "text": "The pull is coming from the standing block"
+    },
+    {
+      "id": "B",
+      "text": "The pull is coming from the moving block"
+    },
+    {
+      "id": "C",
+      "text": "The purchase is hoisting more weight"
+    },
+    {
+      "id": "D",
+      "text": "The wire thickness is reduced"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 11,
+  "explanation": ""
+}

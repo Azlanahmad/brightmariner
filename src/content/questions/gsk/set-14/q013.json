@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q13",
+  "text": "During bunkering the following sign should be displayed prominently",
+  "options": [
+    {
+      "id": "A",
+      "text": "Restricted area"
+    },
+    {
+      "id": "B",
+      "text": "Shore leave stopped"
+    },
+    {
+      "id": "C",
+      "text": "No smoking"
+    },
+    {
+      "id": "D",
+      "text": "Visitors prohibited"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

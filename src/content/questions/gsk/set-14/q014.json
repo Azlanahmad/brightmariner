@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q14",
+  "text": "EEBD is used for",
+  "options": [
+    {
+      "id": "A",
+      "text": "Boarding survival craft"
+    },
+    {
+      "id": "B",
+      "text": "Fighting fires"
+    },
+    {
+      "id": "C",
+      "text": "Going on deck in heavy weather"
+    },
+    {
+      "id": "D",
+      "text": "Emergency escape"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

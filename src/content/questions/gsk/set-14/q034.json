@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q34",
+  "text": "Purpose of immersion suit is to protect a person from",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cold"
+    },
+    {
+      "id": "B",
+      "text": "Fire"
+    },
+    {
+      "id": "C",
+      "text": "Heat"
+    },
+    {
+      "id": "D",
+      "text": "Sunburn"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

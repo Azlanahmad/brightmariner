@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q7",
+  "text": "A dip stick is used for checking level of oil in a",
+  "options": [
+    {
+      "id": "A",
+      "text": "Filter"
+    },
+    {
+      "id": "B",
+      "text": "Tank"
+    },
+    {
+      "id": "C",
+      "text": "Cylinder"
+    },
+    {
+      "id": "D",
+      "text": "Crank case"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q21",
+  "text": "Chemicals should be stored in _______",
+  "options": [
+    {
+      "id": "A",
+      "text": "in accommodation"
+    },
+    {
+      "id": "B",
+      "text": "in engine room"
+    },
+    {
+      "id": "C",
+      "text": "in separate well ventilated store"
+    },
+    {
+      "id": "D",
+      "text": "on deck"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

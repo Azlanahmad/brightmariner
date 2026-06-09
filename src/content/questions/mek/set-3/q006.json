@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q6",
+  "text": "The purpose of Indicator valve on a generator engine is for _________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fresh air intake"
+    },
+    {
+      "id": "B",
+      "text": "Compressed air"
+    },
+    {
+      "id": "C",
+      "text": "Blowing through"
+    },
+    {
+      "id": "D",
+      "text": "Fuel inlet"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

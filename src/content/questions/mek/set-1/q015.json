@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q15",
+  "text": "A \"BOLT\" has",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hexagonal head and threads at other end"
+    },
+    {
+      "id": "B",
+      "text": "Thread at both ends"
+    },
+    {
+      "id": "C",
+      "text": "Slotted head and threads at other end"
+    },
+    {
+      "id": "D",
+      "text": "Double pitch threads"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q14",
+  "text": "The Intercode flag which is hoisted when the vessel requires free pratique is",
+  "options": [
+    {
+      "id": "A",
+      "text": "A"
+    },
+    {
+      "id": "B",
+      "text": "B"
+    },
+    {
+      "id": "C",
+      "text": "P"
+    },
+    {
+      "id": "D",
+      "text": "Q"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

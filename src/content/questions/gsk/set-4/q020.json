@@ -1,0 +1,18 @@
+{
+  "id": "gsk-s4-q20",
+  "text": "You CANNOT use Boiler suit to protect your body from harm.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q33",
+  "text": "The flammable range of a gas is",
+  "options": [
+    {
+      "id": "A",
+      "text": "Below LFL"
+    },
+    {
+      "id": "B",
+      "text": "Between the LFL and UFL in air"
+    },
+    {
+      "id": "C",
+      "text": "Above UFL"
+    },
+    {
+      "id": "D",
+      "text": "Between the LFL and UFL in hydrogen"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

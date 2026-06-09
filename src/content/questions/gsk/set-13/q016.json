@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q16",
+  "text": "For fighting an electrical fire, the action to be taken is to use a",
+  "options": [
+    {
+      "id": "A",
+      "text": "Foam Extinguisher"
+    },
+    {
+      "id": "B",
+      "text": "Portable CO2 extinguisher"
+    },
+    {
+      "id": "C",
+      "text": "Water Hose"
+    },
+    {
+      "id": "D",
+      "text": "Soda Acid Extinguisher"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

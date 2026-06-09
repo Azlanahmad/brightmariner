@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q9",
+  "text": "The SOPEP locker contains",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pyrotechnics and distress equipment"
+    },
+    {
+      "id": "B",
+      "text": "Oil spill containment equipment"
+    },
+    {
+      "id": "C",
+      "text": "Machinery spares"
+    },
+    {
+      "id": "D",
+      "text": "Hold cleaning equipment"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

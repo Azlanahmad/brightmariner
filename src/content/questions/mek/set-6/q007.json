@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q7",
+  "text": "Ballast tank on a ship are filled up with _____",
+  "options": [
+    {
+      "id": "A",
+      "text": "drinking water"
+    },
+    {
+      "id": "B",
+      "text": "sea water"
+    },
+    {
+      "id": "C",
+      "text": "cargo oil"
+    },
+    {
+      "id": "D",
+      "text": "water from other tanks"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

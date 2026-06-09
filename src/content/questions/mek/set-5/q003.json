@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q3",
+  "text": "The level measuring device, Sounding tape can be used for",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oil can"
+    },
+    {
+      "id": "B",
+      "text": "Tanks of large depth"
+    },
+    {
+      "id": "C",
+      "text": "Multi Purpose"
+    },
+    {
+      "id": "D",
+      "text": "Oil level in generator crankcase"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

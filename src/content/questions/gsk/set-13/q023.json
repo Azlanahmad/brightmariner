@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q23",
+  "text": "The markings on a lifejacket include",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ships GRT"
+    },
+    {
+      "id": "B",
+      "text": "Ship masters name"
+    },
+    {
+      "id": "C",
+      "text": "Ships port of registry"
+    },
+    {
+      "id": "D",
+      "text": "Ship owners name"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

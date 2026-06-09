@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q8",
+  "text": "Cylinder Head in a Diesel engine ____",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oscillates"
+    },
+    {
+      "id": "B",
+      "text": "Rotates in place"
+    },
+    {
+      "id": "C",
+      "text": "Moves up and down"
+    },
+    {
+      "id": "D",
+      "text": "Stays in place"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q20",
+  "text": "Equator is at",
+  "options": [
+    {
+      "id": "A",
+      "text": "90 degrees south"
+    },
+    {
+      "id": "B",
+      "text": "90 degrees North"
+    },
+    {
+      "id": "C",
+      "text": "0 degrees"
+    },
+    {
+      "id": "D",
+      "text": "180 degrees East"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

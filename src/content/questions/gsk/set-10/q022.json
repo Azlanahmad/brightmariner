@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q22",
+  "text": "The cargo hold of a cellular container Ship has the following fittings inside",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tween deck"
+    },
+    {
+      "id": "B",
+      "text": "Cell guides"
+    },
+    {
+      "id": "C",
+      "text": "Pillars"
+    },
+    {
+      "id": "D",
+      "text": "Hatch boards"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

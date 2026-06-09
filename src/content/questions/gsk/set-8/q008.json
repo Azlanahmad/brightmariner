@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s8-q8",
+  "text": "Anchor is lead to shipside through",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hawse pipe."
+    },
+    {
+      "id": "B",
+      "text": "Lead pipe"
+    },
+    {
+      "id": "C",
+      "text": "House pipe"
+    },
+    {
+      "id": "D",
+      "text": "Anchor chain pipe"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 8,
+  "explanation": ""
+}

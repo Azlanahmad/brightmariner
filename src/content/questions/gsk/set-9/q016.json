@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q16",
+  "text": "Access to cargo holds is through",
+  "options": [
+    {
+      "id": "A",
+      "text": "Booby hatch"
+    },
+    {
+      "id": "B",
+      "text": "Accommodation"
+    },
+    {
+      "id": "C",
+      "text": "Fore castle"
+    },
+    {
+      "id": "D",
+      "text": "Engine room"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q2",
+  "text": "The immigration officer checks the validity of the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Safety certificates"
+    },
+    {
+      "id": "B",
+      "text": "Passport"
+    },
+    {
+      "id": "C",
+      "text": "Certificate of competency"
+    },
+    {
+      "id": "D",
+      "text": "ISM certificate"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

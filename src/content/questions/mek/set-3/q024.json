@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q24",
+  "text": "Which system is not required for main engine",
+  "options": [
+    {
+      "id": "A",
+      "text": "Feed system"
+    },
+    {
+      "id": "B",
+      "text": "Lubricating system"
+    },
+    {
+      "id": "C",
+      "text": "Cooling system"
+    },
+    {
+      "id": "D",
+      "text": "Fuel system"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

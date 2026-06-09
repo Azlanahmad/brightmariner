@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q7",
+  "text": "Grease nipples are provided on blocks for",
+  "options": [
+    {
+      "id": "A",
+      "text": "De-greasing"
+    },
+    {
+      "id": "B",
+      "text": "Applying anti-rust"
+    },
+    {
+      "id": "C",
+      "text": "Painting"
+    },
+    {
+      "id": "D",
+      "text": "Lubrication"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

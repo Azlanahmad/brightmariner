@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q9",
+  "text": "MMD stands for",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mercantile Marine Dechapterment"
+    },
+    {
+      "id": "B",
+      "text": "Merchant Marine Dechapterment"
+    },
+    {
+      "id": "C",
+      "text": "Master Mariners Dechapterment"
+    },
+    {
+      "id": "D",
+      "text": "Manpower Marine Dechapterment"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

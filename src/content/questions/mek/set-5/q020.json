@@ -1,0 +1,18 @@
+{
+  "id": "mek-s5-q20",
+  "text": "Insulating material used is generally Fire resistant",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

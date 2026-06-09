@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s9-q25",
+  "text": "Containers are lashed on a cellular container ship with",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chains and shackles"
+    },
+    {
+      "id": "B",
+      "text": "Twist locks and rod lashings"
+    },
+    {
+      "id": "C",
+      "text": "Nylon ropes"
+    },
+    {
+      "id": "D",
+      "text": "Nylon lashings"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 9,
+  "explanation": ""
+}

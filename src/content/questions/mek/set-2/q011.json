@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q11",
+  "text": "Function of crankcase relief door is to",
+  "options": [
+    {
+      "id": "A",
+      "text": "release pressure from crankcase"
+    },
+    {
+      "id": "B",
+      "text": "stop the engine"
+    },
+    {
+      "id": "C",
+      "text": "reduce the speed of engine"
+    },
+    {
+      "id": "D",
+      "text": "detect the mist inside the crankcase"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q14",
+  "text": "What materials are banned for use as insulation materials?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fire Bricks"
+    },
+    {
+      "id": "B",
+      "text": "Thermocole"
+    },
+    {
+      "id": "C",
+      "text": "Fiberglass Wool"
+    },
+    {
+      "id": "D",
+      "text": "Asbestos"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q17",
+  "text": "Cargoes which give off gases requires",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cooling"
+    },
+    {
+      "id": "B",
+      "text": "Heating"
+    },
+    {
+      "id": "C",
+      "text": "Ventilation"
+    },
+    {
+      "id": "D",
+      "text": "Drying"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

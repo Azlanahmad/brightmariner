@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q25",
+  "text": "Crews personal property declaration is a requirement of the port",
+  "options": [
+    {
+      "id": "A",
+      "text": "Health"
+    },
+    {
+      "id": "B",
+      "text": "Control"
+    },
+    {
+      "id": "C",
+      "text": "Customs"
+    },
+    {
+      "id": "D",
+      "text": "Signal Station"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

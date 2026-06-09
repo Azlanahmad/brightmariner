@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q18",
+  "text": "Before re-starting a machine, following precautions to be taken...Mark the incorrect one",
+  "options": [
+    {
+      "id": "A",
+      "text": "Check that no tools have been left on or near the machine"
+    },
+    {
+      "id": "B",
+      "text": "Replace the safety guard after starting the machine"
+    },
+    {
+      "id": "C",
+      "text": "Restore the power supply"
+    },
+    {
+      "id": "D",
+      "text": "Remove any warning notices"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

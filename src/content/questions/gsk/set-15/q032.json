@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q32",
+  "text": "Compensation benefits for the seaman is listed in the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Merchant Shipping Notices"
+    },
+    {
+      "id": "B",
+      "text": "Collective Bargaining Agreement"
+    },
+    {
+      "id": "C",
+      "text": "DGS circulars"
+    },
+    {
+      "id": "D",
+      "text": "Notices to mariners"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

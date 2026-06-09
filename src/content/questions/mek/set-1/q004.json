@@ -1,0 +1,26 @@
+{
+  "id": "mek-s1-q4",
+  "text": "Domestic Fridge is related to __________________.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Human waste"
+    },
+    {
+      "id": "B",
+      "text": "Steering"
+    },
+    {
+      "id": "C",
+      "text": "Starting of Main Engine"
+    },
+    {
+      "id": "D",
+      "text": "Storing Vegetables"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q19",
+  "text": "Rigging the \"Emergency Towing Arrangement\" fore and aft when alongside is mandatory for",
+  "options": [
+    {
+      "id": "A",
+      "text": "General cargo ships"
+    },
+    {
+      "id": "B",
+      "text": "Tankers"
+    },
+    {
+      "id": "C",
+      "text": "Bulk carriers"
+    },
+    {
+      "id": "D",
+      "text": "Container ships"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

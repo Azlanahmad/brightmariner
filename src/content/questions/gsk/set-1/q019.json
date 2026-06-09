@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q19",
+  "text": "When you use a computer, What do you mean by the term \"UNDO\"?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Opens a new word document"
+    },
+    {
+      "id": "B",
+      "text": "Redoes previous actions"
+    },
+    {
+      "id": "C",
+      "text": "Undoes previous actions"
+    },
+    {
+      "id": "D",
+      "text": "Shows a preview of files before they print"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

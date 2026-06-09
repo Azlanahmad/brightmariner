@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s7-q3",
+  "text": "The term anchor aweigh means",
+  "options": [
+    {
+      "id": "A",
+      "text": "Anchor is sighted"
+    },
+    {
+      "id": "B",
+      "text": "Anchor is running out"
+    },
+    {
+      "id": "C",
+      "text": "Anchor is lost"
+    },
+    {
+      "id": "D",
+      "text": "Let go anchor"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 7,
+  "explanation": ""
+}

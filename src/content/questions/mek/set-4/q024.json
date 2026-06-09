@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q24",
+  "text": "Too short an arc length will cause an uneven bead due to arc failure",
+  "options": [
+    {
+      "id": "A",
+      "text": "None of the above"
+    },
+    {
+      "id": "B",
+      "text": "Good welding"
+    },
+    {
+      "id": "C",
+      "text": "Low penetration coarse splatter"
+    },
+    {
+      "id": "D",
+      "text": "Flat bead"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

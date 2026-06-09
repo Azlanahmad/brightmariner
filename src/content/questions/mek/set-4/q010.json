@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q10",
+  "text": "Danger for lifting heavy equipment manually is _________",
+  "options": [
+    {
+      "id": "A",
+      "text": "slip"
+    },
+    {
+      "id": "B",
+      "text": "fall"
+    },
+    {
+      "id": "C",
+      "text": "sprain"
+    },
+    {
+      "id": "D",
+      "text": "fracture"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q22",
+  "text": "Printer is a",
+  "options": [
+    {
+      "id": "A",
+      "text": "Peripheral"
+    },
+    {
+      "id": "B",
+      "text": "Memory"
+    },
+    {
+      "id": "C",
+      "text": "Monitor"
+    },
+    {
+      "id": "D",
+      "text": "CD-ROM Drive"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q8",
+  "text": "The split pin on a shackle prevents the pin from",
+  "options": [
+    {
+      "id": "A",
+      "text": "Getting corroded"
+    },
+    {
+      "id": "B",
+      "text": "Unlocking"
+    },
+    {
+      "id": "C",
+      "text": "Getting jammed"
+    },
+    {
+      "id": "D",
+      "text": "Getting stuck"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

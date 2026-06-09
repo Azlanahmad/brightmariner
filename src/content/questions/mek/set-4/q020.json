@@ -1,0 +1,26 @@
+{
+  "id": "mek-s4-q20",
+  "text": "Gases used in gas welding are",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acetylene and oxygen"
+    },
+    {
+      "id": "B",
+      "text": "CO2 and LPG"
+    },
+    {
+      "id": "C",
+      "text": "Oxygen and LPG"
+    },
+    {
+      "id": "D",
+      "text": "Acetylene and LPG"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mek-s5-q34",
+  "text": "While taking rounds in the Steering flat, following to be checked...Mark the incorrect",
+  "options": [
+    {
+      "id": "A",
+      "text": "Leakages from pumps, pipe joints, etc"
+    },
+    {
+      "id": "B",
+      "text": "Load of the pump in Ampere"
+    },
+    {
+      "id": "C",
+      "text": "Oil level of MDO in the steering gear system"
+    },
+    {
+      "id": "D",
+      "text": "Abnormal noise or vibrations"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

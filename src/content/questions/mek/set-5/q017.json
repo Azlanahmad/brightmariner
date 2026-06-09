@@ -1,0 +1,18 @@
+{
+  "id": "mek-s5-q17",
+  "text": "Lagging is the Insulating material wrapped around pipes, boilers or tanks to allow loss of heat",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "mek",
+  "set": 5,
+  "explanation": ""
+}

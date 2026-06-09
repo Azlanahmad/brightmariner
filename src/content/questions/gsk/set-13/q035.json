@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q35",
+  "text": "A bowsing tackle is used to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Keep the lifeboat close to the embarkation deck"
+    },
+    {
+      "id": "B",
+      "text": "Lash the lifeboat to the davits"
+    },
+    {
+      "id": "C",
+      "text": "Lowering the lifeboat oars"
+    },
+    {
+      "id": "D",
+      "text": "Tow the life raft"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

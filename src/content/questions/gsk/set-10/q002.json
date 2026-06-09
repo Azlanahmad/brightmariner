@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q2",
+  "text": "Vehicles are loaded on to a Ro Ro ferry through the",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ramp"
+    },
+    {
+      "id": "B",
+      "text": "Hatch cover"
+    },
+    {
+      "id": "C",
+      "text": "Bulbous bow"
+    },
+    {
+      "id": "D",
+      "text": "Tween deck"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

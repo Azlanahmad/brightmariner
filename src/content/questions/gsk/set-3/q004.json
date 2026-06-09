@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q4",
+  "text": "Winches, Cranes and other Machinery on Deck are maintained by",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deck Crew"
+    },
+    {
+      "id": "B",
+      "text": "Eng.Staff & Crew"
+    },
+    {
+      "id": "C",
+      "text": "Bosun"
+    },
+    {
+      "id": "D",
+      "text": "Ch.Off"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

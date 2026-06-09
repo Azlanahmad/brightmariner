@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q12",
+  "text": "Breaking strength of a rope",
+  "options": [
+    {
+      "id": "A",
+      "text": "Is more than the safe working load"
+    },
+    {
+      "id": "B",
+      "text": "Equal to safe working load"
+    },
+    {
+      "id": "C",
+      "text": "Less than safe working load"
+    },
+    {
+      "id": "D",
+      "text": "Is the amount it stretches on load"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s4-q9",
+  "text": "What is the most likely cause of Accident when working on oily surfaces",
+  "options": [
+    {
+      "id": "A",
+      "text": "Slips"
+    },
+    {
+      "id": "B",
+      "text": "Suffocation"
+    },
+    {
+      "id": "C",
+      "text": "Cuts"
+    },
+    {
+      "id": "D",
+      "text": "Sprains"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

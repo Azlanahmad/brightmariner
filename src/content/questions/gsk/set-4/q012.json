@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s4-q12",
+  "text": "\"Suffocation\" can be occur due to",
+  "options": [
+    {
+      "id": "A",
+      "text": "Insufficient oxygen"
+    },
+    {
+      "id": "B",
+      "text": "Electrocution"
+    },
+    {
+      "id": "C",
+      "text": "Pollution"
+    },
+    {
+      "id": "D",
+      "text": "Dust in atmosphere"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

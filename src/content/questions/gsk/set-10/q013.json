@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q13",
+  "text": "Ship sweat occurs when a vessel loads cargo in a",
+  "options": [
+    {
+      "id": "A",
+      "text": "Warm and humid place and goes to a cooler place"
+    },
+    {
+      "id": "B",
+      "text": "Warm place to another warm place"
+    },
+    {
+      "id": "C",
+      "text": "Cold place to another cold place"
+    },
+    {
+      "id": "D",
+      "text": "Cold and wet place and goes to a warm place"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

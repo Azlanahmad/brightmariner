@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q35",
+  "text": "Details of shipboard life saving and fire fighting appliances is described in the",
+  "options": [
+    {
+      "id": "A",
+      "text": "SOLAS Convention"
+    },
+    {
+      "id": "B",
+      "text": "ILO Convention"
+    },
+    {
+      "id": "C",
+      "text": "MARPOL Convention"
+    },
+    {
+      "id": "D",
+      "text": "STCW Convention"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

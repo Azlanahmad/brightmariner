@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s3-q21",
+  "text": "Main Function Of Tug Boat is",
+  "options": [
+    {
+      "id": "A",
+      "text": "To Assist in Mooring & Unmooring ships"
+    },
+    {
+      "id": "B",
+      "text": "To Transport stores to ships"
+    },
+    {
+      "id": "C",
+      "text": "To Carry passengers for sightseeing"
+    },
+    {
+      "id": "D",
+      "text": "To assist ships in anchoring"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "gsk",
+  "set": 3,
+  "explanation": ""
+}

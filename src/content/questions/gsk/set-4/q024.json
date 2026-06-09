@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s4-q24",
+  "text": "Ear Muffs will protect ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Eyes"
+    },
+    {
+      "id": "B",
+      "text": "Ears"
+    },
+    {
+      "id": "C",
+      "text": "Feet"
+    },
+    {
+      "id": "D",
+      "text": "Hands"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 4,
+  "explanation": ""
+}

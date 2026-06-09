@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s6-q9",
+  "text": "Match the term \"COURSE\" with the most suitable answers given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Moon"
+    },
+    {
+      "id": "B",
+      "text": "Parallel ruler"
+    },
+    {
+      "id": "C",
+      "text": "Depth in metres"
+    },
+    {
+      "id": "D",
+      "text": "Divider"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 6,
+  "explanation": ""
+}

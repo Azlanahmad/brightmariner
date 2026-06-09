@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s13-q14",
+  "text": "When you smell something burning in your cabin your first action should be",
+  "options": [
+    {
+      "id": "A",
+      "text": "Telephone the next cabin to warn"
+    },
+    {
+      "id": "B",
+      "text": "Vacate the cabin and raise alarm"
+    },
+    {
+      "id": "C",
+      "text": "Wait for the fire alarm to ring"
+    },
+    {
+      "id": "D",
+      "text": "Get a portable extinguisher to extinguish fire"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 13,
+  "explanation": ""
+}

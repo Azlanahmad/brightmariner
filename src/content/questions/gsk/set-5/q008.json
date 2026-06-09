@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s5-q8",
+  "text": "Match the term \"STARBOARD SIDE OF CHANNEL\" with the most suitable answers  given belowMatch the term \"STARBOARD SIDE OF CHANNEL\" with the most suitable answers  given below",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bay of Bengal"
+    },
+    {
+      "id": "B",
+      "text": "Compass error"
+    },
+    {
+      "id": "C",
+      "text": "Green buoy"
+    },
+    {
+      "id": "D",
+      "text": "Solar system"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 5,
+  "explanation": ""
+}

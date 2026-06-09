@@ -1,0 +1,26 @@
+{
+  "id": "mek-s6-q15",
+  "text": "On hearing a CO2 alarm in the engine room, your first action will be",
+  "options": [
+    {
+      "id": "A",
+      "text": "report to the duty officer on watch"
+    },
+    {
+      "id": "B",
+      "text": "use large fire extinguisher on the fire"
+    },
+    {
+      "id": "C",
+      "text": "use emergency exit to get out"
+    },
+    {
+      "id": "D",
+      "text": "raise fire alarm"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 6,
+  "explanation": ""
+}

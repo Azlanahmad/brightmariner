@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s14-q23",
+  "text": "When receiving LSA/FFA items on board, all items must be",
+  "options": [
+    {
+      "id": "A",
+      "text": "Open it and check contents against delivery order"
+    },
+    {
+      "id": "B",
+      "text": "Received in good packing"
+    },
+    {
+      "id": "C",
+      "text": "Cheaply available"
+    },
+    {
+      "id": "D",
+      "text": "Of approved type"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 14,
+  "explanation": ""
+}

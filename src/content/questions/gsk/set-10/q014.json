@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s10-q14",
+  "text": "Before entering enclosed spaces, the space must be",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cleaned"
+    },
+    {
+      "id": "B",
+      "text": "Ventilated"
+    },
+    {
+      "id": "C",
+      "text": "Filled with inert gas"
+    },
+    {
+      "id": "D",
+      "text": "Painted"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "gsk",
+  "set": 10,
+  "explanation": ""
+}

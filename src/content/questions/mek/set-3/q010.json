@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q10",
+  "text": "The purpose of Exhaust valve on a generator engine is for _________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Combustion Gases"
+    },
+    {
+      "id": "B",
+      "text": "Stop fuel"
+    },
+    {
+      "id": "C",
+      "text": "Fuel inlet"
+    },
+    {
+      "id": "D",
+      "text": "Fresh air intake"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s12-q15",
+  "text": "Extra flexible steel wire rope has",
+  "options": [
+    {
+      "id": "A",
+      "text": "6x24 wires per strand"
+    },
+    {
+      "id": "B",
+      "text": "6x12 wires per strand"
+    },
+    {
+      "id": "C",
+      "text": "6x37 wires per strand"
+    },
+    {
+      "id": "D",
+      "text": "6x48 wires per strand"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 12,
+  "explanation": ""
+}

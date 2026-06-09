@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q1",
+  "text": "K-S-A-V stands for",
+  "options": [
+    {
+      "id": "A",
+      "text": "Knowledge, Style, Attitude, Values"
+    },
+    {
+      "id": "B",
+      "text": "Knowledge, Seamanship, Altitude, Values"
+    },
+    {
+      "id": "C",
+      "text": "Knowledge, Skills, Aptitude, Values"
+    },
+    {
+      "id": "D",
+      "text": "Knowledge, Skills, Attitude, Values"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

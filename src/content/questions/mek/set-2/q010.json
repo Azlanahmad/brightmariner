@@ -1,0 +1,26 @@
+{
+  "id": "mek-s2-q10",
+  "text": "Function of a cylinder head relief valve is to",
+  "options": [
+    {
+      "id": "A",
+      "text": "prevent crankcase explosion"
+    },
+    {
+      "id": "B",
+      "text": "stop the engine"
+    },
+    {
+      "id": "C",
+      "text": "reduce the speed of engine"
+    },
+    {
+      "id": "D",
+      "text": "release excessive pressure"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "mek",
+  "set": 2,
+  "explanation": ""
+}

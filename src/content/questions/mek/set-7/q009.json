@@ -1,0 +1,26 @@
+{
+  "id": "mek-s7-q9",
+  "text": "The emergency fire pump on a ship is located",
+  "options": [
+    {
+      "id": "A",
+      "text": "at the poop deck"
+    },
+    {
+      "id": "B",
+      "text": "inside the engine room"
+    },
+    {
+      "id": "C",
+      "text": "outside the engine room"
+    },
+    {
+      "id": "D",
+      "text": "at the boat deck"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "mek",
+  "set": 7,
+  "explanation": ""
+}

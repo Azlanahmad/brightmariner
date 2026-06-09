@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s1-q3",
+  "text": "Being ethical is important for",
+  "options": [
+    {
+      "id": "A",
+      "text": "Avoiding conflict"
+    },
+    {
+      "id": "B",
+      "text": "Personal life"
+    },
+    {
+      "id": "C",
+      "text": "Office life"
+    },
+    {
+      "id": "D",
+      "text": "Both office and personal life"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "gsk",
+  "set": 1,
+  "explanation": ""
+}

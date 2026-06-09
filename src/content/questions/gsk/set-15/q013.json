@@ -1,0 +1,26 @@
+{
+  "id": "gsk-s15-q13",
+  "text": "ISPS stands for",
+  "options": [
+    {
+      "id": "A",
+      "text": "International Shipping and Port Security Code"
+    },
+    {
+      "id": "B",
+      "text": "Indian Shipping and Port Security Code"
+    },
+    {
+      "id": "C",
+      "text": "International Ship and Port Facility Security Code"
+    },
+    {
+      "id": "D",
+      "text": "International Ship and Seaport Security Code"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "gsk",
+  "set": 15,
+  "explanation": ""
+}

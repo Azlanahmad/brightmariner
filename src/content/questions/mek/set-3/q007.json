@@ -1,0 +1,26 @@
+{
+  "id": "mek-s3-q7",
+  "text": "Which of these is NOT a moving part of a diesel engine:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Crankcase"
+    },
+    {
+      "id": "B",
+      "text": "Connecting rod"
+    },
+    {
+      "id": "C",
+      "text": "Piston"
+    },
+    {
+      "id": "D",
+      "text": "Crankshaft"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "mek",
+  "set": 3,
+  "explanation": ""
+}
