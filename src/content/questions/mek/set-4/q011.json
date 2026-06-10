@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "mek",
   "set": 4,
-  "explanation": "Checking wheel rotation after running is unnecessary; the machine should be inspected for safety and oil levels *before* it is started, not after."
+  "explanation": "Checking wheel rotation after a machine has been running is not a standard safety 'do'. It implies touching a potentially moving or hot wheel. All other options are valid safety precautions to ensure the machine operates correctly and safely."
 }

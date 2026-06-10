@@ -22,5 +22,5 @@
   "correctOptionId": "C",
   "courseId": "mek",
   "set": 3,
-  "explanation": "The indicator valve is a small valve on the cylinder head used to vent cylinder gases. It is primarily used for 'blowing through' the engine to clear any oil or water before starting and for taking cylinder pressure readings."
+  "explanation": "The indicator valve on a diesel engine serves as a port to connect a pressure indicator or to release compressed air during the 'blowing through' phase before starting. This allows for clearing residual gases or checking cylinder compression."
 }

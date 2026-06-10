@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "mek",
   "set": 3,
-  "explanation": "Compressed air is used to provide the initial momentum required to rotate the crankshaft until the engine reaches a speed at which it can begin firing on its own fuel, thus starting the engine."
+  "explanation": "Compressed air is used in diesel engines primarily for starting the engine. It is injected into the cylinders at high pressure to initiate the crankshaft's rotation, allowing the combustion cycle to begin."
 }

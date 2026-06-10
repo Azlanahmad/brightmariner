@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "mek",
   "set": 3,
-  "explanation": "In a diesel engine, the piston undergoes reciprocating motion within the cylinder liner, moving from Top Dead Center (TDC) to Bottom Dead Center (BDC) to convert combustion pressure into mechanical energy."
+  "explanation": "In a diesel engine's operational cycle, the piston is designed to reciprocate, meaning it moves linearly up and down within the cylinder. This reciprocating motion is fundamental to converting the energy from fuel combustion into rotational mechanical work via the crankshaft."
 }

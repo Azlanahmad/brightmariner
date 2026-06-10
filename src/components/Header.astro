@@ -1,5 +1,6 @@
 ---
 import { Search } from 'lucide-react';
+import SearchComponent from './Search.astro';
 ---
 
 <header class="sticky top-0 z-50 w-full bg-canvas/80 backdrop-blur-md border-b border-hairline h-16">
@@ -20,7 +21,7 @@ import { Search } from 'lucide-react';
     </div>
 
     <div class="flex items-center gap-3">
-        <button class="p-2 text-body hover:text-ink hover:bg-canvas-soft-2 rounded-full transition-colors">
+        <button id="search-trigger-btn" class="p-2 text-body hover:text-ink hover:bg-canvas-soft-2 rounded-full transition-colors" aria-label="Open search">
             <Search className="w-4 h-4" />
         </button>
         
@@ -43,6 +44,8 @@ import { Search } from 'lucide-react';
     </nav>
   </div>
 </header>
+
+<SearchComponent />
 
 <script>
   function setupMobileMenu() {

@@ -22,5 +22,5 @@
   "correctOptionId": "A",
   "courseId": "mek",
   "set": 3,
-  "explanation": "A 'feed system' (specifically referring to boiler feed water) is a component of a steam system, not a diesel engine. Diesel engines rely on fuel, lubricating, and cooling systems."
+  "explanation": "A feed system is primarily associated with steam boilers, providing water for steam generation. Main engines on a ship, whether diesel or turbine, do not require a boiler feed system for their direct operation."
 }

@@ -14,5 +14,5 @@
   "correctOptionId": "A",
   "courseId": "mek",
   "set": 3,
-  "explanation": "In trunk type engines, the piston pin is located within the piston skirt, and the connecting rod connects directly to the piston. There is no intermediate piston rod, making the design compact."
+  "explanation": "Trunk type diesel engines do not have a separate piston rod. The connecting rod is directly attached to the piston skirt, which guides the piston within the cylinder liner."
 }

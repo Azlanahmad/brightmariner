@@ -22,5 +22,5 @@
   "correctOptionId": "D",
   "courseId": "mek",
   "set": 3,
-  "explanation": "The air starting valve is a pneumatically operated valve in the cylinder head that admits high-pressure air into the combustion chamber specifically to turn the engine during the starting sequence only."
+  "explanation": "The air starting valve in a diesel engine is designed to operate intermittently. It opens only during the starting sequence to admit compressed air into the cylinders, initiating rotation; it remains closed during normal operation."
 }
