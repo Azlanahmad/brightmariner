@@ -1,13 +1,13 @@
 ---
-title: "Lubricating Oil System of Marine Diesel Engine "
-description: "Read about Lubricating Oil System of Marine Diesel Engine  on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technica"
+title: "Marine Engine Lubrication System: Lubricating Oil System of Marine Diesel Engine"
+description: "Learn how the marine engine lubrication system works. A comprehensive guide on lubricating oil systems in marine diesel engines for marine engineers."
 date: 2024-04-03T11:28:20.000Z
 tags: ["marine diesel lubrication system","marine engine lubrication system"]
 categories: ["Marine Engineering"]
 image: "/wp-content/uploads/2024/04/lubrication-of-marine-engine.webp"
 ---
 
-<p>The lubrication system of an engine supplies lubricating oil to the various moving parts of the engine. </p>
+<p>The marine engine lubrication system plays a crucial role in the smooth operation of a vessel's main propulsion plant. This system supplies lubricating oil to the various moving parts of the engine. </p>
 
 
 

@@ -71,7 +71,7 @@ image: "/wp-content/uploads/2022/01/tappet.jpg"
 
 
 
-<p>The amount of clearance should be monitored, as excessive and minimal clearance both hurt the normal functioning of the engine, as the change in Tappet Clearance will lead to an early or delayed opening of the inlet or exhaust valves.</p>
+<p>The amount of clearance should be monitored, as excessive and minimal clearance both hurt the normal functioning of the engine, as the change in this clearance gap will lead to an early or delayed opening of the inlet valve or exhaust valve.</p>
 
 
 
@@ -219,7 +219,7 @@ image: "/wp-content/uploads/2022/01/tappet.jpg"
 
 
 
-<p>Answer: If the tappet clearance is not adjusted correctly, it can lead to problems such as noisy valve operation, reduced power, and even engine damage. If the clearance is too small, the valve may not fully close, resulting in a loss of compression and reduced engine performance. If the clearance is too large, the valve may not fully open, reducing power and efficiency.</p>
+<p>Answer: If the clearance is not adjusted correctly, it can lead to problems such as noisy valve operation, reduced power, and even engine damage. If the clearance is too small, the valve may not fully close, resulting in a loss of <strong>compression pressure</strong> and reduced engine performance. If the clearance is too large, the valve may not fully open, reducing power and efficiency.</p>
 
 
 

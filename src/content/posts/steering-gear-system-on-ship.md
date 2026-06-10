@@ -1,13 +1,13 @@
 ---
-title: "Steering Gear System on Ship: Important Questions"
-description: "Read about Steering Gear System on Ship: Important Questions on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential techni"
+title: "Steering Gear Ship System: What is Steering Gear System in Ship?"
+description: "Learn how a steering gear system in ship designs works. Read about steering gear ship components, telemotor systems, and hydraulic configurations."
 date: 2022-01-24T06:41:55.000Z
 tags: ["Steering Gear System on Ship"]
 categories: ["Marine Auxiliary Machinery"]
 image: "/wp-content/uploads/2022/01/steering-gear.png"
 ---
 
-<p>Steering Gear is equipment provided on ships to change the direction of the ship during sailing or maneuvering. The Steering Gear works only when the ship is in motion and, does not work when the ship is stationary. </p>
+<p>A <strong>steering gear ship</strong> system consists of the components required to steer the ship and control its direction. This <strong>electro hydraulic systems</strong> setup translates electrical signals or steering wheel inputs from the bridge into physical rudder movements to change the vessel's heading. The system works only when the ship is in motion and does not work when the ship is stationary.</p>
 
 
 
@@ -155,9 +155,14 @@ image: "/wp-content/uploads/2022/01/steering-gear.png"
 
 
 
+<h3>How Steering Gears Operate</h3>
+<p>The steering gear system in ship designs is the control system and power unit that is used to turn the rudder. When the helm is turned on the bridge, electrical signals are sent to control valves that direct pressurized hydraulic fluid into the hydraulic cylinders. This hydraulic force acts on the rams or rotary vanes, changing the rudder angle to safely steer the ship.</p>
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=s0bZ4H3_P4s
+</div><figcaption class="wp-element-caption">Marine Steering Gear System Operation</figcaption></figure>
+
 <p><strong>What are the Maintenance and checks of Steering Gear?</strong></p>
-
-
 
 <p><strong>Daily checks</strong></p>
 

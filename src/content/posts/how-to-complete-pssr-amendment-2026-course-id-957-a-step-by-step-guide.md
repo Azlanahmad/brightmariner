@@ -1,6 +1,6 @@
 ---
-title: "How to Complete PSSR Amendment 2026 Course (ID 957): A Step-by-Step Guide"
-description: "Get the latest DG Shipping PSSR exit exam questions and answers. Updated 2026 STCW MCQ set for Personal Safety and Social Responsibilities. Score high marks!"
+title: "How to Complete PSSR Refresher Course & Amendment 2026 (ID 957): Guide"
+description: "Step-by-step guide to complete the PSSR refresher course and the mandatory PSSR Amendment 2026 (Course ID 957) on the DG Shipping e-learning portal."
 date: 2026-03-22T10:49:00.000Z
 tags: ["PSSR Amendment 2026"]
 categories: ["Marine Engineering"]
@@ -13,7 +13,7 @@ faqs:
     answer: "The amendment certificate does not have an expiry date; it permanently updates your existing PSSR qualification to the 2026 standards."
 ---
 
-<p>The Directorate General of Shipping (DGS) has introduced a mandatory update for Indian seafarers: the <strong>PSSR Amendment 2026 course (Course ID 957)</strong>. This new e-learning module is essential for staying compliant with the latest STCW standards.</p>
+<p>The Directorate General of Shipping (DGS) has introduced a mandatory update for Indian seafarers: the <strong>PSSR Amendment 2026 course (Course ID 957)</strong>, which acts as a key <strong>pssr refresher course</strong>. This new e-learning module is essential for staying compliant with the latest STCW standards.</p>
 
 
 
@@ -186,6 +186,11 @@ faqs:
 
 <li>Rejection of your documents by shipping companies.</li>
 </ul>
+
+
+
+<h3 class="wp-block-heading">Relationship with PSSR Refresher Course & STCW Convention</h3>
+<p>The pssr refresher course and the PSSR Amendment 2026 are part of the broader safety updates mandated under the STCW convention. The STCW convention regulates the minimum training standards for all seafaring personnel. Staying up to date with your personal safety and social responsibilities pssr updates ensures that you are fully certified and ready to sail without administrative delays.</p>
 
 
 

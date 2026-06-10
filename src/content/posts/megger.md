@@ -1,12 +1,12 @@
 ---
-title: "Megger: Definition, Working Principle, Construction, Diagram, and Uses on Ship"
-description: "Read about Megger: Definition, Working Principle, Construction, Diagram, and Uses on Ship on Bright Mariner. A comprehensive guide for marine engineers and seaf"
+title: "What is Megger in Electrical: Working Principle, Meter Diagram & Drawing"
+description: "A guide answering: what is the megger in electrical systems? Learn the megger working principle, check the megger diagram, and understand its meaning."
 date: 2022-03-03T17:11:10.000Z
 categories: ["Electrical","Marine Engineering"]
 image: "/wp-content/uploads/2022/03/megger-.png"
 ---
 
-<p>Megger is a device used to measure insulation resistance. Megger is a combination of both<strong> generator and an ohmmeter</strong>. This instrument is used to measure the high-value resistance (IR value).</p>
+<p>If you are wondering <strong>what is megger in electrical</strong> systems, here is the answer. A megger (with the literal <strong>megger meaning</strong> being a mega-ohm meter) is an instrument used for <strong>insulation testing</strong>. It measures the <strong>unknown resistance</strong> of electrical insulation by applying a high <strong>test voltage</strong>. It is a combination of both a generator and an ohmmeter, used to measure the high-value resistance (IR value).</p>
 
 
 
@@ -30,7 +30,11 @@ image: "/wp-content/uploads/2022/03/megger-.png"
 
 
 
-<h2 id="3" style="font-style:normal;font-weight:700">Working of Megger:</h2>
+<h2>Megger Working Principle & Insulation Testing</h2>
+<p>The <strong>megger working principle</strong> is based on electromagnetic attraction. The device uses a <strong>hand cranked</strong> <strong>dc generator</strong> to supply the test voltage. When testing a cable or motor, the <strong>guard terminal</strong> prevents leakage current from affecting the measurement. In a <strong>short circuit</strong> condition, the needle drops to zero. This makes the <strong>insulation resistance test</strong> very reliable.</p>
+
+<h2 id="3" style="font-style:normal;font-weight:700">Working of Megger (Diagram & Drawing):</h2>
+<p>Below is a detailed <strong>megger diagram</strong> and <strong>megger drawing</strong> that shows the internal connections of the voltage coil and current coil in a manual <strong>megger meter diagram</strong>.</p>
 
 
 

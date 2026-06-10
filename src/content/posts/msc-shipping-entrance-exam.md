@@ -1,13 +1,13 @@
 ---
-title: "MSC Shipping Entrance Exam 2024 (Deck Cadets & TME): Registration, Exam Date, Syllabus, Eligibility"
-description: "MSC Shipping Entrance Exam 2024 registration started on 6th march 2024. Here is the details for registration process, Exam Date, Eligibility.."
+title: "MSC Sponsorship for DNS: MSC Shipping Entrance Exam Registration, Syllabus, Eligibility"
+description: "All details on MSC sponsorship for DNS (Diploma in Nautical Science) including the MSC Shipping entrance exam registration, syllabus, and eligibility criteria."
 date: 2024-02-16T10:31:28.000Z
 tags: ["MSC Exam","MSC Exam 2024"]
 categories: ["MSC Exam"]
 image: "/wp-content/uploads/2024/02/Screenshot-2024-03-07-at-11.38.28 PM-1-scaled.webp"
 ---
 
-<p>Being a Cadet or TME at MSC Shipmanagement Limited is an exciting opportunity for young people who are passionate about a career at sea. The exam is open to both male and female candidates. After you pass out from the Training Institute,&nbsp;you will be assigned to a company vessel as a deck cadet or trainee marine engineer.</p>
+<p>Being a Cadet or TME at MSC Shipmanagement Limited is an exciting opportunity for young people who are passionate about a career at sea. Securing an <strong>MSC sponsorship for DNS</strong> is highly sought after. The exam is open to both male and female candidates. After you pass out from the Training Institute,&nbsp;you will be assigned to a company vessel as a deck cadet or trainee marine engineer.</p>
 
 
 
@@ -78,7 +78,7 @@ image: "/wp-content/uploads/2024/02/Screenshot-2024-03-07-at-11.38.28 PM-1-sca
 
 
 
-<li>Educational qualifications: 10+2 with 65% marks in PCM aggregate </li>
+<li>Educational qualifications: 10+2 to comply with 65 marks in pcm aggregate for the dns diploma in nautical science</li>
 
 
 
@@ -86,13 +86,13 @@ image: "/wp-content/uploads/2024/02/Screenshot-2024-03-07-at-11.38.28 PM-1-sca
 
 
 
-<li>Medical requirements:
+<li>Medical requirements & medical tests:
 <ul>
 <li>All applicants must&nbsp;comply with the physical and medical standards as per regulations and Company standards.</li>
 
 
 
-<li>Medical examination will be done&nbsp;by the Company &amp; DG Shipping Approved Doctor ONLY.</li>
+<li>Medical examination and medical tests will be done&nbsp;by the Company &amp; DG Shipping Approved Doctor ONLY.</li>
 </ul>
 </li>
 

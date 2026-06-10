@@ -1,6 +1,6 @@
 ---
-title: "Marine Refrigeration System: Vapour Compression Cycle"
-description: "Read about Marine Refrigeration System: Vapour Compression Cycle on Bright Mariner. A comprehensive guide for marine engineers and seafarers."
+title: "Marine Refrigeration System & PV Diagram for Refrigeration Cycle"
+description: "Understand the marine refrigeration system and the vapor compression refrigeration cycle. Learn about key components and how to analyze the PV diagram for refrigeration cycle."
 date: 2021-05-21T19:09:32.000Z
 categories: ["Marine Engineering"]
 image: "/wp-content/uploads/2021/05/Marine-Refrigeration-plant.jpeg"
@@ -56,10 +56,18 @@ image: "/wp-content/uploads/2021/05/Marine-Refrigeration-plant.jpeg"
 
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/wp-content/uploads/2021/05/Vapour-Compression-System.png" alt="Vapour Compression System" class="wp-image-48" width="525" height="302"/><figcaption><strong>Vapour Compression System</strong></figcaption></figure></div>
 
+## Analyzing the PV Diagram for Refrigeration Cycle
 
+To fully understand the thermodynamics of a marine refrigeration plant, engineers analyze the pressure-volume (P-V) and pressure-enthalpy (P-h) diagrams. Below is a detailed breakdown of the four primary processes in the vapor compression refrigeration cycle as shown on a typical **PV diagram for refrigeration cycle**:
 
-<p></p>
-
-
-
-<p></p>
+1. **Process 1-2: Isentropic Compression (in the Compressor)**
+   The refrigerant enters the compressor as a low-pressure saturated vapor (or slightly superheated vapor). The compressor performs work on the working fluid, raising its pressure and temperature. On the PV diagram, this is represented by a curve sloping upwards and to the left, as the volume decreases while pressure increases. The refrigerant leaves the compressor as a high-pressure, high-temperature superheated vapor.
+   
+2. **Process 2-3: Constant Pressure Heat Rejection (in the Condenser)**
+   The high-pressure superheated vapor enters the condenser, which acts as a heat exchanger. Here, it rejects heat to the circulating seawater (or air in domestic air conditioners). The refrigerant cools down to its saturation temperature, condenses at a constant pressure, and is subcooled. On the P-V diagram, this constant pressure process is represented by a horizontal line. At the exit, the refrigerant becomes a high pressure liquid, specifically a saturated liquid or subcooled liquid.
+   
+3. **Process 3-4: Throttling / Expansion (in the Throttling Valve)**
+   The high pressure liquid flows through the expansion valve (or throttling valve), which is an isenthalpic expansion device. During this process, no heat is exchanged, and no work is done. The pressure drops significantly, causing a portion of the liquid refrigerant to flash into vapor. The temperature drops dramatically. On the P-V diagram, this expansion is depicted as a steep vertical or near-vertical drop in pressure with an increase in specific volume.
+   
+4. **Process 4-1: Constant Pressure Heat Absorption (in the Evaporator)**
+   The cold mixture of liquid and vapor enters the evaporator coil. The refrigerant absorbs heat from the space being cooled (such as the meat room or vegetable room on a ship). As the refrigerant absorbs heat, it evaporates at a constant pressure and constant temperature. The liquid refrigerant undergoes a phase change until it becomes a saturated vapor at state 1, ready to be compressed again.

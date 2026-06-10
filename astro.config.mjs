@@ -11,4 +11,7 @@ export default defineConfig({
 	vite: {
 		plugins: [tailwindcss()],
 	},
+	redirects: {
+		'/refresher-fpff-exit-exam-questions-and-answers-rfpff/': '/mcq/rfpff-exit-exam-questions-answers/1/'
+	}
 });

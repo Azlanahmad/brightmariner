@@ -1,13 +1,13 @@
 ---
-title: "What are Class A, Class B, Class C BulkHeads as per SOLAS? Types of Ship Bulkheads"
-description: "Read about What are Class A, Class B, Class C BulkHeads as per SOLAS? Types of Ship Bulkheads on Bright Mariner. A comprehensive guide for marine engineers and "
+title: "SOLAS Bulkhead Fire Classes: What is an A Class Division?"
+description: "Learn about SOLAS bulkhead fire classes. Understand the requirements for an A class division, B class division, and C class division on ships."
 date: 2023-04-28T14:24:00.000Z
-tags: ["accommodation bulkheads are classified as","class a bulkhead","class a division bulkhead as per solas","class b bulkhead","class c bulkhead","Class of bulkhead as per solas","types of ship bulkheads"]
+tags: ["accommodation bulkheads are classified as","class a bulkhead","class a division bulkhead as per solas","class b bulkhead","class c bulkhead","Class of bulkhead as per solas","types of ship bulkheads","a class division"]
 categories: ["Ship Fire Prevention and Control"]
 image: "/wp-content/uploads/2021/04/Types-of-Bulkheads.png"
 ---
 
-<p>In order to prevent the propagation of fire from one compartment to another, all watertight bulkheads are also provided with fire-resistant paneling. There are mainly 3 different types of Bulkheads.</p>
+<p>In order to contain the propagation of fire from one compartment to another, all watertight bulkheads are also provided with fire-resistant paneling. There are mainly 3 different types of bulkheads. Under SOLAS regulations, fire protection boundaries are categorized by their thermal and structural integrity, where each boundary is referred to as a class division. The most robust of these is an <strong>a class division</strong>.</p>
 
 
 
@@ -15,34 +15,30 @@ image: "/wp-content/uploads/2021/04/Types-of-Bulkheads.png"
 
 
 
-<p>Depending on the extent to which bulkheads can retain the fire and smoke on the affected side, they are classified into three categories. The bulkheads are classified as A B &amp; C classes. </p>
-
-
-
-<p>The classification is based on fire resistance. So, <strong>accommodation bulkheads are classified as</strong></p>
+<p>Depending on the extent to which bulkheads can retain the fire and smoke on the affected side, they are classified into three categories. These are divisions formed by bulkheads and decks designed to resist fire. So, <strong>accommodation bulkheads are classified as</strong></p>
 
 
 
 <ol>
-<li><strong>Class A Bulkhead</strong></li>
+<li><strong>Class A Bulkhead (A Class Division)</strong></li>
 
 
 
-<li><strong>Class B Bulkhead </strong></li>
+<li><strong>Class B Bulkhead (B Class Division)</strong></li>
 
 
 
-<li><strong>Class C Bulkhead</strong></li>
+<li><strong>Class C Bulkhead (C Class Division)</strong></li>
 </ol>
 
 
 
-<h2 class="wp-block-heading"><strong>Class A division Bulkhead as per SOLAS</strong></h2>
+<h2 class="wp-block-heading"><strong>Class A Division Bulkhead as per SOLAS</strong></h2>
 
 
 
 <ul>
-<li>A" class divisions are those divisions formed by bulkheads and decks that comply with the following criteria:</li>
+<li>"A" class divisions are divisions formed by bulkheads and decks that comply with the following criteria:</li>
 
 
 
@@ -71,11 +67,11 @@ image: "/wp-content/uploads/2021/04/Types-of-Bulkheads.png"
 
 
 
-<h2 class="wp-block-heading"><strong>Class B division Bulkhead as per SOLAS</strong></h2>
+<h2 class="wp-block-heading"><strong>Class B Division Bulkhead as per SOLAS</strong></h2>
 
 
 
-<p>‘‘B’’ class divisions are those divisions formed by bulkheads, decks, ceilings or linings which comply with the following criteria: </p>
+<p>"B" class divisions are divisions formed by bulkheads, decks, ceilings or linings which comply with the following criteria: </p>
 
 
 
@@ -97,12 +93,12 @@ image: "/wp-content/uploads/2021/04/Types-of-Bulkheads.png"
 
 
 
-<h2 class="wp-block-heading"><strong>Class C division Bulkhead as per SOLAS</strong></h2>
+<h2 class="wp-block-heading"><strong>Class C Division Bulkhead as per SOLAS</strong></h2>
 
 
 
 <ul>
-<li>C" class divisions are divisions constructed of approved non-combustible materials. They need&nbsp;to meet neither requirements relative to the passage of smoke and flame nor limitations relative to the&nbsp;temperature rise. </li>
+<li>"C" class divisions are divisions constructed of approved non-combustible materials. They need&nbsp;to meet neither requirements relative to the passage of smoke and flame nor limitations relative to the&nbsp;temperature rise. </li>
 
 
 
