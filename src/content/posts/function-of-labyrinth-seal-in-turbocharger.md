@@ -1,6 +1,6 @@
 ---
 title: "Function of Labyrinth Seal in Turbocharger"
-description: "Read about Function of Labyrinth Seal in Turbocharger on Bright Mariner."
+description: "Read about Function of Labyrinth Seal in Turbocharger on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technical kno"
 date: 2022-02-10T18:37:10.000Z
 tags: ["Funcition of Labyrinth Seal in Turbocharger","Labyrinth Seal","Labyrinth Seal in Turbocharger"]
 categories: ["Marine Auxiliary Machinery"]

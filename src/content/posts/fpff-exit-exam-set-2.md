@@ -1,17 +1,17 @@
 ---
 title: "FPFF Exit Exam Questions: Set 2"
-description: "Read about FPFF Exit Exam Questions: Set 2 on Bright Mariner."
+description: "Pass your DG Shipping FPFF exit exam easily! Updated 2026 STCW MCQ questions and answers for Fire Prevention and Fire Fighting. Start your preparation now."
 date: 2024-09-07T14:48:32.000Z
 tags: ["fpff exit exam mcq","Fpff exit exam mcq with answers","FPFF Exit exam questions and Answers 2024","fpff exit exam questions pdf"]
 categories: ["DG Exit Exam Question","FPFF"]
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fire Prevention and Fire Fighting Exit Exam MCQ's </title>
+
+
+
+    
+    
+    
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -93,8 +93,8 @@ categories: ["DG Exit Exam Question","FPFF"]
             background-color: #0056b3;
         }
     </style>
-</head>
-<body>
+
+
 
 <div id="q31" class="question-container active">
     <h2>Question 31: A class - D Fire would involve the burning of:</h2>
@@ -549,8 +549,8 @@ categories: ["DG Exit Exam Question","FPFF"]
     });
 </script>
 
-</body>
-</html>
+
+
 
 
 

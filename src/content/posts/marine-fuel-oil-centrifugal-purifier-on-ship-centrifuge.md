@@ -1,6 +1,6 @@
 ---
 title: "Marine Fuel Oil Centrifugal Purifier on Ship | Centrifuge"
-description: "Read about Marine Fuel Oil Centrifugal Purifier on Ship | Centrifuge on Bright Mariner."
+description: "Read about Marine Fuel Oil Centrifugal Purifier on Ship | Centrifuge on Bright Mariner. A comprehensive guide for marine engineers and seafarers."
 date: 2021-09-20T06:02:50.000Z
 categories: ["Marine Auxiliary Machinery","Marine Engineering"]
 image: "/wp-content/uploads/2021/09/fuel-oil-purifier_digital_art_x4.jpg"

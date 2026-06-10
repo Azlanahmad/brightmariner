@@ -1,6 +1,6 @@
 ---
 title: "Synergy Exam 2026: Registration, Exam Date, Syllabus, Eligibility"
-description: "Read about Synergy Exam 2026: Registration, Exam Date, Syllabus, Eligibility on Bright Mariner."
+description: "Complete guide for Synergy Exam preparation. Check tips, tricks, and updated MCQ patterns for Engine Cadet exams. Boost your chances of selection!"
 date: 2023-11-28T17:25:00.000Z
 tags: ["synergy entrance exam","synergy exam 2026","synergy exam registration","SYNERGY exam study material"]
 categories: ["Exams","Synergy Maritime Exam"]

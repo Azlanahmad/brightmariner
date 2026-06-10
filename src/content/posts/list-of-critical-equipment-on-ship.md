@@ -1,6 +1,6 @@
 ---
 title: "List of Critical Equipment on Ship"
-description: "Read about List of Critical Equipment on Ship on Bright Mariner."
+description: "Read about List of Critical Equipment on Ship on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technical knowledge a"
 date: 2024-04-03T11:53:23.000Z
 tags: ["bridge critical equipment list","List of Critical Equipment on Ship","list of critical equipment onboard ship"]
 categories: ["Informational"]

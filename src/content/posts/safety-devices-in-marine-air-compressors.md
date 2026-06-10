@@ -1,6 +1,6 @@
 ---
 title: "Safety Devices in Marine Air Compressors"
-description: "Read about Safety Devices in Marine Air Compressors on Bright Mariner."
+description: "Read about Safety Devices in Marine Air Compressors on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technical knowl"
 date: 2024-09-22T14:52:59.000Z
 tags: ["Air Compressor"]
 categories: ["Air Compressor"]

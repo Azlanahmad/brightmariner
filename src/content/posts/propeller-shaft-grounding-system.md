@@ -1,6 +1,6 @@
 ---
 title: "PROPELLER SHAFT GROUNDING SYSTEM"
-description: "Read about PROPELLER SHAFT GROUNDING SYSTEM on Bright Mariner."
+description: "Read about PROPELLER SHAFT GROUNDING SYSTEM on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technical knowledge and"
 date: 2022-05-05T17:13:48.000Z
 tags: ["PROPELLER SHAFT GROUNDING SYSTEM"]
 categories: ["Electrical"]

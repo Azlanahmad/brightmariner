@@ -1,6 +1,6 @@
 ---
 title: "What are the reasons for adopting a Water Tube boiler instead of a Smoke Tube boiler?"
-description: "Read about What are the reasons for adopting a Water Tube boiler instead of a Smoke Tube boiler? on Bright Mariner."
+description: "Read about What are the reasons for adopting a Water Tube boiler instead of a Smoke Tube boiler? on Bright Mariner. A comprehensive guide for marine engineers a"
 date: 2021-07-27T15:46:29.000Z
 categories: ["Marine Engineering"]
 image: "/wp-content/uploads/2021/07/IMU-cet-exam.png"

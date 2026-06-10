@@ -1,6 +1,6 @@
 ---
 title: "Centrifugal Pump: The Important point you must Know"
-description: "Read about Centrifugal Pump: The Important point you must Know on Bright Mariner."
+description: "Read about Centrifugal Pump: The Important point you must Know on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential tech"
 date: 2023-08-13T17:46:39.000Z
 tags: ["centrifugal pump","important points"]
 categories: ["Marine Engineering"]

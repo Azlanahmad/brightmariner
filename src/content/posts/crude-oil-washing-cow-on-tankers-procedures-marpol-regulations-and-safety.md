@@ -1,6 +1,6 @@
 ---
 title: "Crude Oil Washing (COW) on Tankers: Procedures, MARPOL Regulations, and Safety"
-description: "Read about Crude Oil Washing (COW) on Tankers: Procedures, MARPOL Regulations, and Safety on Bright Mariner."
+description: "Read about Crude Oil Washing (COW) on Tankers: Procedures, MARPOL Regulations, and Safety on Bright Mariner. A comprehensive guide for marine engineers and seaf"
 date: 2026-04-19T12:50:51.000Z
 categories: ["OIl Tankers"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Main Engine Interlocks of Marine Diesel Engine"
-description: "Read about Main Engine Interlocks of Marine Diesel Engine on Bright Mariner."
+description: "Read about Main Engine Interlocks of Marine Diesel Engine on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technical"
 date: 2023-08-19T13:15:45.000Z
 tags: ["interlocks","Main Engine Interlocks"]
 categories: ["Marine Engineering","MEO Class IV"]

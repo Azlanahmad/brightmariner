@@ -1,6 +1,6 @@
 ---
 title: "Rectifier Circuits on Ships: A Marine Engineer's Guide to AC-DC Conversion"
-description: "Read about Rectifier Circuits on Ships: A Marine Engineer's Practical Guide to AC-DC Conversion on Bright Mariner."
+description: "Read about Rectifier Circuits on Ships: A Marine Engineer's Guide to AC-DC Conversion on Bright Mariner. A comprehensive guide for marine engineers and seafarer"
 date: 2026-03-24T12:44:32.000Z
 categories: ["Marine Engineering"]
 faqs:

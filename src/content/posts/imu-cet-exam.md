@@ -1,6 +1,6 @@
 ---
 title: "IMU-CET 2024 Exam: Application form, Registration, Exam Date, Syllabus, Eligibility"
-description: "Read about IMU-CET 2024 Exam: Application form, Registration, Exam Date, Syllabus, Eligibility on Bright Mariner."
+description: "Crack the IMU CET exam with our comprehensive study material and previous year question papers. Updated guide for 2024-2025 maritime entrance exams."
 date: 2023-08-27T13:11:26.000Z
 tags: ["imu cet","imu cet 2024","imu cet exam"]
 categories: ["IMU-CET"]

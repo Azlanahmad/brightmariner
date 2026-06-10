@@ -1,6 +1,6 @@
 ---
 title: "How to Select Gravity Disc for Purifier? Size of Gravity Disc"
-description: "Read about How to Select Gravity Disc for Purifier? Size of Gravity Disc on Bright Mariner."
+description: "Read about How to Select Gravity Disc for Purifier? Size of Gravity Disc on Bright Mariner. A comprehensive guide for marine engineers and seafarers."
 date: 2023-11-01T14:58:28.000Z
 tags: ["Gravity Disc","purifier"]
 categories: ["Marine Purifier"]

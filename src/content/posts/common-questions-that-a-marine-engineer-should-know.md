@@ -1,6 +1,6 @@
 ---
 title: "Common Questions that a Marine Engineer should know"
-description: "Read about Common Questions that a Marine Engineer should know on Bright Mariner."
+description: "Read about Common Questions that a Marine Engineer should know on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential tech"
 date: 2024-09-22T14:37:49.000Z
 categories: ["Marine Engineering"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "What is Tappet Clearance? Why is it Required and How measure it? | Valve Clearance"
-description: "Read about What is Tappet Clearance? Why is it Required and How measure it? | Valve Clearance on Bright Mariner."
+description: "Read about What is Tappet Clearance? Why is it Required and How measure it? | Valve Clearance on Bright Mariner. A comprehensive guide for marine engineers and "
 date: 2023-10-18T10:28:00.000Z
 tags: ["tappet Clearance","Tappet clearance adjustment","Tappet clearance purpose","valve clearance"]
 categories: ["Featured","Marine Auxiliary Machinery","Marine Engineering"]

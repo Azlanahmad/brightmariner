@@ -1,6 +1,6 @@
 ---
 title: "Isolating valve: Its Importance and Location"
-description: "Read about Isolating valve: Its Importance and Location on Bright Mariner."
+description: "Read about Isolating valve: Its Importance and Location on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technical k"
 date: 2021-04-27T16:27:26.000Z
 tags: ["Isolating valve","Isolation valve"]
 categories: ["Ship Fire Prevention and Control"]

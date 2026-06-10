@@ -1,6 +1,6 @@
 ---
 title: "Exhaust Gas Economizer (EGE) Fire | Exhaust Gas Boiler Fire"
-description: "Read about Exhaust Gas Economizer (EGE) Fire | Exhaust Gas Boiler Fire on Bright Mariner."
+description: "Read about Exhaust Gas Economizer (EGE) Fire | Exhaust Gas Boiler Fire on Bright Mariner. A comprehensive guide for marine engineers and seafarers."
 date: 2023-03-02T06:04:00.000Z
 tags: ["EGB fire","EGE","Exhaust Gas Economiser Fire"]
 categories: ["Marine Engineering"]

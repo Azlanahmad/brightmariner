@@ -1,6 +1,6 @@
 ---
 title: "Different Classes of fire and their Control | Class A fires,  Class B fires, Class C fires, Class D fires, Class F fires"
-description: "Read about Different Classes of fire and their Control | Class A fires,  Class B fires, Class C fires, Class D fires, Class F fires on Bright Mariner."
+description: "Read about Different Classes of fire and their Control | Class A fires,  Class B fires, Class C fires, Class D fires, Class F fires on Bright Mariner. A compreh"
 date: 2021-04-11T15:49:02.000Z
 tags: ["Class A fires","Class B fires","Class C fires","Class D fires","Different Classes of fire"]
 categories: ["Ship Fire Prevention and Control"]

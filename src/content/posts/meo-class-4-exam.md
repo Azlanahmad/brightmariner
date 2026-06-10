@@ -1,6 +1,6 @@
 ---
 title: "MEO Class 4 Exam: Eligibility, Syllabus, Fees, Courses, Certificates, Procedure, etc."
-description: "Read about MEO Class 4 Exam: Eligibility, Syllabus, Fees, Courses, Certificates, Procedure, etc. on Bright Mariner."
+description: "Everything you need to know about the MEO Class 4 exam. Eligibility, syllabus, fees, and procedure. Start your journey to becoming a certified marine engineer."
 date: 2022-07-03T12:08:47.000Z
 tags: ["meo class 4 eligibility dg shipping","MEO Class 4 Exam","meo class 4 exam fees","meo class 4 syllabus"]
 categories: ["Exams","MEO Class IV"]

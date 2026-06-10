@@ -1,6 +1,6 @@
 ---
 title: "Thermocouples on Ships: The Marine Engineer's Guide to Temperature Measurement That Actually Works"
-description: "Read about Thermocouples on Ships: The Marine Engineer's Guide to Temperature Measurement That Actually Works on Bright Mariner."
+description: "Read about Thermocouples on Ships: The Marine Engineer's Guide to Temperature Measurement That Actually Works on Bright Mariner. A comprehensive guide for marin"
 date: 2026-03-24T12:50:43.000Z
 categories: ["Marine Engineering"]
 faqs:

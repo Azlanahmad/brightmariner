@@ -1,6 +1,6 @@
 ---
 title: "ME and MC Engine Constructional difference"
-description: "Read about ME and MC Engine Constructional difference on Bright Mariner."
+description: "Read about ME and MC Engine Constructional difference on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technical kno"
 date: 2023-10-30T18:49:01.000Z
 tags: ["mc engine","me engine"]
 categories: ["Marine Engineering"]

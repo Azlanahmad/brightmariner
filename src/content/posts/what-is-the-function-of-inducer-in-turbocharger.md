@@ -1,6 +1,6 @@
 ---
 title: "What is the Function of Inducer in Turbocharger?"
-description: "Read about What is the Function of Inducer in Turbocharger? on Bright Mariner."
+description: "Read about What is the Function of Inducer in Turbocharger? on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technic"
 date: 2022-01-12T21:06:00.000Z
 tags: ["Function of Inducer in Turbocharger","Inducer in Turbocharger","What is inducer in turbocharger"]
 categories: ["Marine Engineering"]

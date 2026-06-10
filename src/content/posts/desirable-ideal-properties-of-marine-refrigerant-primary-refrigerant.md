@@ -1,6 +1,6 @@
 ---
 title: "Desirable Properties of Refrigerant | Ideal Marine Refrigerant Properties"
-description: "Read about Desirable Properties of Refrigerant | Ideal Marine Refrigerant Properties on Bright Mariner."
+description: "Read about Desirable Properties of Refrigerant | Ideal Marine Refrigerant Properties on Bright Mariner. A comprehensive guide for marine engineers and seafarers"
 date: 2021-05-27T19:19:25.000Z
 tags: ["Desirable Properties of Marine Refrigerant","Desirable Properties of Refrigerant","Ideal properties of a Marine Refrigerant","Properties of Marine Refrigerant"]
 categories: ["Marine Engineering","Marine Refrigeration, Air Conditioning and Ventilation"]

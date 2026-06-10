@@ -1,6 +1,6 @@
 ---
 title: "What is Variable Injection Timing(VIT) and how it works? Disadvantages of VIT system | What actions are required in case of VIT system failure?"
-description: "Read about What is Variable Injection Timing(VIT) and how it works? Disadvantages of VIT system | What actions are required in case of VIT system failure? on Bright Mariner."
+description: "Read about What is Variable Injection Timing(VIT) and how it works? Disadvantages of VIT system | What actions are required in case of VIT system failure? on Br"
 date: 2024-04-17T10:32:20.000Z
 tags: ["Disadvantages of Variable injection timing","variable injection timing","vit","What is the working principle of Vit?"]
 categories: ["Marine Engineering"]

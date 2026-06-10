@@ -1,6 +1,6 @@
 ---
 title: "Air Circuit Breakers on Ships: A Marine Engineer's Guide to Protecting High-Power Electrical Systems"
-description: "Read about Air Circuit Breakers on Ships: A Marine Engineer's Guide to Protecting High-Power Electrical Systems on Bright Mariner."
+description: "Read about Air Circuit Breakers on Ships: A Marine Engineer's Guide to Protecting High-Power Electrical Systems on Bright Mariner. A comprehensive guide for mar"
 date: 2026-03-24T21:29:48.000Z
 categories: ["Marine Engineering"]
 faqs:

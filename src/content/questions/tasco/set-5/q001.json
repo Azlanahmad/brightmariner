@@ -1,0 +1,26 @@
+{
+  "id": "tasco-s5-q1",
+  "text": "Select the correct point regarding the operation of the portable pumps?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Before using portable pump, rig the pump on the deck and while pumping, lower the hose in the tank"
+    },
+    {
+      "id": "B",
+      "text": "When the liquid cargo level goes down, lower the hose accordingly, keeping the rigged pump on the deck"
+    },
+    {
+      "id": "C",
+      "text": "Make sure that the portable pump is completely submerged and lowered till the bottom of the tank and then start the pumping operation"
+    },
+    {
+      "id": "D",
+      "text": "Ensure that only the lower half of the pump is submerged and is lowered as the cargo level falls."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "tasco",
+  "set": 5,
+  "explanation": ""
+}

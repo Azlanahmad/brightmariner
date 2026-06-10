@@ -1,7 +1,7 @@
 ---
 layout: "../layouts/Layout.astro"
 title: "Affiliate Disclosure"
-description: "Read about Affiliate Disclosure on Bright Mariner."
+description: "Ace your DG Shipping AFF exit exam! Updated 2026 STCW MCQ questions and answers for Advanced Fire Fighting. Essential study guide for seafarers."
 ---
 
 

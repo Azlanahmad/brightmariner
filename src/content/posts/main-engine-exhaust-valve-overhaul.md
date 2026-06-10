@@ -1,6 +1,6 @@
 ---
 title: "MAIN ENGINE EXHAUST VALVE OVERHAUL"
-description: "Read about MAIN ENGINE EXHAUST VALVE OVERHAUL on Bright Mariner."
+description: "Read about MAIN ENGINE EXHAUST VALVE OVERHAUL on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technical knowledge a"
 date: 2024-09-22T14:08:15.000Z
 tags: ["exhaust valve","MAIN ENGINE EXHAUST VALVE OVERHAUL"]
 categories: ["Exhaust Valve","Main Engine"]

@@ -1,6 +1,6 @@
 ---
 title: "Marine Refrigeration System: Vapour Compression Cycle"
-description: "Read about Marine Refrigeration System: Vapour Compression Cycle on Bright Mariner."
+description: "Read about Marine Refrigeration System: Vapour Compression Cycle on Bright Mariner. A comprehensive guide for marine engineers and seafarers."
 date: 2021-05-21T19:09:32.000Z
 categories: ["Marine Engineering"]
 image: "/wp-content/uploads/2021/05/Marine-Refrigeration-plant.jpeg"

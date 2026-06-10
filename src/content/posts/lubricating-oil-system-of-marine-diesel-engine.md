@@ -1,6 +1,6 @@
 ---
 title: "Lubricating Oil System of Marine Diesel Engine "
-description: "Read about Lubricating Oil System of Marine Diesel Engine  on Bright Mariner."
+description: "Read about Lubricating Oil System of Marine Diesel Engine  on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technica"
 date: 2024-04-03T11:28:20.000Z
 tags: ["marine diesel lubrication system","marine engine lubrication system"]
 categories: ["Marine Engineering"]

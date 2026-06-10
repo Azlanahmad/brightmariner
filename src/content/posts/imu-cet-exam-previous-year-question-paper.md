@@ -1,6 +1,6 @@
 ---
 title: "IMU CET Previous Year Question Paper {PDF Download} | IMU CET 2022 Exam"
-description: "Read about IMU CET Previous Year Question Paper {PDF Download} | IMU CET 2022 Exam on Bright Mariner."
+description: "Crack the IMU CET exam with our comprehensive study material and previous year question papers. Updated guide for 2024-2025 maritime entrance exams."
 date: 2021-07-22T18:37:51.000Z
 categories: ["IMU-CET"]
 image: "/wp-content/uploads/2021/07/IMU-cet-exam.png"

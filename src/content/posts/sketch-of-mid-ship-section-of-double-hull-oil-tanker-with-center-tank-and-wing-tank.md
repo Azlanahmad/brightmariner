@@ -1,6 +1,6 @@
 ---
 title: "Sketch of Mid Ship Section of Double Hull Oil Tanker with Center Tank and Wing Tank"
-description: "Read about Sketch of Mid Ship Section of Double Hull Oil Tanker with Center Tank and Wing Tank on Bright Mariner."
+description: "Read about Sketch of Mid Ship Section of Double Hull Oil Tanker with Center Tank and Wing Tank on Bright Mariner. A comprehensive guide for marine engineers and"
 date: 2023-10-10T12:32:00.000Z
 tags: ["Mid Ship Section of Double Hull Oil Tanker","naval architecture"]
 categories: ["Ship Construction and stability"]

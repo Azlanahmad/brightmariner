@@ -1,6 +1,6 @@
 ---
 title: "SOLAS regulations/requirements of Lifeboat on ship"
-description: "Read about SOLAS regulations/requirements of Lifeboat on ship on Bright Mariner."
+description: "Read about SOLAS regulations/requirements of Lifeboat on ship on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential techn"
 date: 2023-09-09T12:20:05.000Z
 tags: ["lifeboat","lifeboat regulation","lsa","meo class 4 exam fees","solas"]
 categories: ["Featured","Marine Engineering","MEO Class IV"]

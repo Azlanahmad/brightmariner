@@ -1,6 +1,6 @@
 ---
 title: "What are the safety devices fitted in the refrigeration system of ships?"
-description: "Read about What are the safety devices fitted in the refrigeration system of ships? on Bright Mariner."
+description: "Read about What are the safety devices fitted in the refrigeration system of ships? on Bright Mariner. A comprehensive guide for marine engineers and seafarers."
 date: 2021-05-25T06:29:25.000Z
 tags: ["safety devices fitted in the refrigeration system of ships"]
 categories: ["Marine Engineering"]

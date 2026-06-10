@@ -1,6 +1,6 @@
 ---
 title: "Types of Non-Destructive Tests (NDT) in Shipbuilding"
-description: "Read about Types of Non-Destructive Tests (NDT) in Shipbuilding on Bright Mariner."
+description: "Read about Types of Non-Destructive Tests (NDT) in Shipbuilding on Bright Mariner. A comprehensive guide for marine engineers and seafarers."
 date: 2023-08-13T18:11:40.000Z
 tags: ["dye penetration test","Eddy Current Test","liquid penetration test","Magnetic Particle Test","Non Destructive Tests","Radiographic Test","Ultrasonic Test"]
 categories: ["Marine Engineering"]

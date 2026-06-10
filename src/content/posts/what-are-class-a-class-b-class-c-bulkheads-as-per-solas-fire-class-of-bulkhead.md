@@ -1,6 +1,6 @@
 ---
 title: "What are Class A, Class B, Class C BulkHeads as per SOLAS? Types of Ship Bulkheads"
-description: "Read about What are Class A, Class B, Class C BulkHeads as per SOLAS? Types of Ship Bulkheads on Bright Mariner."
+description: "Read about What are Class A, Class B, Class C BulkHeads as per SOLAS? Types of Ship Bulkheads on Bright Mariner. A comprehensive guide for marine engineers and "
 date: 2023-04-28T14:24:00.000Z
 tags: ["accommodation bulkheads are classified as","class a bulkhead","class a division bulkhead as per solas","class b bulkhead","class c bulkhead","Class of bulkhead as per solas","types of ship bulkheads"]
 categories: ["Ship Fire Prevention and Control"]

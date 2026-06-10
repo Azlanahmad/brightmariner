@@ -1,7 +1,7 @@
 ---
 layout: "../layouts/Layout.astro"
-title: ""
-description: "Read about  on Bright Mariner."
+title: "SIP Return Calculator"
+description: "Read about SIP Return Calculator on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technical knowledge and safety pro"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "The Potential Of Inland Waterways of India"
-description: "Read about The Potential Of Inland Waterways of India on Bright Mariner."
+description: "Read about The Potential Of Inland Waterways of India on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technical kno"
 date: 2021-07-27T16:16:50.000Z
 categories: ["Featured","Nautical Science"]
 image: "/wp-content/uploads/2021/07/NW1.jpg"

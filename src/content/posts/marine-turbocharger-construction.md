@@ -1,6 +1,6 @@
 ---
 title: "Marine Turbocharger Construction"
-description: "Read about Marine Turbocharger Construction on Bright Mariner."
+description: "Read about Marine Turbocharger Construction on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technical knowledge and"
 date: 2024-09-22T14:30:48.000Z
 tags: ["turbocharger"]
 categories: ["Marine Engineering","Turbocharger"]

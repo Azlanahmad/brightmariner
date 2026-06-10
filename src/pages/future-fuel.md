@@ -1,7 +1,7 @@
 ---
 layout: "../layouts/Layout.astro"
 title: "Future of Marine Fuel"
-description: "Read about Future of Marine Fuel on Bright Mariner."
+description: "Read about Future of Marine Fuel on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technical knowledge and safety pro"
 ---
 
 

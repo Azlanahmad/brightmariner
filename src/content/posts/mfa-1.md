@@ -1,18 +1,18 @@
 ---
 title: "MFA Exit Exam Questions and Answers: Set - 1"
-description: "Read about MFA Exit Exam Questions and Answers: Set - 1 on Bright Mariner."
+description: "Master the DG Shipping MFA exit exam! Updated 2026 STCW MCQ questions and answers for Medical First Aid. Comprehensive prep material for marine engineers."
 date: 2024-09-08T09:16:09.000Z
 tags: ["dg shipping mfa exit exam questions and answers","MFA Exit Exam Questions and Answers","MFA Exit Exam Questions and Answers (Medical First Aid): Set - 1","mfa exit exam questions and answers pdf"]
 categories: ["MFA"]
 ---
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> MFA Exit Exam Questions and Answers: Set - 1 MCQ's </title>
+
+
+
+    
+    
+    
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -109,8 +109,8 @@ categories: ["MFA"]
             display: none;
         }
     </style>
-</head>
-<body>
+
+
 
 <!-- Question containers (only showing first 3 for brevity) -->
 
@@ -597,8 +597,8 @@ categories: ["MFA"]
     });
 </script>
 
-</body>
-</html>
+
+
 
 
 

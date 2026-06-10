@@ -1,6 +1,6 @@
 ---
 title: "What are the necessary conditions for parallel operation of alternators on ship? | Synchronization of Alternators"
-description: "Read about What are the necessary conditions for parallel operation of alternators on ship? | Synchronization of Alternators on Bright Mariner."
+description: "Read about What are the necessary conditions for parallel operation of alternators on ship? | Synchronization of Alternators on Bright Mariner. A comprehensive "
 date: 2022-03-06T10:37:06.000Z
 tags: ["conditions for parallel operation of alternators"]
 categories: ["Electrical"]

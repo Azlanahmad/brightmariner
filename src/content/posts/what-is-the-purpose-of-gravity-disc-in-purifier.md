@@ -1,6 +1,6 @@
 ---
 title: "Purpose of Gravity Disc in Purifier and How to select Size of Gravity Disc?"
-description: "Read about Purpose of Gravity Disc in Purifier and How to select Size of Gravity Disc? on Bright Mariner."
+description: "Read about Purpose of Gravity Disc in Purifier and How to select Size of Gravity Disc? on Bright Mariner. A comprehensive guide for marine engineers and seafare"
 date: 2022-01-22T10:42:14.000Z
 tags: ["centrifuge","Gravity Disc","purifier","size of gravity disc"]
 categories: ["Marine Engineering","Marine Purifier"]

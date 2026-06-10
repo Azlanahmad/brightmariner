@@ -1,6 +1,6 @@
 ---
 title: "List of Equipment to be carried in Lifeboat as per SOLAS"
-description: "Read about List of Equipment to be carried in Lifeboat as per SOLAS on Bright Mariner."
+description: "Read about List of Equipment to be carried in Lifeboat as per SOLAS on Bright Mariner. A comprehensive guide for marine engineers and seafarers."
 date: 2023-09-09T12:28:54.000Z
 categories: ["Marine Engineering"]
 image: "/wp-content/uploads/2023/09/pexels-photo-5718432.jpeg"

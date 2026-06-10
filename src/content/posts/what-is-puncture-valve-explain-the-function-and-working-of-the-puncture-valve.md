@@ -1,6 +1,6 @@
 ---
 title: "What is Puncture Valve? Explain the Function and working of the Puncture Valve?"
-description: "Read about What is Puncture Valve? Explain the Function and working of the Puncture Valve? on Bright Mariner."
+description: "Read about What is Puncture Valve? Explain the Function and working of the Puncture Valve? on Bright Mariner. A comprehensive guide for marine engineers and sea"
 date: 2023-03-01T12:20:00.000Z
 tags: ["marine IC engine","Puncture Valve","working of the Puncture Valve"]
 categories: ["Marine Engineering"]

@@ -1,6 +1,6 @@
 ---
 title: "How to Complete PSSR Amendment 2026 Course (ID 957): A Step-by-Step Guide"
-description: "Read about How to Complete PSSR Amendment 2026 Course (ID 957): A Step-by-Step Guide on Bright Mariner."
+description: "Get the latest DG Shipping PSSR exit exam questions and answers. Updated 2026 STCW MCQ set for Personal Safety and Social Responsibilities. Score high marks!"
 date: 2026-03-22T10:49:00.000Z
 tags: ["PSSR Amendment 2026"]
 categories: ["Marine Engineering"]

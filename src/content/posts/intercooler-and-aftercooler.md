@@ -1,6 +1,6 @@
 ---
 title: "Intercooler and Aftercooler in Air Compressor"
-description: "Read about Intercooler and Aftercooler in Air Compressor on Bright Mariner."
+description: "Read about Intercooler and Aftercooler in Air Compressor on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technical "
 date: 2022-06-01T17:20:09.000Z
 tags: ["Aftercooler","Air Compressor","Intercooler","Intercooler and Aftercooler"]
 categories: ["Marine Engineering"]

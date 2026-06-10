@@ -1,6 +1,6 @@
 ---
 title: "Why is Chemical treatment of Jacket Cooling water necessary on a ship?"
-description: "Read about Why is Chemical treatment of Jacket Cooling water necessary on a ship? on Bright Mariner."
+description: "Read about Why is Chemical treatment of Jacket Cooling water necessary on a ship? on Bright Mariner. A comprehensive guide for marine engineers and seafarers."
 date: 2024-04-04T18:32:24.000Z
 categories: ["Marine Auxiliary Machinery"]
 ---

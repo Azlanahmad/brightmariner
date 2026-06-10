@@ -1,6 +1,6 @@
 ---
 title: "Steering Gear System on Ship: Important Questions"
-description: "Read about Steering Gear System on Ship: Important Questions on Bright Mariner."
+description: "Read about Steering Gear System on Ship: Important Questions on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential techni"
 date: 2022-01-24T06:41:55.000Z
 tags: ["Steering Gear System on Ship"]
 categories: ["Marine Auxiliary Machinery"]

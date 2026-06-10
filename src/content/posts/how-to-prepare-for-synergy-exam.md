@@ -1,6 +1,6 @@
 ---
 title: "How to prepare for Synergy Exam 2024 (Engine Cadet): Check Tips & Tricks to Crack Synergy Exam"
-description: "Read about How to prepare for Synergy Exam 2024 (Engine Cadet): Check Tips & Tricks to Crack Synergy Exam on Bright Mariner."
+description: "Complete guide for Synergy Exam preparation. Check tips, tricks, and updated MCQ patterns for Engine Cadet exams. Boost your chances of selection!"
 date: 2022-02-12T15:55:59.000Z
 tags: ["How to prepare for Synergy Exam","Synergy Exam","Synergy Exam 2022","Synergy shipping Exam"]
 categories: ["Synergy Maritime Exam"]

@@ -1,6 +1,6 @@
 ---
 title: "Koi Casino arvostelu"
-description: "Read about Koi Casino arvostelu on Bright Mariner."
+description: "Read about Koi Casino arvostelu on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technical knowledge and safety proc"
 date: 2022-01-13T14:59:00.000Z
 categories: ["Marine Engineering"]
 ---

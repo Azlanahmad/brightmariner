@@ -1,6 +1,6 @@
 ---
 title: "Main Switch Board (MSB) Safeties on ship"
-description: "Read about Main Switch Board (MSB) Safeties on ship on Bright Mariner."
+description: "Read about Main Switch Board (MSB) Safeties on ship on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technical knowl"
 date: 2023-09-24T09:08:53.000Z
 tags: ["Main Switch Board (MSB) Safeties","msb safety"]
 categories: ["Electrical","Featured","Marine Engineering"]

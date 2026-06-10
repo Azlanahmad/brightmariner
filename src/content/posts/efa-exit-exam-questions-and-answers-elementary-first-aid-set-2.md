@@ -1,6 +1,6 @@
 ---
 title: "EFA Exit Exam Questions and Answers | Elementary First Aid | Set 2"
-description: "Read about EFA Exit Exam Questions and Answers | Elementary First Aid | Set 2 on Bright Mariner."
+description: "Master your DG Shipping EFA exit exam with our updated 2026 MCQ set. Comprehensive questions and answers for Elementary First Aid. Clear your exams on the first try!"
 date: 2024-09-12T15:02:40.000Z
 tags: ["efa","EFA Exit Exam","EFA Exit Exam Questions and Answers","efa exit exam questions and answers 2024","efa exit exam questions and answers pdf","efa exit exam questions and answers pdf download"]
 categories: ["EFA"]
@@ -10,12 +10,12 @@ categories: ["EFA"]
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Refresher FPFF Exit Exam Questions and Answers (RFPFF) Exit Exam MCQ's</title>
+
+
+
+    
+    
+    
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -111,8 +111,8 @@ categories: ["EFA"]
             display: none;
         }
     </style>
-</head>
-<body>
+
+
 
 <!-- Question containers (only showing first 3 for brevity) -->
 
@@ -565,8 +565,8 @@ categories: ["EFA"]
     });
 </script>
 
-</body>
-</html>
+
+
 
 
 

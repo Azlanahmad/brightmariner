@@ -1,6 +1,6 @@
 ---
 title: "Air Circuit Breaker (ACB) safeties on Ship as per SOLAS"
-description: "Read about Air Circuit Breaker (ACB) safeties on Ship as per SOLAS on Bright Mariner."
+description: "Read about Air Circuit Breaker (ACB) safeties on Ship as per SOLAS on Bright Mariner. A comprehensive guide for marine engineers and seafarers."
 date: 2023-10-19T03:26:08.000Z
 tags: ["acb on ship","acb safeties","ACB safeties as per solas","electrical safeties"]
 categories: ["Electrical","MEO Class IV"]

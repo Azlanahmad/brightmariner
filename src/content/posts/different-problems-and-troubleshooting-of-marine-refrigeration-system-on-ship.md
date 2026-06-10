@@ -1,6 +1,6 @@
 ---
 title: "Different Problems and Troubleshooting of Marine Refrigeration System on Ship"
-description: "Read about Different Problems and Troubleshooting of Marine Refrigeration System on Ship on Bright Mariner."
+description: "Read about Different Problems and Troubleshooting of Marine Refrigeration System on Ship on Bright Mariner. A comprehensive guide for marine engineers and seafa"
 date: 2023-07-27T19:56:00.000Z
 tags: ["Common Problems Found in Ship’s Refrigeration System","Troubleshooting","Troubleshooting and Repair of Marine Refrigeration Systems","Troubleshooting of Marine Refrigeration System on Ship"]
 categories: ["Marine Engineering","Marine Refrigeration, Air Conditioning and Ventilation"]

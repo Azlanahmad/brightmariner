@@ -1,6 +1,6 @@
 ---
 title: "Megger: Definition, Working Principle, Construction, Diagram, and Uses on Ship"
-description: "Read about Megger: Definition, Working Principle, Construction, Diagram, and Uses on Ship on Bright Mariner."
+description: "Read about Megger: Definition, Working Principle, Construction, Diagram, and Uses on Ship on Bright Mariner. A comprehensive guide for marine engineers and seaf"
 date: 2022-03-03T17:11:10.000Z
 categories: ["Electrical","Marine Engineering"]
 image: "/wp-content/uploads/2022/03/megger-.png"

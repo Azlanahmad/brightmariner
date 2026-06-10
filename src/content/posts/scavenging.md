@@ -1,6 +1,6 @@
 ---
 title: "What is Scavenging in Marine Diesel Engine? Types of Scavenging"
-description: "Read about What is Scavenging in Marine Diesel Engine? Types of Scavenging on Bright Mariner."
+description: "Read about What is Scavenging in Marine Diesel Engine? Types of Scavenging on Bright Mariner. A comprehensive guide for marine engineers and seafarers."
 date: 2023-04-30T06:37:11.000Z
 categories: ["Marine Engineering"]
 ---

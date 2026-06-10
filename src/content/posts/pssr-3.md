@@ -1,6 +1,6 @@
 ---
 title: "PSSR Exit Exam: Set 3"
-description: "Read about PSSR Exit Exam: Set 3 on Bright Mariner."
+description: "Get the latest DG Shipping PSSR exit exam questions and answers. Updated 2026 STCW MCQ set for Personal Safety and Social Responsibilities. Score high marks!"
 date: 2024-09-08T17:25:51.000Z
 tags: ["pssr exit exam","pssr exit exam dg shipping","pssr exit exam mcq","pssr exit exam questions and answers pdf download free"]
 categories: ["DG Exit Exam Question","PSSR"]
@@ -14,12 +14,12 @@ categories: ["DG Exit Exam Question","PSSR"]
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> PSSR Exit Exam MCQ's</title>
+
+
+
+    
+    
+    
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -115,8 +115,8 @@ categories: ["DG Exit Exam Question","PSSR"]
             display: none;
         }
     </style>
-</head>
-<body>
+
+
 
 <!-- Question containers (only showing first 3 for brevity) -->
 
@@ -601,8 +601,8 @@ categories: ["DG Exit Exam Question","PSSR"]
     });
 </script>
 
-</body>
-</html>
+
+
 
 
 

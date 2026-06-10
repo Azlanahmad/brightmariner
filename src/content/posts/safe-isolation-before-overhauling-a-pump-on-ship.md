@@ -1,6 +1,6 @@
 ---
 title: "Safe Isolation before overhauling a pump on ship"
-description: "Read about Safe Isolation before overhauling a pump on ship on Bright Mariner."
+description: "Read about Safe Isolation before overhauling a pump on ship on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential technic"
 date: 2023-08-13T17:53:41.000Z
 categories: ["Marine Engineering"]
 ---

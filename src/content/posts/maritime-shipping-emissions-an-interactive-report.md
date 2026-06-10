@@ -1,6 +1,6 @@
 ---
 title: "Maritime Shipping Emissions: An Interactive Report"
-description: "Read about Maritime Shipping Emissions: An Interactive Report on Bright Mariner."
+description: "Read about Maritime Shipping Emissions: An Interactive Report on Bright Mariner. A comprehensive guide for marine engineers and seafarers. Learn essential techn"
 date: 2025-07-04T17:11:54.000Z
 categories: ["Marine Engineering"]
 ---

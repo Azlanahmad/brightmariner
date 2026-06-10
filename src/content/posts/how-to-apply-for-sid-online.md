@@ -1,6 +1,6 @@
 ---
 title: "How to Apply for SID Online (2024): DG Shipping SID Card Online | DG Shipping BSID"
-description: "Read about How to Apply for SID Online (2024): DG Shipping SID Card Online | DG Shipping BSID on Bright Mariner."
+description: "Read about How to Apply for SID Online (2024): DG Shipping SID Card Online | DG Shipping BSID on Bright Mariner. A comprehensive guide for marine engineers and "
 date: 2023-10-01T12:13:00.000Z
 tags: ["DG Shipping BSID","How to Apply for SID online","Seafarers Identity document","seafarers identity document apply online"]
 categories: ["How to"]

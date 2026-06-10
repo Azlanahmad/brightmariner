@@ -1,6 +1,6 @@
 ---
 title: "Lambda Control in Marine Engines: The Exhaust Gas Oxygen Sensor System That Saves Fuel and Reduces Emissions"
-description: "Read about Lambda Control in Marine Engines: The Exhaust Gas Oxygen Sensor System That Saves Fuel and Reduces Emissions on Bright Mariner."
+description: "Read about Lambda Control in Marine Engines: The Exhaust Gas Oxygen Sensor System That Saves Fuel and Reduces Emissions on Bright Mariner. A comprehensive guide"
 date: 2026-03-24T12:51:23.000Z
 categories: ["Marine Engineering"]
 faqs:

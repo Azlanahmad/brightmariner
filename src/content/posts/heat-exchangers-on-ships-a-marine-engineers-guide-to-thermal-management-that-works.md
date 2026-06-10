@@ -1,6 +1,6 @@
 ---
 title: "Heat Exchangers on Ships: A Marine Engineer's Guide to Thermal Management That Works"
-description: "Read about Heat Exchangers on Ships: A Marine Engineer's Guide to Thermal Management That Works on Bright Mariner."
+description: "Read about Heat Exchangers on Ships: A Marine Engineer's Guide to Thermal Management That Works on Bright Mariner. A comprehensive guide for marine engineers an"
 date: 2026-03-24T12:50:59.000Z
 categories: ["Marine Engineering"]
 faqs:

@@ -1,6 +1,6 @@
 ---
 title: "With suitable sketches, show/purpose of following principal dimensions (a) LOA  (b) LBP (c) Draught (d) Depth (e) Breadth (f) AP (g) FP (h) LWL"
-description: "Read about With suitable sketches, show/purpose of following principal dimensions (a) LOA  (b) LBP (c) Draught (d) Depth (e) Breadth (f) AP (g) FP (h) LWL on Bright Mariner."
+description: "Read about With suitable sketches, show/purpose of following principal dimensions (a) LOA  (b) LBP (c) Draught (d) Depth (e) Breadth (f) AP (g) FP (h) LWL on Br"
 date: 2023-10-09T14:37:37.000Z
 tags: ["principal dimensions of ship","ship construction and stability"]
 categories: ["MEO Class IV","Ship Construction and stability"]

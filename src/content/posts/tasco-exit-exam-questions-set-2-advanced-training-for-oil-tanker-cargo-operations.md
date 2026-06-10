@@ -1,16 +1,16 @@
 ---
 title: "TASCO Exit Exam Questions | Set 2 | Advanced Training for Oil Tanker Cargo Operations "
-description: "Read about TASCO Exit Exam Questions | Set 2 | Advanced Training for Oil Tanker Cargo Operations  on Bright Mariner."
+description: "Prepare for your DG Shipping TASCO exit exam with updated 2026 MCQs. Detailed questions and answers for Advanced Training for Oil Tanker Cargo Operations."
 date: 2026-04-16T18:14:48.000Z
 categories: ["Marine Engineering"]
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TASCO Exit Exam - Set 2</title>
+
+
+
+    
+    
+    
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -143,8 +143,8 @@ categories: ["Marine Engineering"]
             font-weight: bold;
         }
     </style>
-</head>
-<body>
+
+
 
 <div class="header">
     <h1>TASCO Exam Prep - Set 2</h1>
@@ -706,5 +706,5 @@ categories: ["Marine Engineering"]
     });
 </script>
 
-</body>
-</html>
+
+
