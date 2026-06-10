@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q1",
+  "text": "Under MARPOL Annex I regulations, a \"Combination Carrier\" type vessel is defined as a ship designed to carry:",
+  "options": [
+    {
+      "id": "A",
+      "text": "General break-bulk cargo and passengers together"
+    },
+    {
+      "id": "B",
+      "text": "Either oil or solid bulk cargoes in its cargo spaces"
+    },
+    {
+      "id": "C",
+      "text": "Containers and heavy machinery on deck simultaneously"
+    },
+    {
+      "id": "D",
+      "text": "Liquefied gases and chemical compounds in independent tanks"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q26",
+  "text": "What is the primary reason for positioning a dedicated standby person immediately outside an enclosed space while work is occurring inside?",
+  "options": [
+    {
+      "id": "A",
+      "text": "To assist with tool cleaning on deck"
+    },
+    {
+      "id": "B",
+      "text": "To initiate and get the emergency rescue plan underway immediately if a hazard develops inside"
+    },
+    {
+      "id": "C",
+      "text": "To keep a record of time for payroll purposes"
+    },
+    {
+      "id": "D",
+      "text": "To handle communication with shore commercial agents"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

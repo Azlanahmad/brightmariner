@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q21",
+  "text": "Most minor oil product spills occurring during shipboard operations are caused by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Equipment failure"
+    },
+    {
+      "id": "B",
+      "text": "Human error"
+    },
+    {
+      "id": "C",
+      "text": "Major casualties"
+    },
+    {
+      "id": "D",
+      "text": "Unforeseeable weather conditions"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

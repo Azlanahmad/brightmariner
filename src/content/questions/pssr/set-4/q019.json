@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q19",
+  "text": "Which personnel should NOT be authorized or allowed to carry out dangerous afloat or high-risk structural work?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Personnel who are clinically overweight for the harness limits"
+    },
+    {
+      "id": "B",
+      "text": "Personnel with a physical handicap that restricts movement or safety compliance"
+    },
+    {
+      "id": "C",
+      "text": "A seafarer who is overly tired, fatigued, or has not received mandated rest hours"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

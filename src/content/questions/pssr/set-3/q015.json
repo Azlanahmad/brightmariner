@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q15",
+  "text": "Emergency drills must be held within how many hours of sailing if more than 25% of the ship's crew has changed at the last port?",
+  "options": [
+    {
+      "id": "A",
+      "text": "12 hours"
+    },
+    {
+      "id": "B",
+      "text": "24 hours"
+    },
+    {
+      "id": "C",
+      "text": "48 hours"
+    },
+    {
+      "id": "D",
+      "text": "72 hours"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

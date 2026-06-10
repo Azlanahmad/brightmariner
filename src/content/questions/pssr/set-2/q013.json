@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q13",
+  "text": "What is the fundamental difference between listening and hearing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Listening is conscious and hearing is mechanical"
+    },
+    {
+      "id": "B",
+      "text": "Listening is natural and hearing is physical"
+    },
+    {
+      "id": "C",
+      "text": "Listening is mechanical and hearing is normal"
+    },
+    {
+      "id": "D",
+      "text": "Listening is conscious and hearing is effortless"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

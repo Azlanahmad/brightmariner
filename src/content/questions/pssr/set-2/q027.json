@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q27",
+  "text": "How many total technical annexes does the International Convention for the Prevention of Pollution from Ships (MARPOL) contain?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Three"
+    },
+    {
+      "id": "B",
+      "text": "Four"
+    },
+    {
+      "id": "C",
+      "text": "Eight"
+    },
+    {
+      "id": "D",
+      "text": "Six"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

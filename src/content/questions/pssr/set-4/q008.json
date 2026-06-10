@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q8",
+  "text": "To prevent biological cross-contamination, ballast water exchange maneuvers should be carried out in ocean waters with a depth of at least:",
+  "options": [
+    {
+      "id": "A",
+      "text": "50 meters"
+    },
+    {
+      "id": "B",
+      "text": "100 meters"
+    },
+    {
+      "id": "C",
+      "text": "200 meters"
+    },
+    {
+      "id": "D",
+      "text": "500 meters"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

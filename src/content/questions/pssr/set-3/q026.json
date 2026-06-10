@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q26",
+  "text": "The international maritime distress, safety, and calling frequency channel on a standard Marine VHF radio is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Channel 06"
+    },
+    {
+      "id": "B",
+      "text": "Channel 13"
+    },
+    {
+      "id": "C",
+      "text": "Channel 16"
+    },
+    {
+      "id": "D",
+      "text": "Channel 70"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

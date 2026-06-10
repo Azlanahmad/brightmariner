@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q24",
+  "text": "Which of the following is a recognized vessel maneuvering pattern used specifically to return a ship back to its original path to rescue a man overboard?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Scharnow turn"
+    },
+    {
+      "id": "B",
+      "text": "Round turn"
+    },
+    {
+      "id": "C",
+      "text": "Williamson turn"
+    },
+    {
+      "id": "D",
+      "text": "U-turn"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

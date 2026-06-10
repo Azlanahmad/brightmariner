@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q9",
+  "text": "What is the parent international instrument or convention that makes the ISM Code mandatory for ships?",
+  "options": [
+    {
+      "id": "A",
+      "text": "MARPOL Chapter V"
+    },
+    {
+      "id": "B",
+      "text": "SOLAS Chapter IX"
+    },
+    {
+      "id": "C",
+      "text": "STCW Chapter VIII"
+    },
+    {
+      "id": "D",
+      "text": "Loadline Convention"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

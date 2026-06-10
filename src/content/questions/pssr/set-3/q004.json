@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q4",
+  "text": "Which is clinically considered the most frequently abused drug/substance globally across maritime and shore sectors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cocaine"
+    },
+    {
+      "id": "B",
+      "text": "Heroin"
+    },
+    {
+      "id": "C",
+      "text": "Opiates"
+    },
+    {
+      "id": "D",
+      "text": "Alcohol"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

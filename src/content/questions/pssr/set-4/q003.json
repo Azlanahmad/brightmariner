@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q3",
+  "text": "Which specific type of shipboard pollution or hazardous substance does MARPOL Annex III deal with?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Raw sewage generated from accommodations"
+    },
+    {
+      "id": "B",
+      "text": "Harmful substances carried at sea in packaged form"
+    },
+    {
+      "id": "C",
+      "text": "Heavy fuel oil sludge from purifiers"
+    },
+    {
+      "id": "D",
+      "text": "Exhaust gas emissions from main engines"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

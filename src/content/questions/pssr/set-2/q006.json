@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q6",
+  "text": "To ensure safety and prevent onboard transmission of pathogens, how should specialized bio-medical waste or clinical sharps generated on board be managed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flushed directly into the sewage treatment plant"
+    },
+    {
+      "id": "B",
+      "text": "Discarded openly along with general domestic galley waste"
+    },
+    {
+      "id": "C",
+      "text": "Stored securely in dedicated, marked containers for safe disposal shore-side"
+    },
+    {
+      "id": "D",
+      "text": "Thrown directly overboard outside of special areas"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

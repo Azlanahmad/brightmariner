@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q17",
+  "text": "Which of the following high-risk shipboard work activities strictly requires the issuance of a formal Permit to Work?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Working aloft on the mast or funnel structures"
+    },
+    {
+      "id": "B",
+      "text": "Working on live, high-voltage electrical circuits"
+    },
+    {
+      "id": "C",
+      "text": "Working outboard over the side of the hull structure"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

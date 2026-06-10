@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q22",
+  "text": "Compared directly to standard crude oil tankers, chemical tankers are generally:",
+  "options": [
+    {
+      "id": "A",
+      "text": "More complex to operate"
+    },
+    {
+      "id": "B",
+      "text": "Less complex to operate"
+    },
+    {
+      "id": "C",
+      "text": "As large as standard oil tankers"
+    },
+    {
+      "id": "D",
+      "text": "Capable of carrying only one grade of oil"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

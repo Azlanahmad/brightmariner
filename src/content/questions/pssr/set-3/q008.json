@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q8",
+  "text": "Which organ of the International Maritime Organization (IMO) consists of representatives from all member states?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The Secretariat"
+    },
+    {
+      "id": "B",
+      "text": "The Legal Committee"
+    },
+    {
+      "id": "C",
+      "text": "The Assembly"
+    },
+    {
+      "id": "D",
+      "text": "The Council"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

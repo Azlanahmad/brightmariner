@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q11",
+  "text": "Liability and compensation for damage suffered by a passenger onboard a cruise or passenger vessel is governed by which convention?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Civil Liability Convention (CLC)"
+    },
+    {
+      "id": "B",
+      "text": "Athens Convention"
+    },
+    {
+      "id": "C",
+      "text": "Fund Convention"
+    },
+    {
+      "id": "D",
+      "text": "Basel Convention"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

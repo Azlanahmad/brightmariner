@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q19",
+  "text": "If you tend to give lengthy explanations for simple things, your communication message lacks:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Conciseness"
+    },
+    {
+      "id": "B",
+      "text": "Correctness"
+    },
+    {
+      "id": "C",
+      "text": "Consistency"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

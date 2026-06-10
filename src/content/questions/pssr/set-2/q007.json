@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q7",
+  "text": "Under the International Convention on Standards of Training, Certification and Watchkeeping (STCW), what is the minimum mandatory period of rest required for watchkeeping personnel in any 24-hour period?",
+  "options": [
+    {
+      "id": "A",
+      "text": "6 hours"
+    },
+    {
+      "id": "B",
+      "text": "8 hours"
+    },
+    {
+      "id": "C",
+      "text": "10 hours"
+    },
+    {
+      "id": "D",
+      "text": "12 hours"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

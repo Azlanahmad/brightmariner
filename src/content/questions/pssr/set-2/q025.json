@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q25",
+  "text": "The problem of misunderstanding during operational training can be drastically eliminated by providing:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Complex theory"
+    },
+    {
+      "id": "B",
+      "text": "Physical material samples"
+    },
+    {
+      "id": "C",
+      "text": "Practical examples"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

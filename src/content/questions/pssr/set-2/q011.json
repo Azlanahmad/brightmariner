@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q11",
+  "text": "High concentrations of Hydrogen Sulfide ($H_2S$) gas are extremely dangerous to personnel because they can:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cause involuntary skeletal muscle contractions"
+    },
+    {
+      "id": "B",
+      "text": "Paralyze your breathing system"
+    },
+    {
+      "id": "C",
+      "text": "Cause eye inflammation"
+    },
+    {
+      "id": "D",
+      "text": "Cause dizziness"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

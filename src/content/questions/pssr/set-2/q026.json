@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q26",
+  "text": "When scuppers are plugged and an oil spill occurs on deck during fuel transfer, you should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Use absorbent material such as sawdust or pads to clean up the spill"
+    },
+    {
+      "id": "B",
+      "text": "Remove the plug from scuppers to allow it to run overboard"
+    },
+    {
+      "id": "C",
+      "text": "Remove scuppers and wash the fuel overboard with chemical solvents"
+    },
+    {
+      "id": "D",
+      "text": "Sound the general emergency alarm immediately"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

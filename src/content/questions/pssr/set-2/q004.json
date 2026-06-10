@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q4",
+  "text": "Under Maritime Labour Convention (MLC) standards, what document must be signed by both the seafarer and the shipowner (or representative) outlining employment terms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ship's Official Log Book"
+    },
+    {
+      "id": "B",
+      "text": "Seafarer’s Employment Agreement (SEA)"
+    },
+    {
+      "id": "C",
+      "text": "Vessel Safety Management Certificate"
+    },
+    {
+      "id": "D",
+      "text": "Port State Control Clearance"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

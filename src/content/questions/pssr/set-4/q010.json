@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q10",
+  "text": "Standard structural and operational precautions to prevent accidental oil pollution on a vessel include:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Executing transfer and discharge of oil cargo strictly as per the vessel's manuals"
+    },
+    {
+      "id": "B",
+      "text": "Regular visual inspections of oil pipelines, associated valves, and manifold structures"
+    },
+    {
+      "id": "C",
+      "text": "Regular training of the crew via oil pollution response and SOPEP drills"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

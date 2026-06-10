@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q9",
+  "text": "Which of the following is true regarding the maintenance and logging of the Oil Record Book Part II?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It must be maintained specifically by oil tankers in addition to Part I"
+    },
+    {
+      "id": "B",
+      "text": "It maintains comprehensive details of oil cargo loading and unloading operations"
+    },
+    {
+      "id": "C",
+      "text": "It must be safely retained on board the vessel for at least three years from the last entry"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

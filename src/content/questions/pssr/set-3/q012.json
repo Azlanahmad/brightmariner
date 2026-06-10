@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q12",
+  "text": "A muster list or emergency station list must be prominently displayed on any vessel operating with more than how many crew members?",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 crew members"
+    },
+    {
+      "id": "B",
+      "text": "3 crew members"
+    },
+    {
+      "id": "C",
+      "text": "4 crew members"
+    },
+    {
+      "id": "D",
+      "text": "5 crew members"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

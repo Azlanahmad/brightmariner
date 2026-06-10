@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q15",
+  "text": "If you observe a safety or pollution hazard during fuel transfer (bunkering) operations, what is your immediate first action?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sound the fire alarm"
+    },
+    {
+      "id": "B",
+      "text": "Shut down the transfer operation"
+    },
+    {
+      "id": "C",
+      "text": "Notify the ballast control operator"
+    },
+    {
+      "id": "D",
+      "text": "Wait for the person in charge to act"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

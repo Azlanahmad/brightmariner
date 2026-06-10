@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q6",
+  "text": "Which of the following precautions must be strictly observed when taking on diesel fuel during bunkering?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Keep all accommodation doors wide open"
+    },
+    {
+      "id": "B",
+      "text": "Prohibit smoking and open flames in the operational area"
+    },
+    {
+      "id": "C",
+      "text": "Speed up the transfer rate to maximum right at the start"
+    },
+    {
+      "id": "D",
+      "text": "Keep deck lighting completely switched off"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

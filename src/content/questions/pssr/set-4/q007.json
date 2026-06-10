@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q7",
+  "text": "Onboard incineration of which plastic compound material is strictly prohibited unless processed in a type-approved high-temperature shipboard incinerator?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Low-density polyethylene"
+    },
+    {
+      "id": "B",
+      "text": "Polyvinyl Chloride (PVC)"
+    },
+    {
+      "id": "C",
+      "text": "High-density polystyrene"
+    },
+    {
+      "id": "D",
+      "text": "Natural rubber compounds"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

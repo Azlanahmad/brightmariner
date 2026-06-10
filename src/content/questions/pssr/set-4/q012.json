@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q12",
+  "text": "The safe disposal of used or expired chemical containers on a vessel should be carried out by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Throwing them overboard far out at sea"
+    },
+    {
+      "id": "B",
+      "text": "Burning them openly on the deck space"
+    },
+    {
+      "id": "C",
+      "text": "Disposing of them strictly as per the chemical Maker's instructions"
+    },
+    {
+      "id": "D",
+      "text": "Mixing them with general food waste"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

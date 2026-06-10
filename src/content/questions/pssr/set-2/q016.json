@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q16",
+  "text": "The signal \"Pan-Pan\" repeated over the radiotelephone indicates what type of message?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Distress"
+    },
+    {
+      "id": "B",
+      "text": "Safety"
+    },
+    {
+      "id": "C",
+      "text": "All Clear"
+    },
+    {
+      "id": "D",
+      "text": "Urgency"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

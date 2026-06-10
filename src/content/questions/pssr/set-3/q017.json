@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q17",
+  "text": "As per SOLAS requirements, crew members must be fully trained in life-saving appliances (LSA) and firefighting equipment (FFE) as soon as possible, but not later than:",
+  "options": [
+    {
+      "id": "A",
+      "text": "24 hours after joining"
+    },
+    {
+      "id": "B",
+      "text": "1 week after joining"
+    },
+    {
+      "id": "C",
+      "text": "2 weeks after joining"
+    },
+    {
+      "id": "D",
+      "text": "1 month after joining"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

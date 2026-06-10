@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q13",
+  "text": "A general emergency situation developing on board a merchant vessel could be caused by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Severe fire or explosion"
+    },
+    {
+      "id": "B",
+      "text": "Hull breaching and flooding"
+    },
+    {
+      "id": "C",
+      "text": "Total main engine failure"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

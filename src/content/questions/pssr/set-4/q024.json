@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q24",
+  "text": "To enforce company drug and alcohol policies, the Master may conduct random, unannounced alcohol breath tests on the crew at least:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Weekly"
+    },
+    {
+      "id": "B",
+      "text": "Monthly"
+    },
+    {
+      "id": "C",
+      "text": "Quarterly"
+    },
+    {
+      "id": "D",
+      "text": "Annually"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q30",
+  "text": "Under MARPOL Annex I, a \"Special Area\" is geographically defined as an ocean space where:",
+  "options": [
+    {
+      "id": "A",
+      "text": "No navigation is permitted at any time"
+    },
+    {
+      "id": "B",
+      "text": "Special mandatory methods for the prevention of sea pollution by oil are adopted due to oceanographic conditions"
+    },
+    {
+      "id": "C",
+      "text": "Only military vessels are allowed to discharge bilge water"
+    },
+    {
+      "id": "D",
+      "text": "Fishing activities are permanently prohibited"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

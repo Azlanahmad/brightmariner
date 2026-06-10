@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q1",
+  "text": "What is the primary safety duty for an individual crew member on board a vessel?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ensure the absolute safety of personal equipment only"
+    },
+    {
+      "id": "B",
+      "text": "Follow safe working practices and look out for the safety of fellow crew members"
+    },
+    {
+      "id": "C",
+      "text": "Minimize personal workload to avoid exhaustion"
+    },
+    {
+      "id": "D",
+      "text": "Report faults only during official safety committee meetings"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

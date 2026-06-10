@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q27",
+  "text": "Regulations state that lifeboats and rescue boats must be fully launched into the water and operated at least once every:",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 month"
+    },
+    {
+      "id": "B",
+      "text": "2 months"
+    },
+    {
+      "id": "C",
+      "text": "3 months"
+    },
+    {
+      "id": "D",
+      "text": "6 months"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

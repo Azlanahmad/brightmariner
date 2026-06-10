@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q11",
+  "text": "A specialized record book used to log complete details of all garbage disposal operations from a ship to a shore reception facility or via sea discharge is the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deck Official Log Book"
+    },
+    {
+      "id": "B",
+      "text": "Cargo Record Book"
+    },
+    {
+      "id": "C",
+      "text": "Garbage Record Book"
+    },
+    {
+      "id": "D",
+      "text": "Master’s Safety Manifest"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

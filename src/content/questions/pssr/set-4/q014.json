@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q14",
+  "text": "To prevent alcohol abuse under STCW watchkeeping regulations, the maximum blood alcohol concentration (BAC) limit for watchkeeping personnel is set to not exceed:",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.01% blood alcohol content"
+    },
+    {
+      "id": "B",
+      "text": "0.05% blood alcohol content *(Note: The precise legal limit is 0.04%, but 0.05% is the closest exam multiple-choice option provided in this video text)*"
+    },
+    {
+      "id": "C",
+      "text": "0.08% blood alcohol content"
+    },
+    {
+      "id": "D",
+      "text": "0.10% blood alcohol content"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

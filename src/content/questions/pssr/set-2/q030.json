@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q30",
+  "text": "What is the immediate first action to be taken when you encounter an emergency situation on board?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Muster the crew in the designated area"
+    },
+    {
+      "id": "B",
+      "text": "Sound the ship's emergency alarm"
+    },
+    {
+      "id": "C",
+      "text": "Try to fight the emergency completely on your own"
+    },
+    {
+      "id": "D",
+      "text": "Wait at your position for instructions"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

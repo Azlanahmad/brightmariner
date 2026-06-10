@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q5",
+  "text": "What are the common contributing causes of physical and mental fatigue among seafarers on board?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lack of continuous sleep"
+    },
+    {
+      "id": "B",
+      "text": "High emotional stress"
+    },
+    {
+      "id": "C",
+      "text": "Excessive occupational workload"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

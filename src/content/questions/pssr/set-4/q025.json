@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q25",
+  "text": "If your vessel has been involved in a collision and you cannot immediately confirm if the hull is structurally sinking or stable, you should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Abandon the vessel immediately without checking anything else"
+    },
+    {
+      "id": "B",
+      "text": "Search for missing persons, continuously monitor the structural situation, and prepare life-saving appliances for abandonment in case it becomes necessary"
+    },
+    {
+      "id": "C",
+      "text": "Go to your cabin to pack all personal belongings"
+    },
+    {
+      "id": "D",
+      "text": "Pump all ballast water out blindly"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

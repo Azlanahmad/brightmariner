@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q18",
+  "text": "What is the maximum standard operational validity period of an issued shipboard Permit to Work before it must be revalidated?",
+  "options": [
+    {
+      "id": "A",
+      "text": "4 hours"
+    },
+    {
+      "id": "B",
+      "text": "8 hours"
+    },
+    {
+      "id": "C",
+      "text": "12 hours"
+    },
+    {
+      "id": "D",
+      "text": "24 hours"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q5",
+  "text": "Under MARPOL Annex I, crude oil tankers of 20,000 tons deadweight (DWT) and above delivered after June 1, 1982, must be fitted with a tank cleaning system known as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Water Washing (WW)"
+    },
+    {
+      "id": "B",
+      "text": "Crude Oil Washing (COW)"
+    },
+    {
+      "id": "C",
+      "text": "Chemical Solvent Flushes (CSF)"
+    },
+    {
+      "id": "D",
+      "text": "High-Pressure Steam Scubbing (HPSS)"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

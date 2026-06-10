@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q12",
+  "text": "What must the watchstanding engineer do periodically while on an operational engine room watch?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Take routine rounds of the engine room"
+    },
+    {
+      "id": "B",
+      "text": "Stand idle at the control station"
+    },
+    {
+      "id": "C",
+      "text": "Conduct major overhaul repairs of equipment"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

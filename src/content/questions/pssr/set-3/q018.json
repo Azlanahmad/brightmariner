@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q18",
+  "text": "To comply with performance standards, manufactured lifebuoys are subjected to which type of testing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Height drop test"
+    },
+    {
+      "id": "B",
+      "text": "Direct fire test"
+    },
+    {
+      "id": "C",
+      "text": "Flotation capability test"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q2",
+  "text": "When finding yourself working in a noise-heavy engine room environment, what protective equipment is considered most necessary?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Eye protection goggles"
+    },
+    {
+      "id": "B",
+      "text": "Fire-retardant safety suit"
+    },
+    {
+      "id": "C",
+      "text": "Ear muffs or ear plugs"
+    },
+    {
+      "id": "D",
+      "text": "High-visibility safety vest"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

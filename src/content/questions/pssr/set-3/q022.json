@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q22",
+  "text": "What is the internationally recognized sound signal for a Man Overboard (MOB) emergency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Continuous short rings on the bell"
+    },
+    {
+      "id": "B",
+      "text": "Three long blasts on the ship's whistle"
+    },
+    {
+      "id": "C",
+      "text": "Two prolonged blasts on the horn"
+    },
+    {
+      "id": "D",
+      "text": "Seven short blasts"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

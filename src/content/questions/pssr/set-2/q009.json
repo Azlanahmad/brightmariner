@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q9",
+  "text": "When rescuing a person from a confined space, what is the absolute priority required to consider the space safe for entry?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Safety lights"
+    },
+    {
+      "id": "B",
+      "text": "Eye protection"
+    },
+    {
+      "id": "C",
+      "text": "Fire retardant gear"
+    },
+    {
+      "id": "D",
+      "text": "Presence of oxygen (safe atmospheric level)"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

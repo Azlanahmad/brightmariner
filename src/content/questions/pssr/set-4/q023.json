@@ -1,0 +1,18 @@
+{
+  "id": "pssr-s4-q23",
+  "text": "\"All gas-tight doors and structural access hatches must be left wide open before sailing and kept open throughout the voyage.\" This statement is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

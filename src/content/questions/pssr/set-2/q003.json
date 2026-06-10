@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q3",
+  "text": "If you discover a fire in the engine room or galley space, what should your immediate first step be?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Attempt to extinguish the fire entirely on your own"
+    },
+    {
+      "id": "B",
+      "text": "Locate and read the emergency instruction manual"
+    },
+    {
+      "id": "C",
+      "text": "Report the situation and sound the emergency fire alarm"
+    },
+    {
+      "id": "D",
+      "text": "Evacuate directly to the lifeboat station without notifying anyone"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

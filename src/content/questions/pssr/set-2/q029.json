@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q29",
+  "text": "Meteorological warning reports transmitted to the ship consist of one of the following:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Iceberg movement information"
+    },
+    {
+      "id": "B",
+      "text": "Floating debris location"
+    },
+    {
+      "id": "C",
+      "text": "Vessel on fire or sinking tracking"
+    },
+    {
+      "id": "D",
+      "text": "Weather information or severe storm warnings"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

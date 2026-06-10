@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q2",
+  "text": "Which of the following jobs on board explicitly requires a Hot Work Permit before execution?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mopping the accommodation deck"
+    },
+    {
+      "id": "B",
+      "text": "Gas cutting or welding operations on deck"
+    },
+    {
+      "id": "C",
+      "text": "Normal cooking operations in the galley"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

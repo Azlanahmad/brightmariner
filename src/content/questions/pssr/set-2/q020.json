@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q20",
+  "text": "Which of the following statements regarding primary battery cells used on board is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Used primary cells must be discarded after use"
+    },
+    {
+      "id": "B",
+      "text": "Used primary cells can be fully recharged"
+    },
+    {
+      "id": "C",
+      "text": "Used primary cells can be refilled and reused"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

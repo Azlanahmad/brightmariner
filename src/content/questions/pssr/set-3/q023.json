@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q23",
+  "text": "What should you do immediately if you witness a crew member fall completely overboard into the sea?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Run to the bridge to inform the captain first"
+    },
+    {
+      "id": "B",
+      "text": "Release the nearest lifebuoy immediately on the side the person has fallen"
+    },
+    {
+      "id": "C",
+      "text": "Look for a throwing line in the deck locker"
+    },
+    {
+      "id": "D",
+      "text": "Shout down to the engine room to stop the engines"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q3",
+  "text": "As per STCW 2010 regulations, what is the maximum validity period of a seafarer's medical fitness certificate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 year"
+    },
+    {
+      "id": "B",
+      "text": "2 years"
+    },
+    {
+      "id": "C",
+      "text": "3 years"
+    },
+    {
+      "id": "D",
+      "text": "4 years"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

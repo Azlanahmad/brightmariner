@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q29",
+  "text": "Shipboard waste management and the operational dumping of garbage or refuse at sea is strictly controlled by which international convention?",
+  "options": [
+    {
+      "id": "A",
+      "text": "SOLAS 74"
+    },
+    {
+      "id": "B",
+      "text": "MARPOL 73/78"
+    },
+    {
+      "id": "C",
+      "text": "STCW 95"
+    },
+    {
+      "id": "D",
+      "text": "Load Line 1966"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

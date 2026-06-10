@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q7",
+  "text": "Which of the following conditions is considered an immediate slip, trip, or safety hazard on board?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Water accumulated on an internal staircase"
+    },
+    {
+      "id": "B",
+      "text": "An unsecured load suspended high on a crane hook"
+    },
+    {
+      "id": "C",
+      "text": "Both A and B are correct"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

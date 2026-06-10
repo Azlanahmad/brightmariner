@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q5",
+  "text": "According to international MARPOL regulations designed to control marine pollution, which of the following records is mandatory to log oil-related machinery space operations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Garbage Record Book"
+    },
+    {
+      "id": "B",
+      "text": "Cargo Manifest Log"
+    },
+    {
+      "id": "C",
+      "text": "Oil Record Book (Part 1)"
+    },
+    {
+      "id": "D",
+      "text": "Deck Movement Log"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

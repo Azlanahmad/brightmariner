@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q14",
+  "text": "In survival situations, which of the following visual distress signals is explicitly acceptable for daylight use only?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Handheld red flares"
+    },
+    {
+      "id": "B",
+      "text": "Rocket parachute flares"
+    },
+    {
+      "id": "C",
+      "text": "Orange smoke signals"
+    },
+    {
+      "id": "D",
+      "text": "Red aerial stars"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

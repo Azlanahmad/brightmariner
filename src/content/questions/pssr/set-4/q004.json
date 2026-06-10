@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q4",
+  "text": "MARPOL Annex IV deals with shipboard sewage. How do current international regulations affect everyday processing and treatment systems?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Discharge is completely unregulated globally"
+    },
+    {
+      "id": "B",
+      "text": "Regulations are not yet universally enforced by every minor state, but many countries have adopted strict, stringent domestic rules for territorial waters"
+    },
+    {
+      "id": "C",
+      "text": "Sewage can be freely dumped inside ports anywhere"
+    },
+    {
+      "id": "D",
+      "text": "Treatment plants are only required on tugboats"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

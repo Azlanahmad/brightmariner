@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q10",
+  "text": "Under SOLAS and the FSS Code, what is the general requirement for fire detection and alarm system initialization?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Audible and visual alarms must initiate directly on the Navigation Bridge and Cargo Control Room (CCR)"
+    },
+    {
+      "id": "B",
+      "text": "Alarms should only sound in the galley area"
+    },
+    {
+      "id": "C",
+      "text": "Alarms must be visible only inside the engine workshop"
+    },
+    {
+      "id": "D",
+      "text": "Only a text notification to the Chief Engineer's cabin is required"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

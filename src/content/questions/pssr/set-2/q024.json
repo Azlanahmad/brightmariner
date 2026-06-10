@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q24",
+  "text": "What does the operational maritime acronym RADAR stand for?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Radio Direction and Ranging"
+    },
+    {
+      "id": "B",
+      "text": "Radio Distance and Ranging"
+    },
+    {
+      "id": "C",
+      "text": "Radio Detection and Ranging"
+    },
+    {
+      "id": "D",
+      "text": "Radium Direction and Ranging"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

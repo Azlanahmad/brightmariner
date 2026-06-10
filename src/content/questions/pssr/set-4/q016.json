@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q16",
+  "text": "What permits are required when a technician needs to execute electric welding on a pressurized hydraulic pipeline located inside an empty fresh water tank?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hot Work Permit"
+    },
+    {
+      "id": "B",
+      "text": "Permit to work on pressurized systems"
+    },
+    {
+      "id": "C",
+      "text": "Enclosed Space Entry Permit"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q22",
+  "text": "What type of clear safety warning signs should be placed directly around manholes leading into unventilated void spaces?",
+  "options": [
+    {
+      "id": "A",
+      "text": "High-voltage hazard warning sign"
+    },
+    {
+      "id": "B",
+      "text": "Breathing apparatus mandatory sign / Confined space danger sign"
+    },
+    {
+      "id": "C",
+      "text": "Flammable gas warning sign only"
+    },
+    {
+      "id": "D",
+      "text": "No entry for cargo personnel sign"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

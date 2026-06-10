@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q28",
+  "text": "A formal Safety Committee Meeting consisting of department heads and crew representatives must be held on board at least:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Every week"
+    },
+    {
+      "id": "B",
+      "text": "Every month"
+    },
+    {
+      "id": "C",
+      "text": "Every two months"
+    },
+    {
+      "id": "D",
+      "text": "Once per voyage"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

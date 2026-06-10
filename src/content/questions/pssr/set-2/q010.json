@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q10",
+  "text": "A negative attitude, inability to manage time, and low self-esteem are personal factors that add to seafarer stress. These fall under:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Environmental factors"
+    },
+    {
+      "id": "B",
+      "text": "Emotional factors"
+    },
+    {
+      "id": "C",
+      "text": "Community factors"
+    },
+    {
+      "id": "D",
+      "text": "Personality factors"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q18",
+  "text": "We use gestures in our non-verbal communication in order to convey a message and:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Impress ourselves"
+    },
+    {
+      "id": "B",
+      "text": "Express ourselves"
+    },
+    {
+      "id": "C",
+      "text": "Suppress ourselves"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

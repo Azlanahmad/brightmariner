@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q2",
+  "text": "MARPOL Annex II contains regulations specifically for controlling pollution from which substances carried in bulk?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Refined petroleum products"
+    },
+    {
+      "id": "B",
+      "text": "Noxious Liquid Substances (NLS)"
+    },
+    {
+      "id": "C",
+      "text": "Harmful substances in packaged forms"
+    },
+    {
+      "id": "D",
+      "text": "Raw domestic sewage"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

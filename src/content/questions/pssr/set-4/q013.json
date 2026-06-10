@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q13",
+  "text": "Under MARPOL Annex VI, SECA stands for Sulfur Oxide ($SO_x$) Emission Control Area. Which regions are designated SECAs?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The Baltic Sea area"
+    },
+    {
+      "id": "B",
+      "text": "The North Sea area and the English Channel"
+    },
+    {
+      "id": "C",
+      "text": "Both A and B are correct"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

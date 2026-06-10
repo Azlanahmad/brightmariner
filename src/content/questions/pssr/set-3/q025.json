@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q25",
+  "text": "According to safety regulations, which of the following is NOT strictly required to be part of the general onboard instructions for routine LSA maintenance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lubrication requirements for davits"
+    },
+    {
+      "id": "B",
+      "text": "Detailed tool lists for overhauling engines"
+    },
+    {
+      "id": "C",
+      "text": "Checklist for periodic safety inspections"
+    },
+    {
+      "id": "D",
+      "text": "Operating instructions for survival craft"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

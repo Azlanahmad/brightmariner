@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q1",
+  "text": "Which logbook is explicitly used to record all mandatory and important radio safety/distress communications on board?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Garbage Record Book"
+    },
+    {
+      "id": "B",
+      "text": "Deck Log Book"
+    },
+    {
+      "id": "C",
+      "text": "Engine Log Book"
+    },
+    {
+      "id": "D",
+      "text": "GMDSS Log Book"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

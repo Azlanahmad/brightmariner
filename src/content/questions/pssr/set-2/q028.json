@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q28",
+  "text": "In what ways can interpersonal relationships be improved among crew members on board?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Maintaining good communication lines"
+    },
+    {
+      "id": "B",
+      "text": "Developing empathy and understanding with each other"
+    },
+    {
+      "id": "C",
+      "text": "Mutually helping out others during intense workloads"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

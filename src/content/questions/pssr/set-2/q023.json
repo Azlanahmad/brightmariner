@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q23",
+  "text": "Which code or document directly governs safe working procedures and routines at work on board a vessel?",
+  "options": [
+    {
+      "id": "A",
+      "text": "STCW Code"
+    },
+    {
+      "id": "B",
+      "text": "ISM Code"
+    },
+    {
+      "id": "C",
+      "text": "Occupational Health Act"
+    },
+    {
+      "id": "D",
+      "text": "Code of Safe Working Practices (COSWP)"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

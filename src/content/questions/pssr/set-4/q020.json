@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q20",
+  "text": "Water-tight sliding steel doors positioned below the vessel's waterline must be capable of closing completely within how many seconds when the ship is upright?",
+  "options": [
+    {
+      "id": "A",
+      "text": "30 seconds or less"
+    },
+    {
+      "id": "B",
+      "text": "45 seconds or less"
+    },
+    {
+      "id": "C",
+      "text": "60 seconds or less"
+    },
+    {
+      "id": "D",
+      "text": "90 seconds or less"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

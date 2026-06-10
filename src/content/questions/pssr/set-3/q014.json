@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q14",
+  "text": "Shipboard contingency plans prepared for emergencies must identify hazards and systematically include:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Allocation of specific emergency duties and responsibilities"
+    },
+    {
+      "id": "B",
+      "text": "Immediate actions to be taken to regain control of the situation"
+    },
+    {
+      "id": "C",
+      "text": "Communication methods within the ship and to outside authorities"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

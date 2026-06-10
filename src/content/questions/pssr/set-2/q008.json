@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q8",
+  "text": "What is the standard spoken emergency distress signal used over a VHF radio to indicate a vessel is in imminent danger?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Red Alert"
+    },
+    {
+      "id": "B",
+      "text": "Security"
+    },
+    {
+      "id": "C",
+      "text": "Mayday"
+    },
+    {
+      "id": "D",
+      "text": "Pan-Pan"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

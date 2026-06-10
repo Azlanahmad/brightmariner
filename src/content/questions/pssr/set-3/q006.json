@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q6",
+  "text": "In risk management and safety assessments on board, what does the acronym ALARP stand for?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alarm Points on Ships"
+    },
+    {
+      "id": "B",
+      "text": "All Living Areas and Recreation Places"
+    },
+    {
+      "id": "C",
+      "text": "As Low As Reasonably Practicable"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

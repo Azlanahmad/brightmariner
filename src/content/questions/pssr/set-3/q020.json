@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q20",
+  "text": "A continuous, uninterrupted ringing of the ship’s alarm bells indicates which specific emergency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "General Emergency / Abandon Ship"
+    },
+    {
+      "id": "B",
+      "text": "Fire Emergency"
+    },
+    {
+      "id": "C",
+      "text": "Man Overboard"
+    },
+    {
+      "id": "D",
+      "text": "Machinery Space Flooding"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

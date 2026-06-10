@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s4-q15",
+  "text": "A permit-to-work (PTW) system is highly necessary on board a vessel for:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ensuring the occupational safety of working personnel"
+    },
+    {
+      "id": "B",
+      "text": "Ensuring the quality and structural integrity of the work executed"
+    },
+    {
+      "id": "C",
+      "text": "Ensuring proper tool and resource utilization"
+    },
+    {
+      "id": "D",
+      "text": "Any of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pssr",
+  "set": 4,
+  "explanation": ""
+}

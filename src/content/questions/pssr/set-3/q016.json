@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q16",
+  "text": "Onboard safety familiarization for any newly joining seafarer must be conducted within:",
+  "options": [
+    {
+      "id": "A",
+      "text": "24 hours of joining the vessel"
+    },
+    {
+      "id": "B",
+      "text": "1 week of joining the vessel"
+    },
+    {
+      "id": "C",
+      "text": "2 weeks of joining the vessel"
+    },
+    {
+      "id": "D",
+      "text": "The first month of the voyage"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}

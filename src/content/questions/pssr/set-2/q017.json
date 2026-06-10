@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s2-q17",
+  "text": "In order to comply with safety policies and procedures, ship crew and officers must:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Minimize the use of alcohol on board"
+    },
+    {
+      "id": "B",
+      "text": "Focus on delivering ship and cargo at all costs"
+    },
+    {
+      "id": "C",
+      "text": "Stop unsafe practices which may cause accidents, injury, or environmental pollution"
+    },
+    {
+      "id": "D",
+      "text": "Focus only on commercial requirements"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 2,
+  "explanation": ""
+}

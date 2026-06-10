@@ -1,0 +1,26 @@
+{
+  "id": "pssr-s3-q21",
+  "text": "The standard General Emergency Alarm signal consists of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "One long blast followed by one short blast"
+    },
+    {
+      "id": "B",
+      "text": "Continuous ringing of the bell for 10 minutes"
+    },
+    {
+      "id": "C",
+      "text": "Seven or more short blasts followed by one prolonged blast on the ship's whistle/horn"
+    },
+    {
+      "id": "D",
+      "text": "Three short blasts repeated periodically"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pssr",
+  "set": 3,
+  "explanation": ""
+}
