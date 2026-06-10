@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q12",
+  "text": "After searching a suspiciously looking person, you have found nothing. What action will you take?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Let them roam around the restricted compartments freely"
+    },
+    {
+      "id": "B",
+      "text": "Ask the crew to keep an eye on him"
+    },
+    {
+      "id": "C",
+      "text": "Hand them over to the engine workshop as a worker"
+    },
+    {
+      "id": "D",
+      "text": "Detain them in a dark hold space without notification"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

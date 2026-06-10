@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q8",
+  "text": "Which of the below spaces on deck and machinery spaces are most vulnerable for smuggling drugs or contrabands?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Open walkways"
+    },
+    {
+      "id": "B",
+      "text": "Cofferdams"
+    },
+    {
+      "id": "C",
+      "text": "Steering wheel housing"
+    },
+    {
+      "id": "D",
+      "text": "Main switchboard panels"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

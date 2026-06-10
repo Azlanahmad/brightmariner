@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q16",
+  "text": "Which shipboard personnel should be able to recognize and detect weapons, dangerous substances, and devices?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Only the Master and SSO"
+    },
+    {
+      "id": "B",
+      "text": "Only the deck watchkeepers"
+    },
+    {
+      "id": "C",
+      "text": "All shipboard personnel"
+    },
+    {
+      "id": "D",
+      "text": "The galley staff only"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

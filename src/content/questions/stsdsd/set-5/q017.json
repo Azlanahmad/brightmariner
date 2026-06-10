@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q17",
+  "text": "Which of the following elements shall be part of a security drill on a ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Complete machinery breakdown overhauls"
+    },
+    {
+      "id": "B",
+      "text": "Attacks from the seaward side while the ship is at berth"
+    },
+    {
+      "id": "C",
+      "text": "Handling minor oil spills on deck"
+    },
+    {
+      "id": "D",
+      "text": "Testing boiler safety high-pressure cut-offs"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

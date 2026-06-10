@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q3",
+  "text": "The criteria used to decide on the physical search method of a group boarding the ship includes:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The weather temperature outside"
+    },
+    {
+      "id": "B",
+      "text": "The number of people"
+    },
+    {
+      "id": "C",
+      "text": "The draft of the vessel at the berth"
+    },
+    {
+      "id": "D",
+      "text": "The distance from the nearest city center"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

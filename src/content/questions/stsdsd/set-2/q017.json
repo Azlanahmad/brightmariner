@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q17",
+  "text": "Who is responsible for the submission of the Ship Security Plan (SSP) for approval?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ship Security Officer (SSO)"
+    },
+    {
+      "id": "B",
+      "text": "Company Security Officer (CSO)"
+    },
+    {
+      "id": "C",
+      "text": "Master of the Vessel"
+    },
+    {
+      "id": "D",
+      "text": "Port Facility Security Officer"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

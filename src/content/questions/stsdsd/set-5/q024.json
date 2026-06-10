@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q24",
+  "text": "The likelihood that an unlawful act will be committed against a particular target based on a perpetrator's intent and capability is called:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vulnerability"
+    },
+    {
+      "id": "B",
+      "text": "Threat"
+    },
+    {
+      "id": "C",
+      "text": "Consequence"
+    },
+    {
+      "id": "D",
+      "text": "Reliability index"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

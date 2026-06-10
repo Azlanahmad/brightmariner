@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q8",
+  "text": "A security drill can be conducted in:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Isolation without any crew involvement"
+    },
+    {
+      "id": "B",
+      "text": "Combination with other exercises such as emergency response exercises"
+    },
+    {
+      "id": "C",
+      "text": "Only when the vessel is drydocked"
+    },
+    {
+      "id": "D",
+      "text": "Only under the supervision of a Port State surveyor"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

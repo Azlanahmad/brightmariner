@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q5",
+  "text": "Which of the following equipment is considered a part of cyber security?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mechanical tachometers"
+    },
+    {
+      "id": "B",
+      "text": "Portable computer"
+    },
+    {
+      "id": "C",
+      "text": "Hydraulic actuators"
+    },
+    {
+      "id": "D",
+      "text": "Centrifugal fire pumps"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

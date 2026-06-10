@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q1",
+  "text": "What does the acronym IED stand for in maritime security?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Integrated Electrical Drive"
+    },
+    {
+      "id": "B",
+      "text": "Improvised Explosive Device"
+    },
+    {
+      "id": "C",
+      "text": "Internal Engine Damper"
+    },
+    {
+      "id": "D",
+      "text": "International Enforcement Directive"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

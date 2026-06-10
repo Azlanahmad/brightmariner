@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q6",
+  "text": "Emergency response services to a security incident do *not* standardly include:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Armed naval backup assistance"
+    },
+    {
+      "id": "B",
+      "text": "Extinguishing a major structural fire"
+    },
+    {
+      "id": "C",
+      "text": "Coast Guard tactical communication support"
+    },
+    {
+      "id": "D",
+      "text": "Shore medical evac links during hostage trauma"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": "Fires come under safety/fire-fighting codes, not standard anti-security assault metrics Fires are managed under safety frameworks"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "stsdsd-s6-q14",
+  "text": "Is it necessary to issue a visitor ID token to whoever comes on the vessel and collect it back when they leave?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Yes"
+    },
+    {
+      "id": "B",
+      "text": "No"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

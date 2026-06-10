@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q10",
+  "text": "As per the ISPS code, a ship is required to maintain records of its past:",
+  "options": [
+    {
+      "id": "A",
+      "text": "5 ports of call"
+    },
+    {
+      "id": "B",
+      "text": "10 ports of call"
+    },
+    {
+      "id": "C",
+      "text": "15 ports of call"
+    },
+    {
+      "id": "D",
+      "text": "20 ports of call"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

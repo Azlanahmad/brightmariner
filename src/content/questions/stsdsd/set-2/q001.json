@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q1",
+  "text": "Who issues the CSR (Continuous Synopsis Record)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Classification Society"
+    },
+    {
+      "id": "B",
+      "text": "Port State Control"
+    },
+    {
+      "id": "C",
+      "text": "Flag State"
+    },
+    {
+      "id": "D",
+      "text": "Company Security Officer"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

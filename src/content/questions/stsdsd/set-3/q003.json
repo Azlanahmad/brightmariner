@@ -1,0 +1,18 @@
+{
+  "id": "stsdsd-s3-q3",
+  "text": "The security plan is to protect the personnel on board, cargo, transport units, ship stores, and the ship from a security incident.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q29",
+  "text": "What gets absolute priority on board in case of an direct conflict between safety and security parameters?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Security measures"
+    },
+    {
+      "id": "B",
+      "text": "Safety of life and the vessel"
+    },
+    {
+      "id": "C",
+      "text": "Cargo integrity protection"
+    },
+    {
+      "id": "D",
+      "text": "Keeping to the commercial schedule"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

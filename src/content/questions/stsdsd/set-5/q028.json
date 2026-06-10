@@ -1,0 +1,18 @@
+{
+  "id": "stsdsd-s5-q28",
+  "text": "Are the Safety Officer and Security Officer always the same individual on board a ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Yes, they must be the same rank"
+    },
+    {
+      "id": "B",
+      "text": "No"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

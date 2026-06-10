@@ -1,0 +1,18 @@
+{
+  "id": "stsdsd-s3-q28",
+  "text": "The ISPS code is *not* mandatory for Coastal Supply vessels.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

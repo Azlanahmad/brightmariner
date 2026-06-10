@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q18",
+  "text": "The active security level in force shall be posted in:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Only the Master's personal office cabin"
+    },
+    {
+      "id": "B",
+      "text": "All common places on board the vessel"
+    },
+    {
+      "id": "C",
+      "text": "Hidden inside the emergency generator room"
+    },
+    {
+      "id": "D",
+      "text": "The steering flat lower deck spaces only"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

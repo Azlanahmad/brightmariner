@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q18",
+  "text": "Which of the following is considered an assessment tool?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Identification of additional areas which should be secured"
+    },
+    {
+      "id": "B",
+      "text": "Daily engine fuel log sheet"
+    },
+    {
+      "id": "C",
+      "text": "Propeller slip coefficients"
+    },
+    {
+      "id": "D",
+      "text": "Refrigeration gas charging manuals"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

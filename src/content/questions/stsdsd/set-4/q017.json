@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q17",
+  "text": "Security measures are *not* necessarily extended by the Contracting Governments for which type of ships/crafts?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Large container vessels"
+    },
+    {
+      "id": "B",
+      "text": "Fishing vessels"
+    },
+    {
+      "id": "C",
+      "text": "Passenger cruise liners"
+    },
+    {
+      "id": "D",
+      "text": "Chemical tankers"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

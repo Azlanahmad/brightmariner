@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q17",
+  "text": "When doing a physical search of a package or a bag, we should look for the following:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The retail barcode design structure"
+    },
+    {
+      "id": "B",
+      "text": "Unusual electronic appliances hidden within standard spaces"
+    },
+    {
+      "id": "C",
+      "text": "Country of manufacture stamp marks"
+    },
+    {
+      "id": "D",
+      "text": "Weight labels on the exterior print"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

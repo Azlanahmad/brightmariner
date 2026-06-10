@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q28",
+  "text": "The modern definition of piracy includes one of the following:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Commercial contract breach"
+    },
+    {
+      "id": "B",
+      "text": "Robbery"
+    },
+    {
+      "id": "C",
+      "text": "Unintentional navigational deviation"
+    },
+    {
+      "id": "D",
+      "text": "Cargo short delivery disputes"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

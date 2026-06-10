@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q17",
+  "text": "How frequently shall the Master review the Ship Security Plan (SSP)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Monthly"
+    },
+    {
+      "id": "B",
+      "text": "Quarterly"
+    },
+    {
+      "id": "C",
+      "text": "Annually"
+    },
+    {
+      "id": "D",
+      "text": "Bi-annually"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

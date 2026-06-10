@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q7",
+  "text": "To ensure shipboard personnel are ready to deal with different security situations, what should you carry out?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Theoretical lectures only"
+    },
+    {
+      "id": "B",
+      "text": "Drills and exercises"
+    },
+    {
+      "id": "C",
+      "text": "Tabletop reviews exclusively"
+    },
+    {
+      "id": "D",
+      "text": "Maintenance check sheets"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

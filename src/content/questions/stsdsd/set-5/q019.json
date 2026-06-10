@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q19",
+  "text": "The maritime security measures under ISPS do *not* apply to which zone?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Territorial waters"
+    },
+    {
+      "id": "B",
+      "text": "Continental shelf"
+    },
+    {
+      "id": "C",
+      "text": "Port facilities interfacing with international vessels"
+    },
+    {
+      "id": "D",
+      "text": "Internal anchorage limits"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

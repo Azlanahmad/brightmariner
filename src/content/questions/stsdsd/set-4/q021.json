@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q21",
+  "text": "Covert methods to overcome security measures include:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Forcefully breaking and entering"
+    },
+    {
+      "id": "B",
+      "text": "Using false documentation or hidden entries"
+    },
+    {
+      "id": "C",
+      "text": "Open armed assault"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": "Video notes standard security breaches"
+}

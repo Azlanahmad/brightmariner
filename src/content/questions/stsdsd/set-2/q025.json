@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q25",
+  "text": "Who sets the security level for the ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The Charterer"
+    },
+    {
+      "id": "B",
+      "text": "The Flag State"
+    },
+    {
+      "id": "C",
+      "text": "The Chief Mate"
+    },
+    {
+      "id": "D",
+      "text": "The Port Customs Department"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

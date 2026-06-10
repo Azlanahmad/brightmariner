@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q11",
+  "text": "The crew is required to know which of the following during an emergency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Location and use of emergency equipment"
+    },
+    {
+      "id": "B",
+      "text": "Casualty handling"
+    },
+    {
+      "id": "C",
+      "text": "Being aware not to use elevators in an emergency"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

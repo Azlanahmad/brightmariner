@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q10",
+  "text": "Which of the following may be used as additional security measures?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Leaving gangways unattended to decoy intruders"
+    },
+    {
+      "id": "B",
+      "text": "Gratings used to block companionways"
+    },
+    {
+      "id": "C",
+      "text": "Isolating fire main fire line hydrants"
+    },
+    {
+      "id": "D",
+      "text": "Removing side pilot ladders during active operations"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

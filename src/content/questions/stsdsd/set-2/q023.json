@@ -1,0 +1,18 @@
+{
+  "id": "stsdsd-s2-q23",
+  "text": "A DoS is required when a ship-port interface poses a significant pollution risk.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": "Pollution and security have no technical relevance under ISPS context"
+}

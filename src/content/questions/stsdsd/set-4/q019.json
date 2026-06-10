@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q19",
+  "text": "The Global Integrated Shipping Information System (GISIS) is accessible to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Local port labor trade unions"
+    },
+    {
+      "id": "B",
+      "text": "IMO members"
+    },
+    {
+      "id": "C",
+      "text": "Unregistered casual suppliers"
+    },
+    {
+      "id": "D",
+      "text": "General cargo charterers openly"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

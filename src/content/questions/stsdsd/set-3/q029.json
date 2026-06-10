@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q29",
+  "text": "The maximum validity of the International Ship Security Certificate (ISSC) is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 years"
+    },
+    {
+      "id": "B",
+      "text": "5 years"
+    },
+    {
+      "id": "C",
+      "text": "7 years"
+    },
+    {
+      "id": "D",
+      "text": "10 years"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

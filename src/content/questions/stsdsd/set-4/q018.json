@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q18",
+  "text": "The security assessment documentation shall be:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Forwarded to the public maritime archive"
+    },
+    {
+      "id": "B",
+      "text": "Kept on ship safely in a secure location"
+    },
+    {
+      "id": "C",
+      "text": "Displayed publicly in the crew mess room"
+    },
+    {
+      "id": "D",
+      "text": "Discarded after verification is completed"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

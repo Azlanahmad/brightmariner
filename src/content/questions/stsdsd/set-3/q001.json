@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q1",
+  "text": "Which of the below has the *least* possibility of finding hidden drugs and contrabands?",
+  "options": [
+    {
+      "id": "A",
+      "text": "In the wash basin cabinet"
+    },
+    {
+      "id": "B",
+      "text": "On the soap stand"
+    },
+    {
+      "id": "C",
+      "text": "All the above"
+    },
+    {
+      "id": "D",
+      "text": "Inside structural ventilation louvers"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": "Least likely context compared to hidden voids"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q12",
+  "text": "Which of the following may be used as additional security measures?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Turning off all navigational radars"
+    },
+    {
+      "id": "B",
+      "text": "Pressurized fire hoses on deck"
+    },
+    {
+      "id": "C",
+      "text": "Closing sea chests entirely"
+    },
+    {
+      "id": "D",
+      "text": "Isolating the emergency generator emergency link"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q5",
+  "text": "Which of the following is considered an assessment tool?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fuel oil consumption log"
+    },
+    {
+      "id": "B",
+      "text": "Open deck arrangement including the height of the deck above water"
+    },
+    {
+      "id": "C",
+      "text": "Official Log Book entries"
+    },
+    {
+      "id": "D",
+      "text": "Cargo manifest list"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q6",
+  "text": "The on-scene security survey does *not* fulfill the following function:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Identifying existing security measures"
+    },
+    {
+      "id": "B",
+      "text": "Identifying the ship's engine performance"
+    },
+    {
+      "id": "C",
+      "text": "Evaluating shipboard key operations"
+    },
+    {
+      "id": "D",
+      "text": "Determining weaknesses in physical security infrastructure"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

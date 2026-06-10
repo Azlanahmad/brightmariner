@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q9",
+  "text": "When doing a physical search of a package or bag, we should look for the following:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Brand label country codes"
+    },
+    {
+      "id": "B",
+      "text": "Any visible repairs of the package or bag"
+    },
+    {
+      "id": "C",
+      "text": "Retail barcode pricing layouts"
+    },
+    {
+      "id": "D",
+      "text": "Color codes of wrapping strings"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

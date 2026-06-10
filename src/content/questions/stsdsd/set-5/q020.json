@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q20",
+  "text": "The SSO (Ship Security Officer) course framework was adopted by IMO resolution:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A.741(18)"
+    },
+    {
+      "id": "B",
+      "text": "A.924(22)"
+    },
+    {
+      "id": "C",
+      "text": "A.863(20)"
+    },
+    {
+      "id": "D",
+      "text": "A.482(12)"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

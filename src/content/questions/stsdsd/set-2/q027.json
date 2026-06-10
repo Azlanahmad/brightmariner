@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q27",
+  "text": "Which of the below spaces on deck and machinery spaces are most vulnerable for smuggling of drugs or contraband?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Captain's office desk"
+    },
+    {
+      "id": "B",
+      "text": "Cargo hold"
+    },
+    {
+      "id": "C",
+      "text": "Galley mess room tables"
+    },
+    {
+      "id": "D",
+      "text": "Navigation bridge deck floors"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

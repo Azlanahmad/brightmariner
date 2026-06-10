@@ -1,0 +1,18 @@
+{
+  "id": "stsdsd-s4-q11",
+  "text": "An ISSC (International Ship Security Certificate) can lose validity if the ship changes its operational management.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

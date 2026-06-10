@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q3",
+  "text": "An RSO (Recognized Security Organization) *cannot* do the following for a Contracting Government:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Review ship security assessments"
+    },
+    {
+      "id": "B",
+      "text": "Communicate with the ship or port on active security matters"
+    },
+    {
+      "id": "C",
+      "text": "Conduct verification audits"
+    },
+    {
+      "id": "D",
+      "text": "Issue interim certificates if authorized"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

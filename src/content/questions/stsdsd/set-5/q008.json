@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q8",
+  "text": "At security level 3, the following lights are to be switched on:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Only standard navigation lights"
+    },
+    {
+      "id": "B",
+      "text": "All lights showing clearly the deck and surrounding the vessel"
+    },
+    {
+      "id": "C",
+      "text": "No lights (Complete structural blackout)"
+    },
+    {
+      "id": "D",
+      "text": "Emergency battery locker indicator lights only"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

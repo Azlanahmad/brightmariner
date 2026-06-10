@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q1",
+  "text": "Which of the following are regular security measures implemented at security level 1?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Suspend all operations immediately"
+    },
+    {
+      "id": "B",
+      "text": "Supervise the handling of cargo and ship stores"
+    },
+    {
+      "id": "C",
+      "text": "Search 100% of all packages manually"
+    },
+    {
+      "id": "D",
+      "text": "Evacuate non-essential personnel to a Citadel"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

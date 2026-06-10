@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q12",
+  "text": "Which of the below spaces on deck and machinery spaces are most vulnerable for smuggling of drugs and contrabands?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Main steering flat floor"
+    },
+    {
+      "id": "B",
+      "text": "Equipment box"
+    },
+    {
+      "id": "C",
+      "text": "Generator platform railings"
+    },
+    {
+      "id": "D",
+      "text": "Purifier room workbench"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

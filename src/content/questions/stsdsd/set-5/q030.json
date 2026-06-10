@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q30",
+  "text": "Areas designated as _______ in the SSP should be well marked, secured, and permit authorized entry only:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Public spaces"
+    },
+    {
+      "id": "B",
+      "text": "Restricted areas"
+    },
+    {
+      "id": "C",
+      "text": "Recreation spaces"
+    },
+    {
+      "id": "D",
+      "text": "Open decks"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

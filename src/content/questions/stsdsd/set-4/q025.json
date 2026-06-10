@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q25",
+  "text": "Security equipment and systems need *not* be:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Calibrated periodically"
+    },
+    {
+      "id": "B",
+      "text": "Kept under lock and key at all times"
+    },
+    {
+      "id": "C",
+      "text": "Maintained properly"
+    },
+    {
+      "id": "D",
+      "text": "Tested during drills"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": "Should be accessible when required"
+}

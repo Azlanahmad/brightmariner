@@ -1,0 +1,18 @@
+{
+  "id": "stsdsd-s5-q3",
+  "text": "The Ship Security Plan is considered as SSI (Sensitive Security Information).",
+  "options": [
+    {
+      "id": "A",
+      "text": "Yes"
+    },
+    {
+      "id": "B",
+      "text": "No"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

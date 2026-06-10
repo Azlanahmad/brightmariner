@@ -1,0 +1,18 @@
+{
+  "id": "stsdsd-s3-q21",
+  "text": "Can the ship be at a *lower* security level than the port it is interfacing with?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Yes"
+    },
+    {
+      "id": "B",
+      "text": "No"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q25",
+  "text": "Is security fencing mandatory for the ship-side railing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mandatory at all times"
+    },
+    {
+      "id": "B",
+      "text": "Not mandatory"
+    },
+    {
+      "id": "C",
+      "text": "Mandatory only during dry dock periods"
+    },
+    {
+      "id": "D",
+      "text": "Dependent on structural class rules only"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

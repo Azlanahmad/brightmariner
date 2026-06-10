@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q9",
+  "text": "PMSCs (Private Maritime Security Companies) should require that their personnel do not use firearms against persons except in _______ or defense of others:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Clearing path ways"
+    },
+    {
+      "id": "B",
+      "text": "Self-defense"
+    },
+    {
+      "id": "C",
+      "text": "Warnings during routine approach"
+    },
+    {
+      "id": "D",
+      "text": "Checking identification criteria"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

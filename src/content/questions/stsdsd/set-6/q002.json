@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q2",
+  "text": "Which part of the ISPS code is fully mandatory for all signatory flag states?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Part A"
+    },
+    {
+      "id": "B",
+      "text": "Part B"
+    },
+    {
+      "id": "C",
+      "text": "Part C"
+    },
+    {
+      "id": "D",
+      "text": "Annex VI"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

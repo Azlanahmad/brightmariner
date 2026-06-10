@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q29",
+  "text": "An act which *cannot* be termed as a piracy attack is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Armed robbery on the high seas"
+    },
+    {
+      "id": "B",
+      "text": "Impeding safe navigation of a vessel due to close quarters engine defects"
+    },
+    {
+      "id": "C",
+      "text": "Intentional boarding to capture crew hostages"
+    },
+    {
+      "id": "D",
+      "text": "Seizure of cargo assets via gun threat"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

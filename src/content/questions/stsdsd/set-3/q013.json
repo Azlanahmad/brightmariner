@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q13",
+  "text": "The best place to search individuals physically is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "In the engine room workshop"
+    },
+    {
+      "id": "B",
+      "text": "Near the gangway"
+    },
+    {
+      "id": "C",
+      "text": "On the captain's bridge deck"
+    },
+    {
+      "id": "D",
+      "text": "Inside the steering flat"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q20",
+  "text": "Who approves the permanent revisions of the Ship Security Plan?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Local Port Authority"
+    },
+    {
+      "id": "B",
+      "text": "The Flag State"
+    },
+    {
+      "id": "C",
+      "text": "Chief Security Agency of the Port"
+    },
+    {
+      "id": "D",
+      "text": "The Classification surveyor exclusively"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

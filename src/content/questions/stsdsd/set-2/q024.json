@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q24",
+  "text": "Which of the below is *not* included in a CSR (Continuous Synopsis Record)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flag under which ship is registered"
+    },
+    {
+      "id": "B",
+      "text": "The SSO's name"
+    },
+    {
+      "id": "C",
+      "text": "Date of ship registration"
+    },
+    {
+      "id": "D",
+      "text": "Name of the classification society"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

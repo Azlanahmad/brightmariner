@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q5",
+  "text": "The on-scene security survey shall fulfill the following function:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Checking boiler water chemistry limits"
+    },
+    {
+      "id": "B",
+      "text": "Evaluate monitoring of restricted areas"
+    },
+    {
+      "id": "C",
+      "text": "Inspecting galley catering provisions inventory"
+    },
+    {
+      "id": "D",
+      "text": "Overhauling life buoy release mechanisms"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

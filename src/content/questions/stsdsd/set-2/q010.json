@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q10",
+  "text": "Which of the following is considered an assessment tool?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vessel stable parameters"
+    },
+    {
+      "id": "B",
+      "text": "Existing personnel identification documents"
+    },
+    {
+      "id": "C",
+      "text": "Engine room logbook profile"
+    },
+    {
+      "id": "D",
+      "text": "Crew list visa applications"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

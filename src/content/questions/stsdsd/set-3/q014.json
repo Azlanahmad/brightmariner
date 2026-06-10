@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q14",
+  "text": "The normal level that the ship or port facility operates on a daily basis is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Security level 1"
+    },
+    {
+      "id": "B",
+      "text": "Security level 2"
+    },
+    {
+      "id": "C",
+      "text": "Security level 3"
+    },
+    {
+      "id": "D",
+      "text": "Security level 0"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

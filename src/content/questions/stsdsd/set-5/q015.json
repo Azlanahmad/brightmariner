@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q15",
+  "text": "How frequently shall the Master verify the security records?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Monthly"
+    },
+    {
+      "id": "B",
+      "text": "Quarterly"
+    },
+    {
+      "id": "C",
+      "text": "Yearly"
+    },
+    {
+      "id": "D",
+      "text": "Every 5 years"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

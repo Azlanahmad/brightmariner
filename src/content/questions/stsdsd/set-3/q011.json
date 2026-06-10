@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q11",
+  "text": "The most vulnerable place in a cabin where we can find hidden drugs and contrabands is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Open book shelves"
+    },
+    {
+      "id": "B",
+      "text": "Inside radio or TV"
+    },
+    {
+      "id": "C",
+      "text": "Top of the study desk"
+    },
+    {
+      "id": "D",
+      "text": "The main wardrobe hanger rod"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

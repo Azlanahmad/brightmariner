@@ -1,0 +1,18 @@
+{
+  "id": "stsdsd-s4-q13",
+  "text": "Can a Port Authority deny entry to a ship from another country if it does not comply with the ISPS code?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Yes"
+    },
+    {
+      "id": "B",
+      "text": "No"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

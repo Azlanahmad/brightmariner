@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q16",
+  "text": "For security level 3:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Normal watchkeeping ranks are reduced"
+    },
+    {
+      "id": "B",
+      "text": "Additional group to be put on security duty"
+    },
+    {
+      "id": "C",
+      "text": "All shore leave is standardly granted"
+    },
+    {
+      "id": "D",
+      "text": "Cargo handling is speeded up to maximum limits"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

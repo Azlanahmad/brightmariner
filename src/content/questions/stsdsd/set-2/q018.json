@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q18",
+  "text": "Who approves the Ship Security Plan?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The Port Authority"
+    },
+    {
+      "id": "B",
+      "text": "The Flag State"
+    },
+    {
+      "id": "C",
+      "text": "The Recognized Cargo Agency"
+    },
+    {
+      "id": "D",
+      "text": "Charterer's Representative"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

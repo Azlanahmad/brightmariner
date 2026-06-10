@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q9",
+  "text": "Which of the following is considered a most vulnerable place where hidden drugs and contrabands can be found?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fire extinguishers"
+    },
+    {
+      "id": "B",
+      "text": "Fire hose and compartments"
+    },
+    {
+      "id": "C",
+      "text": "Access panels in floors, walls, and ceilings"
+    },
+    {
+      "id": "D",
+      "text": "All of them"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q26",
+  "text": "What is available in the Citadel/Safe House room?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Emergency means of communication"
+    },
+    {
+      "id": "B",
+      "text": "Provisions"
+    },
+    {
+      "id": "C",
+      "text": "Water"
+    },
+    {
+      "id": "D",
+      "text": "It has all of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q15",
+  "text": "Which of the following are *not* regular security measures implemented at security level 1?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Controlling access to the ship"
+    },
+    {
+      "id": "B",
+      "text": "Call for shore security personnel"
+    },
+    {
+      "id": "C",
+      "text": "Supervising the handling of cargo"
+    },
+    {
+      "id": "D",
+      "text": "Ensuring security communication is available"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

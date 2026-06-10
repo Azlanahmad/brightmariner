@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q7",
+  "text": "Which of the following are regular security measures implemented at security level 1?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stop all radio communications entirely"
+    },
+    {
+      "id": "B",
+      "text": "Control the embarkation of personnel and their effects"
+    },
+    {
+      "id": "C",
+      "text": "Evacuate all deck positions immediately"
+    },
+    {
+      "id": "D",
+      "text": "Blackout all primary deck illumination systems"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

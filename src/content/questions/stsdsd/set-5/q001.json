@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q1",
+  "text": "Seafarers with a designated security duty are responsible for:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deep-sea oceanographic tracking"
+    },
+    {
+      "id": "B",
+      "text": "Knowledge of crowd control techniques"
+    },
+    {
+      "id": "C",
+      "text": "Commercial cargo handling contracts"
+    },
+    {
+      "id": "D",
+      "text": "Main propulsion optimization metrics"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

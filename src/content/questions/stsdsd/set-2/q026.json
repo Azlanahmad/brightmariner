@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q26",
+  "text": "Complete the sentence: Security drills should be conducted at least once every:",
+  "options": [
+    {
+      "id": "A",
+      "text": "One month"
+    },
+    {
+      "id": "B",
+      "text": "Three months"
+    },
+    {
+      "id": "C",
+      "text": "Six months"
+    },
+    {
+      "id": "D",
+      "text": "Twelve months"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

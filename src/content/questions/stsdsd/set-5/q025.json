@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q25",
+  "text": "When using the X-ray scanning machine at an access point, the operator shall continuously monitor the screen for a maximum of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "10 minutes"
+    },
+    {
+      "id": "B",
+      "text": "20 minutes"
+    },
+    {
+      "id": "C",
+      "text": "60 minutes"
+    },
+    {
+      "id": "D",
+      "text": "120 minutes"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

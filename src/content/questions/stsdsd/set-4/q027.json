@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q27",
+  "text": "IMO introduced the ISPS code and made it mandatory in:",
+  "options": [
+    {
+      "id": "A",
+      "text": "January 2000"
+    },
+    {
+      "id": "B",
+      "text": "July 2004"
+    },
+    {
+      "id": "C",
+      "text": "December 2006"
+    },
+    {
+      "id": "D",
+      "text": "June 2010"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q6",
+  "text": "Before hiding in the safe house or Citadel, we shall:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Keep the main engine on standby"
+    },
+    {
+      "id": "B",
+      "text": "Stop and immobilize the main engine"
+    },
+    {
+      "id": "C",
+      "text": "Increase ventilation to the maximum"
+    },
+    {
+      "id": "D",
+      "text": "Turn on all deck floodlights"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

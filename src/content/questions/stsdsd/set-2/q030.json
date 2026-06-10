@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q30",
+  "text": "Which of the below spaces in the galley and dry stores are most vulnerable for smuggling and contrabands?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Daily dry store shelves"
+    },
+    {
+      "id": "B",
+      "text": "Inside fish or sides of beef in freezers"
+    },
+    {
+      "id": "C",
+      "text": "The mess room dining counter"
+    },
+    {
+      "id": "D",
+      "text": "Open garbage bin containers"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

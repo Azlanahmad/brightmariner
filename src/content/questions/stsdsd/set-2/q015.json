@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q15",
+  "text": "The SCSA (Ship Security Assessment) report shall consist of the following:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Full machinery maintenance layout"
+    },
+    {
+      "id": "B",
+      "text": "A description of countermeasures that could be used to address vulnerability"
+    },
+    {
+      "id": "C",
+      "text": "Crew wage scales and financial portfolios"
+    },
+    {
+      "id": "D",
+      "text": "Commercial routing preferences"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q2",
+  "text": "When securing the Escape Route doors, can we lock them closed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Yes, to prevent unauthorized intrusion"
+    },
+    {
+      "id": "B",
+      "text": "No"
+    },
+    {
+      "id": "C",
+      "text": "Only during night port stays"
+    },
+    {
+      "id": "D",
+      "text": "Yes, if authorized by the SSO verbally"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

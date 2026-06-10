@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q23",
+  "text": "The precise circumstances when a DoS is required by the port facility can be established through the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chief Engineer"
+    },
+    {
+      "id": "B",
+      "text": "Port Facility Security Officer (PFSO)"
+    },
+    {
+      "id": "C",
+      "text": "Third Party Agent"
+    },
+    {
+      "id": "D",
+      "text": "Custom Board Officer"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

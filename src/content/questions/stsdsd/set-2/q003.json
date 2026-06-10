@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q3",
+  "text": "What is the operational limitation of security equipment like a weld lock?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It can easily fail due to high vibrations"
+    },
+    {
+      "id": "B",
+      "text": "The weld locks can be cut open"
+    },
+    {
+      "id": "C",
+      "text": "It cannot withstand marine corrosion"
+    },
+    {
+      "id": "D",
+      "text": "It can only be operated electronically"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

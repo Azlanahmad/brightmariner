@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q27",
+  "text": "All ship staff are *not* required to have a defined knowledge of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Basic security actions during alerts"
+    },
+    {
+      "id": "B",
+      "text": "The ISPS Code in full"
+    },
+    {
+      "id": "C",
+      "text": "Reporting suspicious elements to the SSO"
+    },
+    {
+      "id": "D",
+      "text": "Location of emergency alarm switches"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q15",
+  "text": "Who is responsible for submitting the Ship Security Plan for official administration approval?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ship Security Officer (SSO)"
+    },
+    {
+      "id": "B",
+      "text": "Company Security Officer (CSO)"
+    },
+    {
+      "id": "C",
+      "text": "Third Engineer"
+    },
+    {
+      "id": "D",
+      "text": "The Chief Mate"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

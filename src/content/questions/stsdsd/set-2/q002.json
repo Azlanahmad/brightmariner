@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q2",
+  "text": "What is the requirement for an Escape Route opening?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Must be locked from the inside at all times"
+    },
+    {
+      "id": "B",
+      "text": "Must be capable of opening from the direction for which escape is required"
+    },
+    {
+      "id": "C",
+      "text": "Can only be opened using a master key"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

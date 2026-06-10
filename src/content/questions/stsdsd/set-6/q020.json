@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q20",
+  "text": "You find a suspicious object on the deck. Which initial action will you take to safeguard life?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carry it manually to the captain's office deck"
+    },
+    {
+      "id": "B",
+      "text": "Move all personnel as far away from the object as possible"
+    },
+    {
+      "id": "C",
+      "text": "Submerge it in the main galley sink water tank immediately"
+    },
+    {
+      "id": "D",
+      "text": "Hit it with a wrench to check for metallic hollow signatures"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

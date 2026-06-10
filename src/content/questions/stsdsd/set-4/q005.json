@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q5",
+  "text": "The security internal audit is conducted:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Monthly"
+    },
+    {
+      "id": "B",
+      "text": "Annually"
+    },
+    {
+      "id": "C",
+      "text": "Every 3 years"
+    },
+    {
+      "id": "D",
+      "text": "Every 5 years"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

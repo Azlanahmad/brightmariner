@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q6",
+  "text": "Which of the following is considered an assessment tool?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Main bilge piping blueprint"
+    },
+    {
+      "id": "B",
+      "text": "Location and function of each actual or potential access point to the ship"
+    },
+    {
+      "id": "C",
+      "text": "Bunkering delivery ticket sequences"
+    },
+    {
+      "id": "D",
+      "text": "Hydrostatic curve registers"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

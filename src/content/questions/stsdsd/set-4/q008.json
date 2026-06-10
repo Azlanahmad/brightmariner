@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q8",
+  "text": "Where is the guidance for risk-based assessment available in the ISPS framework?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ISPS Code Part A"
+    },
+    {
+      "id": "B",
+      "text": "ISPS Code Part B"
+    },
+    {
+      "id": "C",
+      "text": "Solas Chapter II-1"
+    },
+    {
+      "id": "D",
+      "text": "MARPOL Annex VI"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

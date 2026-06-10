@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q13",
+  "text": "Which of the following poses an active potential security risk to the ship's networks?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Routine weather fax printouts"
+    },
+    {
+      "id": "B",
+      "text": "Emails attempting to obtain sensitive information regarding the vessel (Phishing)"
+    },
+    {
+      "id": "C",
+      "text": "Standard radar tuning alerts"
+    },
+    {
+      "id": "D",
+      "text": "VHF channel 16 routine calls"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

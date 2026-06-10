@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q6",
+  "text": "What is the advantage of an Ion Scan system?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Can detect and operate in a vacuum"
+    },
+    {
+      "id": "B",
+      "text": "Requires very little preparation"
+    },
+    {
+      "id": "C",
+      "text": "It is portable"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

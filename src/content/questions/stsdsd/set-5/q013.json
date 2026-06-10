@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q13",
+  "text": "Security level 2 can be set for a:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Indefinite prolonged duration"
+    },
+    {
+      "id": "B",
+      "text": "Limited period"
+    },
+    {
+      "id": "C",
+      "text": "Permanent basis for all remaining voyages"
+    },
+    {
+      "id": "D",
+      "text": "Single watch hour shift only"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q4",
+  "text": "Security drills should be conducted at least once every:",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 month"
+    },
+    {
+      "id": "B",
+      "text": "3 months"
+    },
+    {
+      "id": "C",
+      "text": "6 months"
+    },
+    {
+      "id": "D",
+      "text": "12 months"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": "Corrected update in video audio context"
+}

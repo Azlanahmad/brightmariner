@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q8",
+  "text": "What percentage of baggage is required to be checked at standard Security Level 1?",
+  "options": [
+    {
+      "id": "A",
+      "text": "100% manually without exception"
+    },
+    {
+      "id": "B",
+      "text": "As per the parameters specified in the Ship Security Plan (SSP)"
+    },
+    {
+      "id": "C",
+      "text": "0% checked unless authorized by local police"
+    },
+    {
+      "id": "D",
+      "text": "50% checked by alternate lottery method"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

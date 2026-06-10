@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q19",
+  "text": "During container loading, which of the following is required at Security Level 1?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Checking 100% interior contents of all sealed boxes"
+    },
+    {
+      "id": "B",
+      "text": "Checking of loading as per the loading plan"
+    },
+    {
+      "id": "C",
+      "text": "Discharging all other auxiliary fuel oils"
+    },
+    {
+      "id": "D",
+      "text": "Complete lockdown of all steering machinery positions"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

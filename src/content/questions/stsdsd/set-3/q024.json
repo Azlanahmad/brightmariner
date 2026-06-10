@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q24",
+  "text": "Who sets the maritime security level for a country's territorial waters?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ship Master"
+    },
+    {
+      "id": "B",
+      "text": "Flag State Authority"
+    },
+    {
+      "id": "C",
+      "text": "Private Maritime Security Agency"
+    },
+    {
+      "id": "D",
+      "text": "Classification Board"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

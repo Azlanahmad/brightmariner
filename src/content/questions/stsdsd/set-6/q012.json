@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q12",
+  "text": "Which of the below spaces in a cabin are considered a most vulnerable place where hidden drugs and contrabands are discovered?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flat tabletop spaces"
+    },
+    {
+      "id": "B",
+      "text": "Hollow out moldings"
+    },
+    {
+      "id": "C",
+      "text": "Open hanging coat rack pegs"
+    },
+    {
+      "id": "D",
+      "text": "Exposed bathroom tile surfaces"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

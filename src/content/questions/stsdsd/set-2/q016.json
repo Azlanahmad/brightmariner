@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q16",
+  "text": "A DoS (Declaration of Security) is required when:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The ship is entering a dry dock area"
+    },
+    {
+      "id": "B",
+      "text": "When port and ship are not on the same security level"
+    },
+    {
+      "id": "C",
+      "text": "A crew member changes their contract status"
+    },
+    {
+      "id": "D",
+      "text": "Bunkering operation is completed safely"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

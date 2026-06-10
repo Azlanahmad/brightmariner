@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q2",
+  "text": "The ISPS code was brought into force by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "INTERPOL"
+    },
+    {
+      "id": "B",
+      "text": "IMO (International Maritime Organization)"
+    },
+    {
+      "id": "C",
+      "text": "World Trade Organization"
+    },
+    {
+      "id": "D",
+      "text": "International Chamber of Shipping"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": "stsdsd-s4-q20",
+  "text": "Ship stores are to be checked to prevent them from being accepted without inspection.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Yes"
+    },
+    {
+      "id": "B",
+      "text": "No"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": "Transcript reads \"prevent ship stores from being accepted without inspection -> answer: yes/no check context\""
+}

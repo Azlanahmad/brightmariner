@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q21",
+  "text": "On board, whose explicit duty is it to *propose* modifications to the Ship Security Plan (SSP)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The Port Authority Agent"
+    },
+    {
+      "id": "B",
+      "text": "The Ship Security Officer (SSO)"
+    },
+    {
+      "id": "C",
+      "text": "The Cadet on watch"
+    },
+    {
+      "id": "D",
+      "text": "The Chief Cook"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q16",
+  "text": "What do we do with the Continuous Synopsis Record (CSR) when the flag changes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Destroy it immediately"
+    },
+    {
+      "id": "B",
+      "text": "We keep them on board"
+    },
+    {
+      "id": "C",
+      "text": "Mail it to the previous owner's home address"
+    },
+    {
+      "id": "D",
+      "text": "Hand it over to the local port customs agents"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

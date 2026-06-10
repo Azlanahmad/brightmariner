@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q20",
+  "text": "Seafarers with designated security duties are responsible for:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Comprehensive engine overhauling procedures"
+    },
+    {
+      "id": "B",
+      "text": "Knowledge of methods of physical structures of baggage"
+    },
+    {
+      "id": "C",
+      "text": "Managing commercial port bills"
+    },
+    {
+      "id": "D",
+      "text": "Calculating vessel stability indices"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

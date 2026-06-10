@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q27",
+  "text": "What is the operational limitation of security equipment such as weld logs?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cannot be used on steel structures"
+    },
+    {
+      "id": "B",
+      "text": "The weld logs can be cut open"
+    },
+    {
+      "id": "C",
+      "text": "They require active high-voltage power"
+    },
+    {
+      "id": "D",
+      "text": "High vulnerability to sea spray damage"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

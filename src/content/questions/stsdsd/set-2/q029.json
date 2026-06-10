@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q29",
+  "text": "You find a suspicious object on the deck. Which action will you take?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Throw it overboard immediately"
+    },
+    {
+      "id": "B",
+      "text": "Inform Master immediately on radio"
+    },
+    {
+      "id": "C",
+      "text": "Open it up to check the contents yourself"
+    },
+    {
+      "id": "D",
+      "text": "Leave it and check it during the next watch change"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

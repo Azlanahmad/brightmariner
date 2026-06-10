@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q9",
+  "text": "A DoS is required when:",
+  "options": [
+    {
+      "id": "A",
+      "text": "When a ship interfaces with a non-ISPS compliant ship"
+    },
+    {
+      "id": "B",
+      "text": "When the vessel drops anchor in open international waters"
+    },
+    {
+      "id": "C",
+      "text": "The crew complements change fully"
+    },
+    {
+      "id": "D",
+      "text": "When taking provisions from a standard certified barge"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

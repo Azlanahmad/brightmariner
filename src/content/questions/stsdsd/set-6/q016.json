@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q16",
+  "text": "Who addresses and deals directly with any identified structural deficiencies or non-conformities of security measures on behalf of the management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The Port Customs Clearance Team"
+    },
+    {
+      "id": "B",
+      "text": "Company Security Officer (CSO)"
+    },
+    {
+      "id": "C",
+      "text": "The Supplier's Delivery Foreman"
+    },
+    {
+      "id": "D",
+      "text": "Junior Engineer on duty"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

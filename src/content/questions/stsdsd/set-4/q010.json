@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q10",
+  "text": "The most vulnerable place in toilets and showers where we can find hidden drugs and contrabands is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Open towel rails"
+    },
+    {
+      "id": "B",
+      "text": "Behind and under the wash basin"
+    },
+    {
+      "id": "C",
+      "text": "The shower curtain rod surface"
+    },
+    {
+      "id": "D",
+      "text": "On top of exposed soap dishes"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

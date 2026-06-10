@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q30",
+  "text": "Which of the below spaces on deck and machinery spaces are most vulnerable for smuggling drugs and contrabands?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Open main deck walkways"
+    },
+    {
+      "id": "B",
+      "text": "Ventilation ducts"
+    },
+    {
+      "id": "C",
+      "text": "Purifier drip trays"
+    },
+    {
+      "id": "D",
+      "text": "Boiler burner platform surfaces"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

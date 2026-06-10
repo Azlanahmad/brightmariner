@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q19",
+  "text": "Which of the following equipment is a part of cyber security?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mechanical sound-powered phones"
+    },
+    {
+      "id": "B",
+      "text": "Dedicated cargo computers"
+    },
+    {
+      "id": "C",
+      "text": "Hydraulic valve remote control levers"
+    },
+    {
+      "id": "D",
+      "text": "Main engine indicator mechanical drums"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

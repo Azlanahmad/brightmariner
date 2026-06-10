@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q4",
+  "text": "The ISPS code applies to cargo ships, passenger ships, and:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Non-propelled wooden barges"
+    },
+    {
+      "id": "B",
+      "text": "Mobile offshore drilling units (MODUs)"
+    },
+    {
+      "id": "C",
+      "text": "Pleasure yachts under 12 meters"
+    },
+    {
+      "id": "D",
+      "text": "Coastal fishing boats"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": "Or D - All the Above based on video options sequence"
+}

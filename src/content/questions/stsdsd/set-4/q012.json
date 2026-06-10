@@ -1,0 +1,18 @@
+{
+  "id": "stsdsd-s4-q12",
+  "text": "The SSAS activation locations must be known to all ship's crew.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": "SSAS locations are kept confidential to prevent compromise by internal/external threats; only designated crew know them"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q9",
+  "text": "What can be a possible smuggling mode on a ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Via the automated ballast system"
+    },
+    {
+      "id": "B",
+      "text": "By the routine suppliers"
+    },
+    {
+      "id": "C",
+      "text": "Through the main engine exhaust trunk"
+    },
+    {
+      "id": "D",
+      "text": "Via satellite communication links"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

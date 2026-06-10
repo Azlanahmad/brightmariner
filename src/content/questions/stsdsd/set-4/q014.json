@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q14",
+  "text": "A plan which contains measures on board designed to protect persons on board, cargo, cargo transport units, ship stores, or the ship from the risk of a security incident is called:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Emergency Towing Plan"
+    },
+    {
+      "id": "B",
+      "text": "Ship Security Plan (SSP)"
+    },
+    {
+      "id": "C",
+      "text": "Safety Management Manual"
+    },
+    {
+      "id": "D",
+      "text": "Fire Control Plan"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

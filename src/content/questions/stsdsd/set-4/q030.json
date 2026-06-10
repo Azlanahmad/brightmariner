@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q30",
+  "text": "The on-scene security survey shall fulfill the following function:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Identifying the ship's navigation efficiency profiles"
+    },
+    {
+      "id": "B",
+      "text": "Identifying structural vulnerabilities and access points"
+    },
+    {
+      "id": "C",
+      "text": "Evaluating general propulsion parameters"
+    },
+    {
+      "id": "D",
+      "text": "Overhauling mechanical safety valves"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": "Transcript references alternate check formats"
+}

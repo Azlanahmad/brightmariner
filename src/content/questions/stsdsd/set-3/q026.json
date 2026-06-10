@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q26",
+  "text": "With whom does the SSO liaise in the company regarding security matters?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Technical Superintendent"
+    },
+    {
+      "id": "B",
+      "text": "Company Security Officer (CSO)"
+    },
+    {
+      "id": "C",
+      "text": "Crewing Manager"
+    },
+    {
+      "id": "D",
+      "text": "Financial Director"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

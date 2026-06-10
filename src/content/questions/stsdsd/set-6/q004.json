@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q4",
+  "text": "The security certificate renewal audit of a maritime vessel is done once every:",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 year"
+    },
+    {
+      "id": "B",
+      "text": "3 years"
+    },
+    {
+      "id": "C",
+      "text": "5 years"
+    },
+    {
+      "id": "D",
+      "text": "10 years"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q23",
+  "text": "Port Facility Security Officer (PFSO) means a person tasked to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Manage standard cargo commercial operations"
+    },
+    {
+      "id": "B",
+      "text": "Manage Port Security"
+    },
+    {
+      "id": "C",
+      "text": "Inspect marine auxiliary machinery ashore"
+    },
+    {
+      "id": "D",
+      "text": "Handle ship-to-shore bunkering pipelines financially"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

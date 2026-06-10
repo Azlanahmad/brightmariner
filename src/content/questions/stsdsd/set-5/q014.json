@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q14",
+  "text": "What is the best defense against pirates?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Active armed counter-fire at all times"
+    },
+    {
+      "id": "B",
+      "text": "Do not go to a pirate-affected area"
+    },
+    {
+      "id": "C",
+      "text": "Speeding up the vessel to 40 knots"
+    },
+    {
+      "id": "D",
+      "text": "Painting the hull white to blind them"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

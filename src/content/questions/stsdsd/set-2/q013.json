@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q13",
+  "text": "Who appoints the PFSO (Port Facility Security Officer) for a port?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Shipping Company"
+    },
+    {
+      "id": "B",
+      "text": "Government"
+    },
+    {
+      "id": "C",
+      "text": "The Ship Master"
+    },
+    {
+      "id": "D",
+      "text": "Classification Society"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

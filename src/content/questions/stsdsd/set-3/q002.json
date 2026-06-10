@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q2",
+  "text": "The CSR is a:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Commercial Statement of Freight Rates"
+    },
+    {
+      "id": "B",
+      "text": "Record of history of the ship"
+    },
+    {
+      "id": "C",
+      "text": "Crew Service Record registry"
+    },
+    {
+      "id": "D",
+      "text": "Custom Survey Report"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

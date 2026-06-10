@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q22",
+  "text": "Which of the following is considered a security record?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Engine indicator cards"
+    },
+    {
+      "id": "B",
+      "text": "Record of security/safety drills"
+    },
+    {
+      "id": "C",
+      "text": "Cargo stowage plan blueprints"
+    },
+    {
+      "id": "D",
+      "text": "Fuel oil analysis profiles"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

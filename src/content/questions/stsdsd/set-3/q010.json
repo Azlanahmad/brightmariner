@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q10",
+  "text": "When the Ship Security Alert System (SSAS) is activated, the alarm will sound:",
+  "options": [
+    {
+      "id": "A",
+      "text": "On nearby vessels"
+    },
+    {
+      "id": "B",
+      "text": "On one's own ship"
+    },
+    {
+      "id": "C",
+      "text": "In the ship's engine room"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": "It is a covert alarm transmitted directly to shore"
+}

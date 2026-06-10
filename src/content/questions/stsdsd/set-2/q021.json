@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q21",
+  "text": "The ISPS code applies to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cargo ships"
+    },
+    {
+      "id": "B",
+      "text": "Passenger ships"
+    },
+    {
+      "id": "C",
+      "text": "Ships above 500 GRT"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

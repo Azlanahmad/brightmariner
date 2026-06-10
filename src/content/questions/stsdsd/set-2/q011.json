@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q11",
+  "text": "The RSO (Recognized Security Organization) can carry out which of the following for a company or port?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Approving the permanent flag changes"
+    },
+    {
+      "id": "B",
+      "text": "Ship Security Assessment (SSA)"
+    },
+    {
+      "id": "C",
+      "text": "Commercial cargo custom checks"
+    },
+    {
+      "id": "D",
+      "text": "Crew medical clearance"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

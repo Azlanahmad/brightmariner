@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q4",
+  "text": "Why is it advised to hide in the safe house or Citadel during a pirate attack?",
+  "options": [
+    {
+      "id": "A",
+      "text": "To keep up with routine paperwork safely"
+    },
+    {
+      "id": "B",
+      "text": "To avoid being caught by the pirates and hence prevent them from taking control of the ship"
+    },
+    {
+      "id": "C",
+      "text": "To protect machinery from overheating"
+    },
+    {
+      "id": "D",
+      "text": "To avoid physical labor during a crisis"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

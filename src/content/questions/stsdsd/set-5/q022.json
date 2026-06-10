@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q22",
+  "text": "The modern definition of piracy includes which of the following acts?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Accidental commercial short landing"
+    },
+    {
+      "id": "B",
+      "text": "Shipwrecking done intentionally"
+    },
+    {
+      "id": "C",
+      "text": "Minor engine machinery log discrepancies"
+    },
+    {
+      "id": "D",
+      "text": "Navigating without a pilot in non-mandatory zones"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q7",
+  "text": "Seafarers with designated security duties are responsible for:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Calibrating engine indicators precisely"
+    },
+    {
+      "id": "B",
+      "text": "Knowledge of methods of physical searches of ship stores"
+    },
+    {
+      "id": "C",
+      "text": "Overseeing dry dock budget balances"
+    },
+    {
+      "id": "D",
+      "text": "Operating commercial crane systems ashore"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

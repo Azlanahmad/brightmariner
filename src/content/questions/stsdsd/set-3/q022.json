@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q22",
+  "text": "Who proposes modifications to the Ship Security Plan?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Port Facility Security Officer"
+    },
+    {
+      "id": "B",
+      "text": "Company Security Officer"
+    },
+    {
+      "id": "C",
+      "text": "Third Mate"
+    },
+    {
+      "id": "D",
+      "text": "Custom Agent"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s2-q4",
+  "text": "Who is responsible for the regular security inspections of the ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Company Security Officer (CSO)"
+    },
+    {
+      "id": "B",
+      "text": "Port Facility Security Officer (PFSO)"
+    },
+    {
+      "id": "C",
+      "text": "Ship Security Officer (SSO)"
+    },
+    {
+      "id": "D",
+      "text": "The Chief Engineer"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "stsdsd",
+  "set": 2,
+  "explanation": ""
+}

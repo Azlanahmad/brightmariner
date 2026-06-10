@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s6-q18",
+  "text": "The Ship Security Plan (SSP) cannot be shown to any unauthorized person without the approval of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The Master, SSO, or CSO"
+    },
+    {
+      "id": "B",
+      "text": "Any crew member on watch duty"
+    },
+    {
+      "id": "C",
+      "text": "The local ship supplier foreman"
+    },
+    {
+      "id": "D",
+      "text": "The terminal cargo operations loader"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "stsdsd",
+  "set": 6,
+  "explanation": ""
+}

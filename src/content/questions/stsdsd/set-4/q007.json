@@ -1,0 +1,18 @@
+{
+  "id": "stsdsd-s4-q7",
+  "text": "Amendment of an approved SSP does not involve a review of the ship's SSA.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

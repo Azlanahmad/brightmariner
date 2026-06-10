@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s4-q15",
+  "text": "To ensure ship's personnel are performing their security duties properly, what should be periodically executed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Engine trials"
+    },
+    {
+      "id": "B",
+      "text": "On-scene security surveys/inspections"
+    },
+    {
+      "id": "C",
+      "text": "Checking structural dry-dock profiles"
+    },
+    {
+      "id": "D",
+      "text": "Reviewing financial accounts of the vessel"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 4,
+  "explanation": ""
+}

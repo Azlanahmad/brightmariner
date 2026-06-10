@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s3-q7",
+  "text": "When doing a physical search of a package or bag, we should look for the following:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Price tags of the items"
+    },
+    {
+      "id": "B",
+      "text": "The quality of the package or bag"
+    },
+    {
+      "id": "C",
+      "text": "Manufacturer addresses"
+    },
+    {
+      "id": "D",
+      "text": "Expiry dates of interior goods"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "stsdsd",
+  "set": 3,
+  "explanation": ""
+}

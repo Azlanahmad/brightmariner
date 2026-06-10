@@ -1,0 +1,26 @@
+{
+  "id": "stsdsd-s5-q11",
+  "text": "At security level 3, baggage is standardly screened on an X-ray machine from:",
+  "options": [
+    {
+      "id": "A",
+      "text": "One angle"
+    },
+    {
+      "id": "B",
+      "text": "Two angles"
+    },
+    {
+      "id": "C",
+      "text": "Three angles"
+    },
+    {
+      "id": "D",
+      "text": "Four angles"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "stsdsd",
+  "set": 5,
+  "explanation": ""
+}
