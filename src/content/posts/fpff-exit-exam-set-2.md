@@ -1,8 +1,8 @@
 ---
 title: "FPFF Exit Exam Questions: Set 2"
 description: "Pass your DG Shipping FPFF exit exam easily! Updated 2026 STCW MCQ questions and answers for Fire Prevention and Fire Fighting. Start your preparation now."
-date: 2024-09-07T14:48:32.000Z
-tags: ["fpff exit exam mcq","Fpff exit exam mcq with answers","FPFF Exit exam questions and Answers 2024","fpff exit exam questions pdf"]
+date: 2026-06-06T10:00:00.000Z
+tags: ["fpff exit exam mcq","Fpff exit exam mcq with answers","FPFF Exit exam questions and Answers 2026","fpff exit exam questions pdf"]
 categories: ["DG Exit Exam Question","FPFF"]
 ---
 

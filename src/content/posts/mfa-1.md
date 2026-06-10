@@ -1,7 +1,7 @@
 ---
 title: "MFA Exit Exam Questions and Answers: Set - 1"
 description: "Master the DG Shipping MFA exit exam! Updated 2026 STCW MCQ questions and answers for Medical First Aid. Comprehensive prep material for marine engineers."
-date: 2024-09-08T09:16:09.000Z
+date: 2026-06-11T10:00:00.000Z
 tags: ["dg shipping mfa exit exam questions and answers","MFA Exit Exam Questions and Answers","MFA Exit Exam Questions and Answers (Medical First Aid): Set - 1","mfa exit exam questions and answers pdf"]
 categories: ["MFA"]
 ---

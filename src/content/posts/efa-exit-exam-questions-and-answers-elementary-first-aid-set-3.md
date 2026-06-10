@@ -1,7 +1,7 @@
 ---
 title: "EFA Exit Exam Questions and Answers | Elementary First Aid | Set 3"
 description: "Master your DG Shipping EFA exit exam with our updated 2026 MCQ set. Comprehensive questions and answers for Elementary First Aid. Clear your exams on the first try!"
-date: 2024-09-13T14:15:45.000Z
+date: 2026-06-03T10:00:00.000Z
 categories: ["Marine Engineering"]
 ---
 

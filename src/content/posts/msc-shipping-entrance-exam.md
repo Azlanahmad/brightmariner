@@ -1,8 +1,8 @@
 ---
 title: "MSC Sponsorship for DNS: MSC Shipping Entrance Exam Registration, Syllabus, Eligibility"
 description: "All details on MSC sponsorship for DNS (Diploma in Nautical Science) including the MSC Shipping entrance exam registration, syllabus, and eligibility criteria."
-date: 2024-02-16T10:31:28.000Z
-tags: ["MSC Exam","MSC Exam 2024"]
+date: 2026-06-13T10:00:00.000Z
+tags: ["MSC Exam","MSC Exam 2026"]
 categories: ["MSC Exam"]
 image: "/wp-content/uploads/2024/02/Screenshot-2024-03-07-at-11.38.28 PM-1-scaled.webp"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "AFF Exit Exam Questions and Answers (Advanced Fire Fighting): SET 1"
 description: "Ace your DG Shipping AFF exit exam! Updated 2026 STCW MCQ questions and answers for Advanced Fire Fighting. Essential study guide for seafarers."
-date: 2024-09-06T18:00:22.000Z
+date: 2026-06-01T10:00:00.000Z
 tags: ["AFF Exit Exam Questions and Answers", "AFF exit exam questions and Answers pdf download", "Aff exit exam questions pdf", "AFF exit exam questions ship 07"]
 categories: ["AFF", "DG Exit Exam Question"]
 ---

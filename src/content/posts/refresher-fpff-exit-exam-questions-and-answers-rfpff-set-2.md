@@ -1,7 +1,7 @@
 ---
 title: "Refresher FPFF Exit Exam Questions and Answers (RFPFF): Set 2"
 description: "Prepare for DG Shipping Refresher FPFF (RFPFF) exit exam. Updated 2026 STCW MCQ questions and answers. Clear your refresher course exams with ease!"
-date: 2024-09-09T10:07:42.000Z
+date: 2026-06-17T10:00:00.000Z
 tags: ["Refresher FPFF Exit Exam Questions and Answers (RFPFF)","RFPFF","RFPFF Exit Exam Question and Answer"]
 categories: ["RFPFF"]
 ---

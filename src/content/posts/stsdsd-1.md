@@ -1,7 +1,7 @@
 ---
 title: "STSDSD Exit Exam Questions: Set 1"
 description: "Crack your DG Shipping STSDSD exit exam with our 2026 updated MCQ set. Essential questions and answers for Ship Security Duties. Boost your maritime career!"
-date: 2024-09-08T18:51:32.000Z
+date: 2026-06-19T10:00:00.000Z
 tags: ["dg marine stsdsd exit exam", "Dg marine stsdsd exit exam questions", "STSDSD Exit Exam Questions", "STSDSD Exit Exam Questions and answers"]
 categories: ["STSDSD"]
 ---

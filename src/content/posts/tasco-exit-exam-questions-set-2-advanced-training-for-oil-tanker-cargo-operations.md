@@ -1,7 +1,7 @@
 ---
 title: "TASCO Exit Exam Questions | Set 2 | Advanced Training for Oil Tanker Cargo Operations "
 description: "Prepare for your DG Shipping TASCO exit exam with updated 2026 MCQs. Detailed questions and answers for Advanced Training for Oil Tanker Cargo Operations."
-date: 2026-04-16T18:14:48.000Z
+date: 2026-06-22T10:00:00.000Z
 categories: ["Marine Engineering"]
 ---
 

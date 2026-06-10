@@ -1,7 +1,7 @@
 ---
 title: "How to Complete PSSR Refresher Course & Amendment 2026 (ID 957): Guide"
 description: "Step-by-step guide to complete the PSSR refresher course and the mandatory PSSR Amendment 2026 (Course ID 957) on the DG Shipping e-learning portal."
-date: 2026-03-22T10:49:00.000Z
+date: 2026-06-08T10:00:00.000Z
 tags: ["PSSR Amendment 2026"]
 categories: ["Marine Engineering"]
 faqs:

@@ -1,7 +1,7 @@
 ---
 title: "Synergy Exam 2026: Registration, Exam Date, Syllabus, Eligibility"
 description: "Complete guide for Synergy Exam preparation. Check tips, tricks, and updated MCQ patterns for Engine Cadet exams. Boost your chances of selection!"
-date: 2023-11-28T17:25:00.000Z
+date: 2026-06-20T10:00:00.000Z
 tags: ["synergy entrance exam","synergy exam 2026","synergy exam registration","SYNERGY exam study material"]
 categories: ["Exams","Synergy Maritime Exam"]
 image: "/wp-content/uploads/2022/01/Screenshot-2022-01-12-at-10.40.22-PM.png"

@@ -1,7 +1,7 @@
 ---
 title: "PSSR Exit Exam: Set 2"
 description: "Get the latest DG Shipping PSSR exit exam questions and answers. Updated 2026 STCW MCQ set for Personal Safety and Social Responsibilities. Score high marks!"
-date: 2024-09-08T16:30:54.000Z
+date: 2026-06-14T10:00:00.000Z
 tags: ["pssr exit exam","pssr exit exam dg shipping","pssr exit exam mcq","pssr exit exam questions and answers pdf download free"]
 categories: ["Marine Engineering"]
 ---
