@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q12",
+  "text": "What is the working duration of a Man Overboard (MOB) smoke float?",
+  "options": [
+    {
+      "id": "A",
+      "text": "5 minutes"
+    },
+    {
+      "id": "B",
+      "text": "10 minutes"
+    },
+    {
+      "id": "C",
+      "text": "15 minutes"
+    },
+    {
+      "id": "D",
+      "text": "30 minutes"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q10",
+  "text": "If you have to abandon ship into cold water, what type of clothing preparation is best?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Strip down to minimal light clothing to swim faster"
+    },
+    {
+      "id": "B",
+      "text": "Put on extra layers of clothing, preferably with a waterproof layer on top"
+    },
+    {
+      "id": "C",
+      "text": "Wear wool clothing only without any footwear"
+    },
+    {
+      "id": "D",
+      "text": "Put on your heavy work boiler suit only"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q11",
+  "text": "In an emergency situation, is it a good idea to jump overboard and swim towards a launched lifeboat?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Yes, it is the quickest option"
+    },
+    {
+      "id": "B",
+      "text": "As a general rule, don't jump into the sea"
+    },
+    {
+      "id": "C",
+      "text": "Yes, always jump with your shoes off"
+    },
+    {
+      "id": "D",
+      "text": "Jump only if the water is warm"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

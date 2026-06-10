@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q2",
+  "text": "An enclosed lifeboat is fitted with a self-contained air support system. With the engine running, what is the minimum period of time the air should remain safe and breathable?",
+  "options": [
+    {
+      "id": "A",
+      "text": "5 minutes"
+    },
+    {
+      "id": "B",
+      "text": "10 minutes"
+    },
+    {
+      "id": "C",
+      "text": "20 minutes"
+    },
+    {
+      "id": "D",
+      "text": "30 minutes"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

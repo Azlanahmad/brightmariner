@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q20",
+  "text": "What is the minimum number of channels required for a portable 2-way VHF radio used for survival craft?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Channel 12 only"
+    },
+    {
+      "id": "B",
+      "text": "Channel 16"
+    },
+    {
+      "id": "C",
+      "text": "Channels 6, 13, and 16"
+    },
+    {
+      "id": "D",
+      "text": "Channel 70"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q29",
+  "text": "Inflatable rescue boats shall be marked externally with which information?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Total weight of rubber used"
+    },
+    {
+      "id": "B",
+      "text": "Serial number, the maker's name, and the date of manufacture"
+    },
+    {
+      "id": "C",
+      "text": "Next port of call"
+    },
+    {
+      "id": "D",
+      "text": "Names of all the crew members on board"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

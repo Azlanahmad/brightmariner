@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q11",
+  "text": "Which of the following items shall be included in each fire drill?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Painting the fire hydrants"
+    },
+    {
+      "id": "B",
+      "text": "Checking the operation of watertight doors, fire doors, fire dampers, and relevant communication equipment"
+    },
+    {
+      "id": "C",
+      "text": "Emptying all fuel tanks"
+    },
+    {
+      "id": "D",
+      "text": "Dismantling the main fire pump"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

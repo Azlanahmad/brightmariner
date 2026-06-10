@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q12",
+  "text": "What is the frequency of a COSPAS-SARSAT EPIRB?",
+  "options": [
+    {
+      "id": "A",
+      "text": "121.5 MHz"
+    },
+    {
+      "id": "B",
+      "text": "243 MHz"
+    },
+    {
+      "id": "C",
+      "text": "406 MHz"
+    },
+    {
+      "id": "D",
+      "text": "156.8 MHz"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

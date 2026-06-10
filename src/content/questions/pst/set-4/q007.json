@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q7",
+  "text": "Where do you find the minimum drill requirements for merchant vessels?",
+  "options": [
+    {
+      "id": "A",
+      "text": "In the MARPOL convention"
+    },
+    {
+      "id": "B",
+      "text": "In the STCW convention"
+    },
+    {
+      "id": "C",
+      "text": "In the Solas convention"
+    },
+    {
+      "id": "D",
+      "text": "In the ISPS code"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

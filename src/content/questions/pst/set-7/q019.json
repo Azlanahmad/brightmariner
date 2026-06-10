@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q19",
+  "text": "Match the term \"immersion suit\" with its most fundamental functional objective:",
+  "options": [
+    {
+      "id": "A",
+      "text": "High speed swimming visibility"
+    },
+    {
+      "id": "B",
+      "text": "Protection against cold/hypothermia"
+    },
+    {
+      "id": "C",
+      "text": "Protection against shark bites"
+    },
+    {
+      "id": "D",
+      "text": "Fire protection suit"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

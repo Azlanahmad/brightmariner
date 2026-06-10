@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q14",
+  "text": "Which of the following is considered a general emergency on board a ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hull failure"
+    },
+    {
+      "id": "B",
+      "text": "Uncontrolled venting or cargo jettisoning on a gas tanker"
+    },
+    {
+      "id": "C",
+      "text": "Loss of stability during cargo operations"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

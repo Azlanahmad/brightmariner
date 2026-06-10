@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q7",
+  "text": "After abandoning ship, survivors inside a survival craft must be given:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Water and food immediately on boarding"
+    },
+    {
+      "id": "B",
+      "text": "No fresh water for the first 24 hours (unless injured)"
+    },
+    {
+      "id": "C",
+      "text": "Double water rations to handle panic"
+    },
+    {
+      "id": "D",
+      "text": "Seawater to preserve fresh water"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

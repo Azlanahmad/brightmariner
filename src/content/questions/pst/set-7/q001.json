@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q1",
+  "text": "The Public Address (PA) system shall be a loudspeaker installation enabling the broadcast of emergency messages into:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Only the bridge and engine room"
+    },
+    {
+      "id": "B",
+      "text": "All spaces where crew members or passengers, or both, are normally present, and to muster stations"
+    },
+    {
+      "id": "C",
+      "text": "Only the cargo control room"
+    },
+    {
+      "id": "D",
+      "text": "Open decks only"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

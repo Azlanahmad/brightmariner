@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q21",
+  "text": "Standard Solas life jackets must have which auxiliary components attached to them?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Compass and flare"
+    },
+    {
+      "id": "B",
+      "text": "Light, whistle, and retro-reflective tape"
+    },
+    {
+      "id": "C",
+      "text": "Knife and signaling mirror"
+    },
+    {
+      "id": "D",
+      "text": "GPS tracker and radio"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

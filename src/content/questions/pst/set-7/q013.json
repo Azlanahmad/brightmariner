@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q13",
+  "text": "How should the painter of a life raft fitted with a hydrostatic release unit (HRU) be secured to the ship structure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Shackled directly onto the main steel deck without any links"
+    },
+    {
+      "id": "B",
+      "text": "Secured via a weak link to a secure part of the ship"
+    },
+    {
+      "id": "C",
+      "text": "Wrapped loosely around the railing tubes"
+    },
+    {
+      "id": "D",
+      "text": "Kept completely unattached until launching"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

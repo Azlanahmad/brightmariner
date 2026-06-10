@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q23",
+  "text": "Batteries fitted in an EPIRB, SART, etc., are to be changed when:",
+  "options": [
+    {
+      "id": "A",
+      "text": "They look old and dusty"
+    },
+    {
+      "id": "B",
+      "text": "Battery to be changed as per the expiry date mentioned by the maker"
+    },
+    {
+      "id": "C",
+      "text": "Every 6 months automatically"
+    },
+    {
+      "id": "D",
+      "text": "Only after they drain out completely during an emergency"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

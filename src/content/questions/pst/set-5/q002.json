@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q2",
+  "text": "Which of the listed requirements regarding the storage of lifeboats and life rafts does NOT correspond to present Solas regulations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Life rafts intended for throw-overboard launching shall be stored amidships secured to means for transfer to either side"
+    },
+    {
+      "id": "B",
+      "text": "They must be stored in a state of continuous readiness"
+    },
+    {
+      "id": "C",
+      "text": "They must not interfere with other survival craft"
+    },
+    {
+      "id": "D",
+      "text": "They must be safely secured"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

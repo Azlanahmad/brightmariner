@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q22",
+  "text": "HRU stands for:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hydrostatic Release Unit"
+    },
+    {
+      "id": "B",
+      "text": "Hydraulic Release Unit"
+    },
+    {
+      "id": "C",
+      "text": "High Rescue Unit"
+    },
+    {
+      "id": "D",
+      "text": "Hydrostatic Rescue Utility"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

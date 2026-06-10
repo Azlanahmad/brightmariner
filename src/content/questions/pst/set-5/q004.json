@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q4",
+  "text": "The function of a hydrostatic release unit (HRU) is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "To launch the lifeboat manually"
+    },
+    {
+      "id": "B",
+      "text": "To automatically unhook the lashing and release the life raft when the ship sinks"
+    },
+    {
+      "id": "C",
+      "text": "To measure the depth of the sea"
+    },
+    {
+      "id": "D",
+      "text": "To pump water out of the life raft"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

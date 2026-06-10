@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q23",
+  "text": "How is the painter attached to a lifeboat released once the boat is waterborne and ready to move away?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It must be cut with a hack-saw"
+    },
+    {
+      "id": "B",
+      "text": "Remove the toggle pin which will instantly release the painter eye"
+    },
+    {
+      "id": "C",
+      "text": "Unwind 50 meters of rope from the drum"
+    },
+    {
+      "id": "D",
+      "text": "It cannot be released and must be dragged along"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

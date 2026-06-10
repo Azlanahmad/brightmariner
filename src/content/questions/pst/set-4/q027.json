@@ -1,0 +1,18 @@
+{
+  "id": "pst-s4-q27",
+  "text": "Hand flares burn with a bright red color.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

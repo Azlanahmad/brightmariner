@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q7",
+  "text": "If the water is rising in the bilge of a survival craft, you should first:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Abandon the survival craft"
+    },
+    {
+      "id": "B",
+      "text": "Check the bilge drain plug"
+    },
+    {
+      "id": "C",
+      "text": "Start drilling holes to let water out"
+    },
+    {
+      "id": "D",
+      "text": "Use a hand flare to signal for help"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

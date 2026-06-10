@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q9",
+  "text": "When should abandonment of a ship be undertaken?",
+  "options": [
+    {
+      "id": "A",
+      "text": "As soon as a minor fire starts"
+    },
+    {
+      "id": "B",
+      "text": "As a last resort on orders from the Master"
+    },
+    {
+      "id": "C",
+      "text": "When the ship runs out of fresh water"
+    },
+    {
+      "id": "D",
+      "text": "At any time individual crew members feel like it"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

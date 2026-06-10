@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q25",
+  "text": "On a passenger ship, the formal muster of newly embarked passengers must be carried out:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Within 12 hours of arrival at the next port"
+    },
+    {
+      "id": "B",
+      "text": "Within 24 hours of leaving the port"
+    },
+    {
+      "id": "C",
+      "text": "Only if the sea becomes rough"
+    },
+    {
+      "id": "D",
+      "text": "Exactly 3 days into the voyage"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

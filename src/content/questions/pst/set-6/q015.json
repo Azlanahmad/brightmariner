@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q15",
+  "text": "What is the purpose of the hydrostatic interlock in the keel of an enclosed lifeboat?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It prevents the engine from starting out of the water"
+    },
+    {
+      "id": "B",
+      "text": "It prevents release of the hooks until the keel of the boat is fully under water"
+    },
+    {
+      "id": "C",
+      "text": "It automatically pumps out the bilges"
+    },
+    {
+      "id": "D",
+      "text": "It stabilizes the boat's rolling"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

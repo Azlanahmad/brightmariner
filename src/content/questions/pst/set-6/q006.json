@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q6",
+  "text": "The centrifugal brake mechanism incorporated in a lifeboat handling winch is intended to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stop the boat instantly if a cable snaps"
+    },
+    {
+      "id": "B",
+      "text": "Automatically control the speed of lowering by gravity"
+    },
+    {
+      "id": "C",
+      "text": "Increase the lifting speed of the winch motor"
+    },
+    {
+      "id": "D",
+      "text": "Lock the davit arms in the stowed position"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

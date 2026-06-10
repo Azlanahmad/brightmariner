@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q1",
+  "text": "Which of the following is considered a distress signal on deck?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pyrotechnics"
+    },
+    {
+      "id": "B",
+      "text": "Open fire"
+    },
+    {
+      "id": "C",
+      "text": "Flag NC"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

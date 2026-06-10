@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q19",
+  "text": "An EPIRB signal is designed to be received ultimately by the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "RCC / MRCC (Maritime Rescue Coordination Center)"
+    },
+    {
+      "id": "B",
+      "text": "Coast Guard station only"
+    },
+    {
+      "id": "C",
+      "text": "Passing aircraft only"
+    },
+    {
+      "id": "D",
+      "text": "Ship's agent"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

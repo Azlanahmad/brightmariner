@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q27",
+  "text": "Which one of the listed requirements regarding lifeboat fittings does NOT correspond to present regulations? All lifeboats shall be fitted with:",
+  "options": [
+    {
+      "id": "A",
+      "text": "An efficient drain valve"
+    },
+    {
+      "id": "B",
+      "text": "A rudder and tiller"
+    },
+    {
+      "id": "C",
+      "text": "A continuous bright flame burning bucket around the outside of the lifeboat"
+    },
+    {
+      "id": "D",
+      "text": "Lifelines becketed around the outside"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

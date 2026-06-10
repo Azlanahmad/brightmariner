@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q11",
+  "text": "At what speed and for how long must a fully loaded motor lifeboat operate in calm water?",
+  "options": [
+    {
+      "id": "A",
+      "text": "4 knots for 12 hours"
+    },
+    {
+      "id": "B",
+      "text": "6 knots for 24 hours"
+    },
+    {
+      "id": "C",
+      "text": "10 knots for 48 hours"
+    },
+    {
+      "id": "D",
+      "text": "5 knots for 6 hours"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

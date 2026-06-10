@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q30",
+  "text": "What visual signal indication does an Emergency Position Indicating Radio Beacon (EPIRB) give when it is activated?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Continuous green smoke emission"
+    },
+    {
+      "id": "B",
+      "text": "A built-in strobe light flashes continuously"
+    },
+    {
+      "id": "C",
+      "text": "An audible siren sounds loudly"
+    },
+    {
+      "id": "D",
+      "text": "It projects a laser beam into the sky"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

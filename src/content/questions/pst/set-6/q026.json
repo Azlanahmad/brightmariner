@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q26",
+  "text": "When a person who has fallen overboard is being picked up by a rescue boat, how should the boat normally approach with the wind?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Directly from astern"
+    },
+    {
+      "id": "B",
+      "text": "Just off the bow and the victim to leeward"
+    },
+    {
+      "id": "C",
+      "text": "With wind directly on the beam and victim to windward"
+    },
+    {
+      "id": "D",
+      "text": "At full speed from windward side"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

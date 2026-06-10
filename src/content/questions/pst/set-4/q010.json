@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q10",
+  "text": "Posters or signs shall be provided on or in the vicinity of survival craft and their launching controls. Which of the following details does NOT explicitly need to be displayed according to this specific regulation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Illustrate the purpose of controls and procedures for launching"
+    },
+    {
+      "id": "B",
+      "text": "Give recommendations for survival"
+    },
+    {
+      "id": "C",
+      "text": "Give information on survival craft capacity"
+    },
+    {
+      "id": "D",
+      "text": "Give warning notices"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

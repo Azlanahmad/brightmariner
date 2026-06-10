@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q16",
+  "text": "Steering a motor lifeboat broadside (parallel) to heavy waves and sea could cause it to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Go faster"
+    },
+    {
+      "id": "B",
+      "text": "Capsize"
+    },
+    {
+      "id": "C",
+      "text": "Pitch heavily"
+    },
+    {
+      "id": "D",
+      "text": "Align smoothly"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

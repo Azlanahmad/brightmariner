@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q6",
+  "text": "EPIRB alerting is a:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Primary means of distress alerting"
+    },
+    {
+      "id": "B",
+      "text": "Secondary means of distress alerting"
+    },
+    {
+      "id": "C",
+      "text": "Tertiary means of distress alerting"
+    },
+    {
+      "id": "D",
+      "text": "Non-essential means of distress alerting"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

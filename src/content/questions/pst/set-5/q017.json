@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q17",
+  "text": "How much lifeboat capacity should be provided on a conventional cargo ship of more than 85 meters in length?",
+  "options": [
+    {
+      "id": "A",
+      "text": "50% on each side"
+    },
+    {
+      "id": "B",
+      "text": "100% of the ship's complement on each side"
+    },
+    {
+      "id": "C",
+      "text": "150% total capacity anywhere"
+    },
+    {
+      "id": "D",
+      "text": "200% on each side"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

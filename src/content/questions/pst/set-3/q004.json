@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q4",
+  "text": "What action should the GMDSS operator take in a distress situation when embarking a survival craft?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Keep EPIRB and SART switched off until a ship is seen"
+    },
+    {
+      "id": "B",
+      "text": "Switch on EPIRB and SART immediately and leave them on"
+    },
+    {
+      "id": "C",
+      "text": "Switch on only the EPIRB"
+    },
+    {
+      "id": "D",
+      "text": "Leave them on board the main vessel"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

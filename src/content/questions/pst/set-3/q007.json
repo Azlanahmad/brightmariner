@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q7",
+  "text": "EPIRB works on which satellite system?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inmarsat"
+    },
+    {
+      "id": "B",
+      "text": "GPS / GLONASS"
+    },
+    {
+      "id": "C",
+      "text": "COSPAS-SARSAT"
+    },
+    {
+      "id": "D",
+      "text": "Iridium"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q8",
+  "text": "Every inflatable life raft, inflatable life jacket, and Hydrostatic Release Unit (HRU) shall be professionally serviced at an approved station every:",
+  "options": [
+    {
+      "id": "A",
+      "text": "6 months"
+    },
+    {
+      "id": "B",
+      "text": "12 months (every year)"
+    },
+    {
+      "id": "C",
+      "text": "24 months"
+    },
+    {
+      "id": "D",
+      "text": "5 years"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pst-s4-q25",
+  "text": "In a free-fall lifeboat, instead of immersion suits, TPAs (Thermal Protective Aids) are provided to all persons.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

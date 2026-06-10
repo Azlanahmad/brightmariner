@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q4",
+  "text": "Lifebuoy self-igniting lights shall be capable of burning continuously for a period of not less than:",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 hour"
+    },
+    {
+      "id": "B",
+      "text": "2 hours"
+    },
+    {
+      "id": "C",
+      "text": "4 hours"
+    },
+    {
+      "id": "D",
+      "text": "8 hours"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

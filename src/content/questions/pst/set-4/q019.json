@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q19",
+  "text": "When a group of persons is floating in cold water without a craft, they should form which protective position?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Single line position"
+    },
+    {
+      "id": "B",
+      "text": "Horizontal starfish position"
+    },
+    {
+      "id": "C",
+      "text": "Huddle position"
+    },
+    {
+      "id": "D",
+      "text": "Swimming in circles"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

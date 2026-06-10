@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q17",
+  "text": "What is an immersion suit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A lightweight swimming outfit for divers"
+    },
+    {
+      "id": "B",
+      "text": "Special protective clothing to insulate and protect the wearer from the effects of being in a cold sea"
+    },
+    {
+      "id": "C",
+      "text": "A chemical splash suit used for cargo sampling"
+    },
+    {
+      "id": "D",
+      "text": "A boiler suit used for cleaning fuel tanks"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

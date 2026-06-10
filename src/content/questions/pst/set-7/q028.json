@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q28",
+  "text": "Which statement concerning locating signals within the GMDSS infrastructure is FALSE?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Locating signals are intended to guide rescuers to the scene"
+    },
+    {
+      "id": "B",
+      "text": "SARTs provide radar locating signals"
+    },
+    {
+      "id": "C",
+      "text": "Locating signals are transmitted by Survival Craft VHF handheld transceivers automatically on 406 MHz"
+    },
+    {
+      "id": "D",
+      "text": "Radiolocation tracking relies on transponders"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": "SARTs or EPIRBs transmit tracking data, not standard handheld VHF speech channels"
+}

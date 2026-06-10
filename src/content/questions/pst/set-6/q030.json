@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q30",
+  "text": "The outboard engine of a Fast Rescue Boat (FRB) is approved to run using which fuel type?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heavy Fuel Oil (HFO)"
+    },
+    {
+      "id": "B",
+      "text": "Gasoline / Petrol"
+    },
+    {
+      "id": "C",
+      "text": "Liquefied Natural Gas (LNG)"
+    },
+    {
+      "id": "D",
+      "text": "Marine Gas Oil (MGO) only"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

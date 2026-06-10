@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q5",
+  "text": "What are the characteristics of Carbon Dioxide (CO2)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is lighter than oxygen"
+    },
+    {
+      "id": "B",
+      "text": "It is heavier than oxygen"
+    },
+    {
+      "id": "C",
+      "text": "It supports combustion"
+    },
+    {
+      "id": "D",
+      "text": "It is bright green in color"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

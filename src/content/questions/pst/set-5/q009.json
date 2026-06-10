@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q9",
+  "text": "Which one of the listed requirements regarding abandon ship and fire drills does NOT correspond to present regulations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Every crew member must participate monthly"
+    },
+    {
+      "id": "B",
+      "text": "On all short international voyages, muster of passengers shall take place as soon as possible after departure"
+    },
+    {
+      "id": "C",
+      "text": "Passengers must be trained to launch lifeboats"
+    },
+    {
+      "id": "D",
+      "text": "Drills must be recorded in the logbook"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": "For short voyages, it should be before or immediately at departure"
+}

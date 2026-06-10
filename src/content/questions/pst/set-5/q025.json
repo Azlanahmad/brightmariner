@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q25",
+  "text": "What is the minimum required duration of a buoyant smoke marker?",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 minute"
+    },
+    {
+      "id": "B",
+      "text": "2 minutes"
+    },
+    {
+      "id": "C",
+      "text": "3 minutes"
+    },
+    {
+      "id": "D",
+      "text": "5 minutes"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

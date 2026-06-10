@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q28",
+  "text": "A Line Throwing Apparatus (LTA) is fundamentally used to pass a:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heavy mooring wire"
+    },
+    {
+      "id": "B",
+      "text": "Messenger line"
+    },
+    {
+      "id": "C",
+      "text": "Fuel hose line"
+    },
+    {
+      "id": "D",
+      "text": "Anchor chain"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

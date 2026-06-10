@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q9",
+  "text": "The function of the lifeboat davit limit switch is to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stop the boat from lowering too fast into the water"
+    },
+    {
+      "id": "B",
+      "text": "Cut off power to the winch when the lifeboat nears the final stowed position"
+    },
+    {
+      "id": "C",
+      "text": "Release the hooks automatically"
+    },
+    {
+      "id": "D",
+      "text": "Turn on the lifeboat internal lights"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

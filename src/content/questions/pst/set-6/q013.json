@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q13",
+  "text": "Which item in the lifeboat is considered a regulatory study/instructional material?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Engineering blue print of the ship"
+    },
+    {
+      "id": "B",
+      "text": "Instructions on how to survive on board the craft"
+    },
+    {
+      "id": "C",
+      "text": "Nautical almanac"
+    },
+    {
+      "id": "D",
+      "text": "Solas Consolidated Edition"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

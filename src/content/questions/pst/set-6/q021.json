@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q21",
+  "text": "When a rescue vessel approaches a lifeboat in heavy seas, the person in charge of the lifeboat should:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Immediately order everyone to jump into the sea"
+    },
+    {
+      "id": "B",
+      "text": "Wait for calmer weather or specific instructions before transferring personnel"
+    },
+    {
+      "id": "C",
+      "text": "Tie the lifeboat directly to the rescue ship's propeller"
+    },
+    {
+      "id": "D",
+      "text": "Turn off the lifeboat engine and abandon helm controls"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

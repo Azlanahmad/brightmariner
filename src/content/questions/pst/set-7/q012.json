@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q12",
+  "text": "What critical step should be done before throwing a throw-overboard life raft pack into the sea, after securing its painter to a strong point?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inflate it on deck first"
+    },
+    {
+      "id": "B",
+      "text": "Check that there is nothing and no casualties in the sea directly below"
+    },
+    {
+      "id": "C",
+      "text": "Cut the container bands with an axe"
+    },
+    {
+      "id": "D",
+      "text": "Throw the oars first"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

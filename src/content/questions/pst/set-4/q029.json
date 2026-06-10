@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q29",
+  "text": "A life jacket light shall have a source of energy capable of providing a luminous intensity of ______ for a period of ______:",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.5 cd / 4 hours"
+    },
+    {
+      "id": "B",
+      "text": "0.75 cd / 8 hours"
+    },
+    {
+      "id": "C",
+      "text": "1.5 cd / 2 hours"
+    },
+    {
+      "id": "D",
+      "text": "10 cd / 12 hours"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": "Read as 0.75 cd in standard LSA code"
+}

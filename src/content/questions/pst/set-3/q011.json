@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q11",
+  "text": "Which position is shown by an EPIRB?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dead reckoning position"
+    },
+    {
+      "id": "B",
+      "text": "Real time position"
+    },
+    {
+      "id": "C",
+      "text": "Estimate position"
+    },
+    {
+      "id": "D",
+      "text": "Estimated time of arrival"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q18",
+  "text": "Each EPIRB shall be tested using the integrated test circuit and output indicator every:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Week"
+    },
+    {
+      "id": "B",
+      "text": "Month"
+    },
+    {
+      "id": "C",
+      "text": "Six months"
+    },
+    {
+      "id": "D",
+      "text": "Year"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

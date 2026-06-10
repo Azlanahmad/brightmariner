@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q3",
+  "text": "Vessels of 100 meters and over in length should have a minimum of how many lifebuoys?",
+  "options": [
+    {
+      "id": "A",
+      "text": "6 lifebuoys"
+    },
+    {
+      "id": "B",
+      "text": "8 lifebuoys"
+    },
+    {
+      "id": "C",
+      "text": "10 lifebuoys"
+    },
+    {
+      "id": "D",
+      "text": "12 lifebuoys"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

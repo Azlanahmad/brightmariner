@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q17",
+  "text": "With the water sprinkler system and the air system turned on and all hatches shut, an enclosed survival craft will provide protection from:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heavy rain only"
+    },
+    {
+      "id": "B",
+      "text": "External fire and a toxic gas environment"
+    },
+    {
+      "id": "C",
+      "text": "Shark attacks"
+    },
+    {
+      "id": "D",
+      "text": "High pressure waves only"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

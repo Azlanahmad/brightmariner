@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q8",
+  "text": "The maximum speed of lowering for a lifeboat on gravity davits is controlled by the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Limit switch"
+    },
+    {
+      "id": "B",
+      "text": "Governor brake"
+    },
+    {
+      "id": "C",
+      "text": "Electric winch motor"
+    },
+    {
+      "id": "D",
+      "text": "Hand crank handle"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

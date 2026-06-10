@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q8",
+  "text": "Which one of the listed requirements regarding a lifeboat's propulsion system does NOT correspond to present regulations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The engine must be an internal combustion engine"
+    },
+    {
+      "id": "B",
+      "text": "The engine shall be provided with an electric power starting system with rechargeable energy batteries only"
+    },
+    {
+      "id": "C",
+      "text": "The engine must run on fuel with a flashpoint of 43°C or less"
+    },
+    {
+      "id": "D",
+      "text": "The engine must be capable of starting at 15°C below zero"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": "Lifeboats must have secondary manual/hydraulic starting mechanisms"
+}

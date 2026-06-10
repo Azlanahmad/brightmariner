@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q2",
+  "text": "Your vessel has been in a collision with another vessel. You are taking in water and you have to prepare for leaving the vessel. How will you act?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Immediately jump overboard"
+    },
+    {
+      "id": "B",
+      "text": "Send a distress message and collect survival suits and thermal bags"
+    },
+    {
+      "id": "C",
+      "text": "Wait on deck without any equipment"
+    },
+    {
+      "id": "D",
+      "text": "Drop anchor and hide in your cabin"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

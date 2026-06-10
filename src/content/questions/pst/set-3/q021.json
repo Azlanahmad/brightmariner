@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q21",
+  "text": "Your Master ensures that the EPIRB is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tested weekly"
+    },
+    {
+      "id": "B",
+      "text": "Tested monthly"
+    },
+    {
+      "id": "C",
+      "text": "Tested yearly"
+    },
+    {
+      "id": "D",
+      "text": "Serviced every 6 months"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

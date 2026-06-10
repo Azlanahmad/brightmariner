@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q16",
+  "text": "The shelf life of a standard GMDSS survival craft battery is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 to 2 years"
+    },
+    {
+      "id": "B",
+      "text": "3 to 5 years"
+    },
+    {
+      "id": "C",
+      "text": "10 years"
+    },
+    {
+      "id": "D",
+      "text": "6 months"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

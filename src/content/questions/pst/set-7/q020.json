@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q20",
+  "text": "What is one of the most dangerous psychological or physiological states a survivor in cold water may suffer from?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hyperventilation only"
+    },
+    {
+      "id": "B",
+      "text": "Hypothermia"
+    },
+    {
+      "id": "C",
+      "text": "Seasickness only"
+    },
+    {
+      "id": "D",
+      "text": "Dehydration within 5 minutes"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

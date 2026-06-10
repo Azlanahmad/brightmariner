@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q23",
+  "text": "Which will be the worst of emergencies that you would face if it happens at sea?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of Wi-Fi"
+    },
+    {
+      "id": "B",
+      "text": "Foundering (Sinking completely)"
+    },
+    {
+      "id": "C",
+      "text": "Minor galley fire"
+    },
+    {
+      "id": "D",
+      "text": "Generator tripping"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

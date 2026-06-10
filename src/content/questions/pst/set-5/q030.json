@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q30",
+  "text": "After abandoning ship, survivors in a lifeboat must be given:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rations and water immediately"
+    },
+    {
+      "id": "B",
+      "text": "No water for the first 24 hours"
+    },
+    {
+      "id": "C",
+      "text": "Double rations of water if they feel hot"
+    },
+    {
+      "id": "D",
+      "text": "Seawater to drink"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

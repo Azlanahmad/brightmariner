@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q2",
+  "text": "A mobile unit in distress should transmit the appropriate alarm signal followed by the distress call and message on one or all international distress frequencies. Which of the following sets of frequencies is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "500 kHz, 2182 kHz, and 156.8 MHz"
+    },
+    {
+      "id": "B",
+      "text": "400 kHz, 2182 kHz, and 121.5 MHz"
+    },
+    {
+      "id": "C",
+      "text": "500 kHz, 1642 kHz, and 156.8 MHz"
+    },
+    {
+      "id": "D",
+      "text": "600 kHz, 2182 kHz, and 156.5 MHz"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

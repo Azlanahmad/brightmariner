@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q25",
+  "text": "How can a SART's detection range be increased?",
+  "options": [
+    {
+      "id": "A",
+      "text": "By placing it inside the water"
+    },
+    {
+      "id": "B",
+      "text": "It should be held as high as possible"
+    },
+    {
+      "id": "C",
+      "text": "By turning it off horizontally"
+    },
+    {
+      "id": "D",
+      "text": "By wrapping it in cloth"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

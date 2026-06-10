@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q28",
+  "text": "A SART works on which radar frequency band?",
+  "options": [
+    {
+      "id": "A",
+      "text": "S-band"
+    },
+    {
+      "id": "B",
+      "text": "X-band"
+    },
+    {
+      "id": "C",
+      "text": "C-band"
+    },
+    {
+      "id": "D",
+      "text": "Ka-band"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

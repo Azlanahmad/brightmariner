@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q2",
+  "text": "The liquid inside a standard wet card magnetic compass is a specific mixture of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Seawater and kerosene"
+    },
+    {
+      "id": "B",
+      "text": "Distilled water and pure ethylene alcohol"
+    },
+    {
+      "id": "C",
+      "text": "Glycerin and heavy oil"
+    },
+    {
+      "id": "D",
+      "text": "Pure acetone"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

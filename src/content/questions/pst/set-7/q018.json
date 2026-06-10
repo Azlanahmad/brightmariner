@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q18",
+  "text": "How would you know exactly how many people a specific lifeboat is certified to safely hold?",
+  "options": [
+    {
+      "id": "A",
+      "text": "By guessing from its length"
+    },
+    {
+      "id": "B",
+      "text": "The number of persons should be clearly stated on the outside of the boat's bow"
+    },
+    {
+      "id": "C",
+      "text": "By looking up the vessel's crew list only"
+    },
+    {
+      "id": "D",
+      "text": "It is written inside the main engine casing plate only"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

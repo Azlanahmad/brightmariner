@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q25",
+  "text": "Which of these requirements regarding the launching and recovery arrangements for rescue boats corresponds to Solas regulations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They must take at least 30 minutes to prepare"
+    },
+    {
+      "id": "B",
+      "text": "Embarkation and launching arrangements shall be such that the rescue boat can be boarded and launched in less than 5 minutes"
+    },
+    {
+      "id": "C",
+      "text": "They must only be handled by the Captain"
+    },
+    {
+      "id": "D",
+      "text": "They can only be launched when the ship is completely stopped"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

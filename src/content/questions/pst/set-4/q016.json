@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q16",
+  "text": "What is the percentage requirement for child life jackets on a cargo vessel?",
+  "options": [
+    {
+      "id": "A",
+      "text": "5 percent"
+    },
+    {
+      "id": "B",
+      "text": "10 percent"
+    },
+    {
+      "id": "C",
+      "text": "15 percent"
+    },
+    {
+      "id": "D",
+      "text": "20 percent"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

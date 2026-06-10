@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q16",
+  "text": "What are the core physical/smothering characteristics of Carbon Dioxide (CO2) when used for firefighting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It displaces oxygen"
+    },
+    {
+      "id": "B",
+      "text": "It is in itself not dangerous (not toxic/poisonous in low levels)"
+    },
+    {
+      "id": "C",
+      "text": "It is heavier than oxygen"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

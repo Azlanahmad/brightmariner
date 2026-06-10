@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q6",
+  "text": "Which one of the given requirements regarding the manning and supervision of survival craft corresponds to Solas regulations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Any crew member can command a survival craft"
+    },
+    {
+      "id": "B",
+      "text": "A deck officer or certificated person shall be placed in charge of each survival craft to be used"
+    },
+    {
+      "id": "C",
+      "text": "Only the Chief Cook can manage survival craft"
+    },
+    {
+      "id": "D",
+      "text": "Lifeboats don't require any assigned person-in-charge"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

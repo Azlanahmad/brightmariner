@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q1",
+  "text": "The muster list shows who is the designated GMDSS operator. What do the letters GMDSS stand for?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Global Marine Distress and Safety System"
+    },
+    {
+      "id": "B",
+      "text": "General Maritime Distress and Safety System"
+    },
+    {
+      "id": "C",
+      "text": "Global Maritime Distress and Safety System"
+    },
+    {
+      "id": "D",
+      "text": "Global Maritime Distress and Security System"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

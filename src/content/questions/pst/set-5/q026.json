@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q26",
+  "text": "Life jackets should be stored in:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sealed boxes requiring tools to open"
+    },
+    {
+      "id": "B",
+      "text": "Readily accessible spaces"
+    },
+    {
+      "id": "C",
+      "text": "The steering flat"
+    },
+    {
+      "id": "D",
+      "text": "Under lock and key by the Chief Mate"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

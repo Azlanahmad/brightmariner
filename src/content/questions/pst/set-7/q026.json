@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q26",
+  "text": "You are at sea inside an inflatable life raft in high latitudes. The greatest physical threat to your life is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lack of food rations"
+    },
+    {
+      "id": "B",
+      "text": "Hypothermia caused by cold temperatures"
+    },
+    {
+      "id": "C",
+      "text": "Sea predators and sharks"
+    },
+    {
+      "id": "D",
+      "text": "Heavy rain damaging the canopy fabric"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

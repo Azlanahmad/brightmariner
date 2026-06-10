@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q5",
+  "text": "Your vessel is a tanker in ballast and the two vessels are interlocked after a collision. After ensuring all people are well taken care of, you try to separate the two vessels. What should be your greatest concern?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Losing your anchor"
+    },
+    {
+      "id": "B",
+      "text": "That the separation may cause sparks that can possibly ignite the oil or any other flammable substances"
+    },
+    {
+      "id": "C",
+      "text": "Damaging the ship's paint"
+    },
+    {
+      "id": "D",
+      "text": "Missing the next port schedule"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

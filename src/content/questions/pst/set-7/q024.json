@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q24",
+  "text": "The limit switch of a lifeboat davit will stop the davit arms automatically before they reach their hard stowed position at a distance of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "6 inches"
+    },
+    {
+      "id": "B",
+      "text": "12 inches"
+    },
+    {
+      "id": "C",
+      "text": "24 inches"
+    },
+    {
+      "id": "D",
+      "text": "36 inches"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q6",
+  "text": "An inflatable life raft is stabilized against flipping and wind drift primarily by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A heavy iron keel"
+    },
+    {
+      "id": "B",
+      "text": "The water-filled stability pockets underneath it"
+    },
+    {
+      "id": "C",
+      "text": "Rigging lines on top"
+    },
+    {
+      "id": "D",
+      "text": "The weight of its canopy"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

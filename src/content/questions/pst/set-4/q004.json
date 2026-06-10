@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q4",
+  "text": "An alarm signal consisting of seven short blasts followed by one prolonged blast is sounded by the ship's whistle and alarm bells. What are you to do?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Go to the galley for food"
+    },
+    {
+      "id": "B",
+      "text": "Go to your lifeboat/muster station"
+    },
+    {
+      "id": "C",
+      "text": "Proceed to the engine room workshop"
+    },
+    {
+      "id": "D",
+      "text": "Remain in your bunk"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

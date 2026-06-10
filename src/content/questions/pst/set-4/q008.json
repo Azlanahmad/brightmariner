@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q8",
+  "text": "What is most important when preparing for shipboard emergencies?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Having the best food on board"
+    },
+    {
+      "id": "B",
+      "text": "That people are well trained"
+    },
+    {
+      "id": "C",
+      "text": "Having a high speed engine"
+    },
+    {
+      "id": "D",
+      "text": "Having a clean uniform"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

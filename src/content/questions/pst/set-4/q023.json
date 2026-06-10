@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q23",
+  "text": "Which one of the listed routine tests and inspections of LSA is NOT required on a daily/weekly basis by present regulations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lifeboat engine test weekly"
+    },
+    {
+      "id": "B",
+      "text": "Inspection of lifeboats weekly"
+    },
+    {
+      "id": "C",
+      "text": "General emergency alarm to be tested daily"
+    },
+    {
+      "id": "D",
+      "text": "Testing of life jacket lights"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

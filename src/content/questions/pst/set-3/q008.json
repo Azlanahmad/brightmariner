@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q8",
+  "text": "LEOSAR stands for:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Low Earth Orbiting Satellites for SAR"
+    },
+    {
+      "id": "B",
+      "text": "Light Earth Orbiting Satellites for SAR"
+    },
+    {
+      "id": "C",
+      "text": "Low Earth Orbiting Systems for Search and Rescue"
+    },
+    {
+      "id": "D",
+      "text": "Long Earth Orbiting Satellites for SAR"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

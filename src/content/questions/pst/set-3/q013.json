@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q13",
+  "text": "A VHF EPIRB is designed to be used in which GMDSS sea area?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Area A2"
+    },
+    {
+      "id": "B",
+      "text": "Area A3"
+    },
+    {
+      "id": "C",
+      "text": "Area A1"
+    },
+    {
+      "id": "D",
+      "text": "Area A4"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

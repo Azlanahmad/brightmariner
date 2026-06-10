@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q22",
+  "text": "GMDSS regulations require that cargo vessels carry two-way VHF for survival craft. How many are required and when did the regulations fully apply?",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 sets for all ships built after 2000"
+    },
+    {
+      "id": "B",
+      "text": "3 sets; new builds from February 1992, other ships from February 1995"
+    },
+    {
+      "id": "C",
+      "text": "5 sets for any container ship"
+    },
+    {
+      "id": "D",
+      "text": "1 set per lifeboat station"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

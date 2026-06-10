@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q3",
+  "text": "What does the standard graphical IMO symbol showing a boat being lowered horizontally by two wires indicate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Launch life raft"
+    },
+    {
+      "id": "B",
+      "text": "Lower rescue boat"
+    },
+    {
+      "id": "C",
+      "text": "Evacuation slide usage"
+    },
+    {
+      "id": "D",
+      "text": "Fast rescue boat recovery"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q14",
+  "text": "The battery used in EPIRBs, SARTs, and portable VHF radios is a:",
+  "options": [
+    {
+      "id": "A",
+      "text": "12V Lead-acid battery"
+    },
+    {
+      "id": "B",
+      "text": "12V Primary lithium battery"
+    },
+    {
+      "id": "C",
+      "text": "6V Alkaline battery"
+    },
+    {
+      "id": "D",
+      "text": "12V Ni-Cad battery"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

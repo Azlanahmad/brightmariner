@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q3",
+  "text": "Using spoken communication, what is the code word used to indicate a distress message?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pan Pan"
+    },
+    {
+      "id": "B",
+      "text": "Securite"
+    },
+    {
+      "id": "C",
+      "text": "Mayday"
+    },
+    {
+      "id": "D",
+      "text": "Emergency"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

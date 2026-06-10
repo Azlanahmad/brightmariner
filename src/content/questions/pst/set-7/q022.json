@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q22",
+  "text": "LSA stands for:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Life Saving Arrangement"
+    },
+    {
+      "id": "B",
+      "text": "Life Saving Appliance"
+    },
+    {
+      "id": "C",
+      "text": "Low Safety Area"
+    },
+    {
+      "id": "D",
+      "text": "Life Security Apparatus"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

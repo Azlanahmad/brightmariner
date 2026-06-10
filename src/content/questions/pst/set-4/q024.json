@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q24",
+  "text": "Lifeboats should have:",
+  "options": [
+    {
+      "id": "A",
+      "text": "One rescue quoit with a 10-meter line"
+    },
+    {
+      "id": "B",
+      "text": "Two buoyant rescue quoits attached to not less than 30 meters of buoyant line"
+    },
+    {
+      "id": "C",
+      "text": "No rescue lines attached"
+    },
+    {
+      "id": "D",
+      "text": "Wire lines instead of ropes"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

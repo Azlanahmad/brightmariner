@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q15",
+  "text": "What is the minimum number of lifebuoys required on a cargo ship of length over 200 meters?",
+  "options": [
+    {
+      "id": "A",
+      "text": "8"
+    },
+    {
+      "id": "B",
+      "text": "10"
+    },
+    {
+      "id": "C",
+      "text": "12"
+    },
+    {
+      "id": "D",
+      "text": "14"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

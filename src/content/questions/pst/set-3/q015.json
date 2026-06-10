@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q15",
+  "text": "The capacity of a lithium battery should be enough to last for how long when activated?",
+  "options": [
+    {
+      "id": "A",
+      "text": "24 Hours"
+    },
+    {
+      "id": "B",
+      "text": "48 Hours"
+    },
+    {
+      "id": "C",
+      "text": "72 Hours"
+    },
+    {
+      "id": "D",
+      "text": "96 Hours"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

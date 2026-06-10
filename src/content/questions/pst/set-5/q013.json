@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q13",
+  "text": "Which one of the listed requirements regarding partially enclosed lifeboats does NOT correspond to present regulations? The canopy between rigid covers shall be:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Easily erectable"
+    },
+    {
+      "id": "B",
+      "text": "Insulated against cold and heat"
+    },
+    {
+      "id": "C",
+      "text": "It has windows to admit sufficient daylight inside the boat with the canopy closed"
+    },
+    {
+      "id": "D",
+      "text": "Completely opaque with no light entering"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

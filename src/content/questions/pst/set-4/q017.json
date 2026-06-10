@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q17",
+  "text": "Once you hear the fire alarm, where must you proceed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "To the bridge"
+    },
+    {
+      "id": "B",
+      "text": "To your cabin to sleep"
+    },
+    {
+      "id": "C",
+      "text": "Proceed to your designated muster station"
+    },
+    {
+      "id": "D",
+      "text": "To the lifeboats directly"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

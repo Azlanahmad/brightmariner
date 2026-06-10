@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q19",
+  "text": "Every lifeboat requires to be launched into the water and maneuvered at least once in every:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Month"
+    },
+    {
+      "id": "B",
+      "text": "Two months"
+    },
+    {
+      "id": "C",
+      "text": "Three months"
+    },
+    {
+      "id": "D",
+      "text": "Six months"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

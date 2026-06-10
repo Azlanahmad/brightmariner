@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q24",
+  "text": "A life jacket has which of the following mandatory safety attachments on it?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Retro-reflective tape + Whistle + Light"
+    },
+    {
+      "id": "B",
+      "text": "Line thrower + Mirror"
+    },
+    {
+      "id": "C",
+      "text": "Compass + Knife"
+    },
+    {
+      "id": "D",
+      "text": "Flare gun + EPIRB"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

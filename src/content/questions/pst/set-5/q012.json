@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q12",
+  "text": "How should the painter of a life raft fitted with a hydrostatic release unit be secured to the ship?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Shackled directly to a heavy structural frame"
+    },
+    {
+      "id": "B",
+      "text": "Secured via a weak link to a secure point on the ship"
+    },
+    {
+      "id": "C",
+      "text": "Left loose on the deck"
+    },
+    {
+      "id": "D",
+      "text": "Tied to the railing with a simple knot"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

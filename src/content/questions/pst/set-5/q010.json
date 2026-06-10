@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q10",
+  "text": "After the first 24 hours in a life raft, how much water is allocated per person per day?",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 Liter"
+    },
+    {
+      "id": "B",
+      "text": "0.5 Liter (half liter)"
+    },
+    {
+      "id": "C",
+      "text": "1.5 Liters"
+    },
+    {
+      "id": "D",
+      "text": "2 Liters"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

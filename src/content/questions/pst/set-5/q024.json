@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q24",
+  "text": "If a distress signal is received on board, what should you do?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Contact SAR authorities via the nearest coastal radio station"
+    },
+    {
+      "id": "B",
+      "text": "Post an extra lookout"
+    },
+    {
+      "id": "C",
+      "text": "Try to make contact with the vessel in distress"
+    },
+    {
+      "id": "D",
+      "text": "All of the alternatives together"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q3",
+  "text": "The smoke detector panel indicates a fire in a cargo hold loaded with general cargo. What first action should be taken?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Open all hatches to look inside"
+    },
+    {
+      "id": "B",
+      "text": "Run fire hoses into the hold immediately"
+    },
+    {
+      "id": "C",
+      "text": "Close the ventilation system and other openings to the hold in order to choke the fire"
+    },
+    {
+      "id": "D",
+      "text": "Increase the mechanical ventilation speed"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

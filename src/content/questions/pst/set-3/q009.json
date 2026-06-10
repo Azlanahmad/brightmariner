@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q9",
+  "text": "How many EPIRBs are carried on board a ship as per Solas regulations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Two"
+    },
+    {
+      "id": "B",
+      "text": "Three"
+    },
+    {
+      "id": "C",
+      "text": "One"
+    },
+    {
+      "id": "D",
+      "text": "Four"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

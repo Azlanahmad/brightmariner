@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q27",
+  "text": "A person has fallen overboard and is being picked up with a rescue boat. If the person appears in immediate danger of drowning, how should the rescue boat maneuver?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Perform an elegant, slow Williamson turn"
+    },
+    {
+      "id": "B",
+      "text": "Make the most direct and safest immediate approach"
+    },
+    {
+      "id": "C",
+      "text": "Wait for sunrise"
+    },
+    {
+      "id": "D",
+      "text": "Circle the person three times before stopping"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

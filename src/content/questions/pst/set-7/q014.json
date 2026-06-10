@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q14",
+  "text": "Referring to the Solas convention, how often should every crew member on a cargo ship participate in at least one abandon ship drill and one fire drill?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Weekly"
+    },
+    {
+      "id": "B",
+      "text": "Monthly"
+    },
+    {
+      "id": "C",
+      "text": "Every two months"
+    },
+    {
+      "id": "D",
+      "text": "Every six months"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

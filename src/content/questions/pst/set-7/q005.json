@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q5",
+  "text": "All rescue boats shall be capable of being launched, utilizing painters where necessary, with the parent ship making headway at speeds up to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 knots in heavy seas"
+    },
+    {
+      "id": "B",
+      "text": "5 knots in calm water"
+    },
+    {
+      "id": "C",
+      "text": "10 knots in calm water"
+    },
+    {
+      "id": "D",
+      "text": "12 knots under any condition"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

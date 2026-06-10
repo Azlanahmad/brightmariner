@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q29",
+  "text": "Every lifeboat is required to be launched and maneuvered in water at least once in every:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Month"
+    },
+    {
+      "id": "B",
+      "text": "Two months"
+    },
+    {
+      "id": "C",
+      "text": "Three months"
+    },
+    {
+      "id": "D",
+      "text": "Year"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

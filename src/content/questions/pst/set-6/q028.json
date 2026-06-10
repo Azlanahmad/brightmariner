@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q28",
+  "text": "In moderate sea conditions, when loaded with its full complement of persons and equipment, the recovery time of a fast rescue boat (FRB) shall be not more than:",
+  "options": [
+    {
+      "id": "A",
+      "text": "3 minutes"
+    },
+    {
+      "id": "B",
+      "text": "5 minutes"
+    },
+    {
+      "id": "C",
+      "text": "6 minutes"
+    },
+    {
+      "id": "D",
+      "text": "10 minutes"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

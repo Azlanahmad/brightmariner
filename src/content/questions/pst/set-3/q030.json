@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q30",
+  "text": "How many radar transponders (SARTs) are required to be carried on board ships for use in survival crafts?",
+  "options": [
+    {
+      "id": "A",
+      "text": "One only"
+    },
+    {
+      "id": "B",
+      "text": "Two (or one on each side of the ship)"
+    },
+    {
+      "id": "C",
+      "text": "Three"
+    },
+    {
+      "id": "D",
+      "text": "Four"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

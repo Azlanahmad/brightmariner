@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q29",
+  "text": "The most important reason for taking anti-seasickness pills (ASAP) as soon as possible after entering a life raft is to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Help you sleep comfortably"
+    },
+    {
+      "id": "B",
+      "text": "Prevent the critical loss of body moisture/water by vomiting"
+    },
+    {
+      "id": "C",
+      "text": "Improve your vision in low light"
+    },
+    {
+      "id": "D",
+      "text": "Increase your internal body temperature"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

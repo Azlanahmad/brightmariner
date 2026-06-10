@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q4",
+  "text": "You are picking up a person who has fallen overboard. A rescue boat should normally approach the casualty with the:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Victim to windward"
+    },
+    {
+      "id": "B",
+      "text": "Victim to leeward"
+    },
+    {
+      "id": "C",
+      "text": "Boat moving astern"
+    },
+    {
+      "id": "D",
+      "text": "Engine completely turned off 50 meters away"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

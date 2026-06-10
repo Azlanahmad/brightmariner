@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q15",
+  "text": "What constitutes the formal abandon ship signal?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Any crew member shouting on the PA system"
+    },
+    {
+      "id": "B",
+      "text": "A verbal or alarms command given only by the Master or his deputy"
+    },
+    {
+      "id": "C",
+      "text": "The chief engineer stopping the main engine"
+    },
+    {
+      "id": "D",
+      "text": "The sounding of the continuous fog horn automatically"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q11",
+  "text": "How much fresh water is provided per person inside an inflatable life raft equipment pack?",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 Liter"
+    },
+    {
+      "id": "B",
+      "text": "1.5 Liters"
+    },
+    {
+      "id": "C",
+      "text": "3 Liters"
+    },
+    {
+      "id": "D",
+      "text": "0.5 Liter"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

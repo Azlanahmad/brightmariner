@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q17",
+  "text": "Batteries used specifically for an EPIRB have a very long shelf life of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 years"
+    },
+    {
+      "id": "B",
+      "text": "3 years"
+    },
+    {
+      "id": "C",
+      "text": "5 years or more"
+    },
+    {
+      "id": "D",
+      "text": "1 year"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

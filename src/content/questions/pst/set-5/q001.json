@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q1",
+  "text": "Where are additional life jackets kept on board a vessel?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hidden inside cabins"
+    },
+    {
+      "id": "B",
+      "text": "In conspicuous, clearly marked places on deck or at muster stations"
+    },
+    {
+      "id": "C",
+      "text": "Locked inside the steering gear room"
+    },
+    {
+      "id": "D",
+      "text": "In the paint locker"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pst-s7-q27",
+  "text": "You are on a survival craft broadcasting a distress message via VHF. What information is absolutely essential for rescue forces to locate you?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The ship's cargo manifest details"
+    },
+    {
+      "id": "B",
+      "text": "Your precise position by latitude and longitude"
+    },
+    {
+      "id": "C",
+      "text": "The name of the shipowner"
+    },
+    {
+      "id": "D",
+      "text": "The number of years you have spent at sea"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 7,
+  "explanation": ""
+}

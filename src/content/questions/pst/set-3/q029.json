@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q29",
+  "text": "What is the precise frequency and wavelength at which a SART operates?",
+  "options": [
+    {
+      "id": "A",
+      "text": "3 GHz, 10 cm (S-band)"
+    },
+    {
+      "id": "B",
+      "text": "9 GHz, 3 cm (X-band)"
+    },
+    {
+      "id": "C",
+      "text": "156.8 MHz"
+    },
+    {
+      "id": "D",
+      "text": "406 MHz"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

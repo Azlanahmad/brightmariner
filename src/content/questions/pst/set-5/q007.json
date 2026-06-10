@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q7",
+  "text": "Which one of the listed requirements regarding the launching and recovery arrangements for survival craft corresponds to present Solas regulations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The operator on deck cannot see the craft during lowering"
+    },
+    {
+      "id": "B",
+      "text": "Launching and recovery arrangements shall be such that the operator at all times observes the survival craft and lifeboats"
+    },
+    {
+      "id": "C",
+      "text": "Only manual hand-cranks can be used for lowering"
+    },
+    {
+      "id": "D",
+      "text": "Launching must take at least 1 hour"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

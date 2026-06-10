@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q3",
+  "text": "Your vessel has been in a collision and you are not sure if your vessel is sinking or not. How will you handle this situation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Order immediate abandonment without checking"
+    },
+    {
+      "id": "B",
+      "text": "Search for missing persons, continue to monitor the situation, and prepare for abandonment in case it becomes necessary"
+    },
+    {
+      "id": "C",
+      "text": "Disregard the collision and continue steaming"
+    },
+    {
+      "id": "D",
+      "text": "Turn off all alarms to prevent panic"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

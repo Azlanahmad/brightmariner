@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q28",
+  "text": "Lifeboats should have:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Wire lines instead of lifelines"
+    },
+    {
+      "id": "B",
+      "text": "Two buoyant rescue quoits attached to not less than a 30-meter buoyant line"
+    },
+    {
+      "id": "C",
+      "text": "A 100-meter nylon hawser"
+    },
+    {
+      "id": "D",
+      "text": "No lines for throwing"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q15",
+  "text": "Which one of the listed requirements regarding the stability of inflatable life rafts does NOT correspond to present regulations? The stability of inflatable life rafts shall be such that:",
+  "options": [
+    {
+      "id": "A",
+      "text": "It can withstand high winds"
+    },
+    {
+      "id": "B",
+      "text": "In the event of capsizing, it will automatically attain a position providing an enable water escape"
+    },
+    {
+      "id": "C",
+      "text": "It has water pockets underneath"
+    },
+    {
+      "id": "D",
+      "text": "It can be towed easily"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": "Inflatable life rafts don't automatically self-right unless they are specially designed self-righting types"
+}

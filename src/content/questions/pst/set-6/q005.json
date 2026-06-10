@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q5",
+  "text": "Lifeboats on cargo vessels must be stored in such a way that they can be fully boarded and launched within a maximum of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "5 minutes"
+    },
+    {
+      "id": "B",
+      "text": "10 minutes"
+    },
+    {
+      "id": "C",
+      "text": "20 minutes"
+    },
+    {
+      "id": "D",
+      "text": "30 minutes"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

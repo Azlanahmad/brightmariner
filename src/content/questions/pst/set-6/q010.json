@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q10",
+  "text": "Most lifeboats are equipped with which type of rudder configuration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Balanced rudder"
+    },
+    {
+      "id": "B",
+      "text": "Unbalanced rudder"
+    },
+    {
+      "id": "C",
+      "text": "Flap rudder"
+    },
+    {
+      "id": "D",
+      "text": "Semi-balanced rudder"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q14",
+  "text": "How much water is provided in a standard life raft per person?",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 liter"
+    },
+    {
+      "id": "B",
+      "text": "1.5 liters"
+    },
+    {
+      "id": "C",
+      "text": "3 liters"
+    },
+    {
+      "id": "D",
+      "text": "0.5 liters"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

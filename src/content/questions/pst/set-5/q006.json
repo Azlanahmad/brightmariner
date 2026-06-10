@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q6",
+  "text": "Which one of the listed requirements regarding buoyant smoke signals does NOT correspond to present regulations? The buoyant smoke signal shall:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Emit smoke of a highly visible color"
+    },
+    {
+      "id": "B",
+      "text": "Give a bright red light during the entire emission time"
+    },
+    {
+      "id": "C",
+      "text": "Not ignite explosively"
+    },
+    {
+      "id": "D",
+      "text": "Continue to emit smoke when submerged in water"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": "Smoke signals emit smoke, not a bright light"
+}

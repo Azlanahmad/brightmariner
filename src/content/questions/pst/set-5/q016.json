@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q16",
+  "text": "Retro-reflective tape is provided on which equipment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Anchor chains and windlass"
+    },
+    {
+      "id": "B",
+      "text": "Lifeboats and life rafts"
+    },
+    {
+      "id": "C",
+      "text": "Fire hoses and nozzles"
+    },
+    {
+      "id": "D",
+      "text": "Main engine control panel"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": ""
+}

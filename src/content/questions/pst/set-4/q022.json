@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q22",
+  "text": "Before lifting a lifeboat from the water back to its davits, it must be ensured that:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The engine is still running at full speed"
+    },
+    {
+      "id": "B",
+      "text": "Falls are clear and secured tightly (hooked securely)"
+    },
+    {
+      "id": "C",
+      "text": "All gear is thrown overboard"
+    },
+    {
+      "id": "D",
+      "text": "The drain plug is wide open"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

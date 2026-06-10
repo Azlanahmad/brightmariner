@@ -1,0 +1,26 @@
+{
+  "id": "pst-s5-q18",
+  "text": "Which one of the listed requirements regarding rescue boat equipment does NOT correspond to present regulations? The normal equipment of every rescue boat shall include:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Buoyant oars or paddlers"
+    },
+    {
+      "id": "B",
+      "text": "A buoyant biler"
+    },
+    {
+      "id": "C",
+      "text": "Immersion suits for the total number of persons the boat is permitted to accommodate"
+    },
+    {
+      "id": "D",
+      "text": "A searchlight"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 5,
+  "explanation": "Regulations only specify them for the actual rescue boat crew, not full capacity"
+}

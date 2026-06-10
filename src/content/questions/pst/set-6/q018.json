@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q18",
+  "text": "Which data is NOT painted on the bow of a lifeboat?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dimensions of the boat"
+    },
+    {
+      "id": "B",
+      "text": "Carrying capacity of persons"
+    },
+    {
+      "id": "C",
+      "text": "Total weight of the boat with full load"
+    },
+    {
+      "id": "D",
+      "text": "Name of the parent vessel"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": "Dimensions, capacity, and ship name are painted, while weight details are on the builder's plate"
+}

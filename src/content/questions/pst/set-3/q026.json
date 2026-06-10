@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q26",
+  "text": "In the search and rescue radar transponder (SART), how is this device activated?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Automatically when submerged"
+    },
+    {
+      "id": "B",
+      "text": "It is carried into the survival craft and switched on by the occupants"
+    },
+    {
+      "id": "C",
+      "text": "Remotely from the bridge"
+    },
+    {
+      "id": "D",
+      "text": "Via satellite signal"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

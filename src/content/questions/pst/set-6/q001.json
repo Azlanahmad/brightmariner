@@ -1,0 +1,26 @@
+{
+  "id": "pst-s6-q1",
+  "text": "Fire-protected lifeboats, when waterborne, should be capable of protecting their full complement when subjected to a continuous oil fire that envelops the boat for a period of not less than:",
+  "options": [
+    {
+      "id": "A",
+      "text": "5 minutes"
+    },
+    {
+      "id": "B",
+      "text": "8 minutes"
+    },
+    {
+      "id": "C",
+      "text": "15 minutes"
+    },
+    {
+      "id": "D",
+      "text": "20 minutes"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 6,
+  "explanation": ""
+}

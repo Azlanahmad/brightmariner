@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q21",
+  "text": "Checking and servicing life rafts as per the Planned Maintenance System (PMS) is carried out:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Once every 6 months"
+    },
+    {
+      "id": "B",
+      "text": "Once a year (Every 12 months)"
+    },
+    {
+      "id": "C",
+      "text": "Every 2 years"
+    },
+    {
+      "id": "D",
+      "text": "Monthly"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

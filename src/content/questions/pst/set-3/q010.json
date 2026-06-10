@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q10",
+  "text": "All self-propelled vessels on an international voyage must be equipped with how many emergency position indicating radio beacons?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Two approved category 1 EPIRBs"
+    },
+    {
+      "id": "B",
+      "text": "One approved category 1 EPIRB"
+    },
+    {
+      "id": "C",
+      "text": "One category 2 EPIRB"
+    },
+    {
+      "id": "D",
+      "text": "None"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}

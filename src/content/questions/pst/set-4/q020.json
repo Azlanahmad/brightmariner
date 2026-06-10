@@ -1,0 +1,26 @@
+{
+  "id": "pst-s4-q20",
+  "text": "Which one of the listed requirements regarding rigid life rafts does NOT correspond to present regulations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It shall be fitted with an efficient painter"
+    },
+    {
+      "id": "B",
+      "text": "The floor shall prevent the ingress of water"
+    },
+    {
+      "id": "C",
+      "text": "All the entrances must be fitted with rigid boarding ramps for boarding life rafts at sea"
+    },
+    {
+      "id": "D",
+      "text": "It must be highly visible"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "pst",
+  "set": 4,
+  "explanation": ""
+}

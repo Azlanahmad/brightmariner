@@ -1,0 +1,26 @@
+{
+  "id": "pst-s3-q5",
+  "text": "What do the letters E.P.I.R.B. stand for?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Emergency Position Indicating Radar Beacon"
+    },
+    {
+      "id": "B",
+      "text": "Emergency Position Indicating Radio Beacon"
+    },
+    {
+      "id": "C",
+      "text": "Electronic Position Indicating Radio Beacon"
+    },
+    {
+      "id": "D",
+      "text": "Emergency Place Indicating Radio Beacon"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "pst",
+  "set": 3,
+  "explanation": ""
+}
