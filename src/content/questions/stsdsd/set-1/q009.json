@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "D",
   "courseId": "stsdsd",
-  "set": 1
+  "set": 1,
+  "explanation": "While the SSO manages security on board, the Ship Security Assessment (SSA) is a complex process required by the Company Security Officer (CSO) to evaluate risks and develop the comprehensive Ship Security Plan (SSP)."
 }

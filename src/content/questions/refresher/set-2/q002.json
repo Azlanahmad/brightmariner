@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "refresher",
-  "set": 2
+  "set": 2,
+  "explanation": "Class C fires involve energized electrical equipment. Using conductive agents like water would be hazardous, necessitating non-conductive agents like CO2."
 }

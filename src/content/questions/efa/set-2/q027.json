@@ -17,5 +17,6 @@
   ],
   "correctOptionId": "A",
   "courseId": "efa",
-  "set": 2
+  "set": 2,
+  "explanation": "If an AED is not equipped for pediatric use, it is safer to perform CPR and not use the AED at all for a child, as using adult settings or pads could deliver a potentially harmful electrical shock."
 }

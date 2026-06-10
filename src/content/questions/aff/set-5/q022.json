@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "aff",
   "set": 5,
-  "explanation": ""
+  "explanation": "VHF radio waves travel in straight lines and are limited by the curvature of the Earth; thus, they are fundamentally line-of-sight communications. Antenna height is crucial for extending this line of sight and improving the range of communication."
 }

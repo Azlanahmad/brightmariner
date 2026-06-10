@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "tasco",
   "set": 4,
-  "explanation": ""
+  "explanation": "Ships with an inert gas system are required to maintain portable monitoring equipment to verify the atmosphere within cargo tanks. This must include an oxygen analyzer to ensure the oxygen content is maintained below the critical limit (typically 5% or 8% by volume) to prevent combustion."
 }

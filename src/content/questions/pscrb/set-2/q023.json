@@ -22,5 +22,5 @@
   "correctOptionId": "C",
   "courseId": "pscrb",
   "set": 2,
-  "explanation": ""
+  "explanation": "Limit switches on rescue boat davits are safety mechanisms that must cut off power to the motor before the boat reaches the final stowage position. This is typically set to occur at 1 inch (25mm) from the end to avoid mechanical shock."
 }

@@ -18,5 +18,5 @@
   "correctOptionId": "B",
   "courseId": "tasco",
   "set": 3,
-  "explanation": ""
+  "explanation": "Centrifugal pumps are not self-priming and require a positive suction head to operate, as they rely on the fluid filling the impeller casing to create the centrifugal force necessary to move liquid."
 }

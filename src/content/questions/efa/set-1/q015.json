@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "A",
   "courseId": "efa",
-  "set": 1
+  "set": 1,
+  "explanation": "If there is no response from the crew during the primary survey, the immediate next step is to call for emergency medical assistance (e.g., 108 or ship's medical officer) and then return to the victim."
 }

@@ -22,5 +22,5 @@
   "correctOptionId": "C",
   "courseId": "aff",
   "set": 3,
-  "explanation": ""
+  "explanation": "An automatic fire detection system can be actuated by sensing a heat rise, which triggers an alarm or the activation of a fire suppression system. Other systems listed detect flame, require manual activation, or sense smoke particles."
 }

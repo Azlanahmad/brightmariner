@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "aff",
   "set": 5,
-  "explanation": ""
+  "explanation": "The most effective way to test the functionality of an Inmarsat-C terminal, including its ability to transmit and receive messages, is to send a test message to itself or a known contact. This verifies the communication path and system response without relying on external systems."
 }

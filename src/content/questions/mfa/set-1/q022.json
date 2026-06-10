@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "A",
   "courseId": "mfa",
-  "set": 1
+  "set": 1,
+  "explanation": "Safety of the rescuer is paramount. Using dry insulating material prevents the electrical current from grounding through the rescuer's body, protecting them from becoming a casualty themselves during the rescue."
 }

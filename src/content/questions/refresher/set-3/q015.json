@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "D",
   "courseId": "refresher",
-  "set": 3
+  "set": 3,
+  "explanation": "Fusible links are heat-sensitive components designed to melt at a specific temperature. When they melt, the tension holding the damper open is released, allowing the fire damper to close automatically and isolate ventilation ducts to prevent fire spread."
 }

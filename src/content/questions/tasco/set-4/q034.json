@@ -22,5 +22,5 @@
   "correctOptionId": "A",
   "courseId": "tasco",
   "set": 4,
-  "explanation": ""
+  "explanation": "In a closed-loop hydraulic system, the return pressure must be kept low to ensure efficient operation of the hydraulic motor. A pressure of approximately 3 bar is standard for the return side of these systems."
 }

@@ -22,5 +22,5 @@
   "correctOptionId": "C",
   "courseId": "aff",
   "set": 5,
-  "explanation": ""
+  "explanation": "Fire detection system control panels are designed with safety and operational indicators, including ways to silence alarms, reset the system, and identify the zone of activation. Bypassing the entire panel is a safety risk and not a standard feature; systems should remain functional or be manually overridden at zone levels if necessary."
 }

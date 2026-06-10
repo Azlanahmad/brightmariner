@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "B",
   "courseId": "stsdsd",
-  "set": 1
+  "set": 1,
+  "explanation": "The International Ship and Port Facility Security (ISPS) Code is divided into two parts. Part A contains the mandatory requirements, including those for Ship Security Plans (SSP) and Port Facility Security Plans (PFSP). Part B provides non-mandatory guidance for the implementation of these requirements."
 }

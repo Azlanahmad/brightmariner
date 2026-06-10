@@ -22,5 +22,5 @@
   "correctOptionId": "C",
   "courseId": "pst",
   "set": 3,
-  "explanation": ""
+  "explanation": "While satellite processing is fast, the orbit of polar-orbiting satellites can result in a time delay. Under optimal conditions, this can be up to 2 hours before the signal is relayed to an MRCC."
 }

@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "tasco",
   "set": 4,
-  "explanation": ""
+  "explanation": "To ensure accuracy and prevent sensor damage or 'memory effects' from previous samples, the oxygen indicator must be purged with fresh ambient air. This restores the sensor to the baseline atmospheric oxygen concentration (approx 20.9%) before the next measurement."
 }

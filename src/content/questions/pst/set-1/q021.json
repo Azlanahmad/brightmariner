@@ -22,5 +22,5 @@
   "correctOptionId": "C",
   "courseId": "pst",
   "set": 1,
-  "explanation": ""
+  "explanation": "When a SART is within range, it responds to the ship's X-band radar pulses by displaying a series of 12 dots spaced 0.6 nautical miles apart along the line of bearing from the radar."
 }

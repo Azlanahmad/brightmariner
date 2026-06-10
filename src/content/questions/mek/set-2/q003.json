@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "mek",
   "set": 2,
-  "explanation": ""
+  "explanation": "Generator engines on ships are typically started using compressed air stored in receiver tanks, which engages the engine's starting mechanism. Hydraulic systems or air compressors are used to supply this air, but the immediate starting medium is the compressed air itself."
 }

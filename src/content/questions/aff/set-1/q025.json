@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "aff",
-  "set": 1
+  "set": 1,
+  "explanation": "A positive pressure breathing apparatus (PPBA) maintains a slightly higher pressure inside the mask than the ambient pressure. This crucial feature prevents toxic smoke or gases from leaking into the mask, even with minor seal imperfections, ensuring the wearer breathes only clean, supplied air."
 }

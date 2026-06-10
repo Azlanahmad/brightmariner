@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "D",
   "courseId": "refresher",
-  "set": 2
+  "set": 2,
+  "explanation": "Foam works by creating a barrier (blanket) over the liquid fuel, which cuts off the oxygen supply (smothering) and prevents the release of flammable vapors."
 }

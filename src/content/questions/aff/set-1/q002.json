@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "aff",
-  "set": 1
+  "set": 1,
+  "explanation": "Class B foam is specifically designed for flammable liquid fires (oil, fuel, grease), forming a blanket that separates the fuel from oxygen and cools the surface. This creates a vapor seal to prevent reignition. Class A foam is generally for ordinary combustibles like wood or paper."
 }

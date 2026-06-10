@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "pst",
   "set": 3,
-  "explanation": ""
+  "explanation": "EPIRB alerting is considered a secondary means or a component of the alerting process. Primary alerting often involves GMDSS DSC equipment (VHF/MF/HF) which provides immediate notification to nearby vessels and shore stations."
 }

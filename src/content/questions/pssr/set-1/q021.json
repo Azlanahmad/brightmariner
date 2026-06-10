@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "B",
   "courseId": "pssr",
-  "set": 1
+  "set": 1,
+  "explanation": "In maritime ship handling, shallow water is generally defined as a depth less than 1.5 times the ship's draft, where hydrodynamic effects like squat become significant."
 }

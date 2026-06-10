@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "pst",
   "set": 1,
-  "explanation": ""
+  "explanation": "An EPIRB is a secondary means of alerting, as the primary means is typically through GMDSS radio communications (DSC) initiated from the bridge. The EPIRB serves as a reliable emergency beacon for locating the vessel during abandonment."
 }

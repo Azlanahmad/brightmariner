@@ -22,5 +22,5 @@
   "correctOptionId": "C",
   "courseId": "mek",
   "set": 7,
-  "explanation": ""
+  "explanation": "Switching on the main supply during maintenance is dangerous and violates all LOTO (Lock-Out, Tag-Out) safety protocols, which strictly mandate isolation of power to prevent accidental energization."
 }

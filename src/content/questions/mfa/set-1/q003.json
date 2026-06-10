@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "D",
   "courseId": "mfa",
-  "set": 1
+  "set": 1,
+  "explanation": "In pediatric resuscitation, standard international guidelines for two-rescuer CPR specify a ratio of 15 compressions to 2 ventilations. This ensures adequate oxygenation and blood circulation for the smaller physiology of a child."
 }

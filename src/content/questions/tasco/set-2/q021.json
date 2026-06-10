@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "tasco",
   "set": 2,
-  "explanation": ""
+  "explanation": "Catalytic combustion (pellistor) sensors require oxygen to oxidize the hydrocarbon sample on the filament. Therefore, they cannot function in an inerted environment (e.g., nitrogen) where oxygen is absent."
 }

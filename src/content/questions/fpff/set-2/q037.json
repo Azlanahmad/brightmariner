@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "fpff",
-  "set": 2
+  "set": 2,
+  "explanation": "The letters A, B, and C on portable fire extinguishers indicate the class of fire on which they are suitable for use. Class A is for ordinary combustibles, Class B for flammable liquids, and Class C for energized electrical fires."
 }

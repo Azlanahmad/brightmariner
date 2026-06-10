@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "aff",
-  "set": 1
+  "set": 1,
+  "explanation": "The fire control plan, prominently displayed on ships as per SOLAS, provides critical information on the ship's fire protection arrangements. It guides effective fire control and suppression by indicating locations of fire-extinguishing appliances, fire-resistant divisions, and means of escape."
 }

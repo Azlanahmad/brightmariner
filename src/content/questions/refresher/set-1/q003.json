@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "refresher",
-  "set": 1
+  "set": 1,
+  "explanation": "Under SOLAS requirements for fire safety systems, the emergency fire pump must have a minimum capacity to deliver a specific volume of water, which is established as 25 cubic meters per hour for cargo ships."
 }

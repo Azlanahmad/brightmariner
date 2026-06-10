@@ -22,5 +22,5 @@
   "correctOptionId": "A",
   "courseId": "gsk",
   "set": 12,
-  "explanation": ""
+  "explanation": "The breaking strength of a rope is the minimum load at which the rope is expected to fail. It is always considerably higher than the Safe Working Load (SWL), which incorporates a safety factor to account for wear, shock loading, and other operational stresses."
 }

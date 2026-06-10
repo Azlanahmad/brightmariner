@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "D",
   "courseId": "refresher",
-  "set": 1
+  "set": 1,
+  "explanation": "SOLAS requires that the lifeline of a self-contained breathing apparatus must be fireproof and have a minimum length of 30 meters."
 }

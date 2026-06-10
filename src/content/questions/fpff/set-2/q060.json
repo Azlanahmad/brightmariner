@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "B",
   "courseId": "fpff",
-  "set": 2
+  "set": 2,
+  "explanation": "Firefighting foam is electrically conductive. It is most effective on Class B fires (flammable liquids) by forming a blanket that smothers the flames and prevents re-ignition, not for Class A fires."
 }

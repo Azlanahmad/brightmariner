@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "fpff",
-  "set": 1
+  "set": 1,
+  "explanation": "An EEBD (Emergency Escape Breathing Device) is designed for escape purposes only, providing a limited supply of air for approximately 10 minutes. This duration is sufficient to allow personnel to reach a safe area during an emergency."
 }

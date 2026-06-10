@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "B",
   "courseId": "fpff",
-  "set": 2
+  "set": 2,
+  "explanation": "SOLAS regulations require that all ships of 500 GT and above be provided with an International Shore Connection. This facilitates the supply of water from shore-based fire fighting appliances to the ship's fixed fire main."
 }

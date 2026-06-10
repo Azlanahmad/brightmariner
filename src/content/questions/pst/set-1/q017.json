@@ -22,5 +22,5 @@
   "correctOptionId": "D",
   "courseId": "pst",
   "set": 1,
-  "explanation": ""
+  "explanation": "A SART is designed to operate in the 9 GHz band (X-band). When pulsed by an X-band radar, the SART sends back a specific response that appears on the radar display as a line of 12 dots."
 }

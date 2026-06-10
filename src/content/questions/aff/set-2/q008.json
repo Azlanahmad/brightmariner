@@ -22,5 +22,5 @@
   "correctOptionId": "D",
   "courseId": "aff",
   "set": 2,
-  "explanation": ""
+  "explanation": "According to SOLAS regulations and the FSS Code, in a fixed CO2 system where pilot cylinders release CO2 from the main bank, there must be at least two pilot cylinders. This redundancy ensures system reliability, so a single pilot cylinder failure does not render the entire system inoperable."
 }

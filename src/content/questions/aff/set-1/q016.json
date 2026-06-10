@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "A",
   "courseId": "aff",
-  "set": 1
+  "set": 1,
+  "explanation": "A flame arrester is a device fitted to tank vents or pipes carrying flammable vapors. Its primary purpose is to prevent the propagation of a flame through a flammable gas mixture by rapidly cooling the flame below its ignition temperature, thus stopping flashback or explosion."
 }

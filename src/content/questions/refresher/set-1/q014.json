@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "B",
   "courseId": "refresher",
-  "set": 1
+  "set": 1,
+  "explanation": "As per SOLAS requirements, the fire control plan must be written in the working language of the ship and in either English, French, or Spanish."
 }

@@ -22,5 +22,5 @@
   "correctOptionId": "C",
   "courseId": "gsk",
   "set": 10,
-  "explanation": ""
+  "explanation": "Calibration tables, often called tank sounding or ullage tables, provide the volume of liquid in a tank corresponding to a given depth or ullage. These tables are essential for accurate cargo and ballast calculations."
 }

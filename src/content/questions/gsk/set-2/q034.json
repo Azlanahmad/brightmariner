@@ -22,5 +22,5 @@
   "correctOptionId": "D",
   "courseId": "gsk",
   "set": 2,
-  "explanation": ""
+  "explanation": "The 'REDO' function in computing reverses an 'UNDO' action, reapplying any changes that were previously undone. It allows the user to restore actions that were mistakenly reversed."
 }

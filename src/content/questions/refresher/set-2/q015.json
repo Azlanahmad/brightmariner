@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "D",
   "courseId": "refresher",
-  "set": 2
+  "set": 2,
+  "explanation": "The pump room is a high-risk area on tankers due to the concentration of piping, valves, and moving parts associated with cargo transfer, often carrying flammable liquids."
 }

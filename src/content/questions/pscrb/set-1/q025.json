@@ -18,5 +18,5 @@
   "correctOptionId": "C",
   "courseId": "pscrb",
   "set": 1,
-  "explanation": ""
+  "explanation": "Limit switches are safety devices designed to cut off power to the winch to prevent the davit arm from impacting the track stops. They are tested during the lowering operation by manually engaging the lever to ensure the power is immediately interrupted."
 }

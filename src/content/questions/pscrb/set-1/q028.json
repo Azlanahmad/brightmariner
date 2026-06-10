@@ -18,5 +18,5 @@
   "correctOptionId": "C",
   "courseId": "pscrb",
   "set": 1,
-  "explanation": ""
+  "explanation": "Limit switches serve as a safety cut-out for the electrical winch motor. They must be positioned to stop the davit arms before they reach the physical track safety stops, typically 12 inches (approx. 300mm) before the end of the track, to prevent structural damage."
 }

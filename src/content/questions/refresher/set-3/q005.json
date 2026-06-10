@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "B",
   "courseId": "refresher",
-  "set": 3
+  "set": 3,
+  "explanation": "For cartridge-operated extinguishers, the propellant charge (cartridge) and the fire-extinguishing powder are stored separately. After discharge, the cartridge must be replaced and the vessel must be refilled with the specified amount of powder to ensure it functions correctly."
 }

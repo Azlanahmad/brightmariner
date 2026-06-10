@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "A",
   "courseId": "stsdsd",
-  "set": 1
+  "set": 1,
+  "explanation": "Security levels, ranging from 1 to 3, quantify the risk of a security incident. Level 1 is normal, Level 2 indicates an elevated risk, and Level 3 represents the highest risk when an incident is probable or imminent."
 }

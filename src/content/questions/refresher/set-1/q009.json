@@ -13,5 +13,6 @@
   ],
   "correctOptionId": "A",
   "courseId": "refresher",
-  "set": 1
+  "set": 1,
+  "explanation": "Class B divisions are structural fire protection barriers; B15 prevents smoke/flame and limits temperature rise for 15 minutes, while B0 prevents smoke/flame but lacks insulation requirements."
 }

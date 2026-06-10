@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "A",
   "courseId": "aff",
-  "set": 1
+  "set": 1,
+  "explanation": "The muster list, as per SOLAS, is a crucial document detailing duties for crew members in various emergencies, including fire. Its primary purpose during an emergency muster is to ensure all personnel and passengers are accounted for and to verify their safety and assigned roles."
 }

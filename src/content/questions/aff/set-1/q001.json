@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "B",
   "courseId": "aff",
-  "set": 1
+  "set": 1,
+  "explanation": "Boundary cooling involves applying water to surfaces adjacent to a fire. Its primary purpose is to absorb heat, preventing transfer via conduction, convection, and radiation, thereby inhibiting the fire from spreading to new compartments or fuel sources. This maintains the structural integrity and confines the fire."
 }

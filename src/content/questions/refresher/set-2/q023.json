@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "refresher",
-  "set": 2
+  "set": 2,
+  "explanation": "The fire control plan shows the location of safety equipment; however, general emergency signals are specified in the Muster List and Safety Training Manual, not the fire control plan."
 }

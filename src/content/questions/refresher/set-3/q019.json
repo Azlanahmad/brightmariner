@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "A",
   "courseId": "refresher",
-  "set": 3
+  "set": 3,
+  "explanation": "Emergency Escape Breathing Devices (EEBD) are designed to provide a short duration of air to allow personnel to escape from a smoke-filled space. SOLAS requires a minimum service duration of at least 10 minutes."
 }

@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "mek",
   "set": 6,
-  "explanation": ""
+  "explanation": "Machinery failure alarms are designed to alert engineers to faults in running equipment (e.g., low lube oil pressure or high jacket water temperature). These are generated automatically by monitoring systems."
 }

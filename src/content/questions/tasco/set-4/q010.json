@@ -22,5 +22,5 @@
   "correctOptionId": "A",
   "courseId": "tasco",
   "set": 4,
-  "explanation": ""
+  "explanation": "Combustible gas indicators (explosimeters) utilize a Wheatstone bridge circuit. An air sample is drawn over an electrically heated platinum filament; the combustion of flammable gas on the filament increases its temperature and resistance, which is then measured and displayed as a percentage of the Lower Explosive Limit (LEL)."
 }

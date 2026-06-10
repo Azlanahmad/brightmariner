@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "D",
   "courseId": "refresher",
-  "set": 1
+  "set": 1,
+  "explanation": "Under SOLAS requirements, the emergency fire pump must be capable of continuous operation for at least 18 hours to ensure sufficient firefighting capability during a prolonged emergency."
 }

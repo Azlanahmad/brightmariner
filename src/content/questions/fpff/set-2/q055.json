@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "A",
   "courseId": "fpff",
-  "set": 2
+  "set": 2,
+  "explanation": "CO2 extinguishers are the best choice for electrical fires because the gas is non-conductive and leaves no residue, preventing damage to sensitive electrical equipment. Water and foam can conduct electricity, and DCP might damage electrical components."
 }

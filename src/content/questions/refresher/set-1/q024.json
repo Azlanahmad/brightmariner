@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "refresher",
-  "set": 1
+  "set": 1,
+  "explanation": "Standard breathing rate is roughly 40 liters/min. A 1200-liter bottle lasts for 30 minutes (1200 / 40 = 30), accounting for standard consumption during fire operations."
 }

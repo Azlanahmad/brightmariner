@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "D",
   "courseId": "pssr",
-  "set": 1
+  "set": 1,
+  "explanation": "Displacement is defined by Archimedes' principle as the weight of the water displaced by the hull of a vessel, which is equivalent to the ship's total weight."
 }

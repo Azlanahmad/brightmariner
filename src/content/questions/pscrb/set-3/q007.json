@@ -18,5 +18,5 @@
   "correctOptionId": "B",
   "courseId": "pscrb",
   "set": 3,
-  "explanation": ""
+  "explanation": "SARTs are specifically designed to interact with the ship's X-band (3 cm) radar. When they receive a radar pulse, they transmit a series of dots on the radar screen, providing a bearing and distance to the survivors."
 }

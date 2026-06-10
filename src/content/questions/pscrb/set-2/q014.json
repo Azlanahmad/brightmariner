@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "pscrb",
   "set": 2,
-  "explanation": ""
+  "explanation": "Homing signals are transmitted by equipment like SARTs or EPIRBs to guide rescue forces to the target. However, COSPAS-SARSAT satellites only detect signals from 406 MHz EPIRBs, not the homing signals transmitted by SARTs."
 }

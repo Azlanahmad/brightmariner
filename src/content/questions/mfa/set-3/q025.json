@@ -22,5 +22,5 @@
   "correctOptionId": "D",
   "courseId": "mfa",
   "set": 3,
-  "explanation": ""
+  "explanation": "Electrode pads must be placed at least one inch away from any known implantable devices like pacemakers or ICDs. Placing pads directly over these devices can block the energy delivery or damage the internal electronics of the implant."
 }

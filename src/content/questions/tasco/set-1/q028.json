@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "tasco",
   "set": 1,
-  "explanation": ""
+  "explanation": "Weather conditions, specifically wind speed and direction, are the primary drivers for vapor cloud dispersion and dilution. They dictate how quickly a released gas plume is mixed with fresh air, reducing its concentration below the LFL."
 }

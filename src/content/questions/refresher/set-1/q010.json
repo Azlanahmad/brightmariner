@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "D",
   "courseId": "refresher",
-  "set": 1
+  "set": 1,
+  "explanation": "According to the FTP Code, the average temperature on the unexposed side of a B class division must not rise more than 225°C above initial, with a maximum of 250°C at any point."
 }

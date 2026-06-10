@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "stsdsd",
   "set": 3,
-  "explanation": ""
+  "explanation": "A daily engine fuel log sheet is an assessment tool for monitoring and evaluating ship operational parameters, such as fuel consumption and engine performance. While not a direct security assessment tool, such records provide data that can be assessed for anomalies, which might indirectly indicate unusual activity or system deviations relevant to broader ship integrity."
 }

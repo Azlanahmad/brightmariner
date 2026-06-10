@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "A",
   "courseId": "refresher",
-  "set": 3
+  "set": 3,
+  "explanation": "CO2 extinguishers are difficult to recharge onboard because they require specialized high-pressure pumping equipment, chilled CO2 reservoirs, and precise weighing scales. Most vessels carry spare cylinders instead of attempting to recharge them."
 }

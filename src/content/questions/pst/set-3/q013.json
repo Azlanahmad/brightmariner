@@ -22,5 +22,5 @@
   "correctOptionId": "C",
   "courseId": "pst",
   "set": 3,
-  "explanation": ""
+  "explanation": "VHF EPIRBs operate within the line-of-sight range, typically limited to the vessel's immediate vicinity or A1 sea areas, making them less versatile than satellite-based 406 MHz EPIRBs."
 }

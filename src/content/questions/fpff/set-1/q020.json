@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "D",
   "courseId": "fpff",
-  "set": 1
+  "set": 1,
+  "explanation": "Automatic CO2 release systems are typically installed in high-risk machinery spaces such as engine rooms, boiler rooms, and paint lockers, where flammable liquids or large fires are a concern. These spaces are not typically the bridge or main deck."
 }

@@ -22,5 +22,5 @@
   "correctOptionId": "A",
   "courseId": "gsk",
   "set": 13,
-  "explanation": ""
+  "explanation": "The number of lifebuoys required on a ship is determined by its overall length, as specified by SOLAS Chapter III. Longer vessels require a proportionally greater number of lifebuoys to ensure adequate coverage around the ship's perimeter for immediate rescue in case of man overboard."
 }

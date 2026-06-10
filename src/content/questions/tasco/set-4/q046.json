@@ -22,5 +22,5 @@
   "correctOptionId": "D",
   "courseId": "tasco",
   "set": 4,
-  "explanation": ""
+  "explanation": "The speed of a hydraulic motor is proportional to the flow rate of the hydraulic oil. Therefore, the pump is rigged with a flow control valve that regulates the oil volume, allowing for precise speed variation."
 }

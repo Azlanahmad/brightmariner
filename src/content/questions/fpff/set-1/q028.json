@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "fpff",
-  "set": 1
+  "set": 1,
+  "explanation": "Foam extinguishers are considered the most effective for liquid fires (Class B) because they form a film that suppresses vapors and prevents re-ignition. Water would spread the burning liquid, and CO2/DCP may be less effective on large liquid surfaces."
 }

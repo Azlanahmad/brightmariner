@@ -22,5 +22,5 @@
   "correctOptionId": "A",
   "courseId": "pst",
   "set": 1,
-  "explanation": ""
+  "explanation": "Survival craft VHF transceivers are communication devices, not 'locating signals' within the context of GMDSS. Locating signals, such as SARTs or AIS-SART, are specifically designed to be detected by radar or AIS for target identification."
 }

@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "fpff",
-  "set": 2
+  "set": 2,
+  "explanation": "The audible alarm on an SCBA set typically indicates a low air supply warning, signaling the need to evacuate the hazardous area immediately. This is a critical safety feature for firefighters."
 }

@@ -17,5 +17,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "refresher",
-  "set": 2
+  "set": 2,
+  "explanation": "Fire hydrant valves are often positioned pointing vertically downward. This orientation minimizes stress on the fire hose coupling and prevents sharp bends or kinks in the hose which could restrict water flow."
 }

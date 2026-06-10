@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "pst",
   "set": 3,
-  "explanation": ""
+  "explanation": "To ensure functionality without exhausting the battery or causing false alerts, EPIRBs are tested monthly using their internal built-in test (BITE) circuit and an output indicator, as prescribed by maintenance schedules."
 }

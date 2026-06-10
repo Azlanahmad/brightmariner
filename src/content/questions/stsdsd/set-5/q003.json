@@ -14,5 +14,5 @@
   "correctOptionId": "A",
   "courseId": "stsdsd",
   "set": 5,
-  "explanation": ""
+  "explanation": "The Ship Security Plan (SSP) contains sensitive information regarding the ship's vulnerabilities, security measures, and response procedures. Therefore, it is classified as Sensitive Security Information (SSI) and must be protected from unauthorized disclosure, access, or modification to prevent its exploitation by malicious actors."
 }

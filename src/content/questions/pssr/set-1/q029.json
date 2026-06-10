@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "A",
   "courseId": "pssr",
-  "set": 1
+  "set": 1,
+  "explanation": "Closing valves slowly is critical during the final stages of bunkering to prevent 'surge' or 'water hammer' effects. Rapidly closing valves against high-velocity flow can cause pipe ruptures or mechanical damage due to pressure spikes."
 }

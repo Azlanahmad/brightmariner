@@ -13,5 +13,6 @@
   ],
   "correctOptionId": "A",
   "courseId": "fpff",
-  "set": 2
+  "set": 2,
+  "explanation": "The classification 'B15' for bulkheads indicates that they are constructed to resist fire for 15 minutes. 'B0' signifies that the bulkhead provides integrity but not necessarily a specific fire resistance period, serving as a fire barrier."
 }

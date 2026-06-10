@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "D",
   "courseId": "refresher",
-  "set": 2
+  "set": 2,
+  "explanation": "Class B fires are specifically defined as fires involving flammable liquids, such as diesel oil, gasoline, or paints."
 }

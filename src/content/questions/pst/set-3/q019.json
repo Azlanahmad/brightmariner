@@ -22,5 +22,5 @@
   "correctOptionId": "A",
   "courseId": "pst",
   "set": 3,
-  "explanation": ""
+  "explanation": "The EPIRB signal is processed by the COSPAS-SARSAT system and routed to the nearest Maritime Rescue Coordination Center (MRCC), which coordinates the search and rescue efforts."
 }

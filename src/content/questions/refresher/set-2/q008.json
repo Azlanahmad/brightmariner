@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "refresher",
-  "set": 2
+  "set": 2,
+  "explanation": "Free surface effect occurs when a compartment is partially filled with water, causing the center of gravity to shift and significantly reducing the metacentric height (GM), affecting stability."
 }

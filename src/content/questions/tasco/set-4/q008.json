@@ -22,5 +22,5 @@
   "correctOptionId": "A",
   "courseId": "tasco",
   "set": 4,
-  "explanation": ""
+  "explanation": "Flammable and combustible liquids possess a coefficient of thermal expansion, meaning their volume increases as temperature rises. This physical property necessitates the implementation of ullage spaces in cargo tanks to prevent over-pressurization due to thermal expansion."
 }

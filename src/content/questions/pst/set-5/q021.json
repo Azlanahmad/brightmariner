@@ -22,5 +22,5 @@
   "correctOptionId": "C",
   "courseId": "pst",
   "set": 5,
-  "explanation": ""
+  "explanation": "Channel 16 is the mandatory calling and distress frequency. Once contact is established on Channel 16, the survival craft and rescuers switch to a 'follow-on' channel to keep the distress frequency clear."
 }

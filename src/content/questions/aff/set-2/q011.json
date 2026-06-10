@@ -22,5 +22,5 @@
   "correctOptionId": "D",
   "courseId": "aff",
   "set": 2,
-  "explanation": ""
+  "explanation": "As per SOLAS and FSS Code requirements for fixed CO2 systems, if pilot cylinders are used to release the CO2 from the main storage cylinders, a minimum of two pilot cylinders are mandatory. This ensures critical operational redundancy and system reliability, preventing a single point of failure."
 }

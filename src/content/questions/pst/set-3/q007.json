@@ -22,5 +22,5 @@
   "correctOptionId": "C",
   "courseId": "pst",
   "set": 3,
-  "explanation": ""
+  "explanation": "EPIRBs operate using the COSPAS-SARSAT satellite system. This international system detects and locates distress signals transmitted by radio beacons on 406 MHz."
 }

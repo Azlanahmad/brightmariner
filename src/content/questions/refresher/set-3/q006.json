@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "B",
   "courseId": "refresher",
-  "set": 3
+  "set": 3,
+  "explanation": "While fire pumps can be used for other essential duties like ballast or general service, at least one pump must always remain on standby or be immediately connectable to the fire main to ensure instantaneous readiness during an emergency."
 }

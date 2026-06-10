@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "B",
   "courseId": "aff",
-  "set": 1
+  "set": 1,
+  "explanation": "Fire-resistant bulkheads are structural divisions designed to withstand fire for a specified period (e.g., A-60, B-15). Their primary purpose, as per SOLAS, is to contain a fire within its compartment of origin, preventing its spread to other parts of the ship and protecting escape routes."
 }

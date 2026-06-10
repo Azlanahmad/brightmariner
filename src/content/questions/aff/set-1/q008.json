@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "aff",
-  "set": 1
+  "set": 1,
+  "explanation": "PASS is a mnemonic acronym for the correct sequence of operations when using a portable fire extinguisher: Pull the pin, Aim the nozzle at the base of the fire, Squeeze the handle, and Sweep from side to side. This ensures effective and safe extinguisher deployment."
 }

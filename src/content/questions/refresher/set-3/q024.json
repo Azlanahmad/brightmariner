@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "refresher",
-  "set": 3
+  "set": 3,
+  "explanation": "The SCBA's low-pressure warning alarm is a critical safety device that triggers when the air cylinder is nearing depletion. Firefighters must immediately withdraw from the hazardous zone upon hearing this signal to ensure they reach safety with a reserve of air."
 }

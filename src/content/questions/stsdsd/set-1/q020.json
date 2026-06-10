@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "A",
   "courseId": "stsdsd",
-  "set": 1
+  "set": 1,
+  "explanation": "The Global Integrated Shipping Information System (GIS) is an IMO platform designed to provide restricted access to various maritime data. Its primary users and those with comprehensive access include IMO member states and related organizations for regulatory and enforcement purposes, supporting the implementation of international conventions."
 }

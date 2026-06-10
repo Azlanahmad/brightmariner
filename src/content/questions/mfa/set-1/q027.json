@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "B",
   "courseId": "mfa",
-  "set": 1
+  "set": 1,
+  "explanation": "Maritime health guidelines state that 27.5°C Effective Temperature (ET) is the safe upper limit for continuous work in enclosed spaces to prevent heat-related illness such as heat exhaustion and heat stroke."
 }

@@ -14,5 +14,5 @@
   "correctOptionId": "B",
   "courseId": "aff",
   "set": 2,
-  "explanation": ""
+  "explanation": "False. Flue gases are not used directly for inerting. They must first be processed by an inert gas generator system, which cleans, cools, and removes sulfur oxides and particulate matter, before being supplied to cargo tanks for inerting purposes to prevent explosions."
 }

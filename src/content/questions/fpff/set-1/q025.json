@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "fpff",
-  "set": 1
+  "set": 1,
+  "explanation": "B-Class divisions, which relate to bulkheads and decks, are designed to prevent the passage of flame for a specified period. The maximum temperature allowed on the non-fire side is typically 75 degrees Celsius above ambient, meaning around 225 degrees Celsius."
 }

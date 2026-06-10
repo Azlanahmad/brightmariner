@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "fpff",
-  "set": 1
+  "set": 1,
+  "explanation": "SOLAS regulations require specific fire protection for galleys based on area. For a galley of 2900 sq ft, the requirement is typically one Class B-II (medium size) and one Class B-V (large size) fixed foam system, or equivalent approved system. The options provided suggest a misinterpretation of extinguisher classes; typically, extinguishers are classified by type (A, B, C, etc.) and size, not specifically 'B-V' as a standalone extinguisher type."
 }

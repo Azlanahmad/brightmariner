@@ -22,5 +22,5 @@
   "correctOptionId": "B",
   "courseId": "pst",
   "set": 3,
-  "explanation": ""
+  "explanation": "A SART's detection range is limited by the curvature of the earth and the height of the radar antenna. Holding the SART as high as possible increases the line-of-sight range for searching vessels or aircraft."
 }

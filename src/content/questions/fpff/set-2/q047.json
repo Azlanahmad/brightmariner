@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "fpff",
-  "set": 2
+  "set": 2,
+  "explanation": "Fires involving electrical equipment and wiring (with power on) are classified as Class C fires. Using non-conductive extinguishing agents is crucial to prevent electrocution hazards."
 }

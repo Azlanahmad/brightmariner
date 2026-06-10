@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "fpff",
-  "set": 1
+  "set": 1,
+  "explanation": "According to SOLAS, diesel-driven fire pumps must be capable of operating continuously for a minimum of 18 hours. This ensures a sustained water supply for firefighting operations during extended emergencies."
 }

@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "refresher",
-  "set": 1
+  "set": 1,
+  "explanation": "Dry Chemical Powder (DCP) extinguishes fire primarily by chemical inhibition, where the powder interferes with the free radicals in the combustion chain reaction."
 }

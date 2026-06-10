@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "D",
   "courseId": "fpff",
-  "set": 1
+  "set": 1,
+  "explanation": "SOLAS mandates that the minimum capacity of emergency fire pumps on vessels is 25 m³/hour. This ensures a sufficient flow rate of water for essential firefighting operations in critical situations."
 }

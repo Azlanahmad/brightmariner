@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "D",
   "courseId": "fpff",
-  "set": 1
+  "set": 1,
+  "explanation": "Pump rooms on tankers contain flammable liquids and ignition sources (e.g., electrical equipment, pumps), making them high-risk areas for liquid cargo fires. Proper fire detection and suppression systems, such as foam or inert gas, are critical in these spaces."
 }

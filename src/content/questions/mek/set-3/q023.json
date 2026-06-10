@@ -22,5 +22,5 @@
   "correctOptionId": "C",
   "courseId": "mek",
   "set": 3,
-  "explanation": ""
+  "explanation": "Diesel generators are designed to rotate in one direction to maintain the phase sequence of the AC power. Running in reverse would reverse the current phase relationship and generally cause the generator to act as a motor, consuming electrical power."
 }

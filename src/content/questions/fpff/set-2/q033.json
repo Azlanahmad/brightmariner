@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "B",
   "courseId": "fpff",
-  "set": 2
+  "set": 2,
+  "explanation": "Flash point is the lowest temperature at which a volatile liquid can vaporize to form an ignitable mixture in air. Kerosene has a lower flash point than diesel fuel, coal (which is a solid), and candle wax, making it more easily ignitable."
 }

@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "D",
   "courseId": "fpff",
-  "set": 1
+  "set": 1,
+  "explanation": "The fire triangle represents the three essential components required for fire to exist: fuel (combustible material), oxygen (an oxidizer), and heat (ignition source). Removing any one of these elements will extinguish or prevent a fire."
 }

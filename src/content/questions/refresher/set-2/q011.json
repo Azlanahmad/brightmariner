@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "refresher",
-  "set": 2
+  "set": 2,
+  "explanation": "Convection spreads fire via the movement of hot gases. Closing all openings (like fire doors and dampers) restricts the flow of these gases, containing the fire."
 }

@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "C",
   "courseId": "aff",
-  "set": 1
+  "set": 1,
+  "explanation": "The International Shore Connection (ISC), mandated by SOLAS, is a standardized flange on ships. Its primary purpose is to connect the ship's fire main to a shore-based water supply or another vessel's fire main, enabling external firefighting assistance if the ship's pumps are insufficient or incapacitated."
 }

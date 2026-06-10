@@ -21,5 +21,6 @@
   ],
   "correctOptionId": "D",
   "courseId": "refresher",
-  "set": 1
+  "set": 1,
+  "explanation": "The fire triangle consists of three essential elements: fuel, heat, and oxygen. Removing any one of these elements will result in the extinguishment of the fire."
 }
