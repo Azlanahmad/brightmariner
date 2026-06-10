@@ -75,7 +75,7 @@ http://brightmariner.com/how-to-prepare-for-synergy-exam
 
 <h1 class="wp-block-heading" id="synergy-exam-2026-eligibility-criteria">Synergy Exam 2026 Eligibility Criteria</h1>
 
-<p><strong>Note:</strong> Qualifying in the <strong>IMU-CET 2026</strong> (Indian Maritime University Common Entrance Test) is mandatory for final selection and sponsorship by Synergy Group, regardless of the entrance exam marks.</p>
+<blockquote><strong>IMU-CET Requirement:</strong> Qualifying in the <strong>IMU-CET 2026</strong> (Indian Maritime University Common Entrance Test) is mandatory for final selection and sponsorship by Synergy Group, regardless of the entrance exam marks.</blockquote>
 
 
 
