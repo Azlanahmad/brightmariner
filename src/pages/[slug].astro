@@ -13,7 +13,9 @@ export async function getStaticPaths() {
 
 // 2. Fetch data via props
 const { entry } = Astro.props;
-const { Content } = await render(entry);
+const { Content, headings } = await render(entry);
+
+const tocHeadings = headings.filter(h => (h.depth === 2 || h.depth === 3) && h.text.trim() !== "");
 
 const faqPageSchema = entry.data.faqs && entry.data.faqs.length > 0 ? {
   "@context": "https://schema.org",
@@ -77,9 +79,11 @@ const displayTitle = entry.data.title.length + 17 > 60
 			<div class="scroll-progress-bar" id="progressBar"></div>
 		</div>
 
-		<main class="post-container">
-			<article class="article">
-				<header class="header">
+		<!-- Hero Section -->
+		<header class="post-hero">
+			<div class="hero-container">
+				<div class="hero-meta">
+					{entry.data.category && <span class="hero-category">{entry.data.category}</span>}
 					<time datetime={entry.data.date.toISOString()}>
 						{entry.data.date.toLocaleDateString('en-US', {
 							year: 'numeric',
@@ -87,16 +91,77 @@ const displayTitle = entry.data.title.length + 17 > 60
 							day: 'numeric'
 						})}
 					</time>
-					<h1 class="title">{entry.data.title}</h1>
-				</header>
-
-				<hr class="divider" />
-
-				<div class="content">
-					<Content />
 				</div>
-			</article>
-		</main>
+				<h1 class="hero-title">{entry.data.title}</h1>
+				{entry.data.description && <p class="hero-desc">{entry.data.description}</p>}
+			</div>
+			{entry.data.image && (
+				<div class="hero-image-wrap">
+					<img 
+						src={entry.data.image} 
+						alt={entry.data.title} 
+						class="hero-image" 
+						loading="eager"
+						fetchpriority="high"
+					/>
+				</div>
+			)}
+		</header>
+
+		<!-- Main Layout Grid -->
+		<div class="post-body-container">
+			<div class={`post-layout-grid ${tocHeadings.length === 0 ? 'no-toc' : ''}`}>
+				<main class="post-content-column">
+					<article class="article">
+						<div class="content">
+							<Content />
+						</div>
+					</article>
+
+					<!-- Visual FAQ Accordion Section -->
+					{entry.data.faqs && entry.data.faqs.length > 0 && (
+						<section class="faq-accordion-section">
+							<h2 class="faq-title">Frequently Asked Questions</h2>
+							<div class="faq-accordion">
+								{entry.data.faqs.map((faq, index) => (
+									<div class="faq-item" data-index={index}>
+										<button class="faq-question-btn" aria-expanded="false" aria-controls={`faq-answer-${index}`}>
+											<span class="faq-question-text">{faq.question}</span>
+											<svg class="faq-chevron" viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+												<polyline points="6 9 12 15 18 9"></polyline>
+											</svg>
+										</button>
+										<div class="faq-answer-wrap" id={`faq-answer-${index}`} role="region">
+											<div class="faq-answer-content" set:html={faq.answer} />
+										</div>
+									</div>
+								))}
+							</div>
+						</section>
+					)}
+				</main>
+
+				{tocHeadings && tocHeadings.length > 0 && (
+					<aside class="post-toc-column">
+						<div class="toc-card">
+							<h4 class="toc-title">Table of Contents</h4>
+							<nav class="toc-nav">
+								<ul class="toc-list">
+									{tocHeadings.map(h => (
+										<li class={`toc-item depth-${h.depth}`}>
+											<a href={`#${h.slug}`} class="toc-link" data-slug={h.slug}>
+												<span class="toc-indicator"></span>
+												<span class="toc-text">{h.text}</span>
+											</a>
+										</li>
+									))}
+								</ul>
+							</nav>
+						</div>
+					</aside>
+				)}
+			</div>
+		</div>
 	</div>
 </Layout>
 
@@ -120,11 +185,94 @@ const displayTitle = entry.data.title.length + 17 > 60
 		updateProgressBar();
 	}
 
-	// Run on initial load
-	setupProgressBar();
+	function setupActiveTOC() {
+		const tocLinks = document.querySelectorAll('.toc-link');
+		const headings = Array.from(document.querySelectorAll('.content h2, .content h3'));
+		
+		if (tocLinks.length === 0 || headings.length === 0) return;
 
-	// Run on view transitions
-	document.addEventListener('astro:after-swap', setupProgressBar);
+		const headerOffset = 120; // top offset to activate a heading
+		
+		function updateActiveHeading() {
+			const scrollPosition = window.scrollY;
+			let activeHeading = null;
+			
+			// Calculate each heading's absolute top position
+			const headingTops = headings.map(heading => {
+				return {
+					heading,
+					top: heading.getBoundingClientRect().top + window.scrollY
+				};
+			});
+
+			for (let i = 0; i < headingTops.length; i++) {
+				const { heading, top } = headingTops[i];
+				if (scrollPosition >= top - headerOffset) {
+					activeHeading = heading;
+				} else {
+					break; // Headings are ordered, so stop checking
+				}
+			}
+
+			// Fallback: If scrolled near the bottom of the page, activate the last heading
+			if ((window.innerHeight + window.scrollY) >= document.documentElement.scrollHeight - 100) {
+				activeHeading = headings[headings.length - 1];
+			}
+
+			// Fallback: If no heading is passed yet, activate the first one
+			if (!activeHeading && headings.length > 0) {
+				activeHeading = headings[0];
+			}
+
+			if (activeHeading) {
+				const activeSlug = activeHeading.id;
+				tocLinks.forEach(link => {
+					if (link.getAttribute('data-slug') === activeSlug) {
+						link.classList.add('active');
+					} else {
+						link.classList.remove('active');
+					}
+				});
+			}
+		}
+
+		window.addEventListener('scroll', updateActiveHeading, { passive: true });
+		updateActiveHeading();
+	}
+
+	function setupFAQAccordion() {
+		const faqItems = document.querySelectorAll('.faq-item');
+		if (faqItems.length === 0) return;
+
+		faqItems.forEach(item => {
+			const button = item.querySelector('.faq-question-btn');
+			if (!button) return;
+
+			button.addEventListener('click', () => {
+				const isActive = item.classList.contains('active');
+				
+				if (isActive) {
+					item.classList.remove('active');
+					button.setAttribute('aria-expanded', 'false');
+				} else {
+					item.classList.add('active');
+					button.setAttribute('aria-expanded', 'true');
+				}
+			});
+		});
+	}
+
+	function initBlogInteractivity() {
+		setupProgressBar();
+		setupActiveTOC();
+		setupFAQAccordion();
+	}
+
+	// Run on initial load
+	initBlogInteractivity();
+
+	// Run on view transitions (Astro)
+	document.addEventListener('astro:after-swap', initBlogInteractivity);
 </script>
 
 <style>
@@ -136,6 +284,11 @@ const displayTitle = entry.data.title.length + 17 > 60
 		--text-body: #2C3E50;
 		--border-soft: #E5E7EB;
 		--card-bg: #FFFFFF;
+	}
+
+	:global(html) {
+		scroll-behavior: smooth;
+		scroll-padding-top: 100px;
 	}
 
 	.post-page-wrapper {
@@ -162,35 +315,40 @@ const displayTitle = entry.data.title.length + 17 > 60
 		transition: width 0.1s ease-out;
 	}
 
-	.post-container {
-		max-width: 800px; /* Increased from 720px for better layout readability */
+	/* Hero Section */
+	.post-hero {
+		max-width: 1200px;
 		margin: 0 auto;
-		padding: 48px 20px;
+		padding: 64px 20px 32px;
+		text-align: center;
 	}
 
-	.article {
-		background: var(--card-bg);
-		padding: 48px;
-		border-radius: 16px;
-		border: 1px solid var(--border-soft);
-		box-shadow: 0px 4px 20px -2px rgba(10, 25, 47, 0.04), 0px 2px 6px -1px rgba(10, 25, 47, 0.02);
+	.hero-container {
+		max-width: 800px;
+		margin: 0 auto 32px;
 	}
 
-	@media (max-width: 640px) {
-		.post-container {
-			padding: 24px 12px;
-		}
-		.article {
-			padding: 24px 16px;
-			border-radius: 12px;
-		}
+	.hero-meta {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 16px;
+		margin-bottom: 16px;
 	}
 
-	.header {
-		margin-bottom: 28px;
+	.hero-category {
+		font-family: var(--font-mono);
+		font-size: 11px;
+		font-weight: 700;
+		color: #ffffff;
+		background-color: var(--accent-teal);
+		padding: 4px 10px;
+		border-radius: 4px;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
 	}
 
-	time {
+	.post-hero time {
 		font-family: var(--font-mono);
 		font-size: 13px;
 		font-weight: 600;
@@ -199,33 +357,337 @@ const displayTitle = entry.data.title.length + 17 > 60
 		letter-spacing: 0.05em;
 	}
 
-	.title {
-		margin-top: 12px;
-		margin-bottom: 0;
-		font-size: 38px;
-		font-weight: 700;
-		line-height: 1.25;
-		letter-spacing: -0.02em;
+	.hero-title {
+		font-size: 44px;
+		font-weight: 850;
+		line-height: 1.2;
 		color: var(--text-navy);
+		letter-spacing: -0.03em;
+		margin-top: 12px;
+		margin-bottom: 16px;
 		text-wrap: balance;
 	}
 
-	@media (max-width: 640px) {
-		.title {
-			font-size: 28px;
-		}
+	.hero-desc {
+		font-size: 18px;
+		color: var(--text-body);
+		line-height: 1.6;
+		max-width: 700px;
+		margin: 0 auto;
+		text-wrap: pretty;
 	}
 
-	.divider {
-		border: 0;
-		border-top: 1px solid var(--border-soft);
-		margin: 28px 0;
+	.hero-image-wrap {
+		max-width: 960px;
+		margin: 0 auto;
+		border-radius: 16px;
+		overflow: hidden;
+		box-shadow: 0 10px 30px -5px rgba(10, 25, 47, 0.1);
+		border: 1px solid var(--border-soft);
+	}
+
+	.hero-image {
+		width: 100%;
+		height: auto;
+		aspect-ratio: 16 / 9;
+		object-fit: cover;
+		display: block;
+	}
+
+	/* Main Layout Container */
+	.post-body-container {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding: 32px 20px 64px;
+	}
+
+	.post-layout-grid {
+		display: grid;
+		grid-template-columns: minmax(0, 1fr) 280px;
+		gap: 40px;
+		align-items: start;
+	}
+
+	.post-layout-grid.no-toc {
+		grid-template-columns: minmax(0, 1fr);
+		max-width: 800px;
+		margin: 0 auto;
+	}
+
+	.post-content-column {
+		display: flex;
+		flex-direction: column;
+		gap: 48px;
+	}
+
+	/* Sidebar TOC */
+	.post-toc-column {
+		position: sticky;
+		top: 100px;
+		height: auto;
+		max-height: calc(100vh - 140px);
+		overflow-y: auto;
+	}
+
+	.toc-card {
+		background: var(--card-bg);
+		border: 1px solid var(--border-soft);
+		border-radius: 12px;
+		padding: 24px;
+		box-shadow: 0px 4px 20px -2px rgba(10, 25, 47, 0.03);
+	}
+
+	.toc-title {
+		font-size: 13px;
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+		color: var(--text-navy);
+		margin-top: 0;
+		margin-bottom: 16px;
+		padding-bottom: 12px;
+		border-bottom: 1px solid var(--border-soft);
+	}
+
+	.toc-nav {
+		max-height: 55vh;
+		overflow-y: auto;
+	}
+
+	.toc-list {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		display: flex;
+		flex-direction: column;
+		gap: 8px;
+	}
+
+	.toc-item {
+		font-size: 14px;
+		line-height: 1.4;
+	}
+
+	.toc-item.depth-3 {
+		padding-left: 16px;
+		font-size: 13px;
+	}
+
+	.toc-link {
+		display: inline-flex;
+		align-items: center;
+		text-decoration: none;
+		color: var(--text-body);
+		font-weight: 500;
+		transition: all 0.2s ease;
+		position: relative;
+		padding: 2px 0;
+	}
+
+	.toc-link:hover {
+		color: var(--accent-teal);
+	}
+
+	.toc-indicator {
+		width: 4px;
+		height: 4px;
+		border-radius: 50%;
+		background-color: var(--accent-teal);
+		position: absolute;
+		left: -12px;
+		opacity: 0;
+		transform: scale(0.5);
+		transition: all 0.2s ease;
+	}
+
+	.toc-item.depth-3 .toc-indicator {
+		left: -10px;
+	}
+
+	.toc-link.active {
+		color: var(--accent-teal);
+		font-weight: 600;
+		padding-left: 12px;
+	}
+
+	.toc-link.active .toc-indicator {
+		opacity: 1;
+		transform: scale(1);
+		left: 0;
+	}
+
+	/* Article card adjustments */
+	.article {
+		background: var(--card-bg);
+		padding: 48px;
+		border-radius: 16px;
+		border: 1px solid var(--border-soft);
+		box-shadow: 0px 4px 20px -2px rgba(10, 25, 47, 0.04), 0px 2px 6px -1px rgba(10, 25, 47, 0.02);
 	}
 
 	.content {
 		line-height: 1.8;
 		font-size: 17px;
 		color: var(--text-body);
+	}
+
+	/* Visual FAQ Accordion */
+	.faq-accordion-section {
+		background: var(--card-bg);
+		border: 1px solid var(--border-soft);
+		border-radius: 16px;
+		padding: 40px;
+		box-shadow: 0px 4px 20px -2px rgba(10, 25, 47, 0.04);
+	}
+
+	.faq-title {
+		font-size: 24px;
+		font-weight: 700;
+		color: var(--text-navy);
+		margin-top: 0;
+		margin-bottom: 24px;
+		position: relative;
+		padding-bottom: 12px;
+		border-bottom: 1px solid var(--border-soft);
+	}
+
+	.faq-title::after {
+		content: '';
+		position: absolute;
+		bottom: -1px;
+		left: 0;
+		width: 48px;
+		height: 3px;
+		background-color: var(--accent-teal);
+		border-radius: 2px;
+	}
+
+	.faq-accordion {
+		display: flex;
+		flex-direction: column;
+		gap: 16px;
+	}
+
+	.faq-item {
+		border: 1px solid var(--border-soft);
+		border-radius: 8px;
+		overflow: hidden;
+		background-color: var(--card-bg);
+		transition: border-color 0.2s ease, box-shadow 0.2s ease;
+	}
+
+	.faq-item:hover {
+		border-color: var(--accent-teal);
+		box-shadow: 0 4px 12px rgba(0, 168, 150, 0.03);
+	}
+
+	.faq-item.active {
+		border-color: var(--accent-teal);
+		box-shadow: 0 4px 16px rgba(0, 168, 150, 0.05);
+	}
+
+	.faq-question-btn {
+		width: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		padding: 20px 24px;
+		background: none;
+		border: none;
+		text-align: left;
+		cursor: pointer;
+		font-family: inherit;
+		font-size: 16px;
+		font-weight: 600;
+		color: var(--text-navy);
+		transition: color 0.2s ease;
+	}
+
+	.faq-question-btn:focus-visible {
+		outline: 2px solid var(--accent-teal);
+		outline-offset: -2px;
+	}
+
+	.faq-chevron {
+		color: var(--text-body);
+		transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), color 0.2s ease;
+		flex-shrink: 0;
+		margin-left: 16px;
+	}
+
+	.faq-item.active .faq-chevron {
+		transform: rotate(180deg);
+		color: var(--accent-teal);
+	}
+
+	.faq-answer-wrap {
+		display: grid;
+		grid-template-rows: 0fr;
+		transition: grid-template-rows 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+		overflow: hidden;
+	}
+
+	.faq-item.active .faq-answer-wrap {
+		grid-template-rows: 1fr;
+	}
+
+	.faq-answer-content {
+		min-height: 0;
+		padding: 0 24px 20px;
+		font-size: 15px;
+		line-height: 1.6;
+		color: var(--text-body);
+	}
+
+	.faq-answer-content :global(p) {
+		margin: 0;
+	}
+
+	.faq-answer-content :global(p + p) {
+		margin-top: 12px;
+	}
+
+	/* Responsive break points */
+	@media (max-width: 1024px) {
+		.post-layout-grid {
+			grid-template-columns: 1fr;
+		}
+		.post-toc-column {
+			display: none;
+		}
+		.post-body-container {
+			padding: 16px 12px 48px;
+		}
+	}
+
+	@media (max-width: 768px) {
+		.post-hero {
+			padding: 32px 16px 24px;
+		}
+		.hero-title {
+			font-size: 32px;
+		}
+		.hero-desc {
+			font-size: 15px;
+		}
+	}
+
+	@media (max-width: 640px) {
+		.article {
+			padding: 24px 16px;
+			border-radius: 12px;
+		}
+		.faq-accordion-section {
+			padding: 24px 16px;
+		}
+		.faq-question-btn {
+			padding: 16px;
+			font-size: 15px;
+		}
+		.faq-answer-content {
+			padding: 0 16px 16px;
+			font-size: 14px;
+		}
 	}
 
 	/* Typography & Structure elements inside markdown content */
