@@ -24,9 +24,10 @@ interface Question {
 interface PracticeRoomProps {
   questions: Question[];
   courseName: string;
+  nextSetUrl?: string | null;
 }
 
-export default function PracticeRoom({ questions, courseName }: PracticeRoomProps) {
+export default function PracticeRoom({ questions, courseName, nextSetUrl }: PracticeRoomProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
   const [answers, setAnswers] = useState<Record<number, string>>({});
@@ -99,9 +100,17 @@ export default function PracticeRoom({ questions, courseName }: PracticeRoomProp
         </div>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
+          {nextSetUrl && (
+            <a 
+              href={nextSetUrl}
+              className="w-full sm:w-auto px-8 py-3 bg-[#00A896] text-white font-medium rounded-full hover:bg-[#009685] transition-all flex items-center justify-center gap-2 cursor-pointer"
+            >
+              Next Set
+            </a>
+          )}
           <button 
             onClick={resetPractice}
-            className="w-full sm:w-auto px-8 py-3 bg-primary text-white font-medium rounded-full hover:bg-primary/90 transition-all flex items-center justify-center gap-2"
+            className="w-full sm:w-auto px-8 py-3 bg-[#171717] text-white font-medium rounded-full hover:bg-black transition-all flex items-center justify-center gap-2 cursor-pointer"
           >
             <RotateCcw className="w-4 h-4" />
             Try Again

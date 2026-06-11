@@ -36,6 +36,8 @@ const { id, set } = Astro.params;
 const { questions, setNumber, totalSets } = Astro.props;
 
 const baseCourseId = id.replace('-exit-exam-questions-answers', '');
+const nextSetNumber = setNumber < totalSets ? setNumber + 1 : null;
+const nextSetUrl = nextSetNumber ? `/mcq/${id}/${nextSetNumber}/` : null;
 
 // Course ID to Name mapping
 const courseNames: Record<string, string> = {
@@ -104,7 +106,7 @@ const breadcrumbSchema = {
                 <span class="text-ink">Set {setNumber}</span>
             </nav>
         </div>
-        <PracticeRoom client:load questions={questions} courseName={`${courseName} (Set ${setNumber})`} />
+        <PracticeRoom client:load questions={questions} courseName={`${courseName} (Set ${setNumber})`} nextSetUrl={nextSetUrl} />
 
         <!-- Index of all questions in this set for SEO crawlability and direct access -->
         <div class="max-w-3xl mx-auto pb-24 px-6 mt-16">
