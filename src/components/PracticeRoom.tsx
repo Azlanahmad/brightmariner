@@ -119,37 +119,25 @@ export default function PracticeRoom({ questions, courseName }: PracticeRoomProp
       <div className="flex items-center justify-between mb-8">
         <div>
           <h1 className="text-2xl font-semibold text-ink mb-1">{courseName}</h1>
-          <p className="text-sm text-mute font-mono uppercase tracking-wider">Question {currentIndex + 1} of {questions.length}</p>
-        </div>
-        <div className="flex items-center gap-2">
-            <button 
-                onClick={prevQuestion}
-                disabled={currentIndex === 0}
-                className="p-2 text-body hover:text-ink hover:bg-canvas-soft-2 rounded-full disabled:opacity-30 disabled:hover:bg-transparent transition-all"
-            >
-                <ChevronLeft className="w-6 h-6" />
-            </button>
-            <button 
-                onClick={nextQuestion}
-                className="p-2 text-body hover:text-ink hover:bg-canvas-soft-2 rounded-full transition-all"
-            >
-                <ChevronRight className="w-6 h-6" />
-            </button>
         </div>
       </div>
 
       {/* Progress Bar */}
       <div className="w-full h-1 bg-hairline rounded-full mb-12 overflow-hidden">
         <div 
-            className="h-full bg-primary transition-all duration-300 ease-out" 
+            className="h-full bg-[#00A896] transition-all duration-300 ease-out" 
             style={{ width: `${((currentIndex + 1) / questions.length) * 100}%` }}
         />
       </div>
 
       <div className="bg-canvas border border-hairline rounded-2xl p-8 md:p-12 shadow-sm mb-8">
-        <h2 className="text-xl md:text-2xl font-medium text-ink leading-snug mb-10">
+        <div className="flex justify-end mb-4">
+          <span className="text-sm text-mute font-medium">Question {currentIndex + 1} of {questions.length}</span>
+        </div>
+        <h2 className="text-xl md:text-2xl font-semibold text-ink leading-snug mb-4">
           {currentQuestion?.text}
         </h2>
+        <div className="w-16 h-1 bg-[#00A896] mb-10 rounded-full" />
 
         <div className="space-y-3">
           {currentQuestion?.options.map((option) => {
@@ -158,39 +146,43 @@ export default function PracticeRoom({ questions, courseName }: PracticeRoomProp
             const showFeedback = hasAnswered;
             
             return (
-              <button
-                key={option.id}
-                onClick={() => handleOptionSelect(option.id)}
-                disabled={hasAnswered}
-                className={cn(
-                  "w-full text-left p-5 rounded-xl border transition-all flex items-start gap-4 group",
-                  !showFeedback && "border-hairline hover:border-hairline-strong hover:bg-canvas-soft-2",
-                  !showFeedback && isSelected && "border-primary bg-primary/5 shadow-sm",
-                  showFeedback && isCorrectOption && "border-link bg-link/5 text-link-deep",
-                  showFeedback && isSelected && !isCorrectOption && "border-error bg-error/5 text-error-deep",
-                  showFeedback && !isSelected && !isCorrectOption && "border-hairline opacity-60"
-                )}
-              >
-                <span className={cn(
-                    "w-6 h-6 rounded-full border flex items-center justify-center text-xs font-semibold shrink-0 mt-0.5 transition-colors",
-                    !showFeedback && "border-hairline text-mute group-hover:border-hairline-strong",
-                    !showFeedback && isSelected && "border-primary bg-primary text-white",
-                    showFeedback && isCorrectOption && "border-link bg-link text-white",
-                    showFeedback && isSelected && !isCorrectOption && "border-error bg-error text-white"
-                )}>
-                  {option.id}
-                </span>
-                <span className="text-base leading-relaxed">{option.text}</span>
-                
-                {showFeedback && isCorrectOption && (
-                  <CheckCircle2 className="w-5 h-5 ml-auto text-link shrink-0 mt-0.5" />
-                )}
-                {showFeedback && isSelected && !isCorrectOption && (
-                  <XCircle className="w-5 h-5 ml-auto text-error shrink-0 mt-0.5" />
-                )}
-              </button>
+              <div key={option.id} className="flex items-center gap-3">
+                <span className="w-2 h-2 rounded-full bg-[#00A896] shrink-0" />
+                <button
+                  onClick={() => handleOptionSelect(option.id)}
+                  disabled={hasAnswered}
+                  className={cn(
+                    "flex-grow text-left p-5 rounded-xl border transition-all text-base leading-relaxed cursor-pointer",
+                    !showFeedback && "border-[#EBEBEB] bg-[#F8F9FA] text-[#4D4D4D] hover:border-hairline-strong hover:bg-canvas-soft-2",
+                    !showFeedback && isSelected && "border-primary bg-primary/5 shadow-sm",
+                    showFeedback && isCorrectOption && "border-[#4CAF50] bg-[#E2F0D9] text-[#1B5E20] font-semibold",
+                    showFeedback && isSelected && !isCorrectOption && "border-[#EF4444] bg-[#FDE8E8] text-[#9B1C1C] font-semibold",
+                    showFeedback && !isSelected && !isCorrectOption && "border-[#EBEBEB] bg-[#F8F9FA] text-[#4D4D4D] opacity-75"
+                  )}
+                >
+                  {option.text}
+                </button>
+              </div>
             );
           })}
+        </div>
+
+        <div className="grid grid-cols-2 gap-4 mt-8">
+          <button 
+            onClick={prevQuestion}
+            disabled={currentIndex === 0}
+            className="px-6 py-3 bg-[#1E297A] text-white text-center text-sm font-semibold rounded-lg hover:bg-[#1A237E] disabled:bg-[#1E297A]/25 disabled:text-white/50 transition-all flex items-center justify-center gap-2 shadow-sm cursor-pointer disabled:cursor-not-allowed"
+          >
+            « Previous
+          </button>
+          
+          <button 
+            onClick={nextQuestion}
+            disabled={!hasAnswered}
+            className="px-6 py-3 bg-[#1E297A] text-white text-center text-sm font-semibold rounded-lg hover:bg-[#1A237E] disabled:bg-[#1E297A]/25 disabled:text-white/50 transition-all flex items-center justify-center gap-2 shadow-sm cursor-pointer disabled:cursor-not-allowed"
+          >
+            {currentIndex === questions.length - 1 ? 'Finish »' : 'Next »'}
+          </button>
         </div>
       </div>
 
@@ -198,18 +190,10 @@ export default function PracticeRoom({ questions, courseName }: PracticeRoomProp
         <button 
           onClick={() => setShowExplanation(!showExplanation)}
           disabled={!hasAnswered}
-          className="flex items-center gap-2 text-sm font-medium text-body hover:text-ink disabled:opacity-30 transition-colors px-4 py-2 rounded-lg hover:bg-canvas-soft-2"
+          className="flex items-center gap-2 text-sm font-medium text-body hover:text-ink disabled:opacity-30 transition-colors px-4 py-2 rounded-lg hover:bg-canvas-soft-2 cursor-pointer"
         >
           <HelpCircle className="w-4 h-4" />
           {showExplanation ? 'Hide Explanation' : 'Explain Answer'}
-        </button>
-        
-        <button 
-          onClick={nextQuestion}
-          disabled={!hasAnswered}
-          className="px-8 py-2.5 bg-primary text-white font-medium rounded-full hover:bg-primary/90 disabled:opacity-30 disabled:hover:bg-primary transition-all shadow-lg shadow-primary/10"
-        >
-          {currentIndex === questions.length - 1 ? 'Finish Practice' : 'Next Question'}
         </button>
       </div>
 
