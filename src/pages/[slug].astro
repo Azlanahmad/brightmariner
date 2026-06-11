@@ -110,7 +110,7 @@ const displayTitle = entry.data.title.length + 17 > 60
 
 		<!-- Main Layout Grid -->
 		<div class="post-body-container">
-			<div class={`post-layout-grid ${tocHeadings.length === 0 ? 'no-toc' : ''}`}>
+			<div class="post-layout-grid no-toc" id="postLayoutGrid">
 				<main class="post-content-column">
 					<article class="article">
 						<div class="content">
@@ -141,25 +141,16 @@ const displayTitle = entry.data.title.length + 17 > 60
 					)}
 				</main>
 
-				{tocHeadings && tocHeadings.length > 0 && (
-					<aside class="post-toc-column">
-						<div class="toc-card">
-							<h4 class="toc-title">Table of Contents</h4>
-							<nav class="toc-nav">
-								<ul class="toc-list">
-									{tocHeadings.map(h => (
-										<li class={`toc-item depth-${h.depth}`}>
-											<a href={`#${h.slug}`} class="toc-link" data-slug={h.slug}>
-												<span class="toc-indicator"></span>
-												<span class="toc-text">{h.text}</span>
-											</a>
-										</li>
-									))}
-								</ul>
-							</nav>
-						</div>
-					</aside>
-				)}
+				<aside class="post-toc-column" id="tocColumn" style="display: none;">
+					<div class="toc-card">
+						<h4 class="toc-title">Table of Contents</h4>
+						<nav class="toc-nav">
+							<ol class="toc-list" id="tocList">
+								<!-- Dynamically populated client-side -->
+							</ol>
+						</nav>
+					</div>
+				</aside>
 			</div>
 		</div>
 	</div>
@@ -186,12 +177,56 @@ const displayTitle = entry.data.title.length + 17 > 60
 	}
 
 	function setupActiveTOC() {
-		const tocLinks = document.querySelectorAll('.toc-link');
-		const headings = Array.from(document.querySelectorAll('.content h2, .content h3'));
+		const postLayoutGrid = document.getElementById('postLayoutGrid');
+		const tocColumn = document.getElementById('tocColumn');
+		const tocList = document.getElementById('tocList');
 		
-		if (tocLinks.length === 0 || headings.length === 0) return;
+		if (!postLayoutGrid || !tocColumn || !tocList) return;
 
-		const headerOffset = 120; // top offset to activate a heading
+		// 1. Find all H2 and H3 headings inside the article body, excluding FAQ section
+		const headings = Array.from(document.querySelectorAll('.content h2, .content h3'))
+			.filter(h => !h.closest('.faq-accordion-section') && h.textContent.trim() !== "");
+
+		if (headings.length === 0) {
+			postLayoutGrid.classList.add('no-toc');
+			tocColumn.style.display = 'none';
+			return;
+		}
+
+		// 2. Generate unique IDs and populate TOC items
+		tocList.innerHTML = '';
+		
+		headings.forEach((heading, index) => {
+			if (!heading.id) {
+				const slug = heading.textContent
+					.toLowerCase()
+					.replace(/[^a-z0-9]+/g, '-')
+					.replace(/(^-|-$)/g, '');
+				heading.id = slug || `section-${index}`;
+			}
+
+			const depth = heading.tagName.toLowerCase() === 'h3' ? 3 : 2;
+			
+			const li = document.createElement('li');
+			li.className = `toc-item depth-${depth}`;
+			
+			const a = document.createElement('a');
+			a.href = `#${heading.id}`;
+			a.className = 'toc-link';
+			a.setAttribute('data-slug', heading.id);
+			a.textContent = heading.textContent;
+			
+			li.appendChild(a);
+			tocList.appendChild(li);
+		});
+
+		// 3. Make TOC column visible and configure layout grid
+		postLayoutGrid.classList.remove('no-toc');
+		tocColumn.style.display = 'block';
+
+		// 4. Scroll spying mechanism to highlight active heading
+		const tocLinks = tocList.querySelectorAll('.toc-link');
+		const headerOffset = 120; // activation offset from viewport top
 		
 		function updateActiveHeading() {
 			const scrollPosition = window.scrollY;
@@ -431,22 +466,20 @@ const displayTitle = entry.data.title.length + 17 > 60
 
 	.toc-card {
 		background: var(--card-bg);
-		border: 1px solid var(--border-soft);
-		border-radius: 12px;
+		border: 1px solid #181d23;
+		border-radius: 4px;
 		padding: 24px;
-		box-shadow: 0px 4px 20px -2px rgba(10, 25, 47, 0.03);
+		box-shadow: none;
 	}
 
 	.toc-title {
-		font-size: 13px;
+		font-size: 16px;
 		font-weight: 700;
-		text-transform: uppercase;
-		letter-spacing: 0.05em;
 		color: var(--text-navy);
 		margin-top: 0;
 		margin-bottom: 16px;
 		padding-bottom: 12px;
-		border-bottom: 1px solid var(--border-soft);
+		border-bottom: 1px solid #ebebeb;
 	}
 
 	.toc-nav {
@@ -458,19 +491,37 @@ const displayTitle = entry.data.title.length + 17 > 60
 		list-style: none;
 		padding: 0;
 		margin: 0;
+		counter-reset: toc-counter;
 		display: flex;
 		flex-direction: column;
-		gap: 8px;
+		gap: 12px;
 	}
 
 	.toc-item {
+		counter-increment: toc-counter;
+		position: relative;
+		padding-left: 24px;
 		font-size: 14px;
 		line-height: 1.4;
 	}
 
+	.toc-item::before {
+		content: counter(toc-counter) ". ";
+		position: absolute;
+		left: 0;
+		font-weight: 600;
+		color: var(--text-navy);
+	}
+
 	.toc-item.depth-3 {
-		padding-left: 16px;
-		font-size: 13px;
+		padding-left: 40px;
+		counter-increment: none; /* Do not increment parent number counter for nested depth 3 items */
+	}
+
+	.toc-item.depth-3::before {
+		content: "• ";
+		left: 24px;
+		color: var(--accent-teal);
 	}
 
 	.toc-link {
@@ -480,40 +531,12 @@ const displayTitle = entry.data.title.length + 17 > 60
 		color: var(--text-body);
 		font-weight: 500;
 		transition: all 0.2s ease;
-		position: relative;
-		padding: 2px 0;
 	}
 
-	.toc-link:hover {
-		color: var(--accent-teal);
-	}
-
-	.toc-indicator {
-		width: 4px;
-		height: 4px;
-		border-radius: 50%;
-		background-color: var(--accent-teal);
-		position: absolute;
-		left: -12px;
-		opacity: 0;
-		transform: scale(0.5);
-		transition: all 0.2s ease;
-	}
-
-	.toc-item.depth-3 .toc-indicator {
-		left: -10px;
-	}
-
+	.toc-link:hover,
 	.toc-link.active {
 		color: var(--accent-teal);
 		font-weight: 600;
-		padding-left: 12px;
-	}
-
-	.toc-link.active .toc-indicator {
-		opacity: 1;
-		transform: scale(1);
-		left: 0;
 	}
 
 	/* Article card adjustments */
