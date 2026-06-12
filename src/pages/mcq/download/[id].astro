@@ -72,13 +72,16 @@ const pdfUrl = `/${courseId}-exit-exam-questions-answers.pdf`;
                     Your PDF Download is Starting
                 </h1>
                 
-                <p class="text-body text-base max-w-md mx-auto mb-8">
+                <p id="countdown-text" class="text-body text-base max-w-md mx-auto mb-8">
                     Preparing your print-ready PDF for <strong>{courseName}</strong>. 
                     Your download will start automatically in <span id="countdown" class="font-bold text-primary text-lg">10</span> seconds...
                 </p>
+                <p id="fallback-text" class="hidden text-body text-base max-w-md mx-auto mb-8">
+                    Your download was triggered. If it did not start automatically, please click the button below.
+                </p>
 
                 <div class="flex flex-col items-center justify-center gap-4 mb-8">
-                    <a href={pdfUrl} download class="inline-flex items-center justify-center px-6 py-3 bg-primary text-white font-medium rounded-full hover:bg-primary/95 shadow-md shadow-primary/10 transition-all hover:scale-[1.01] gap-2 cursor-pointer text-sm">
+                    <a id="download-btn" href={pdfUrl} download class="hidden inline-flex items-center justify-center px-6 py-3 bg-primary text-white font-medium rounded-full hover:bg-primary/95 shadow-md shadow-primary/10 transition-all hover:scale-[1.01] gap-2 cursor-pointer text-sm">
                         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
                         </svg>
@@ -127,6 +130,19 @@ const pdfUrl = `/${courseId}-exit-exam-questions-answers.pdf`;
                     
                     if (seconds <= 0) {
                         clearInterval(interval);
+                        
+                        // Toggle elements visibility when timer finishes
+                        const countdownTextEl = document.getElementById('countdown-text');
+                        const fallbackTextEl = document.getElementById('fallback-text');
+                        const downloadBtnEl = document.getElementById('download-btn');
+                        
+                        if (countdownTextEl) countdownTextEl.classList.add('hidden');
+                        if (fallbackTextEl) fallbackTextEl.classList.remove('hidden');
+                        if (downloadBtnEl) {
+                            downloadBtnEl.classList.remove('hidden');
+                            downloadBtnEl.style.display = 'inline-flex';
+                        }
+                        
                         // Trigger download
                         const link = document.createElement('a');
                         link.href = pdfUrl;
