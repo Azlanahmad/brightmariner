@@ -1,0 +1,142 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+
+type QuestionData = CollectionEntry<'questions'>['data'];
+
+interface Props {
+  courseId: string;
+}
+
+export async function getStaticPaths() {
+  const allQuestions = await getCollection('questions');
+  const courseIds = allQuestions
+    .map((q) => q.data.courseId)
+    .filter((value, index, self) => self.indexOf(value) === index);
+  
+  return courseIds.map((courseId: string) => ({
+    params: { id: `${courseId}-exit-exam-questions-answers` },
+    props: { courseId },
+  }));
+}
+
+const { id } = Astro.params;
+const { courseId } = Astro.props;
+
+// Course ID to Name mapping
+const courseNames: Record<string, string> = {
+    'efa': 'Elementary First Aid (EFA)',
+    'fpff': 'Fire Prevention & Fire Fighting (FPFF)',
+    'pst': 'Personal Survival Techniques (PST)',
+    'pssr': 'Personal Safety & Social Responsibilities (PSSR)',
+    'stsdsd': 'Security Training for Seafarers (STSDSD)',
+    'aff': 'Advanced Fire Fighting (AFF)',
+    'pscrb': 'PSCRB (Proficiency in Survival Craft and Rescue Boats)',
+    'mfa': 'Medical First Aid (MFA)',
+    'tasco': 'Advanced Training for Oil Tanker Cargo Operations (TASCO)',
+    'refresher': 'Refresher Course',
+    'rfpff': 'Refresher FPFF',
+    'gsk': 'General Ship Knowledge (GSK)',
+    'mek': 'Marine Engineering Knowledge (MEK)'
+};
+
+const courseAbbr = courseId === 'refresher' ? 'Refresher' : courseId === 'rfpff' ? 'Refresher FPFF' : courseId.toUpperCase();
+const courseName = courseNames[courseId] || courseId.toUpperCase();
+
+const title = `Downloading ${courseAbbr} Exit Exam MCQ Questions & Answers PDF | Bright Mariner`;
+const description = `Your STCW ${courseName} exit exam questions and answers PDF download will begin shortly. Clean, offline-ready study materials by Bright Mariner.`;
+
+const pdfUrl = `/${courseId}-exit-exam-questions-answers.pdf`;
+---
+
+<Layout title={title} description={description}>
+    <div class="py-24 px-6 lg:px-8 bg-canvas-soft min-h-[calc(100vh-64px)] flex items-center justify-center">
+        <div class="max-w-2xl w-full mx-auto">
+            <!-- Breadcrumbs Navigation -->
+            <nav class="flex items-center gap-2 text-xs font-mono uppercase tracking-widest text-mute mb-8 justify-center" aria-label="Breadcrumb">
+                <a href="/mcq/" class="hover:text-ink transition-colors">Practice</a>
+                <span>/</span>
+                <a href={`/mcq/${id}/`} class="hover:text-ink transition-colors">{courseAbbr}</a>
+                <span>/</span>
+                <span class="text-ink">Download</span>
+            </nav>
+
+            <div class="bg-canvas border border-hairline rounded-2xl p-8 md:p-12 shadow-sm text-center">
+                <div class="w-16 h-16 bg-primary/5 rounded-full flex items-center justify-center mx-auto mb-6 border border-primary/10">
+                    <svg class="w-8 h-8 text-primary animate-bounce" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                    </svg>
+                </div>
+
+                <h1 class="text-2xl md:text-3xl font-semibold text-ink leading-snug mb-4">
+                    Your PDF Download is Starting
+                </h1>
+                
+                <p class="text-body text-base max-w-md mx-auto mb-8">
+                    Preparing your print-ready PDF for <strong>{courseName}</strong>. 
+                    Your download will start automatically in <span id="countdown" class="font-bold text-primary text-lg">10</span> seconds...
+                </p>
+
+                <div class="flex flex-col items-center justify-center gap-4 mb-8">
+                    <a href={pdfUrl} download class="inline-flex items-center justify-center px-6 py-3 bg-primary text-white font-medium rounded-full hover:bg-primary/95 shadow-md shadow-primary/10 transition-all hover:scale-[1.01] gap-2 cursor-pointer text-sm">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                        </svg>
+                        Download Immediately
+                    </a>
+                    
+                    <a href={`/mcq/${id}/`} class="text-sm text-mute hover:text-ink transition-colors">
+                        ← Back to {courseAbbr} Study Guide
+                    </a>
+                </div>
+
+                <!-- AdSense Display Ad unit placeholder -->
+                <div class="mt-8 border-t border-hairline pt-8 min-h-[250px] overflow-hidden">
+                    <span class="text-[10px] font-mono uppercase tracking-wider text-mute block mb-3">Advertisement</span>
+                    <ins class="adsbygoogle"
+                         style="display:block"
+                         data-ad-client="ca-pub-5114473836304357"
+                         data-ad-slot="1604989612"
+                         data-ad-format="auto"
+                         data-full-width-responsive="true"></ins>
+                    <script is:inline>
+                         (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Hidden config element to safely pass PDF URL to inline script -->
+    <div id="download-config" data-pdf-url={pdfUrl} class="hidden"></div>
+
+    <script is:inline>
+        (function() {
+            const configEl = document.getElementById('download-config');
+            const pdfUrl = configEl ? configEl.getAttribute('data-pdf-url') : '';
+            
+            let seconds = 10;
+            const countdownEl = document.getElementById('countdown');
+            
+            if (pdfUrl) {
+                const interval = setInterval(() => {
+                    seconds--;
+                    if (countdownEl) {
+                        countdownEl.textContent = seconds;
+                    }
+                    
+                    if (seconds <= 0) {
+                        clearInterval(interval);
+                        // Trigger download
+                        const link = document.createElement('a');
+                        link.href = pdfUrl;
+                        link.download = '';
+                        document.body.appendChild(link);
+                        link.click();
+                        document.body.removeChild(link);
+                    }
+                }, 1000);
+            }
+        })();
+    </script>
+</Layout>
