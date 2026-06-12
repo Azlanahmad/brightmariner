@@ -1,6 +1,18 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 import Layout from '../../../../layouts/Layout.astro';
+
+type QuestionData = CollectionEntry<'questions'>['data'];
+
+interface Props {
+  question: QuestionData;
+  questionId: string;
+  setNumber: number;
+  prevUrl: string | null;
+  nextUrl: string | null;
+  qIndex: number;
+  totalInCourse: number;
+}
 
 export async function getStaticPaths() {
   const allQuestions = await getCollection('questions');
@@ -18,7 +30,10 @@ export async function getStaticPaths() {
     courseGroups[courseId].push(q);
   }
   
-  const paths = [];
+  const paths: Array<{
+    params: { id: string; set: string; questionSlug: string };
+    props: Props;
+  }> = [];
   
   const slugify = (text: string) => {
     return text

@@ -1,17 +1,30 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import PracticeRoom from '../../../components/PracticeRoom';
 
+type QuestionData = CollectionEntry<'questions'>['data'];
+
+interface Props {
+  questions: QuestionData[];
+  setNumber: number;
+  totalSets: number;
+}
+
 export async function getStaticPaths() {
   const allQuestions = await getCollection('questions');
-  const courseIds = [...new Set(allQuestions.map(q => q.data.courseId))];
+  const courseIds = allQuestions
+    .map((q) => q.data.courseId)
+    .filter((value, index, self) => self.indexOf(value) === index);
   
-  const paths = [];
+  const paths: Array<{
+    params: { id: string; set: string };
+    props: Props;
+  }> = [];
   
-  for (const id of courseIds) {
+  for (const courseId of courseIds) {
     const courseQuestions = allQuestions
-        .filter(q => q.data.courseId === id)
+        .filter(q => q.data.courseId === courseId)
         .sort((a, b) => a.id.localeCompare(b.id)); // Sort by ID to ensure stable sets
     
     const setSize = 30;
@@ -19,7 +32,7 @@ export async function getStaticPaths() {
     
     for (let setIdx = 1; setIdx <= numSets; setIdx++) {
       paths.push({
-        params: { id: `${id}-exit-exam-questions-answers`, set: setIdx.toString() },
+        params: { id: `${courseId}-exit-exam-questions-answers`, set: setIdx.toString() },
         props: { 
             questions: courseQuestions.slice((setIdx - 1) * setSize, setIdx * setSize).map(q => q.data),
             setNumber: setIdx,
@@ -127,7 +140,7 @@ const breadcrumbSchema = {
             <div class="bg-canvas border border-hairline rounded-2xl p-8 md:p-12 shadow-sm">
                 <h3 class="text-lg font-semibold text-ink mb-6 font-sans">Questions in this Practice Set</h3>
                 <div class="divide-y divide-hairline">
-                    {questions.map((q, index) => {
+                    {questions.map((q: QuestionData, index: number) => {
                         const cleanText = q.text
                           .toLowerCase()
                           .replace(/[^\w\s-]/g, '')

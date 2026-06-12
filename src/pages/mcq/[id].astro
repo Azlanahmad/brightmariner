@@ -1,13 +1,15 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
   const allQuestions = await getCollection('questions');
-  const courseIds = [...new Set(allQuestions.map(q => q.data.courseId))].filter(id => id !== 'aff' && id !== 'pscrb');
+  const courseIds = allQuestions
+    .map((q) => q.data.courseId)
+    .filter((value, index, self) => self.indexOf(value) === index && value !== 'aff' && value !== 'pscrb');
   
-  return courseIds.map(id => ({
-    params: { id: `${id}-exit-exam-questions-answers` },
+  return courseIds.map((courseId: string) => ({
+    params: { id: `${courseId}-exit-exam-questions-answers` },
   }));
 }
 
@@ -15,16 +17,19 @@ const { id } = Astro.params;
 const baseCourseId = id.replace('-exit-exam-questions-answers', '');
 const allQuestions = await getCollection('questions');
 const courseQuestions = allQuestions
-    .filter(q => q.data.courseId === baseCourseId);
+    .filter((q) => q.data.courseId === baseCourseId);
 
 // Determine sets: Use the 'set' field from data if available, otherwise fallback to groups of 30
-const uniqueSetsInData = [...new Set(courseQuestions.map(q => q.data.set).filter(Boolean))];
+const uniqueSetsInData = courseQuestions
+    .map((q) => q.data.set)
+    .filter((val): val is number => typeof val === 'number')
+    .filter((value, index, self) => self.indexOf(value) === index);
 
 let sets: number[] = [];
 const setSize = 30;
 
 if (uniqueSetsInData.length > 0) {
-    sets = (uniqueSetsInData as number[]).sort((a, b) => a - b);
+    sets = uniqueSetsInData.sort((a, b) => a - b);
 } else {
     const numSets = Math.ceil(courseQuestions.length / setSize);
     sets = Array.from({ length: numSets }, (_, i) => i + 1);
