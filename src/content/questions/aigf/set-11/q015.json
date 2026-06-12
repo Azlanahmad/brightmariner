@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q15",
+  "text": "In pump room, what are the basic things present?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ventilation of the space"
+    },
+    {
+      "id": "B",
+      "text": "continuous gas detection"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

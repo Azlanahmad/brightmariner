@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q26",
+  "text": "What is relative vapour density?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The mass of a vapour compared with the mass of an equal volume of air, both at standard condition of temperature and pressure"
+    },
+    {
+      "id": "B",
+      "text": "The chemical union of two or more molecules of the same compound to form a larger molecule of a new compound"
+    },
+    {
+      "id": "C",
+      "text": "The mass of a liquid at a given temperature compared with the mass of an equal volume of fresh water at the same temperature at a different given temperature"
+    },
+    {
+      "id": "D",
+      "text": "Inner surface designed to contain the cargo when the cargo containment system includes a secondary barrier"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

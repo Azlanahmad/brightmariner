@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q8",
+  "text": "The exhausts are appropriately configured to prevent any accumulation of ___________",
+  "options": [
+    {
+      "id": "A",
+      "text": "burnt fuel gas"
+    },
+    {
+      "id": "B",
+      "text": "un-burnt fuel gas"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

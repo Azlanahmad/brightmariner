@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q20",
+  "text": "When is gas free certificate issued?",
+  "options": [
+    {
+      "id": "A",
+      "text": "a tank hs been suitably inerted"
+    },
+    {
+      "id": "B",
+      "text": "considered safe for surrounding hot work"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

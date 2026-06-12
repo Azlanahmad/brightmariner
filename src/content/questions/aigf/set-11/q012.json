@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q12",
+  "text": "What is the minimum clear opening of horizontal openings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "no greater than 500 by 500 mm"
+    },
+    {
+      "id": "B",
+      "text": "no greater than 600 by 600 mm"
+    },
+    {
+      "id": "C",
+      "text": "no less than 500 by 500 mm"
+    },
+    {
+      "id": "D",
+      "text": "no less than 600 by 600 mm"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

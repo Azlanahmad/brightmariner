@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q11",
+  "text": "In IGF Code, Secondary barrier means",
+  "options": [
+    {
+      "id": "A",
+      "text": "to prevent the lowering of the temperature of the ship’s structure to an unsafe level"
+    },
+    {
+      "id": "B",
+      "text": "the liquid-resisting outer element of a fuel containment system designed to afford temporary containment of any envisaged leakage of liquid fuel through the primary barrier"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

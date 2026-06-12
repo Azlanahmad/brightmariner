@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q5",
+  "text": "In Piping fabrication, for bellows and expansion joints used in vapour service, a ____________ than defined in is accepted.",
+  "options": [
+    {
+      "id": "A",
+      "text": "higher maximum design pressure"
+    },
+    {
+      "id": "B",
+      "text": "lower minimum design pressure"
+    },
+    {
+      "id": "C",
+      "text": "lower maximum design pressure"
+    },
+    {
+      "id": "D",
+      "text": "higher minimum design pressure"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

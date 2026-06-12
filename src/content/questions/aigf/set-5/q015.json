@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q15",
+  "text": "In Requirements for internal combustion engines of Piston type, for engines where the space _____________ with the crankcase.",
+  "options": [
+    {
+      "id": "A",
+      "text": "above the piston is in direct communication"
+    },
+    {
+      "id": "B",
+      "text": "above the piston is in indirect communication"
+    },
+    {
+      "id": "C",
+      "text": "below the piston is in direct communication"
+    },
+    {
+      "id": "D",
+      "text": "below the piston is in indirect communication"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

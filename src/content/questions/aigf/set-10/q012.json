@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q12",
+  "text": "In IGF Code, Secondary protection means",
+  "options": [
+    {
+      "id": "A",
+      "text": "the liquid-resisting outer element of a fuel containment system designed to afford temporary containment of any envisaged leakage of liquid fuel through the primary protection"
+    },
+    {
+      "id": "B",
+      "text": "a failure of the first barrier will not lead to a hazard because of the secondary protection"
+    },
+    {
+      "id": "C",
+      "text": "a failure of the first barrier will lead to a hazard because of the primary protection"
+    },
+    {
+      "id": "D",
+      "text": "the liquid-resisting outer element of a fuel containment system designed to afford temporary containment of any envisaged leakage of liquid fuel through the secondary protection"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

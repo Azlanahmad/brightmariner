@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q17",
+  "text": "Potential dangers to be avoided include",
+  "options": [
+    {
+      "id": "A",
+      "text": "exposure of ship materials to temperatures below acceptable limits"
+    },
+    {
+      "id": "B",
+      "text": "toxicity potential"
+    },
+    {
+      "id": "C",
+      "text": "flammable fuels spreading to locations with ignition sources"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q25",
+  "text": "What IS prevented in good mechanical strength?",
+  "options": [
+    {
+      "id": "A",
+      "text": "prevent damage"
+    },
+    {
+      "id": "B",
+      "text": "harmful"
+    },
+    {
+      "id": "C",
+      "text": "thermal expansion"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

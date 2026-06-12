@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q21",
+  "text": "The design of the secondary barrier, including spray shield if fitted will be __________",
+  "options": [
+    {
+      "id": "A",
+      "text": "it is capable of being periodically checked for its effectiveness by means of a visual inspection"
+    },
+    {
+      "id": "B",
+      "text": "The secondary barrier shall fulfil its functional requirements at a static angle of heel of 30°"
+    },
+    {
+      "id": "C",
+      "text": "it is capable of containing any envisaged leakage of liquefied gas fuel for a period of 15 days"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

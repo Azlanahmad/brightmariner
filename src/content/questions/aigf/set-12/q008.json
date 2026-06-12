@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q8",
+  "text": "In Piping fabrication, Gaskets shall be protected against ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "blow-out"
+    },
+    {
+      "id": "B",
+      "text": "light"
+    },
+    {
+      "id": "C",
+      "text": "mild occurance"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q15",
+  "text": "Fuel cells design are to ensure that any single failure in active components of the fuel cell system not lead to ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "loss of auxiliary power"
+    },
+    {
+      "id": "B",
+      "text": "loss of primary power"
+    },
+    {
+      "id": "C",
+      "text": "loss of secondary power"
+    },
+    {
+      "id": "D",
+      "text": "loss of additional power"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q9",
+  "text": "Low nox emission can be achieved by",
+  "options": [
+    {
+      "id": "A",
+      "text": "high pressure YDF"
+    },
+    {
+      "id": "B",
+      "text": "low pressure XDF"
+    },
+    {
+      "id": "C",
+      "text": "low pressure YDF"
+    },
+    {
+      "id": "D",
+      "text": "high pressure XDF"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q8",
+  "text": "What will be covered by cofferdams acting as secondary barriers?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tanks for high-flashpoint liquids"
+    },
+    {
+      "id": "B",
+      "text": "Tanks for low-flashpoint liquids"
+    },
+    {
+      "id": "C",
+      "text": "Tanks for water"
+    },
+    {
+      "id": "D",
+      "text": "Tanks for high-flashpoint oils"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

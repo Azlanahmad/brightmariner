@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q7",
+  "text": "What is the critical pressure (bars, absolute) of Ethane?",
+  "options": [
+    {
+      "id": "A",
+      "text": "-8529.0"
+    },
+    {
+      "id": "B",
+      "text": "-5486.0"
+    },
+    {
+      "id": "C",
+      "text": "48.9"
+    },
+    {
+      "id": "D",
+      "text": "-7648.0"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

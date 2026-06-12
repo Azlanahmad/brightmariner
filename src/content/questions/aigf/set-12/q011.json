@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q11",
+  "text": "In Expansion joints of Piping fabrication, Where bellows and expansion joints are provided in accordance with _____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "bellows are disconnected"
+    },
+    {
+      "id": "B",
+      "text": "bellows are removed"
+    },
+    {
+      "id": "C",
+      "text": "bellows shall be protected against icing"
+    },
+    {
+      "id": "D",
+      "text": "bellows shall be unprotected against icing"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q27",
+  "text": "How is Structural capacity How is analysis based on characteristic load values follows for Environmental Loads?",
+  "options": [
+    {
+      "id": "A",
+      "text": "strength Values"
+    },
+    {
+      "id": "B",
+      "text": "Specified Values"
+    },
+    {
+      "id": "C",
+      "text": "For wave loads; most probable largest load encountered during 108 wave encounters"
+    },
+    {
+      "id": "D",
+      "text": "Expected Values"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q11",
+  "text": "What is the minimum clear opening of hatches or manholes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "no less than 6000by 800 mm"
+    },
+    {
+      "id": "B",
+      "text": "no greater than 800 by 800 mm"
+    },
+    {
+      "id": "C",
+      "text": "no less than 600 by 600 mm"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

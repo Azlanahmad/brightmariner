@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q19",
+  "text": "In Liquefied gas fuel containment, The design life of portable tanks shall not be less than",
+  "options": [
+    {
+      "id": "A",
+      "text": "sthe design life of the ship"
+    },
+    {
+      "id": "B",
+      "text": "20 years"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

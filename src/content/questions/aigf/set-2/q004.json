@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q4",
+  "text": "MARVS means",
+  "options": [
+    {
+      "id": "A",
+      "text": "Maximum Allowable Relief Valve Setting"
+    },
+    {
+      "id": "B",
+      "text": "Minimum Allowable Relief Valve Setting"
+    },
+    {
+      "id": "C",
+      "text": "Maximum Allowed Regional Valve Setting"
+    },
+    {
+      "id": "D",
+      "text": "Minimum Allotted Relief Valve Setting"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

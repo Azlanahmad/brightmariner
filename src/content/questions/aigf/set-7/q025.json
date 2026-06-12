@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q25",
+  "text": "Where is redundant gas detection systems be provided?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ESD-protected detection space"
+    },
+    {
+      "id": "B",
+      "text": "ESD-protected machinery space"
+    },
+    {
+      "id": "C",
+      "text": "ESD-unprotected machinery space"
+    },
+    {
+      "id": "D",
+      "text": "ESD-unprotected detection space"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

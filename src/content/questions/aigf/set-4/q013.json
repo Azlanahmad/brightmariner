@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q13",
+  "text": "The low pressure XDF tecnhnology concept is based on the __________",
+  "options": [
+    {
+      "id": "A",
+      "text": "lean burn principle"
+    },
+    {
+      "id": "B",
+      "text": "exhaust gas principle"
+    },
+    {
+      "id": "C",
+      "text": "sewage plant principle"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

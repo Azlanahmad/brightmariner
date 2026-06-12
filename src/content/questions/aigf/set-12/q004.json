@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q4",
+  "text": "_______________ comply with a standard acceptable to the Administration, taking into account the design pressure.",
+  "options": [
+    {
+      "id": "A",
+      "text": "pipes"
+    },
+    {
+      "id": "B",
+      "text": "Flanges"
+    },
+    {
+      "id": "C",
+      "text": "tubes"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

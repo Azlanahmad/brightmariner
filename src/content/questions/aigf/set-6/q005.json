@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q5",
+  "text": "Disadvantage of LNG fuel is",
+  "options": [
+    {
+      "id": "A",
+      "text": "release of unburned methane into atmosphere"
+    },
+    {
+      "id": "B",
+      "text": "emission of CO2"
+    },
+    {
+      "id": "C",
+      "text": "emission of NOX"
+    },
+    {
+      "id": "D",
+      "text": "emission of sox"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

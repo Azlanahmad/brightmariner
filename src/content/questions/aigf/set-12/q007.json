@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q7",
+  "text": "In Piping fabrication, The piping system shall be joined by welding with a ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "minimum of tanks connections"
+    },
+    {
+      "id": "B",
+      "text": "minimum of flange connections"
+    },
+    {
+      "id": "C",
+      "text": "maximum of flange connections"
+    },
+    {
+      "id": "D",
+      "text": "maximum of tanks connections"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q24",
+  "text": "Which type of test covers the fracture acceptable after a 180° bend?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tensile tests"
+    },
+    {
+      "id": "B",
+      "text": "Charpy V-notch impact tests"
+    },
+    {
+      "id": "C",
+      "text": "Bend tests"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

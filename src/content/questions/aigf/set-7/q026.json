@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q26",
+  "text": "In which area electrical equipment or wiring are not installed unless essential for operational purposes or safety enhancement?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gas free area"
+    },
+    {
+      "id": "B",
+      "text": "protected area"
+    },
+    {
+      "id": "C",
+      "text": "safe area"
+    },
+    {
+      "id": "D",
+      "text": "hazardous areas"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

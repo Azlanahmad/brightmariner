@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q12",
+  "text": "_____________ utilized for gas freeing of tanks may be provided externally to the ship.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Non-Toxic gas"
+    },
+    {
+      "id": "B",
+      "text": "Inert gas"
+    },
+    {
+      "id": "C",
+      "text": "Green gas"
+    },
+    {
+      "id": "D",
+      "text": "Toxic gas"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q1",
+  "text": "Prime surgreen focuses towards fulfilling of all _________ standards from the International Maritime Organisation",
+  "options": [
+    {
+      "id": "A",
+      "text": "emission"
+    },
+    {
+      "id": "B",
+      "text": "omision"
+    },
+    {
+      "id": "C",
+      "text": "depletion"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

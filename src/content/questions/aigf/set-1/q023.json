@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q23",
+  "text": "In latent heat of vaporization, Quality of heat to change the state of a substance from ____________ without change of temperature",
+  "options": [
+    {
+      "id": "A",
+      "text": "solid to vapour"
+    },
+    {
+      "id": "B",
+      "text": "liquid to vapour"
+    },
+    {
+      "id": "C",
+      "text": "liquid to molecules"
+    },
+    {
+      "id": "D",
+      "text": "solid to liquid"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

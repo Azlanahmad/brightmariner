@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q4",
+  "text": "In ship design and arrangement is to provide for",
+  "options": [
+    {
+      "id": "A",
+      "text": "refuelling systems"
+    },
+    {
+      "id": "B",
+      "text": "space arrangements"
+    },
+    {
+      "id": "C",
+      "text": "mechanical protection of power generation equipment"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

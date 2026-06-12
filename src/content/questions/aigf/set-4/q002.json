@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q2",
+  "text": "Upgrading _______ to VTA technology will increase efficiency",
+  "options": [
+    {
+      "id": "A",
+      "text": "Turbo charger"
+    },
+    {
+      "id": "B",
+      "text": "exhaust boiler"
+    },
+    {
+      "id": "C",
+      "text": "propulsion shaft"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q18",
+  "text": "Under which condition goal of material and general pipe design works?",
+  "options": [
+    {
+      "id": "A",
+      "text": "only on limited conditions"
+    },
+    {
+      "id": "B",
+      "text": "based on the best condition"
+    },
+    {
+      "id": "C",
+      "text": "based on the fuel"
+    },
+    {
+      "id": "D",
+      "text": "under all operating conditions"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

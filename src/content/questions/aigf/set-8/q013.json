@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q13",
+  "text": "Stationary thermally induced loads shall be considered for liquefied gas fuel containment systems where",
+  "options": [
+    {
+      "id": "A",
+      "text": "the design supporting arrangements or attachments"
+    },
+    {
+      "id": "B",
+      "text": "operating temperature may give rise to significant thermal stresses"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

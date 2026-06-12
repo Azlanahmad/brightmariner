@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q7",
+  "text": "Liquefied gas fuel containment systems can be designed in accordance with ___________ environmental conditions",
+  "options": [
+    {
+      "id": "A",
+      "text": "north Indian ocean"
+    },
+    {
+      "id": "B",
+      "text": "north Atlantic"
+    },
+    {
+      "id": "C",
+      "text": "north Antartic"
+    },
+    {
+      "id": "D",
+      "text": "north Pacific"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

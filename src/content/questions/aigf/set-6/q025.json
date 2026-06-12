@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q25",
+  "text": "What properties are adequate for the intended service to Thermal insulation and other materials used in liquefied gas fuel containment systems?",
+  "options": [
+    {
+      "id": "A",
+      "text": "compatibility with the liquefied gas fuels"
+    },
+    {
+      "id": "B",
+      "text": "solubility in the liquefied gas fuel"
+    },
+    {
+      "id": "C",
+      "text": "absorption of the liquefied gas fuel"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

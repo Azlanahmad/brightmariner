@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q23",
+  "text": "What are the characteristics of R22?",
+  "options": [
+    {
+      "id": "A",
+      "text": "colourless"
+    },
+    {
+      "id": "B",
+      "text": "odourless"
+    },
+    {
+      "id": "C",
+      "text": "non-flammable"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

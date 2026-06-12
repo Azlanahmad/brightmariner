@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q14",
+  "text": "Fuel cells design are to ensure that any single failure in active components of the fuel cell system not lead to ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "loss of efficiency"
+    },
+    {
+      "id": "B",
+      "text": "loss of manoeuring"
+    },
+    {
+      "id": "C",
+      "text": "loss of propulsion"
+    },
+    {
+      "id": "D",
+      "text": "loss of brake air"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

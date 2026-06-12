@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q2",
+  "text": "In Requirements for internal combustion engines of Piston type, if combustion has not been detected by the engine monitoring system within an engine specific time after the opening of the fuel supply valve, the ____________________-",
+  "options": [
+    {
+      "id": "A",
+      "text": "fuel supply valve shall be automatically shut off"
+    },
+    {
+      "id": "B",
+      "text": "fuel supply valve shall be manually shut off"
+    },
+    {
+      "id": "C",
+      "text": "fuel supply valve shall be automatically switched on"
+    },
+    {
+      "id": "D",
+      "text": "fuel supply valve shall be manually switched on"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

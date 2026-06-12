@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q11",
+  "text": "What is oxygen analyser?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Instrument used to measure propane concentrations in percentage by volume"
+    },
+    {
+      "id": "B",
+      "text": "Instrument used to measure butane concentrations in percentage by volume"
+    },
+    {
+      "id": "C",
+      "text": "Instrument used to measure oxygen concentrations in percentage by volume"
+    },
+    {
+      "id": "D",
+      "text": "Instrument used to measure ethane concentrations in percentage by volume"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

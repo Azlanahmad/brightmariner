@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q25",
+  "text": "Disadvantages of Cold ironing",
+  "options": [
+    {
+      "id": "A",
+      "text": "problems not pertaining to cost"
+    },
+    {
+      "id": "B",
+      "text": "huge investment for setting up of equipments for AMP"
+    },
+    {
+      "id": "C",
+      "text": "compatible for tankers"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

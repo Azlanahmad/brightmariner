@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q15",
+  "text": "How is the arrangement for each space being inerted ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "groups"
+    },
+    {
+      "id": "B",
+      "text": "multi space"
+    },
+    {
+      "id": "C",
+      "text": "isolated"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

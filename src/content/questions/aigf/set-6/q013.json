@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q13",
+  "text": "Each __________ are fitted with an automatic shutdown device for high exhaust temperatures.",
+  "options": [
+    {
+      "id": "A",
+      "text": "pelton wheel"
+    },
+    {
+      "id": "B",
+      "text": "turbine"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

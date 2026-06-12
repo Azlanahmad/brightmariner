@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q28",
+  "text": "In allowable loads,the weight of suspended valves cause",
+  "options": [
+    {
+      "id": "A",
+      "text": "superdead loads"
+    },
+    {
+      "id": "B",
+      "text": "live loads"
+    },
+    {
+      "id": "C",
+      "text": "superimposed loads"
+    },
+    {
+      "id": "D",
+      "text": "superimposed dead loads"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

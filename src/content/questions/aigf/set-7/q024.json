@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q24",
+  "text": "Where is permanently installed gas detectors fitted?",
+  "options": [
+    {
+      "id": "A",
+      "text": "the tank connection spaces"
+    },
+    {
+      "id": "B",
+      "text": "in all ducts around gas pipes"
+    },
+    {
+      "id": "C",
+      "text": "remote operation"
+    },
+    {
+      "id": "D",
+      "text": "both (a) and (b)"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

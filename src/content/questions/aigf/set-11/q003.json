@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q3",
+  "text": "Reliquefaction systems has to be sized in a sufficient way also in case of ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "effective consumption"
+    },
+    {
+      "id": "B",
+      "text": "greater consumption"
+    },
+    {
+      "id": "C",
+      "text": "no or low consumption"
+    },
+    {
+      "id": "D",
+      "text": "high consumption"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

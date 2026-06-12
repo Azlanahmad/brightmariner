@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q10",
+  "text": "In IGF Code, IEC means",
+  "options": [
+    {
+      "id": "A",
+      "text": "International Electrochemical Commission"
+    },
+    {
+      "id": "B",
+      "text": "International Electrotechnical Commission"
+    },
+    {
+      "id": "C",
+      "text": "Indian Electrotechnical Commission"
+    },
+    {
+      "id": "D",
+      "text": "Indian Electrochemical Commission"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q12",
+  "text": "In oxygen analyser which gas in measured?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Propane"
+    },
+    {
+      "id": "B",
+      "text": "Butane"
+    },
+    {
+      "id": "C",
+      "text": "Pentane"
+    },
+    {
+      "id": "D",
+      "text": "oxygen"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

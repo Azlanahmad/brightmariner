@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q12",
+  "text": "NOX and SOX emission can be controlled by using which type of fuel",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heavy fuel oil"
+    },
+    {
+      "id": "B",
+      "text": "marine diesel oil"
+    },
+    {
+      "id": "C",
+      "text": "LNG"
+    },
+    {
+      "id": "D",
+      "text": "petrol"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

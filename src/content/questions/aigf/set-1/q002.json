@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q2",
+  "text": "What is the critical temperature (deg C) of ethylene oxide?",
+  "options": [
+    {
+      "id": "A",
+      "text": "-5947.0"
+    },
+    {
+      "id": "B",
+      "text": "-5486.0"
+    },
+    {
+      "id": "C",
+      "text": "195.7"
+    },
+    {
+      "id": "D",
+      "text": "-6249.0"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

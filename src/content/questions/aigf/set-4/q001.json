@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q1",
+  "text": "Upgrading Turbo charger to ________ will increase efficiency",
+  "options": [
+    {
+      "id": "A",
+      "text": "A to A technology"
+    },
+    {
+      "id": "B",
+      "text": "Vat tehnology"
+    },
+    {
+      "id": "C",
+      "text": "VTA technology"
+    },
+    {
+      "id": "D",
+      "text": "ATV technology"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

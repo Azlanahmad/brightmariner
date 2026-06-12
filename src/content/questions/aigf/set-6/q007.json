@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q7",
+  "text": "On the pipe of each gas burner a _______________ are fitted",
+  "options": [
+    {
+      "id": "A",
+      "text": "manually operated shut-off valve"
+    },
+    {
+      "id": "B",
+      "text": "manually operated switch-on valve"
+    },
+    {
+      "id": "C",
+      "text": "automatically operated shut-off valve"
+    },
+    {
+      "id": "D",
+      "text": "automatically operated switch-on valve"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

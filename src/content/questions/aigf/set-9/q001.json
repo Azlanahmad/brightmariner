@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q1",
+  "text": "On what basis analysis based on characteristic load values for Environmental Loads?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dynamic Valves"
+    },
+    {
+      "id": "B",
+      "text": "Specified Values"
+    },
+    {
+      "id": "C",
+      "text": "Expected Load History, but not less than 108 cycles"
+    },
+    {
+      "id": "D",
+      "text": "Expected Values"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

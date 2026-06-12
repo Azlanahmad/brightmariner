@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q21",
+  "text": "Heat exchangers can be repaired on board without ___________",
+  "options": [
+    {
+      "id": "A",
+      "text": "external sources"
+    },
+    {
+      "id": "B",
+      "text": "internal sources"
+    },
+    {
+      "id": "C",
+      "text": "heat sources"
+    },
+    {
+      "id": "D",
+      "text": "power sources"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

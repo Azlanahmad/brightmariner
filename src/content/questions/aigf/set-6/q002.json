@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q2",
+  "text": "________ increases efficieny and reduce emissions of main engine",
+  "options": [
+    {
+      "id": "A",
+      "text": "turbo charger refitting"
+    },
+    {
+      "id": "B",
+      "text": "propulsion shaft cleaning"
+    },
+    {
+      "id": "C",
+      "text": "exhaust boiler cleaning"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

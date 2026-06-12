@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q22",
+  "text": "What is not essential to the structural completeness of the ship's hull?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Enclosed tank"
+    },
+    {
+      "id": "B",
+      "text": "An independent tank"
+    },
+    {
+      "id": "C",
+      "text": "Dependent tank"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q15",
+  "text": "Environmental loads are not otherwise classified as a ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "permanent load"
+    },
+    {
+      "id": "B",
+      "text": "functional load"
+    },
+    {
+      "id": "C",
+      "text": "accidental load"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

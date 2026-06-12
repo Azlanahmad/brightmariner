@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q20",
+  "text": "______________used for refrigeration or cooling of fuel must be compatible with the fuel.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Refrigerants"
+    },
+    {
+      "id": "B",
+      "text": "freezing"
+    },
+    {
+      "id": "C",
+      "text": "boiler"
+    },
+    {
+      "id": "D",
+      "text": "Griller"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

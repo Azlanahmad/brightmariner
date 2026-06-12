@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q20",
+  "text": "What are the advantages of Mr. diesel process man engine",
+  "options": [
+    {
+      "id": "A",
+      "text": "diesel process maintain"
+    },
+    {
+      "id": "B",
+      "text": "load response unchanged"
+    },
+    {
+      "id": "C",
+      "text": "low preignition or no knocking"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

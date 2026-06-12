@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q26",
+  "text": "Advantage of hybrid turbo charger is",
+  "options": [
+    {
+      "id": "A",
+      "text": "it recovers cold energy"
+    },
+    {
+      "id": "B",
+      "text": "it recovers hot energy"
+    },
+    {
+      "id": "C",
+      "text": "it is doing nothing"
+    },
+    {
+      "id": "D",
+      "text": "it decreses the power of the main engine"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

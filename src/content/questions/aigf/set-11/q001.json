@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q1",
+  "text": "In structural analysis, ___________ may be used in combination with, or instead of, theoretical calculations.",
+  "options": [
+    {
+      "id": "A",
+      "text": "integrity"
+    },
+    {
+      "id": "B",
+      "text": "Model tests"
+    },
+    {
+      "id": "C",
+      "text": "gravity tests"
+    },
+    {
+      "id": "D",
+      "text": "dynamic tests"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

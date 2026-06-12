@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q6",
+  "text": "_______ should have after treatment systems like oxidation catalyst",
+  "options": [
+    {
+      "id": "A",
+      "text": "LNG fuel"
+    },
+    {
+      "id": "B",
+      "text": "gas fuel"
+    },
+    {
+      "id": "C",
+      "text": "coal"
+    },
+    {
+      "id": "D",
+      "text": "petrol"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

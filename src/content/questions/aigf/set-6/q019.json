@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q19",
+  "text": "Fuel tanks located above the bulkhead deck shall be shielded with ________ insulation towards accommodation.",
+  "options": [
+    {
+      "id": "A",
+      "text": "class A-60"
+    },
+    {
+      "id": "B",
+      "text": "class A-90"
+    },
+    {
+      "id": "C",
+      "text": "class A-120"
+    },
+    {
+      "id": "D",
+      "text": "class A-80"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

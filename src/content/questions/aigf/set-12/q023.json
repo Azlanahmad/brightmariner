@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q23",
+  "text": "In Direct connections of Flanged connections, Flanges in flange connections will be of ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "U welded type"
+    },
+    {
+      "id": "B",
+      "text": "slip-on or socket welded type"
+    },
+    {
+      "id": "C",
+      "text": "butt welded type"
+    },
+    {
+      "id": "D",
+      "text": "t-welded type"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q3",
+  "text": "Liquefied Petroleum Gas may be",
+  "options": [
+    {
+      "id": "A",
+      "text": "refinery by-products"
+    },
+    {
+      "id": "B",
+      "text": "may be produced in conjunction with crude oil"
+    },
+    {
+      "id": "C",
+      "text": "may be produced in conjunction with natural gas"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

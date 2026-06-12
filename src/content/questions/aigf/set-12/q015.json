@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q15",
+  "text": "In Piping fabrication,What is accomplished by use of a backing ring, consumable insert or inert gas back- up on the first pass?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Indirect connections"
+    },
+    {
+      "id": "B",
+      "text": "parallel connections"
+    },
+    {
+      "id": "C",
+      "text": "Direct connections"
+    },
+    {
+      "id": "D",
+      "text": "Diverted connections"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

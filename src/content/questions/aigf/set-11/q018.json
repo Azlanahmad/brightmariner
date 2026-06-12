@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q18",
+  "text": "For Type B tanks, the maximum primary membrane stress under test conditions of the yield will not _____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "not exceed 90%"
+    },
+    {
+      "id": "B",
+      "text": "exceed 90%"
+    },
+    {
+      "id": "C",
+      "text": "not exceed 50%"
+    },
+    {
+      "id": "D",
+      "text": "exceed 50%"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

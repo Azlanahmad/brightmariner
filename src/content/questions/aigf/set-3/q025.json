@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q25",
+  "text": "What is meant by engine performance optimization?",
+  "options": [
+    {
+      "id": "A",
+      "text": "manual increase of engine efficiency"
+    },
+    {
+      "id": "B",
+      "text": "automatic increase of engine efficiency"
+    },
+    {
+      "id": "C",
+      "text": "non automatic increase of engine efficiency"
+    },
+    {
+      "id": "D",
+      "text": "mechanical increase of engine efficiency"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

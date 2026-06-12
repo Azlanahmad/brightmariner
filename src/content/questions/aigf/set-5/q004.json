@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q4",
+  "text": "An automatic system shall be fitted to change over from __________",
+  "options": [
+    {
+      "id": "A",
+      "text": "oil fuel operation to gas fuel operation"
+    },
+    {
+      "id": "B",
+      "text": "gas fuel operation to oil fuel operation"
+    },
+    {
+      "id": "C",
+      "text": "vapour fuel operation to oil fuel operation"
+    },
+    {
+      "id": "D",
+      "text": "oil fuel operation to oil fuel operation"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

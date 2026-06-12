@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q11",
+  "text": "Advantages of VTA turbo charger",
+  "options": [
+    {
+      "id": "A",
+      "text": "to eliminates the need for auxiliary blower"
+    },
+    {
+      "id": "B",
+      "text": "reduces the fuel consumption"
+    },
+    {
+      "id": "C",
+      "text": "reduces exhaust smoke emission and hence air pollution"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

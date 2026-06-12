@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q24",
+  "text": "Which type of test covers the tensile strength not less than the specified minimum tensile strength?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tensile tests"
+    },
+    {
+      "id": "B",
+      "text": "Charpy V-notch impact tests"
+    },
+    {
+      "id": "C",
+      "text": "Bend tests"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

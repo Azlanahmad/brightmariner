@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q29",
+  "text": "Permanent external loads",
+  "options": [
+    {
+      "id": "A",
+      "text": "loads of structures and equipment acting externally on the tank"
+    },
+    {
+      "id": "B",
+      "text": "The weight of tank, thermal insulation, loads caused by towers and other attachments"
+    },
+    {
+      "id": "C",
+      "text": "Loads arising from the operational use of the tank system"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

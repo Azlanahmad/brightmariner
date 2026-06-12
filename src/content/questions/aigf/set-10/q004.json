@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q4",
+  "text": "In the minimum wall thickness,What is the unit of corrosion allowance,c?",
+  "options": [
+    {
+      "id": "A",
+      "text": "cm"
+    },
+    {
+      "id": "B",
+      "text": "mm"
+    },
+    {
+      "id": "C",
+      "text": "m"
+    },
+    {
+      "id": "D",
+      "text": "km"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

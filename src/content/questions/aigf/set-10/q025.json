@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q25",
+  "text": "In design loads, the extent to which these loads depends on the ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Man taking sounding"
+    },
+    {
+      "id": "B",
+      "text": "type of water"
+    },
+    {
+      "id": "C",
+      "text": "design engineer"
+    },
+    {
+      "id": "D",
+      "text": "type of tank"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

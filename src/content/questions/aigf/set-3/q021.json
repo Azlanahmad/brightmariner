@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q21",
+  "text": "_________ on the hull is done to increase the vessel hydrodynamic performance",
+  "options": [
+    {
+      "id": "A",
+      "text": "removal of fouling on the hull"
+    },
+    {
+      "id": "B",
+      "text": "removal of paints on the hull"
+    },
+    {
+      "id": "C",
+      "text": "addition of oil on the hull"
+    },
+    {
+      "id": "D",
+      "text": "addition of water on the hull"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

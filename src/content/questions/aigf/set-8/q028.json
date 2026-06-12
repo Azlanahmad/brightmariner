@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q28",
+  "text": "Stresses may be further limited by ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "fatigue analysis"
+    },
+    {
+      "id": "B",
+      "text": "crack propagation analysis"
+    },
+    {
+      "id": "C",
+      "text": "buckling criteria"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

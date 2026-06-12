@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q13",
+  "text": "_________ is the range of gas concentrations in air between which the mixture is flammable.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inflammable range"
+    },
+    {
+      "id": "B",
+      "text": "Flammable range"
+    },
+    {
+      "id": "C",
+      "text": "Temperature range"
+    },
+    {
+      "id": "D",
+      "text": "Pressure range"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

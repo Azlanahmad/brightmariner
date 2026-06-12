@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q18",
+  "text": "The design life of fixed liquefied gas fuel containment system __________ whichever is greater",
+  "options": [
+    {
+      "id": "A",
+      "text": "should not be less than the design life of the ship"
+    },
+    {
+      "id": "B",
+      "text": "20 years"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

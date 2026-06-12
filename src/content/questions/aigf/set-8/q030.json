@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q30",
+  "text": "On what basis analysis based on characteristic load values for Functional Loads?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Specified Values"
+    },
+    {
+      "id": "B",
+      "text": "Expected Load History, but not less than 108 cycles"
+    },
+    {
+      "id": "C",
+      "text": "Expected Values"
+    },
+    {
+      "id": "D",
+      "text": "Dynamic Valves"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

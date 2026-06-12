@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q19",
+  "text": "Which type of engine does not need exhaust gas treatment system",
+  "options": [
+    {
+      "id": "A",
+      "text": "XDF engines"
+    },
+    {
+      "id": "B",
+      "text": "YDF engines"
+    },
+    {
+      "id": "C",
+      "text": "ZDF engines"
+    },
+    {
+      "id": "D",
+      "text": "GDF engines"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

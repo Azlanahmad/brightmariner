@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q18",
+  "text": "___________ is required for the alternator fitted with HYBRID turbo charger",
+  "options": [
+    {
+      "id": "A",
+      "text": "heating system"
+    },
+    {
+      "id": "B",
+      "text": "cooling system"
+    },
+    {
+      "id": "C",
+      "text": "circulating system"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

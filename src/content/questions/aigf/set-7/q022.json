@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q22",
+  "text": "Indicators fitted on the navigation bridge, ,the engine control room and the manoeuvring platform operation of Main engine",
+  "options": [
+    {
+      "id": "A",
+      "text": "manoeuvring platform"
+    },
+    {
+      "id": "B",
+      "text": "Deck"
+    },
+    {
+      "id": "C",
+      "text": "Pump room"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

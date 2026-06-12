@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q7",
+  "text": "The _________ tecnhnology concept is based on the lean burn principle",
+  "options": [
+    {
+      "id": "A",
+      "text": "high pressure YDF"
+    },
+    {
+      "id": "B",
+      "text": "low pressure XDF"
+    },
+    {
+      "id": "C",
+      "text": "low pressure YDF"
+    },
+    {
+      "id": "D",
+      "text": "high pressure XDF"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

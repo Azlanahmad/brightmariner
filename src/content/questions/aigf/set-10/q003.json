@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q3",
+  "text": "In the minimum wall thickness, t=(to + b + c)/(1 - a/100)(mm), What is c?",
+  "options": [
+    {
+      "id": "A",
+      "text": "cargo allowance"
+    },
+    {
+      "id": "B",
+      "text": "cargo limitation"
+    },
+    {
+      "id": "C",
+      "text": "corrosion condition"
+    },
+    {
+      "id": "D",
+      "text": "corrosion allowance"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

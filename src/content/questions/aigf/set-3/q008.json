@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q8",
+  "text": "LNG as fuel, Sulphur Oxide (SOx) and particulates emissions are ---------- compared to diesel or heavy fuel oil powered vessels.",
+  "options": [
+    {
+      "id": "A",
+      "text": "more"
+    },
+    {
+      "id": "B",
+      "text": "negligible."
+    },
+    {
+      "id": "C",
+      "text": "great"
+    },
+    {
+      "id": "D",
+      "text": "both a and c"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

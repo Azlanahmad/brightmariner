@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q21",
+  "text": "In Provision made in Functional requirements, fuel tanks from excessive stresses are due to _________",
+  "options": [
+    {
+      "id": "A",
+      "text": "pressure movement"
+    },
+    {
+      "id": "B",
+      "text": "thermal movement"
+    },
+    {
+      "id": "C",
+      "text": "vaccum movement"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

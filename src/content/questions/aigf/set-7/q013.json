@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q13",
+  "text": "Spaces surrounding fuel tanks is filled with which type of air?",
+  "options": [
+    {
+      "id": "A",
+      "text": "moistured air"
+    },
+    {
+      "id": "B",
+      "text": "vapour"
+    },
+    {
+      "id": "C",
+      "text": "cool air"
+    },
+    {
+      "id": "D",
+      "text": "dry air"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

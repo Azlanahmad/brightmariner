@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q21",
+  "text": "Mr otto process LNG engine has got following advantage",
+  "options": [
+    {
+      "id": "A",
+      "text": "reduction in nox emissions"
+    },
+    {
+      "id": "B",
+      "text": "low pressure gas injection"
+    },
+    {
+      "id": "C",
+      "text": "gas mixture is important"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

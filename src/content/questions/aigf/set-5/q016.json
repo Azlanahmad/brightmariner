@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q16",
+  "text": "In Requirements for internal combustion engines of Piston type, each engine other than _______________ are fitted with vent systems independent of other engines for crankcases and sumps",
+  "options": [
+    {
+      "id": "A",
+      "text": "single-stroke crosshead diesel engines"
+    },
+    {
+      "id": "B",
+      "text": "two-stroke crosshead petrol engines"
+    },
+    {
+      "id": "C",
+      "text": "single-stroke crosshead petrol engines"
+    },
+    {
+      "id": "D",
+      "text": "two-stroke crosshead diesel engines"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

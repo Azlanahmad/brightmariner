@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q8",
+  "text": "A ship be converted to __________ for auxiliary machinery after date of entry into force shall comply with IGF Code?",
+  "options": [
+    {
+      "id": "A",
+      "text": "dual fuel"
+    },
+    {
+      "id": "B",
+      "text": "low-flashpoint fuel"
+    },
+    {
+      "id": "C",
+      "text": "use of gas as fuel"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q24",
+  "text": "Disadvantage of hybrid turbo charger is",
+  "options": [
+    {
+      "id": "A",
+      "text": "heat generated is less"
+    },
+    {
+      "id": "B",
+      "text": "heat generated is more"
+    },
+    {
+      "id": "C",
+      "text": "doesn’t require lubrication"
+    },
+    {
+      "id": "D",
+      "text": "doesn’t require cooling"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q24",
+  "text": "The ship's motion shall include ______________",
+  "options": [
+    {
+      "id": "A",
+      "text": "surge"
+    },
+    {
+      "id": "B",
+      "text": "sway"
+    },
+    {
+      "id": "C",
+      "text": "heave"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

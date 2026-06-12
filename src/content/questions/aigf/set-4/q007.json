@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q7",
+  "text": "What is mean by jet assist systems?",
+  "options": [
+    {
+      "id": "A",
+      "text": "giving compressed air from an external source to aid compresser will acceleration in turbo chargers"
+    },
+    {
+      "id": "B",
+      "text": "to give compressed air service to auxiliary engines"
+    },
+    {
+      "id": "C",
+      "text": "to give compressed air supply for cleaning sewage treatment plant"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

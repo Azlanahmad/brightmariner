@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q17",
+  "text": "Low tire 3 nox emission limit can be achieved by which technology",
+  "options": [
+    {
+      "id": "A",
+      "text": "high pressure YDF"
+    },
+    {
+      "id": "B",
+      "text": "low pressure XDF"
+    },
+    {
+      "id": "C",
+      "text": "low pressure YDF"
+    },
+    {
+      "id": "D",
+      "text": "high pressure XDF"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

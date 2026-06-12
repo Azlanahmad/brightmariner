@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q27",
+  "text": "In allowable loads, liquid pressure surge during transfer operations cause",
+  "options": [
+    {
+      "id": "A",
+      "text": "live loads"
+    },
+    {
+      "id": "B",
+      "text": "superimposed dead loads"
+    },
+    {
+      "id": "C",
+      "text": "superdead loads"
+    },
+    {
+      "id": "D",
+      "text": "superimposed loads"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

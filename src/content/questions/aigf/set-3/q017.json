@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q17",
+  "text": "What is the RPM of a turbo charger?",
+  "options": [
+    {
+      "id": "A",
+      "text": "5000"
+    },
+    {
+      "id": "B",
+      "text": "6000"
+    },
+    {
+      "id": "C",
+      "text": "7000"
+    },
+    {
+      "id": "D",
+      "text": "9000"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

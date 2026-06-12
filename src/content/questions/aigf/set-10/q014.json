@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q14",
+  "text": "What is Gas safe machinery spaces?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Arrangements in machinery spaces are such that the spaces are considered gas safe under all conditions, normal as well as abnormal conditions"
+    },
+    {
+      "id": "B",
+      "text": "Arrangements in machinery spaces are such that the spaces are considered non-hazardous"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

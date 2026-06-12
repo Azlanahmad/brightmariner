@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q24",
+  "text": "In design loads, Load categories contains __________",
+  "options": [
+    {
+      "id": "A",
+      "text": "environmental load"
+    },
+    {
+      "id": "B",
+      "text": "accidental load"
+    },
+    {
+      "id": "C",
+      "text": "permanent load"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

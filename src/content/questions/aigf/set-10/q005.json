@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q5",
+  "text": "The absolute minimum wall thickness are in accordance with",
+  "options": [
+    {
+      "id": "A",
+      "text": "a standard acceptable to the Administration"
+    },
+    {
+      "id": "B",
+      "text": "own set of rules"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

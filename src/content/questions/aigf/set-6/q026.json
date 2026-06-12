@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q26",
+  "text": "The properties for Thermal insulation the range should be how much",
+  "options": [
+    {
+      "id": "A",
+      "text": "minimum"
+    },
+    {
+      "id": "B",
+      "text": "between temperature in service and 5°C below the minimum design temperature"
+    },
+    {
+      "id": "C",
+      "text": "neutral"
+    },
+    {
+      "id": "D",
+      "text": "zero"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q27",
+  "text": "What is restricted gauging?",
+  "options": [
+    {
+      "id": "A",
+      "text": "the device is kept completely closed when the device is not in use"
+    },
+    {
+      "id": "B",
+      "text": "A system employing a device, which penetrates the tank and which when in use permits a small quantity of cargo vapour to be expelled to the atmosphere."
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

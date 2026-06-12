@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q9",
+  "text": "What is appropriate in greater design conditions used for piping, piping system and components?",
+  "options": [
+    {
+      "id": "A",
+      "text": "the MARVS of the fuel tanks and pressure processing systems"
+    },
+    {
+      "id": "B",
+      "text": "the MARVS of the fuel tanks and gas processing systems"
+    },
+    {
+      "id": "C",
+      "text": "the MARVS of the fuel tanks and fuel processing systems"
+    },
+    {
+      "id": "D",
+      "text": "the MARVS of the vapour tanks and fuel processing systems"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

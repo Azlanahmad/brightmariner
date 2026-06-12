@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q30",
+  "text": "What is Saturated Vapour Pressure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The mass of the gas at a given temperature compared with the mass of an equal volume of gas at the same temperature at a different given temperature"
+    },
+    {
+      "id": "B",
+      "text": "The phenomenon where the stabilty of two stratified layers of liquid of differing relative density distributed resulting in a spomtaneous rapid mixing of the layers accompanied in the case of liquefied gases, by violent vapour evolution"
+    },
+    {
+      "id": "C",
+      "text": "The pressure at which a vapour is in equilibrium with its liquid at a specific temperature"
+    },
+    {
+      "id": "D",
+      "text": "Heat energy given to or taken from a substance which raises or lowers its temperature"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

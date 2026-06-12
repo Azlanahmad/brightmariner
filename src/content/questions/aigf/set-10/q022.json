@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q22",
+  "text": "The partial secondary barrier include means to detect a leak in the primary barrier, provision such as a _____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "spray shield to deflect any liquefied gas fuel down into the partial secondary barrier"
+    },
+    {
+      "id": "B",
+      "text": "means to dispose of the liquid which may be by natural evaporation"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q25",
+  "text": "Which type of test conducted at the temperature prescribed for the base material being joined?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tensile tests"
+    },
+    {
+      "id": "B",
+      "text": "Charpy V-notch impact tests"
+    },
+    {
+      "id": "C",
+      "text": "Bend tests"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

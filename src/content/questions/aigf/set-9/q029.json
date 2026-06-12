@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q29",
+  "text": "In the theoretical thickness, What is the unit of D,outside diameter?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bar"
+    },
+    {
+      "id": "B",
+      "text": "mm"
+    },
+    {
+      "id": "C",
+      "text": "Newtons"
+    },
+    {
+      "id": "D",
+      "text": "km"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

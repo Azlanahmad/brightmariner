@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q2",
+  "text": "What are the accident design conditions addressed in IGF Code?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Collision"
+    },
+    {
+      "id": "B",
+      "text": "Fire"
+    },
+    {
+      "id": "C",
+      "text": "Flooded compartment causing buoyancy on tank"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

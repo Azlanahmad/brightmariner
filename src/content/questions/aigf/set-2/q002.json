@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q2",
+  "text": "In Liquefied Petroleum Gas, __________ can be shipped seperately or as a mixture.",
+  "options": [
+    {
+      "id": "A",
+      "text": "propane"
+    },
+    {
+      "id": "B",
+      "text": "butane"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q11",
+  "text": "Interbarrier and hold spaces associated with cargo containment systems are kept inerted with make-up gas provided by a shipboard _________________",
+  "options": [
+    {
+      "id": "A",
+      "text": "flammable gas generation system"
+    },
+    {
+      "id": "B",
+      "text": "Green gas generation system"
+    },
+    {
+      "id": "C",
+      "text": "inert gas generation system"
+    },
+    {
+      "id": "D",
+      "text": "toxic gas generation system"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

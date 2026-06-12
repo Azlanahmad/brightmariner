@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q8",
+  "text": "___________ are for maintaining the pressure and temperature of the gas fuel tanks within their design ranges",
+  "options": [
+    {
+      "id": "A",
+      "text": "Primary system"
+    },
+    {
+      "id": "B",
+      "text": "Heat exchangers"
+    },
+    {
+      "id": "C",
+      "text": "Freezing"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

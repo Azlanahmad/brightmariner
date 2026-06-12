@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q9",
+  "text": "LNG has fuel reduces Nox emission by about",
+  "options": [
+    {
+      "id": "A",
+      "text": "100%"
+    },
+    {
+      "id": "B",
+      "text": "90%"
+    },
+    {
+      "id": "C",
+      "text": "91%"
+    },
+    {
+      "id": "D",
+      "text": "92%"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

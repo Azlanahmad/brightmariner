@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q27",
+  "text": "Hybrid turbo charger is useful in __________",
+  "options": [
+    {
+      "id": "A",
+      "text": "cutting down emission from the ship"
+    },
+    {
+      "id": "B",
+      "text": "cutting down garbage from the ship"
+    },
+    {
+      "id": "C",
+      "text": "cutting down sewage from the ship"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

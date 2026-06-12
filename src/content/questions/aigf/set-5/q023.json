@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q23",
+  "text": "Two stage turbo charging of auxiliary engines increases",
+  "options": [
+    {
+      "id": "A",
+      "text": "fuel consumption high"
+    },
+    {
+      "id": "B",
+      "text": "reduce emissions"
+    },
+    {
+      "id": "C",
+      "text": "not extensive experience in component design"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

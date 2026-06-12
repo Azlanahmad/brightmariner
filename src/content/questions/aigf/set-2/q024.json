@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q24",
+  "text": "R22 is virtually non-toxic with a _______",
+  "options": [
+    {
+      "id": "A",
+      "text": "TLV of 2 ppm"
+    },
+    {
+      "id": "B",
+      "text": "TLV of 1,000 ppm"
+    },
+    {
+      "id": "C",
+      "text": "TLV of 30 ppm"
+    },
+    {
+      "id": "D",
+      "text": "TLV of 500 ppm"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

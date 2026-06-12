@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q18",
+  "text": "How is polymer formed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The chemical union of two or more molecules of the same compound to form a larger molecule of a new compound"
+    },
+    {
+      "id": "B",
+      "text": "The chemical union of two or more molecules of the same compound to form a smaller molecule of a new compound"
+    },
+    {
+      "id": "C",
+      "text": "The chemical reaction of one molecule of the same compound to form a smaller molecule of a new compound"
+    },
+    {
+      "id": "D",
+      "text": "The chemical reaction of one molecule of the same compound to form a larger molecule of a new compound"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

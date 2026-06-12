@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q14",
+  "text": "XDF engine provide which benefit",
+  "options": [
+    {
+      "id": "A",
+      "text": "low pressure gas supply"
+    },
+    {
+      "id": "B",
+      "text": "pilot fuel quantity below 1%"
+    },
+    {
+      "id": "C",
+      "text": "DF engine can be operated on gas from ideal"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

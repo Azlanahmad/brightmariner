@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q17",
+  "text": "In Piping fabrication, For design pressures in 10 bar and design temperatures of ___________, backing rings will be removed.",
+  "options": [
+    {
+      "id": "A",
+      "text": "plus 5°C"
+    },
+    {
+      "id": "B",
+      "text": "minus 10°C"
+    },
+    {
+      "id": "C",
+      "text": "minus 5°C"
+    },
+    {
+      "id": "D",
+      "text": "plus 10°C"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

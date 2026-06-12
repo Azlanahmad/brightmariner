@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q4",
+  "text": "IMDG Code means",
+  "options": [
+    {
+      "id": "A",
+      "text": "Indian Maritime Dangerous Goods Code"
+    },
+    {
+      "id": "B",
+      "text": "International Maritime Dangerous Goods Code"
+    },
+    {
+      "id": "C",
+      "text": "International Marine Dangerous Goods Code"
+    },
+    {
+      "id": "D",
+      "text": "International Maritime Deck Goods Code"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

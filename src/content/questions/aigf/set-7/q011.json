@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q11",
+  "text": "GCU means ___________________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Goods Combustion Unit"
+    },
+    {
+      "id": "B",
+      "text": "Gas Consumption Unit"
+    },
+    {
+      "id": "C",
+      "text": "Gas Combustion Unit"
+    },
+    {
+      "id": "D",
+      "text": "Gas Combining Unit"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

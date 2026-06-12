@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q27",
+  "text": "The properties for Thermal insulation and other materials including composites tested how much should be the minimum Design temperature should not be lower than__________",
+  "options": [
+    {
+      "id": "A",
+      "text": "plus196°C"
+    },
+    {
+      "id": "B",
+      "text": "minus196°F"
+    },
+    {
+      "id": "C",
+      "text": "minus196°C"
+    },
+    {
+      "id": "D",
+      "text": "plus196°F"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

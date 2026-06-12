@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q4",
+  "text": "Thermal oxidation is done by consumption of the vapours according to the __________________.",
+  "options": [
+    {
+      "id": "A",
+      "text": "regulations for consumers"
+    },
+    {
+      "id": "B",
+      "text": "regulations for cargo"
+    },
+    {
+      "id": "C",
+      "text": "regulations for ship"
+    },
+    {
+      "id": "D",
+      "text": "regulations for flag"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

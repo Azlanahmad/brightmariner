@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q16",
+  "text": "To make a fuel cell space non hazardous, all fuel pipes are enclosed in a gas tight _________",
+  "options": [
+    {
+      "id": "A",
+      "text": "double open space"
+    },
+    {
+      "id": "B",
+      "text": "ring space"
+    },
+    {
+      "id": "C",
+      "text": "double enclosure"
+    },
+    {
+      "id": "D",
+      "text": "single enclosure"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

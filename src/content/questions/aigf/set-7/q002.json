@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q2",
+  "text": "Speed recovery solutions can save fuel upto",
+  "options": [
+    {
+      "id": "A",
+      "text": "1%"
+    },
+    {
+      "id": "B",
+      "text": "2%"
+    },
+    {
+      "id": "C",
+      "text": "4-11%"
+    },
+    {
+      "id": "D",
+      "text": "20-30%"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

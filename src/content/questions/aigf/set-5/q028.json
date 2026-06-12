@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q28",
+  "text": "________ produces electricity from the main proposion engine",
+  "options": [
+    {
+      "id": "A",
+      "text": "auxiliary geenrator"
+    },
+    {
+      "id": "B",
+      "text": "main geenrator"
+    },
+    {
+      "id": "C",
+      "text": "shaft generator"
+    },
+    {
+      "id": "D",
+      "text": "ordinary generator"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

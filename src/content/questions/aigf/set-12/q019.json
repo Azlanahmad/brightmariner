@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q19",
+  "text": "In Direct connections of Piping fabrication, Slip-on welded joints are only be used for instrument lines and open-ended lines with an ___________",
+  "options": [
+    {
+      "id": "A",
+      "text": "external diameter of 50 mm or more"
+    },
+    {
+      "id": "B",
+      "text": "internal diameter of 50 mm or more"
+    },
+    {
+      "id": "C",
+      "text": "internal diameter of 50 mm or less"
+    },
+    {
+      "id": "D",
+      "text": "external diameter of 50 mm or less"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q28",
+  "text": "In Requirements for internal combustion engines of Piston type, gas can leak ___________ into the auxiliary system medium",
+  "options": [
+    {
+      "id": "A",
+      "text": "differently"
+    },
+    {
+      "id": "B",
+      "text": "directly"
+    },
+    {
+      "id": "C",
+      "text": "indirectly"
+    },
+    {
+      "id": "D",
+      "text": "invariably"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

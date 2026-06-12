@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q6",
+  "text": "What is the critical pressure (bars, absolute) of Methane?",
+  "options": [
+    {
+      "id": "A",
+      "text": "-5947.0"
+    },
+    {
+      "id": "B",
+      "text": "44.7"
+    },
+    {
+      "id": "C",
+      "text": "-2345.0"
+    },
+    {
+      "id": "D",
+      "text": "-6249.0"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

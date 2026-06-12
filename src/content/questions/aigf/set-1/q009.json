@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q9",
+  "text": "In IGF Code, Which is called Fuel containment system",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cargo tank"
+    },
+    {
+      "id": "B",
+      "text": "the arrangement for the storage of fuel including and connections"
+    },
+    {
+      "id": "C",
+      "text": "Any tank"
+    },
+    {
+      "id": "D",
+      "text": "the transfer of liquid from land based"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

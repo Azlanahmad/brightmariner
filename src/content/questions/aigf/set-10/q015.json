@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q15",
+  "text": "What is Emergency Shutdown-protected machinery spaces?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Arrangements in machinery spaces are such that the spaces are considered gas safe under all conditions, normal as well as abnormal conditions"
+    },
+    {
+      "id": "B",
+      "text": "Arrangements in machinery spaces are such that the spaces are considered non-hazardous under normal conditions, but under certain abnormal conditions may have the potential to become hazardous"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

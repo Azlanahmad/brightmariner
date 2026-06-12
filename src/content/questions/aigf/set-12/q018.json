@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q18",
+  "text": "In Direct connections of Piping fabrication, ____________ with sleeves and related welding, having dimensions in accordance with recognized standards",
+  "options": [
+    {
+      "id": "A",
+      "text": "socket welded joints"
+    },
+    {
+      "id": "B",
+      "text": "T - welded joints"
+    },
+    {
+      "id": "C",
+      "text": "Slip-on welded joints"
+    },
+    {
+      "id": "D",
+      "text": "U- welded joints"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

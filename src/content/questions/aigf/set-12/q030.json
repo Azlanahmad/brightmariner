@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q30",
+  "text": "In Deep well pump, the prime mover is usually an ________",
+  "options": [
+    {
+      "id": "A",
+      "text": "electric motor"
+    },
+    {
+      "id": "B",
+      "text": "hydraulic motor"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q19",
+  "text": "An automatic system are fitted to change over from one fuel operation to an alternative fuel operation with ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "maximum fluctuation of the engine power"
+    },
+    {
+      "id": "B",
+      "text": "nil fluctuation of the engine power"
+    },
+    {
+      "id": "C",
+      "text": "minimum fluctuation of the engine power"
+    },
+    {
+      "id": "D",
+      "text": "higher fluctuation of the engine power"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

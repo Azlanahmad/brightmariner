@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q7",
+  "text": "Which method is used in case of a single failure of the fuel tank pressure and temperature can be maintained by another service/system ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Primary system and its supporting auxiliary services"
+    },
+    {
+      "id": "B",
+      "text": "Refrigerants system and its supporting auxiliary services"
+    },
+    {
+      "id": "C",
+      "text": "The availability of the system and its supporting auxiliary services"
+    },
+    {
+      "id": "D",
+      "text": "The non-availability of the system and its supporting auxiliary services"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

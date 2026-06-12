@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q21",
+  "text": "In Direct connections of Piping fabrication, ____________ used for accessory lines and instrumentation lines with external diameters of 25 mm or less.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Screwed couplings"
+    },
+    {
+      "id": "B",
+      "text": "glued coupling"
+    },
+    {
+      "id": "C",
+      "text": "threaded coupling"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

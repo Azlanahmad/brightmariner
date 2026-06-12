@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q7",
+  "text": "How shall a ship be converted to __________ for main machinery after date of entry into force shall comply with IGF Code?",
+  "options": [
+    {
+      "id": "A",
+      "text": "consume gas"
+    },
+    {
+      "id": "B",
+      "text": "dual fuel"
+    },
+    {
+      "id": "C",
+      "text": "low-flashpoint fuel"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

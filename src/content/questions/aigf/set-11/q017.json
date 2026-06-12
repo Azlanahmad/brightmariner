@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q17",
+  "text": "What test is for Type A independent tanks?",
+  "options": [
+    {
+      "id": "A",
+      "text": "hydrostatic test"
+    },
+    {
+      "id": "B",
+      "text": "hydropneumatic test"
+    },
+    {
+      "id": "C",
+      "text": "hydrodynamic test"
+    },
+    {
+      "id": "D",
+      "text": "both (a) and (b)"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

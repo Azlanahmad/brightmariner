@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q14",
+  "text": "In connections to the gas piping systems, what are substituted for the valves?",
+  "options": [
+    {
+      "id": "A",
+      "text": "two nonreturn valves"
+    },
+    {
+      "id": "B",
+      "text": "two return valves"
+    },
+    {
+      "id": "C",
+      "text": "single nonreturn valves"
+    },
+    {
+      "id": "D",
+      "text": "multi nonreturn valves"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

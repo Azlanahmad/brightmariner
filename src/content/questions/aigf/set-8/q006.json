@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q6",
+  "text": "the fuel when carried in a fuel containment system requiring a complete or partial secondary barrier, at temperatures below ____________, the ship shall also have a longitudinal bulkhead forming side tanks",
+  "options": [
+    {
+      "id": "A",
+      "text": "minus 55ºC"
+    },
+    {
+      "id": "B",
+      "text": "plus 55ºC"
+    },
+    {
+      "id": "C",
+      "text": "0ºC"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

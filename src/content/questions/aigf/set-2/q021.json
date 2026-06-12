@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q21",
+  "text": "___________ is a refrigerant gas?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A22"
+    },
+    {
+      "id": "B",
+      "text": "R22"
+    },
+    {
+      "id": "C",
+      "text": "C24"
+    },
+    {
+      "id": "D",
+      "text": "B65"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

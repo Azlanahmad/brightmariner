@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q30",
+  "text": "Alternate Marine Power provides powers to",
+  "options": [
+    {
+      "id": "A",
+      "text": "lights"
+    },
+    {
+      "id": "B",
+      "text": "refrigerator"
+    },
+    {
+      "id": "C",
+      "text": "air conditioner"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

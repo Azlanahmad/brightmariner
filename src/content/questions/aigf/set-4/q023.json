@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q23",
+  "text": "Disadvantage of rerating a engine is",
+  "options": [
+    {
+      "id": "A",
+      "text": "this may require additional denox measures"
+    },
+    {
+      "id": "B",
+      "text": "this may require additional sox measures"
+    },
+    {
+      "id": "C",
+      "text": "increased specific fuel oil consumption"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

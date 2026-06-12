@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q5",
+  "text": "Reliquefaction of vapours method chosen shall be capable of maintaining tank pressure ___________ of the tank for a period of 15 days assuming full tank at normal service pressure",
+  "options": [
+    {
+      "id": "A",
+      "text": "above the set pressure"
+    },
+    {
+      "id": "B",
+      "text": "below the set pressure"
+    },
+    {
+      "id": "C",
+      "text": "below the set volume"
+    },
+    {
+      "id": "D",
+      "text": "above the set volume"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

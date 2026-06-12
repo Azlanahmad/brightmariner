@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q24",
+  "text": "In structural analysis, the most unfavourable scenarios for all relevant phases during ____________ shall be considered",
+  "options": [
+    {
+      "id": "A",
+      "text": "construction stage"
+    },
+    {
+      "id": "B",
+      "text": "handling stage"
+    },
+    {
+      "id": "C",
+      "text": "testing stage"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

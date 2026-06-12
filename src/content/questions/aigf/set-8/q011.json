@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q11",
+  "text": "External design pressure loads can be based on the difference between the",
+  "options": [
+    {
+      "id": "A",
+      "text": "inside temperature and outside temperature"
+    },
+    {
+      "id": "B",
+      "text": "minimum internal pressure and the maximum external pressure to which any portion of the tank"
+    },
+    {
+      "id": "C",
+      "text": "No need to consider any pressure while designing"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

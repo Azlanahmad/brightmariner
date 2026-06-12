@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q20",
+  "text": "The design of the secondary barrier, including spray shield if fitted will be __________",
+  "options": [
+    {
+      "id": "A",
+      "text": "it is capable of containing any envisaged leakage of liquefied gas fuel for a period of 15 days"
+    },
+    {
+      "id": "B",
+      "text": "physical, mechanical or operational events within the liquefied gas fuel tank"
+    },
+    {
+      "id": "C",
+      "text": "failure of a support or an attachment to the hull structure will not lead to loss of liquid tightness of both the primary and secondary barriers"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

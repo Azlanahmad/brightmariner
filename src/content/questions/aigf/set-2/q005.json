@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q5",
+  "text": "Maximum Allowable Relief Valve Setting on a ship's cargo tank as stated on the __________",
+  "options": [
+    {
+      "id": "A",
+      "text": "refinery by-products"
+    },
+    {
+      "id": "B",
+      "text": "ship's Certificate of Fitness"
+    },
+    {
+      "id": "C",
+      "text": "production of conjunction with crude oil"
+    },
+    {
+      "id": "D",
+      "text": "free from chemical"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

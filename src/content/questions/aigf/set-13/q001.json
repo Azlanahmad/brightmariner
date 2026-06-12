@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s13-q1",
+  "text": "In Deep well pump, the motor is usually mounted on the top of the ________________",
+  "options": [
+    {
+      "id": "A",
+      "text": "cargo tanks"
+    },
+    {
+      "id": "B",
+      "text": "drives via long transmission shaft"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 13,
+  "explanation": ""
+}

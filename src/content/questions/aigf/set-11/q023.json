@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q23",
+  "text": "During test, what is tested in valves?",
+  "options": [
+    {
+      "id": "A",
+      "text": "width of the valve"
+    },
+    {
+      "id": "B",
+      "text": "operation of the valve"
+    },
+    {
+      "id": "C",
+      "text": "colour of the valve"
+    },
+    {
+      "id": "D",
+      "text": "length of the valve"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

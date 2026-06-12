@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q22",
+  "text": "What is latent heat of vaporization?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Quality of heat to change the state of a substance from liquid to vapour without change of temperature"
+    },
+    {
+      "id": "B",
+      "text": "sufficiently free from chemical"
+    },
+    {
+      "id": "C",
+      "text": "sufficiently free from hydrocarbon gases"
+    },
+    {
+      "id": "D",
+      "text": "permitting the outward passage of gas"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

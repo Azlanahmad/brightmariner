@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q14",
+  "text": "In Requirements for internal combustion engines of Piston type, The exhaust system shall be equipped with ____________ to prevent excessive explosion pressures.",
+  "options": [
+    {
+      "id": "A",
+      "text": "explosion relief ventilation"
+    },
+    {
+      "id": "B",
+      "text": "gravity ventilation"
+    },
+    {
+      "id": "C",
+      "text": "primary relief ventilation"
+    },
+    {
+      "id": "D",
+      "text": "circuit relief ventilation"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

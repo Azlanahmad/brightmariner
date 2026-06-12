@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q19",
+  "text": "In addition to fuel savings WHRS gives",
+  "options": [
+    {
+      "id": "A",
+      "text": "large CO2 reduction"
+    },
+    {
+      "id": "B",
+      "text": "large NOX reduction"
+    },
+    {
+      "id": "C",
+      "text": "large sox reduction"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

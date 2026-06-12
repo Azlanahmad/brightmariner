@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q9",
+  "text": "____________ within the exhaust uptakes to be lead to a non-hazardous location away from personnel.",
+  "options": [
+    {
+      "id": "A",
+      "text": "closable non-return valve system"
+    },
+    {
+      "id": "B",
+      "text": "Pressure relief systems"
+    },
+    {
+      "id": "C",
+      "text": "two nonreturn valves system"
+    },
+    {
+      "id": "D",
+      "text": "single nonreturn valves system"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

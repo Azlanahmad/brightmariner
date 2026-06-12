@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q27",
+  "text": "The advantage of hydrogen powered vessels is _______",
+  "options": [
+    {
+      "id": "A",
+      "text": "there is no emission of CO2"
+    },
+    {
+      "id": "B",
+      "text": "there is no emission of SO2"
+    },
+    {
+      "id": "C",
+      "text": "there is no emission of nox"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

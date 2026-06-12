@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q26",
+  "text": "Energy recovery can be achieved by _________",
+  "options": [
+    {
+      "id": "A",
+      "text": "fixing sails or wings"
+    },
+    {
+      "id": "B",
+      "text": "Not fixing flettner rotors"
+    },
+    {
+      "id": "C",
+      "text": "Not fixing kite"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

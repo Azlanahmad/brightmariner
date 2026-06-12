@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q17",
+  "text": "The accelerations acting on tanks shall be estimated at their centre of gravity and includes which type of components?",
+  "options": [
+    {
+      "id": "A",
+      "text": "vertical acceleration: motion accelerations of heave, pitch and, possibly roll"
+    },
+    {
+      "id": "B",
+      "text": "transverse acceleration: motion accelerations of sway, yaw and roll and gravity component of roll"
+    },
+    {
+      "id": "C",
+      "text": "longitudinal acceleration: motion accelerations of surge and pitch and gravity component of pitch"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

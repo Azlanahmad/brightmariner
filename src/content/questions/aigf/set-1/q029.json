@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q29",
+  "text": "What is lower flamable limit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The concentration of a carbon gas in air below which there is insufficient hydrocarbon to support combustion."
+    },
+    {
+      "id": "B",
+      "text": "The concentration of a hydrogen gas in air below which there is insufficient hydrocarbon to support combustion."
+    },
+    {
+      "id": "C",
+      "text": "The concentration of a hydrocarbon gas in air below which there is insufficient hydrocarbon to support combustion."
+    },
+    {
+      "id": "D",
+      "text": "The concentration of a nitrocarbon gas in air below which there is insufficient hydrocarbon to support combustion."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

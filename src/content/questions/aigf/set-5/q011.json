@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q11",
+  "text": "In power generation including propulsion and other energy converters, the strength to withstand the worst case over pressure due to ignited gas leaks to contain an ignitable gas and air mixture are fitted with ______________",
+  "options": [
+    {
+      "id": "A",
+      "text": "closable non-return valve system"
+    },
+    {
+      "id": "B",
+      "text": "Pressure relief systems"
+    },
+    {
+      "id": "C",
+      "text": "two nonreturn valves system"
+    },
+    {
+      "id": "D",
+      "text": "single nonreturn valves system"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

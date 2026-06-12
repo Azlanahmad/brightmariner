@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q5",
+  "text": "In the case of unstable operation on engines when gas firing, the engine shall automatically change to ______________",
+  "options": [
+    {
+      "id": "A",
+      "text": "oil fuel mode"
+    },
+    {
+      "id": "B",
+      "text": "gas fuel mode"
+    },
+    {
+      "id": "C",
+      "text": "vapour fuel mode"
+    },
+    {
+      "id": "D",
+      "text": "fuel mode"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

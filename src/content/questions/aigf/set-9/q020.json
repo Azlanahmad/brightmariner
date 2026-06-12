@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q20",
+  "text": "What is fuel piping capable of?",
+  "options": [
+    {
+      "id": "A",
+      "text": "eliminate vaccum space"
+    },
+    {
+      "id": "B",
+      "text": "eliminate thermal expansion"
+    },
+    {
+      "id": "C",
+      "text": "absorbing thermal expansion"
+    },
+    {
+      "id": "D",
+      "text": "absorbing vaccum space"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

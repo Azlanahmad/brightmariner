@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q2",
+  "text": "In allowance for bending, What is the unit of r,mean radius of the bend?",
+  "options": [
+    {
+      "id": "A",
+      "text": "m"
+    },
+    {
+      "id": "B",
+      "text": "cm"
+    },
+    {
+      "id": "C",
+      "text": "mm"
+    },
+    {
+      "id": "D",
+      "text": "km"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q19",
+  "text": "What does goal of material and general pipe design minimize?",
+  "options": [
+    {
+      "id": "A",
+      "text": "the risk to the ship"
+    },
+    {
+      "id": "B",
+      "text": "risk personnel"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q10",
+  "text": "Interbarrier and hold spaces associated with cargo containment systems for ______________ requiring full or partial secondary barriers shall be inerted with a suitable dry inert gas",
+  "options": [
+    {
+      "id": "A",
+      "text": "inflammable gases"
+    },
+    {
+      "id": "B",
+      "text": "Inert gas"
+    },
+    {
+      "id": "C",
+      "text": "flammable gases"
+    },
+    {
+      "id": "D",
+      "text": "Green gas"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

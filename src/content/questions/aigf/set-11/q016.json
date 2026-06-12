@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q16",
+  "text": "Pressure relief systems is for which type of fuel tanks?",
+  "options": [
+    {
+      "id": "A",
+      "text": "high-flashpoint liquid fuel tanks"
+    },
+    {
+      "id": "B",
+      "text": "low-flashpoint liquid fuel tanks"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

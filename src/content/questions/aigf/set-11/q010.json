@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q10",
+  "text": "How will be the access to tanks and cofferdams?",
+  "options": [
+    {
+      "id": "A",
+      "text": "be indirect from open deck"
+    },
+    {
+      "id": "B",
+      "text": "be direct from open deck"
+    },
+    {
+      "id": "C",
+      "text": "be direct from closed deck"
+    },
+    {
+      "id": "D",
+      "text": "be indirect from closed deck"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

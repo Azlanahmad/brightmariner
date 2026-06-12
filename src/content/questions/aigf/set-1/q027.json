@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q27",
+  "text": "In Liquefied gas, a liquid which has a saturated vapour pressure __________ 2.8 bar absolute at 37.80C and certain other substances specified in the Gas Codes.",
+  "options": [
+    {
+      "id": "A",
+      "text": "decreasing"
+    },
+    {
+      "id": "B",
+      "text": "exceeding"
+    },
+    {
+      "id": "C",
+      "text": "maintaining"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

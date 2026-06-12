@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q28",
+  "text": "In the theoretical thickness, to=PD/(20Ke + P) (mm), What is D?",
+  "options": [
+    {
+      "id": "A",
+      "text": "outside diameter"
+    },
+    {
+      "id": "B",
+      "text": "PRESSURE"
+    },
+    {
+      "id": "C",
+      "text": "theoretical thickness"
+    },
+    {
+      "id": "D",
+      "text": "pressure volume"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

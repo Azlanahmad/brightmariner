@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q6",
+  "text": "How is reliquefaction system be designed and calculated?",
+  "options": [
+    {
+      "id": "A",
+      "text": "a direct system where evaporated fuel is compressed, condensed and returned to fuel tanks"
+    },
+    {
+      "id": "B",
+      "text": "an indirect system where evaporated fuel is compressed, condensed and returned to fuel tanks"
+    },
+    {
+      "id": "C",
+      "text": "a direct system where evaporated fuel is compressed, condensed and returned to cargo tanks"
+    },
+    {
+      "id": "D",
+      "text": "an indirect system where evaporated fuel is compressed, condensed and returned to cargo tanks"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

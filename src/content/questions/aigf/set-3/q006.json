@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q6",
+  "text": "What is superheated vapour?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vapour removed from contact with its liquid and heated beyond its boiling temperature"
+    },
+    {
+      "id": "B",
+      "text": "A phenomenon generated in a pipeline system where there is a change in the heat of liquid in the line"
+    },
+    {
+      "id": "C",
+      "text": "detecting heat of gases or vapours"
+    },
+    {
+      "id": "D",
+      "text": "The density of a gas or vapour inder specified conditions of temperature and pressure"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q9",
+  "text": "In Mollier diagram, graphic method of representing heat quantities and the conditions of liquefied gas at different ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "pressure"
+    },
+    {
+      "id": "B",
+      "text": "temperature"
+    },
+    {
+      "id": "C",
+      "text": "density"
+    },
+    {
+      "id": "D",
+      "text": "volume"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

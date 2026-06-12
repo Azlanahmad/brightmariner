@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q2",
+  "text": "Fracture mechanics analyses of fatigue crack growthis carried out by?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Crack propagation paths in the structure"
+    },
+    {
+      "id": "B",
+      "text": "Crack growth rate"
+    },
+    {
+      "id": "C",
+      "text": "The time required for a crack to propagate to cause a leakage from the tank"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

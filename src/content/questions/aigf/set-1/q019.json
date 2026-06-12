@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q19",
+  "text": "What does gas free certificate certified for?",
+  "options": [
+    {
+      "id": "A",
+      "text": "21 percent carbon dioxide by volume"
+    },
+    {
+      "id": "B",
+      "text": "21 percent hydrogen by volume"
+    },
+    {
+      "id": "C",
+      "text": "21 percent nitrogen by volume"
+    },
+    {
+      "id": "D",
+      "text": "21 percent oxygen by volume"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

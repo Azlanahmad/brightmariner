@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q12",
+  "text": "Turbo charger works efficiently in _________",
+  "options": [
+    {
+      "id": "A",
+      "text": "entire load of the engine"
+    },
+    {
+      "id": "B",
+      "text": "start of the engine"
+    },
+    {
+      "id": "C",
+      "text": "partial load of the engine"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

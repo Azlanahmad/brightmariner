@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q13",
+  "text": "What is oxygen deficient atmosphere?",
+  "options": [
+    {
+      "id": "A",
+      "text": "atmosphere containing less than 21 percent oxygen by volume"
+    },
+    {
+      "id": "B",
+      "text": "atmosphere containing less than 21 percent oxygen by pressure"
+    },
+    {
+      "id": "C",
+      "text": "atmosphere containing less than 11 percent oxygen by volume"
+    },
+    {
+      "id": "D",
+      "text": "atmosphere containing less than 11 percent oxygen by pressure"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

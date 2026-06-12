@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q18",
+  "text": "Piping other than fuel supply piping, what is arranged in the double wall piping?",
+  "options": [
+    {
+      "id": "A",
+      "text": "fresh water"
+    },
+    {
+      "id": "B",
+      "text": "sea water"
+    },
+    {
+      "id": "C",
+      "text": "cabling"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

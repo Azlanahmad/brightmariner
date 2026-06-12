@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q1",
+  "text": "In Ultimate Design Conditions –the design shall take into account proper combinations of which type of loads?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Internal pressure"
+    },
+    {
+      "id": "B",
+      "text": "External pressure"
+    },
+    {
+      "id": "C",
+      "text": "Dynamic loads due to the motion of the ship in all loading conditions"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

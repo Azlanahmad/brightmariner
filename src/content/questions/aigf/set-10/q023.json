@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q23",
+  "text": "What are the fundamentals to safety gas carriers?",
+  "options": [
+    {
+      "id": "A",
+      "text": "segregation"
+    },
+    {
+      "id": "B",
+      "text": "seperation"
+    },
+    {
+      "id": "C",
+      "text": "air locks"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

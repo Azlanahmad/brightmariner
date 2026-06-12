@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q24",
+  "text": "Derating is an engine for reduction of the vessels _______ speed to increase the efficiency by limiting the potential power output",
+  "options": [
+    {
+      "id": "A",
+      "text": "maximum"
+    },
+    {
+      "id": "B",
+      "text": "minimum"
+    },
+    {
+      "id": "C",
+      "text": "normal"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

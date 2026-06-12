@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q28",
+  "text": "Waste heat recovery system requires thermal energy from the _______ gas and convert it into electrical energy",
+  "options": [
+    {
+      "id": "A",
+      "text": "inert"
+    },
+    {
+      "id": "B",
+      "text": "energise"
+    },
+    {
+      "id": "C",
+      "text": "exhaust"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

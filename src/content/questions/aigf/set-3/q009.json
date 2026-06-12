@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q9",
+  "text": "LNG reduces CO2 emissions by --------in general, compared to diesel or heavy fuel oil powered vessels.",
+  "options": [
+    {
+      "id": "A",
+      "text": "5 to 10 percent"
+    },
+    {
+      "id": "B",
+      "text": "10 to 15 percent"
+    },
+    {
+      "id": "C",
+      "text": "25 to 30 percent"
+    },
+    {
+      "id": "D",
+      "text": "negligible"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

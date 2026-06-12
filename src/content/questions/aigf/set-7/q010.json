@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q10",
+  "text": "The cooling jacket of a hybrid turbo charger is made up of which material",
+  "options": [
+    {
+      "id": "A",
+      "text": "steel"
+    },
+    {
+      "id": "B",
+      "text": "stainless steel"
+    },
+    {
+      "id": "C",
+      "text": "aluminium"
+    },
+    {
+      "id": "D",
+      "text": "silver"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

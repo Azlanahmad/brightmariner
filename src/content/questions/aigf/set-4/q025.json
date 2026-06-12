@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q25",
+  "text": "Basic thing for a hybrid turbo charger is",
+  "options": [
+    {
+      "id": "A",
+      "text": "an altenator is attached to a blower end"
+    },
+    {
+      "id": "B",
+      "text": "runs at very high speed"
+    },
+    {
+      "id": "C",
+      "text": "requires cooling system"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

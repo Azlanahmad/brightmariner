@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q6",
+  "text": "In Piping fabrication, All valves and expansion joints used in ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "low pressure pipe system"
+    },
+    {
+      "id": "B",
+      "text": "high pressure pipe system"
+    },
+    {
+      "id": "C",
+      "text": "low pressure gas systems"
+    },
+    {
+      "id": "D",
+      "text": "high pressure gas systems"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

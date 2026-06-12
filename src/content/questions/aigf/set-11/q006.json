@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q6",
+  "text": "Insulation spaces is provided to monitor the _______________",
+  "options": [
+    {
+      "id": "A",
+      "text": "the quantity of vapour being supplied to individual spaces"
+    },
+    {
+      "id": "B",
+      "text": "the quantity of liquid being supplied to individual spaces"
+    },
+    {
+      "id": "C",
+      "text": "the quantity of fuel being supplied to individual spaces"
+    },
+    {
+      "id": "D",
+      "text": "the quantity of gas being supplied to individual spaces"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

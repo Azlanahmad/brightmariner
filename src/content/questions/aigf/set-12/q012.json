@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q12",
+  "text": "In Expansion joints of Piping fabrication, In other connections,___________ is joined in accordance but for other exceptional cases the Administration or its Recognized Organization may consider alternative arrangements.",
+  "options": [
+    {
+      "id": "A",
+      "text": "temperature meter"
+    },
+    {
+      "id": "B",
+      "text": "presssure gauge"
+    },
+    {
+      "id": "C",
+      "text": "steel joints"
+    },
+    {
+      "id": "D",
+      "text": "Piping connections"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

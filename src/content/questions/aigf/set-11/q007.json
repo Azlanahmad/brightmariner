@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q7",
+  "text": "In Gravity tank, what is the design pressure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "not greater than 0.07 MPa gauge at the bottom of the tank"
+    },
+    {
+      "id": "B",
+      "text": "not greater than 0.07 MPa gauge at the top of the tank"
+    },
+    {
+      "id": "C",
+      "text": "greater than 0.07 MPa gauge at the top of the tank"
+    },
+    {
+      "id": "D",
+      "text": "greater than 0.07 MPa gauge at the bottom of the tank"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

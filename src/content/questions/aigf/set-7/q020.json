@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q20",
+  "text": "What is provided that they do not create a source of ignition compromise the integrity of the double pipe?",
+  "options": [
+    {
+      "id": "A",
+      "text": "drain"
+    },
+    {
+      "id": "B",
+      "text": "duct"
+    },
+    {
+      "id": "C",
+      "text": "closure"
+    },
+    {
+      "id": "D",
+      "text": "entry"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

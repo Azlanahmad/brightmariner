@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q9",
+  "text": "What criteria to be considered when establishing functional loads?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Internal pressure"
+    },
+    {
+      "id": "B",
+      "text": "External pressure"
+    },
+    {
+      "id": "C",
+      "text": "Thermally induced loads"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

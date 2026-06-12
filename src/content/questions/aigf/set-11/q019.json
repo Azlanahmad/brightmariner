@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q19",
+  "text": "For Type B tanks, the maximum primary maximum bending stress under test conditions of the yield will not _____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "exceed 50%"
+    },
+    {
+      "id": "B",
+      "text": "exceed 90%"
+    },
+    {
+      "id": "C",
+      "text": "not exceed 50%"
+    },
+    {
+      "id": "D",
+      "text": "not exceed 90%"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

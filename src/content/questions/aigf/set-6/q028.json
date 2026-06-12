@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q28",
+  "text": "_________ refers to the usage of other power supply sources to feed power to the ship",
+  "options": [
+    {
+      "id": "A",
+      "text": "alternate marine power system"
+    },
+    {
+      "id": "B",
+      "text": "ship marine power system"
+    },
+    {
+      "id": "C",
+      "text": "alternate feed power system"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

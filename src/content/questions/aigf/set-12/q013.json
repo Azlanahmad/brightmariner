@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q13",
+  "text": "In Direct connections of Piping fabrication, ____________ with complete penetration at the root may be used in all applications",
+  "options": [
+    {
+      "id": "A",
+      "text": "U-groove weld"
+    },
+    {
+      "id": "B",
+      "text": "Butt-welded joints"
+    },
+    {
+      "id": "C",
+      "text": "lap joints"
+    },
+    {
+      "id": "D",
+      "text": "corner joints"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

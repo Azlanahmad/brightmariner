@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q22",
+  "text": "What is arranged to enable each fuel storage tank to be safely gasfreed and to be safely filled with fuel gas from a gas-free condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "storage tank"
+    },
+    {
+      "id": "B",
+      "text": "a piping system"
+    },
+    {
+      "id": "C",
+      "text": "heat exchangers"
+    },
+    {
+      "id": "D",
+      "text": "Gas Combining Unit"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

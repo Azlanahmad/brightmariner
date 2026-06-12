@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q23",
+  "text": "Which tank contains the fuel-containment envelope which forms part of the ship's hull and by the same loads which stress the contiguous hull structure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gravity tank"
+    },
+    {
+      "id": "B",
+      "text": "Integral tank"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

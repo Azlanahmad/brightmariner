@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q27",
+  "text": "Waste heat recovery system requires _______ energy from the exhaust gas and convert it into electrical energy",
+  "options": [
+    {
+      "id": "A",
+      "text": "thermal"
+    },
+    {
+      "id": "B",
+      "text": "dynamic"
+    },
+    {
+      "id": "C",
+      "text": "kinetic"
+    },
+    {
+      "id": "D",
+      "text": "potential"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

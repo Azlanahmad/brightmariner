@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q28",
+  "text": "In Direct connections of Flanged connections, welded flanges shall not be used in nominal sizes _______________",
+  "options": [
+    {
+      "id": "A",
+      "text": "above 50 mm"
+    },
+    {
+      "id": "B",
+      "text": "below 50 mm"
+    },
+    {
+      "id": "C",
+      "text": "above 25 mm"
+    },
+    {
+      "id": "D",
+      "text": "below 25 mm"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

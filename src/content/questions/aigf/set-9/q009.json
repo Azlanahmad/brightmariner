@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q9",
+  "text": "Heat exchanger's standby heat exchanger have a capacity ____________ of the largest required capacity for pressure control.",
+  "options": [
+    {
+      "id": "A",
+      "text": "inadequacy of 25%"
+    },
+    {
+      "id": "B",
+      "text": "lack of 25%"
+    },
+    {
+      "id": "C",
+      "text": "in excess of 25%"
+    },
+    {
+      "id": "D",
+      "text": "need of 25%"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

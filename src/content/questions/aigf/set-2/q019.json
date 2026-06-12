@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q19",
+  "text": "What is the process for the chemical union of two or more molecules of the same compound to form a larger molecule of a new compound called?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vaporization"
+    },
+    {
+      "id": "B",
+      "text": "Polymerisation"
+    },
+    {
+      "id": "C",
+      "text": "Static electricity"
+    },
+    {
+      "id": "D",
+      "text": "Gas freeing"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

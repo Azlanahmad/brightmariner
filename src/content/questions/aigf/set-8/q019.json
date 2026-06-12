@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q19",
+  "text": "Accidental loads are loads that are imposed on a liquefied gas fuel containment system and it's supporting arrangements under ______________ conditions",
+  "options": [
+    {
+      "id": "A",
+      "text": "abnormal"
+    },
+    {
+      "id": "B",
+      "text": "unplanned"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

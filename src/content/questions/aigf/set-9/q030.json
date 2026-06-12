@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q30",
+  "text": "In the theoretical thickness, What is the unit of b,allowance for bending?",
+  "options": [
+    {
+      "id": "A",
+      "text": "cm"
+    },
+    {
+      "id": "B",
+      "text": "mm"
+    },
+    {
+      "id": "C",
+      "text": "m"
+    },
+    {
+      "id": "D",
+      "text": "km"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

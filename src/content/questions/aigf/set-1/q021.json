@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q21",
+  "text": "What is Gas freeing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "removal of toxic gas from a tank"
+    },
+    {
+      "id": "B",
+      "text": "removal of flammable gas from a tank"
+    },
+    {
+      "id": "C",
+      "text": "removal of inert gas from a tank"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

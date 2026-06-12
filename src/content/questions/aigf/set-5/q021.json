@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q21",
+  "text": "What are designed to prevent any accumulation of gaseous fuel?",
+  "options": [
+    {
+      "id": "A",
+      "text": "shaft"
+    },
+    {
+      "id": "B",
+      "text": "Combustion chambers"
+    },
+    {
+      "id": "C",
+      "text": "overhead valves"
+    },
+    {
+      "id": "D",
+      "text": "bulkhead valves"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

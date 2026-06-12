@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q10",
+  "text": "What re the gases associated with Natural Gas Liquid?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ethane"
+    },
+    {
+      "id": "B",
+      "text": "Propane"
+    },
+    {
+      "id": "C",
+      "text": "Butane"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

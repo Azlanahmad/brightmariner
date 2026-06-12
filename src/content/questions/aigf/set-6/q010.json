@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q10",
+  "text": "Pressure relief systems within the exhaust uptakes to be lead to a ______________ location away from personnel.",
+  "options": [
+    {
+      "id": "A",
+      "text": "toxic"
+    },
+    {
+      "id": "B",
+      "text": "risky"
+    },
+    {
+      "id": "C",
+      "text": "non-hazardous"
+    },
+    {
+      "id": "D",
+      "text": "hazardous"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

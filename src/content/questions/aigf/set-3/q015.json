@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q15",
+  "text": "What is mean by hybrid turbo charging?",
+  "options": [
+    {
+      "id": "A",
+      "text": "it also generates electricity"
+    },
+    {
+      "id": "B",
+      "text": "it also generates hydrogen"
+    },
+    {
+      "id": "C",
+      "text": "it also generates water"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q3",
+  "text": "The arrangement and installation of gas piping provides the necessary flexibility to maintain the _________",
+  "options": [
+    {
+      "id": "A",
+      "text": "cutting of the piping system"
+    },
+    {
+      "id": "B",
+      "text": "division of the piping system"
+    },
+    {
+      "id": "C",
+      "text": "abstinence of the piping system"
+    },
+    {
+      "id": "D",
+      "text": "integrity of the piping system"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

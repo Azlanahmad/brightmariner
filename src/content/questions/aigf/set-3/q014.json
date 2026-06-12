@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q14",
+  "text": "________ causes the changes in engine power on speed distinguishing rating for Slow steaming market",
+  "options": [
+    {
+      "id": "A",
+      "text": "derating"
+    },
+    {
+      "id": "B",
+      "text": "rerating"
+    },
+    {
+      "id": "C",
+      "text": "increase the rating"
+    },
+    {
+      "id": "D",
+      "text": "flow rating"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

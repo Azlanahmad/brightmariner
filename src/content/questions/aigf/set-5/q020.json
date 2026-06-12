@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q20",
+  "text": "In the case of unstable operation on an engine when using a particular fuel the engine are ______________ change to an alternative fuel mode.",
+  "options": [
+    {
+      "id": "A",
+      "text": "automatically"
+    },
+    {
+      "id": "B",
+      "text": "manual"
+    },
+    {
+      "id": "C",
+      "text": "programmed"
+    },
+    {
+      "id": "D",
+      "text": "instructed"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

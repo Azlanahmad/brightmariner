@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q22",
+  "text": "In Non destructive testing, What is the design temperatures?",
+  "options": [
+    {
+      "id": "A",
+      "text": "colder than –200°C"
+    },
+    {
+      "id": "B",
+      "text": "colder than –500°C"
+    },
+    {
+      "id": "C",
+      "text": "colder than –300°C"
+    },
+    {
+      "id": "D",
+      "text": "colder than –10°C"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

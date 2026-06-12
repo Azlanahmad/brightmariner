@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q30",
+  "text": "In Requirements for internal combustion engines of Piston type, the gas extracted from ____________are vented to a safe location in the atmosphere.",
+  "options": [
+    {
+      "id": "A",
+      "text": "main systems media"
+    },
+    {
+      "id": "B",
+      "text": "auxiliary systems media"
+    },
+    {
+      "id": "C",
+      "text": "primary systems media"
+    },
+    {
+      "id": "D",
+      "text": "secondary systems media"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

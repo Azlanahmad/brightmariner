@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q6",
+  "text": "Burners are designed to maintain _____________ under all firing conditions.",
+  "options": [
+    {
+      "id": "A",
+      "text": "unstable combustion"
+    },
+    {
+      "id": "B",
+      "text": "explosive combustion"
+    },
+    {
+      "id": "C",
+      "text": "stable combustion"
+    },
+    {
+      "id": "D",
+      "text": "spontaneous combustion"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

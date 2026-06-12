@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q4",
+  "text": "Reducing fouling of engine parts can be achieved by using ___________",
+  "options": [
+    {
+      "id": "A",
+      "text": "ATV technology"
+    },
+    {
+      "id": "B",
+      "text": "Vat tehnology"
+    },
+    {
+      "id": "C",
+      "text": "VTA technology"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

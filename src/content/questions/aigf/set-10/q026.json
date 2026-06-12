@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q26",
+  "text": "Permanent loads- Gravity loads depends on __________",
+  "options": [
+    {
+      "id": "A",
+      "text": "weight of tank"
+    },
+    {
+      "id": "B",
+      "text": "thermal insulation weight load"
+    },
+    {
+      "id": "C",
+      "text": "loads caused by towers"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

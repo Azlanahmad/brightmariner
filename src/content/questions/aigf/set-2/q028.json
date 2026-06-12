@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q28",
+  "text": "In restricted gauging, when the device is not in use",
+  "options": [
+    {
+      "id": "A",
+      "text": "the device is kept completely closed"
+    },
+    {
+      "id": "B",
+      "text": "the device is kept open"
+    },
+    {
+      "id": "C",
+      "text": "the device is kept operated"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

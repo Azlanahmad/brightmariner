@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q3",
+  "text": "The accidental design condition is a design condition for _________ with extremely LOW PROBABILITY of occurrence",
+  "options": [
+    {
+      "id": "A",
+      "text": "environmental load"
+    },
+    {
+      "id": "B",
+      "text": "accidental loads"
+    },
+    {
+      "id": "C",
+      "text": "static load"
+    },
+    {
+      "id": "D",
+      "text": "gravity load"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

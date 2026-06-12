@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q17",
+  "text": "In case of shut-off of one fuel supply, the engines are capable of _____________ by an alternative fuel with minimum fluctuation of the engine power",
+  "options": [
+    {
+      "id": "A",
+      "text": "unstable operation"
+    },
+    {
+      "id": "B",
+      "text": "stable operation"
+    },
+    {
+      "id": "C",
+      "text": "continuous operation"
+    },
+    {
+      "id": "D",
+      "text": "non-continuous operation"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

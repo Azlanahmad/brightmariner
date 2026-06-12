@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q18",
+  "text": "Which technology fuel and air are premixed and burned at a relatively high air to fuel ratio",
+  "options": [
+    {
+      "id": "A",
+      "text": "high pressure YDF"
+    },
+    {
+      "id": "B",
+      "text": "low pressure XDF"
+    },
+    {
+      "id": "C",
+      "text": "low pressure YDF"
+    },
+    {
+      "id": "D",
+      "text": "high pressure XDF"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

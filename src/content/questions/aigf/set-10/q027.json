@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q27",
+  "text": "Gravity loads of structures and equipment acting ____________ on the tank",
+  "options": [
+    {
+      "id": "A",
+      "text": "from air"
+    },
+    {
+      "id": "B",
+      "text": "externally"
+    },
+    {
+      "id": "C",
+      "text": "from bottom"
+    },
+    {
+      "id": "D",
+      "text": "from no where"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

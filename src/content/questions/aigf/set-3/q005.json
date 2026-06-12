@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q5",
+  "text": "What is Static electricity ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "alternating current"
+    },
+    {
+      "id": "B",
+      "text": "The electrical charge produced on disimilar materials caused by relative motion between each when in contact"
+    },
+    {
+      "id": "C",
+      "text": "The quantity of energy in kilojoules required to change the temperature of 1 kg mass of the substance by 1 degC."
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

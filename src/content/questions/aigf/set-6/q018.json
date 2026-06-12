@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q18",
+  "text": "For fuel cell systems with aggregate power ______________, the installation of the whole fuel cell system in the same compartment may be accepted by the Administration",
+  "options": [
+    {
+      "id": "A",
+      "text": "lower than 500 kW"
+    },
+    {
+      "id": "B",
+      "text": "lower than 775 kW"
+    },
+    {
+      "id": "C",
+      "text": "lower than 375 kW"
+    },
+    {
+      "id": "D",
+      "text": "lower than 275 kW"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

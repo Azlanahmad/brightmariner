@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q1",
+  "text": "In Liquefied Petroleum Gas, propane and butane can be shipped",
+  "options": [
+    {
+      "id": "A",
+      "text": "seperately"
+    },
+    {
+      "id": "B",
+      "text": "as a mixture"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

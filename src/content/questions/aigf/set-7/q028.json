@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q28",
+  "text": "Where will the switches and protective devices interrupt all poles or phases are provided",
+  "options": [
+    {
+      "id": "A",
+      "text": "toxic area"
+    },
+    {
+      "id": "B",
+      "text": "Gas area"
+    },
+    {
+      "id": "C",
+      "text": "non-hazardous area"
+    },
+    {
+      "id": "D",
+      "text": "hazardous area"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

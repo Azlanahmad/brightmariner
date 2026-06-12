@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q15",
+  "text": "_______ engine provide pilot fuel quantity below 1%",
+  "options": [
+    {
+      "id": "A",
+      "text": "XDF"
+    },
+    {
+      "id": "B",
+      "text": "YDF"
+    },
+    {
+      "id": "C",
+      "text": "GDF"
+    },
+    {
+      "id": "D",
+      "text": "XTF"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

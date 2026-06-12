@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q21",
+  "text": "In the minimum wall thickness, t=(to + b + c)/(1 - a/100)(mm), What is to?",
+  "options": [
+    {
+      "id": "A",
+      "text": "design pressure"
+    },
+    {
+      "id": "B",
+      "text": "theoretical thickness"
+    },
+    {
+      "id": "C",
+      "text": "allowance for bending"
+    },
+    {
+      "id": "D",
+      "text": "corrosion allowance"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

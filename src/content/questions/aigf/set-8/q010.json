@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q10",
+  "text": "What are the cases Internal pressure in Liquefied gas fuel containment safety principles ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Po shall not be less than MARVS"
+    },
+    {
+      "id": "B",
+      "text": "Po shall not be less than the gauge vapour pressure of the liquefied gas fuel at a temperature of 45°C"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

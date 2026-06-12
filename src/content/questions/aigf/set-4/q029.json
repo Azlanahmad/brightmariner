@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q29",
+  "text": "In Requirements for internal combustion engines of Piston type, gas can leak directly into the ______________",
+  "options": [
+    {
+      "id": "A",
+      "text": "primary system medium"
+    },
+    {
+      "id": "B",
+      "text": "main system medium"
+    },
+    {
+      "id": "C",
+      "text": "auxiliary system medium"
+    },
+    {
+      "id": "D",
+      "text": "secondary system medium"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

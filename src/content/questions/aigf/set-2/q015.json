@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q15",
+  "text": "Chemical combination of cargo liquid with oxygen from other source and vapour with oxygen from other source forms __________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Formation of Ethane"
+    },
+    {
+      "id": "B",
+      "text": "Formation of Peroxide"
+    },
+    {
+      "id": "C",
+      "text": "Formation of Oxygen"
+    },
+    {
+      "id": "D",
+      "text": "Formation of oxide"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

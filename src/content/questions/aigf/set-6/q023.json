@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q23",
+  "text": "Dry air only applicable for which type of tankvwhere condensation and icing due to cold surfaces is an issue?",
+  "options": [
+    {
+      "id": "A",
+      "text": "liquid tanks"
+    },
+    {
+      "id": "B",
+      "text": "fuel tanks"
+    },
+    {
+      "id": "C",
+      "text": "cargo tanks"
+    },
+    {
+      "id": "D",
+      "text": "storage tanks"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

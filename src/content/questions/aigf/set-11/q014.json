@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q14",
+  "text": "What is the minimum clear opening of vertical openings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "less than 600 mm by 800 mm at the height of more than 600 mm from the bottom"
+    },
+    {
+      "id": "B",
+      "text": "not less than 600 mm by 800 mm at the height of not more than 600 mm from the bottom"
+    },
+    {
+      "id": "C",
+      "text": "less than 600 mm by 800 mm at the height of not more than 600 mm from the bottom"
+    },
+    {
+      "id": "D",
+      "text": "not less than 600 mm by 800 mm at the height of more than 600 mm from the bottom"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

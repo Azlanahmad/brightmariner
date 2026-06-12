@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q5",
+  "text": "LNG fuel should have after treatment systems like ___________",
+  "options": [
+    {
+      "id": "A",
+      "text": "hydrogen catalyst"
+    },
+    {
+      "id": "B",
+      "text": "oxidation catalyst"
+    },
+    {
+      "id": "C",
+      "text": "nitrogen catalyst"
+    },
+    {
+      "id": "D",
+      "text": "helium catalyst"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

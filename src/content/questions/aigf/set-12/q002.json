@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q2",
+  "text": "In allowable stress, When the design temperature is _________ a complete stress analysis all the stresses happens.",
+  "options": [
+    {
+      "id": "A",
+      "text": "minus 2200 C"
+    },
+    {
+      "id": "B",
+      "text": "plus 220 C"
+    },
+    {
+      "id": "C",
+      "text": "minus 110 C"
+    },
+    {
+      "id": "D",
+      "text": "plus 1100 C"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

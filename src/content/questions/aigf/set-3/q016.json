@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q16",
+  "text": "A ____________ is attached with a hybrid turbo charger",
+  "options": [
+    {
+      "id": "A",
+      "text": "motor"
+    },
+    {
+      "id": "B",
+      "text": "pump"
+    },
+    {
+      "id": "C",
+      "text": "alternator"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

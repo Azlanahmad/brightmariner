@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q26",
+  "text": "In Direct connections of Flanged connections, For design temperatures ____________ slip-on flanges shall not be used in nominal sizes above 100 mm",
+  "options": [
+    {
+      "id": "A",
+      "text": "colder than minus 30°C"
+    },
+    {
+      "id": "B",
+      "text": "colder than minus 20°C"
+    },
+    {
+      "id": "C",
+      "text": "colder than minus 150°C"
+    },
+    {
+      "id": "D",
+      "text": "colder than minus 10°C"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

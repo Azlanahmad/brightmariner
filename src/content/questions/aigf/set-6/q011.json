@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q11",
+  "text": "In gas turbine may be fitted in a gas-tight enclosure a ____________ in the gas supply piping may be accepted within this enclosure",
+  "options": [
+    {
+      "id": "A",
+      "text": "pressure above 10 bar"
+    },
+    {
+      "id": "B",
+      "text": "pressure above 30 bar"
+    },
+    {
+      "id": "C",
+      "text": "pressure above 50 bar"
+    },
+    {
+      "id": "D",
+      "text": "pressure below 10 bar"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

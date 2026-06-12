@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q13",
+  "text": "The connections to the gas piping systems are _______________",
+  "options": [
+    {
+      "id": "A",
+      "text": "hazardous"
+    },
+    {
+      "id": "B",
+      "text": "non-permanent"
+    },
+    {
+      "id": "C",
+      "text": "permanent"
+    },
+    {
+      "id": "D",
+      "text": "non-hazardous"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q17",
+  "text": "Pipework contain low temperature liquid or gas which is thermally insulated to an extent which will ___________",
+  "options": [
+    {
+      "id": "A",
+      "text": "maximize evaporation of moisture"
+    },
+    {
+      "id": "B",
+      "text": "minimize condensation of moisture"
+    },
+    {
+      "id": "C",
+      "text": "maximize condensation of moisture"
+    },
+    {
+      "id": "D",
+      "text": "minimize evaporation of moisture"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

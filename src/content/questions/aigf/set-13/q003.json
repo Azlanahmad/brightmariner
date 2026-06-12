@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s13-q3",
+  "text": "In deep well pump, the cargo discharge pipeline surrounds the drive shaft and also it __________",
+  "options": [
+    {
+      "id": "A",
+      "text": "heats up the bearings"
+    },
+    {
+      "id": "B",
+      "text": "the shaft bearings are cooled"
+    },
+    {
+      "id": "C",
+      "text": "lubricated by the liquid being pumped"
+    },
+    {
+      "id": "D",
+      "text": "both answer b and c"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 13,
+  "explanation": ""
+}

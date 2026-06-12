@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q20",
+  "text": "In Direct connections of Piping fabrication, Slip-on welded joints are only be used for instrument lines and design temperatures not colder than _______________",
+  "options": [
+    {
+      "id": "A",
+      "text": "minus 1000°C"
+    },
+    {
+      "id": "B",
+      "text": "minus 5000°C"
+    },
+    {
+      "id": "C",
+      "text": "minus 55°C"
+    },
+    {
+      "id": "D",
+      "text": "plus 55°C"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q25",
+  "text": "In Direct connections of Flanged connections, For all piping except open ended, For design temperatures ___________ only welded neck flanges shall be used.",
+  "options": [
+    {
+      "id": "A",
+      "text": "colder than minus 1000°C"
+    },
+    {
+      "id": "B",
+      "text": "colder than minus 55°C"
+    },
+    {
+      "id": "C",
+      "text": "colder than minus 3400°C"
+    },
+    {
+      "id": "D",
+      "text": "colder than minus 4400°C"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

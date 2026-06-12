@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q7",
+  "text": "Meters Liquid Column is a unit of ________ used in some cargo pumping operations.",
+  "options": [
+    {
+      "id": "A",
+      "text": "volume"
+    },
+    {
+      "id": "B",
+      "text": "pressure"
+    },
+    {
+      "id": "C",
+      "text": "mass"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

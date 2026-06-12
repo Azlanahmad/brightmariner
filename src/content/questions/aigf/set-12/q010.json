@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q10",
+  "text": "Piping fabrication and joining details shall comply with ___________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct connections"
+    },
+    {
+      "id": "B",
+      "text": "Diverted connections"
+    },
+    {
+      "id": "C",
+      "text": "parallel connections"
+    },
+    {
+      "id": "D",
+      "text": "Indirect connections"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

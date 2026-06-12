@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q9",
+  "text": "How is cofferdam arranged?",
+  "options": [
+    {
+      "id": "A",
+      "text": "With no gas detection and possibility for water filling upon detection of leakage"
+    },
+    {
+      "id": "B",
+      "text": "With no gas detection and no possibility for water filling upon detection of leakage"
+    },
+    {
+      "id": "C",
+      "text": "With gas detection and possibility for water filling upon detection of leakage"
+    },
+    {
+      "id": "D",
+      "text": "With gas detection and no possibility for water filling upon detection of leakage"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

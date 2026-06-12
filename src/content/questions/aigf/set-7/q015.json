@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q15",
+  "text": "All pipelines isolated in a liquid full condition are provided with ___________",
+  "options": [
+    {
+      "id": "A",
+      "text": "butterfly valves"
+    },
+    {
+      "id": "B",
+      "text": "relief valves"
+    },
+    {
+      "id": "C",
+      "text": "control valves"
+    },
+    {
+      "id": "D",
+      "text": "diaphgramvalves"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

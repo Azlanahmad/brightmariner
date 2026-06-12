@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q12",
+  "text": "Equipment for the provision of _______________ of suitable quality to satisfy the expected demand for dry air shall be provided.",
+  "options": [
+    {
+      "id": "A",
+      "text": "sufficient moistured air"
+    },
+    {
+      "id": "B",
+      "text": "sufficient dry air"
+    },
+    {
+      "id": "C",
+      "text": "insufficient dry air"
+    },
+    {
+      "id": "D",
+      "text": "insufficient moistured air"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

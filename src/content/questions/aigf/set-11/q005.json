@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q5",
+  "text": "Insulation spaces are continually supplied with an inert gas as part of ______________",
+  "options": [
+    {
+      "id": "A",
+      "text": "leak detection system"
+    },
+    {
+      "id": "B",
+      "text": "lever detection system"
+    },
+    {
+      "id": "C",
+      "text": "lever defining system"
+    },
+    {
+      "id": "D",
+      "text": "leak defining system"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

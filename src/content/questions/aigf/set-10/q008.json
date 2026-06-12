@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q8",
+  "text": "In greater design conditions used for piping, piping system and components,Where will be the initial condition of saturated vapour in the system?",
+  "options": [
+    {
+      "id": "A",
+      "text": "vapour pressure system"
+    },
+    {
+      "id": "B",
+      "text": "system operating pressure"
+    },
+    {
+      "id": "C",
+      "text": "components operating pressure"
+    },
+    {
+      "id": "D",
+      "text": "gas pressure system"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

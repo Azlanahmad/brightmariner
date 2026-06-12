@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q29",
+  "text": "_______ reduces the emission by the ship by a great margin",
+  "options": [
+    {
+      "id": "A",
+      "text": "alternate marine power system"
+    },
+    {
+      "id": "B",
+      "text": "auxiliary marine power system"
+    },
+    {
+      "id": "C",
+      "text": "main marine power system"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

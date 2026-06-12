@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q3",
+  "text": "What is the critical temperature (deg C) of propylene oxide?",
+  "options": [
+    {
+      "id": "A",
+      "text": "-8529.0"
+    },
+    {
+      "id": "B",
+      "text": "-6219.0"
+    },
+    {
+      "id": "C",
+      "text": "209.1"
+    },
+    {
+      "id": "D",
+      "text": "-6593.0"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

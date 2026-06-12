@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q5",
+  "text": "the fuel when carried in a fuel containment system requiring a complete or partial secondary barrier,hold spaces shall be segregated from the sea by a double bottom.is carried at temperatures below ___________,",
+  "options": [
+    {
+      "id": "A",
+      "text": "minus 10ºC"
+    },
+    {
+      "id": "B",
+      "text": "plus 10ºC"
+    },
+    {
+      "id": "C",
+      "text": "0ºC"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

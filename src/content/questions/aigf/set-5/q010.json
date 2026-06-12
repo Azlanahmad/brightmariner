@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q10",
+  "text": "In power generation including propulsion and other energy converters, the exhausts system are configured to prevent ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "accumulation of un-burnt gaseous fuel"
+    },
+    {
+      "id": "B",
+      "text": "accumulation of burnt gaseous fuel"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

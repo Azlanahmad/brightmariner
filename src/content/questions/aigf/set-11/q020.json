@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q20",
+  "text": "For Type C tanks, What is the pressure vessel to a hydrostatic test at a pressure measured at the top of the tanks ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "less than 1.5 Po"
+    },
+    {
+      "id": "B",
+      "text": "not greater than 2.5 Po"
+    },
+    {
+      "id": "C",
+      "text": "not less than 1.5 Po"
+    },
+    {
+      "id": "D",
+      "text": "greater than 2.5 Po"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

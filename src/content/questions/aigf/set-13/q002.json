@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s13-q2",
+  "text": "In Deep well pump, the motor is usually mounted on the top of the cargo tanks and drives via ________",
+  "options": [
+    {
+      "id": "A",
+      "text": "a long transmission shaft"
+    },
+    {
+      "id": "B",
+      "text": "through a double seal arrangement"
+    },
+    {
+      "id": "C",
+      "text": "the pump assembly located in the bottom of the tank"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 13,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q8",
+  "text": "Which gas is considered as Fuel [in the context of this code] in liquid and compressed form",
+  "options": [
+    {
+      "id": "A",
+      "text": "Natural gas"
+    },
+    {
+      "id": "B",
+      "text": "propane"
+    },
+    {
+      "id": "C",
+      "text": "i-Butane"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

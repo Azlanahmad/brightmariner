@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q17",
+  "text": "What is the goal of material and general pipe design?",
+  "options": [
+    {
+      "id": "A",
+      "text": "to ensure the safe handling of cargoes"
+    },
+    {
+      "id": "B",
+      "text": "to ensure the safe handling of pipes"
+    },
+    {
+      "id": "C",
+      "text": "to ensure the safe handling of gas fuel"
+    },
+    {
+      "id": "D",
+      "text": "to ensure the safe handling of drinking water"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q17",
+  "text": "The fuel cell space is fitted with gas detection and an _______________ for Emergency ShutDown protected machinery spaces.",
+  "options": [
+    {
+      "id": "A",
+      "text": "programmed shut down system"
+    },
+    {
+      "id": "B",
+      "text": "automatic shut down system"
+    },
+    {
+      "id": "C",
+      "text": "instructed shut down system"
+    },
+    {
+      "id": "D",
+      "text": "manual shut down system"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q30",
+  "text": "Gravity loads",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loads arising from the operational use of the tank system"
+    },
+    {
+      "id": "B",
+      "text": "The weight of tank, thermal insulation, loads caused by towers and other attachments"
+    },
+    {
+      "id": "C",
+      "text": "loads of structures and equipment acting externally on the tank"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

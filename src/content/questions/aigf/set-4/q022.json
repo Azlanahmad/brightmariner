@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q22",
+  "text": "Derating of the propulsion engine can be achieved by",
+  "options": [
+    {
+      "id": "A",
+      "text": "modifying fuel valves"
+    },
+    {
+      "id": "B",
+      "text": "simming between crosscuts and piston rods"
+    },
+    {
+      "id": "C",
+      "text": "rematching the turbo chargers"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

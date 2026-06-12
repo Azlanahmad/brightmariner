@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q24",
+  "text": "In Direct connections of Flanged connections, For all piping except open ended, what restrictions is applied?",
+  "options": [
+    {
+      "id": "A",
+      "text": "For design temperatures colder than minus 55°C, only welded threaded flanges shall be used"
+    },
+    {
+      "id": "B",
+      "text": "For design temperatures colder than minus 55°C, only welded lap flanges shall be used"
+    },
+    {
+      "id": "C",
+      "text": "For design temperatures colder than minus 55°C, only welded neck flanges shall be used"
+    },
+    {
+      "id": "D",
+      "text": "For design temperatures colder than minus 55°C, only welded slip on flanges shall be used"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

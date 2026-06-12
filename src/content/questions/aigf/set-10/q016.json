@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q16",
+  "text": "What will be the Gas safe machinery space failure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "a single failure cannot lead to release of fuel gas into the machinery space"
+    },
+    {
+      "id": "B",
+      "text": "a single failure may result in a gas release into the space"
+    },
+    {
+      "id": "C",
+      "text": "probable maximum leakage scenario due to technical failures"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

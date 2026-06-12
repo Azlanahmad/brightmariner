@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q18",
+  "text": "The dynamic component of loads resulting from interaction between ___________",
+  "options": [
+    {
+      "id": "A",
+      "text": "liquefied gas fuel containment systems"
+    },
+    {
+      "id": "B",
+      "text": "the hull structure"
+    },
+    {
+      "id": "C",
+      "text": "including loads from associated structures and equipment"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

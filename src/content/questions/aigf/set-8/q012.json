@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q12",
+  "text": "Where the liquefied gas fuel temperature at atmospheric pressure is not____________ the hull structure may be designed as a secondary barrier",
+  "options": [
+    {
+      "id": "A",
+      "text": "below 255°C"
+    },
+    {
+      "id": "B",
+      "text": "below minus 55°C"
+    },
+    {
+      "id": "C",
+      "text": "below plus 55°C"
+    },
+    {
+      "id": "D",
+      "text": "above plus 55°C"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

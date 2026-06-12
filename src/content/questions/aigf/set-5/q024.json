@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q24",
+  "text": "Alternate marine power provides power to _______",
+  "options": [
+    {
+      "id": "A",
+      "text": "Main sea water pump"
+    },
+    {
+      "id": "B",
+      "text": "Main fire pump"
+    },
+    {
+      "id": "C",
+      "text": "air conditioner"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

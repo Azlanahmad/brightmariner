@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q10",
+  "text": "Engine efficiency can be increased by utilising existing turbo charger with the __________",
+  "options": [
+    {
+      "id": "A",
+      "text": "latest man disel turbo charger"
+    },
+    {
+      "id": "B",
+      "text": "Not rematching existing turbo charger"
+    },
+    {
+      "id": "C",
+      "text": "Not modifying turbo chargers to meet tyre 2 and 3 emission standards"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q3",
+  "text": "Coating is done to reduce ___________",
+  "options": [
+    {
+      "id": "A",
+      "text": "hull sytems"
+    },
+    {
+      "id": "B",
+      "text": "air resistance"
+    },
+    {
+      "id": "C",
+      "text": "oil resistance"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

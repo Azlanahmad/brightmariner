@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q8",
+  "text": "Liquefied gas fuel containment systems can be designed with suitable safety margins such as ___________",
+  "options": [
+    {
+      "id": "A",
+      "text": "to withstand in the intact condition"
+    },
+    {
+      "id": "B",
+      "text": "the environmental conditions anticipated for the liquefied gas fuel containment system's design life and the loading conditions appropriate for them"
+    },
+    {
+      "id": "C",
+      "text": "being appropriate for uncertainties in loads"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

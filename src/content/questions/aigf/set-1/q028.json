@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q28",
+  "text": "What is the major constituent of Liquefied Natural Gas?",
+  "options": [
+    {
+      "id": "A",
+      "text": "methane"
+    },
+    {
+      "id": "B",
+      "text": "Styrene"
+    },
+    {
+      "id": "C",
+      "text": "Acrylonitrile"
+    },
+    {
+      "id": "D",
+      "text": "Polybutadiene"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

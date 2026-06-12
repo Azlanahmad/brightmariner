@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q14",
+  "text": "Flammable range is the range of concentrations between",
+  "options": [
+    {
+      "id": "A",
+      "text": "lower flammable limit"
+    },
+    {
+      "id": "B",
+      "text": "upper flammablle limit"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

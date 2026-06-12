@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q23",
+  "text": "Simplified methods or simplified analyses may be used to calculate the ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "dynamics effects"
+    },
+    {
+      "id": "B",
+      "text": "load effects"
+    },
+    {
+      "id": "C",
+      "text": "theory effects"
+    },
+    {
+      "id": "D",
+      "text": "statics effects"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q18",
+  "text": "___________ is within ship's cargo area which is designated as likely to contain flammable vapour",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gas dangerous space"
+    },
+    {
+      "id": "B",
+      "text": "Gas dangerous zone"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

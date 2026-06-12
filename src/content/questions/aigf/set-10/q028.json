@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q28",
+  "text": "What is called Functional loads?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gravity loads of structures and equipment acting externally on the tank"
+    },
+    {
+      "id": "B",
+      "text": "Loads arising from the operational use of the tank system"
+    },
+    {
+      "id": "C",
+      "text": "The weight of tank, thermal insulation, loads caused by towers and other attachments"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

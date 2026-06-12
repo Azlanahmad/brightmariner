@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q5",
+  "text": "_______ efficiency can be increased by utilising existing turbo charger with the latest man disel turbo charger",
+  "options": [
+    {
+      "id": "A",
+      "text": "Motor"
+    },
+    {
+      "id": "B",
+      "text": "Engine"
+    },
+    {
+      "id": "C",
+      "text": "propeller"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

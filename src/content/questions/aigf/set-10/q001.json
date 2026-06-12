@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q1",
+  "text": "In allowance for bending,b = Dt0/2.5r (mm), What is r?",
+  "options": [
+    {
+      "id": "A",
+      "text": "mean width of the bend"
+    },
+    {
+      "id": "B",
+      "text": "mean radius of the bend"
+    },
+    {
+      "id": "C",
+      "text": "mean diameter of the bend"
+    },
+    {
+      "id": "D",
+      "text": "mean length of the bend"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

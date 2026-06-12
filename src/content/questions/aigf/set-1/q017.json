@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q17",
+  "text": "Gas codes are published by ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Indian Maritime Organisation"
+    },
+    {
+      "id": "B",
+      "text": "International Maritime Oraganisation"
+    },
+    {
+      "id": "C",
+      "text": "Indian Marine Organisation"
+    },
+    {
+      "id": "D",
+      "text": "International Marine Oraganisation"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

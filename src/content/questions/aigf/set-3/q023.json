@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q23",
+  "text": "Derating is an engine for ________ of the vessels maximum speed to increase the efficiency by limiting the potential power output",
+  "options": [
+    {
+      "id": "A",
+      "text": "addition"
+    },
+    {
+      "id": "B",
+      "text": "production"
+    },
+    {
+      "id": "C",
+      "text": "reduction"
+    },
+    {
+      "id": "D",
+      "text": "increase"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

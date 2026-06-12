@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q13",
+  "text": "What concept is applied to minimize the probability of a gas explosion in a machinery space with gas- fuelled machinery ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gas safe machinery spaces"
+    },
+    {
+      "id": "B",
+      "text": "Emergency Shutdown-protected machinery spaces"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

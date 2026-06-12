@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q30",
+  "text": "Turbo charger refitting _______ efficieny and reduce emissions of main engine",
+  "options": [
+    {
+      "id": "A",
+      "text": "decrease"
+    },
+    {
+      "id": "B",
+      "text": "increases"
+    },
+    {
+      "id": "C",
+      "text": "equalize"
+    },
+    {
+      "id": "D",
+      "text": "balance"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

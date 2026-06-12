@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q9",
+  "text": "In Piping fabrication, ____________ are protected against blow-out.",
+  "options": [
+    {
+      "id": "A",
+      "text": "nut"
+    },
+    {
+      "id": "B",
+      "text": "liner"
+    },
+    {
+      "id": "C",
+      "text": "Gaskets"
+    },
+    {
+      "id": "D",
+      "text": "seal"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

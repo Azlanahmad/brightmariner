@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q27",
+  "text": "How is the lighting system in hazardous areas be divided ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "at least three branch circuits"
+    },
+    {
+      "id": "B",
+      "text": "at least five branch circuits"
+    },
+    {
+      "id": "C",
+      "text": "single circuits"
+    },
+    {
+      "id": "D",
+      "text": "at least two branch circuits"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

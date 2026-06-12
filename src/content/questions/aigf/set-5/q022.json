@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q22",
+  "text": "VTA turbo charger works on __________ load range of the engine efficiently",
+  "options": [
+    {
+      "id": "A",
+      "text": "starting load range"
+    },
+    {
+      "id": "B",
+      "text": "entire"
+    },
+    {
+      "id": "C",
+      "text": "final step"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

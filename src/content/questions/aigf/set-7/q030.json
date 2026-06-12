@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q30",
+  "text": "The liquefied gas fuel containment system structure and its structural components shall withstand loads liable to occur during its ____________ without loss of containment.",
+  "options": [
+    {
+      "id": "A",
+      "text": "construction"
+    },
+    {
+      "id": "B",
+      "text": "testing"
+    },
+    {
+      "id": "C",
+      "text": "anticipated use in service"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

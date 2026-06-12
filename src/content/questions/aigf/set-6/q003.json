@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s6-q3",
+  "text": "_________ works efficiently in entire load of the engine",
+  "options": [
+    {
+      "id": "A",
+      "text": "Turbo charger"
+    },
+    {
+      "id": "B",
+      "text": "exhaust boiler"
+    },
+    {
+      "id": "C",
+      "text": "propulsion shaft"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 6,
+  "explanation": ""
+}

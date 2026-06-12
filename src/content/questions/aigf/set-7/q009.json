@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q9",
+  "text": "Reduction in specific fuel oil consumption can be achieved by",
+  "options": [
+    {
+      "id": "A",
+      "text": "derating of the engine"
+    },
+    {
+      "id": "B",
+      "text": "rerating of the engine"
+    },
+    {
+      "id": "C",
+      "text": "duerating of the engine"
+    },
+    {
+      "id": "D",
+      "text": "maxrating of the engine"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

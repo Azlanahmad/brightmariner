@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q22",
+  "text": "What is the full chemical name of R22?",
+  "options": [
+    {
+      "id": "A",
+      "text": "monochloro difluoromethane"
+    },
+    {
+      "id": "B",
+      "text": "monoflouride difluoromethane"
+    },
+    {
+      "id": "C",
+      "text": "monochloride dimethane"
+    },
+    {
+      "id": "D",
+      "text": "monochloro dimethane"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

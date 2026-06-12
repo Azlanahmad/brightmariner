@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q13",
+  "text": "low specific fuel oil consumption at all loads can be achieved by",
+  "options": [
+    {
+      "id": "A",
+      "text": "derating a propulsion engines"
+    },
+    {
+      "id": "B",
+      "text": "high rating propulsion engines"
+    },
+    {
+      "id": "C",
+      "text": "low rating propulsion engines"
+    },
+    {
+      "id": "D",
+      "text": "medium rating propulsion engines"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

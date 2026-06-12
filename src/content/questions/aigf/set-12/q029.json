@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q29",
+  "text": "Deep well pump is the type of ____________ cargo pump found on gas carriers.",
+  "options": [
+    {
+      "id": "A",
+      "text": "gear"
+    },
+    {
+      "id": "B",
+      "text": "centrifugal"
+    },
+    {
+      "id": "C",
+      "text": "diaphragm"
+    },
+    {
+      "id": "D",
+      "text": "reciprocating"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

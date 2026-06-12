@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q30",
+  "text": "Prime surgreen focuses towards fulfilling of all emission standards from the _____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Director General of Shipping"
+    },
+    {
+      "id": "B",
+      "text": "International Maritime Organisation"
+    },
+    {
+      "id": "C",
+      "text": "Mercantile Marine department"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

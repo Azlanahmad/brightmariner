@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s8-q21",
+  "text": "With reference to load calculation LRFD means ____________________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Load Resistance Factor Design"
+    },
+    {
+      "id": "B",
+      "text": "Level Resistance Factor Design"
+    },
+    {
+      "id": "C",
+      "text": "Level Reaction Factor Design"
+    },
+    {
+      "id": "D",
+      "text": "Load Resistance Fever Design"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 8,
+  "explanation": ""
+}

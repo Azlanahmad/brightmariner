@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s4-q3",
+  "text": "Upgrading Turbo charger to VTA technology will _______ efficiency",
+  "options": [
+    {
+      "id": "A",
+      "text": "decrease"
+    },
+    {
+      "id": "B",
+      "text": "increase"
+    },
+    {
+      "id": "C",
+      "text": "equalize"
+    },
+    {
+      "id": "D",
+      "text": "balance"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 4,
+  "explanation": ""
+}

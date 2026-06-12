@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q4",
+  "text": "What is the critical temperature (deg C) of ammonia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "-6597.0"
+    },
+    {
+      "id": "B",
+      "text": "132.4"
+    },
+    {
+      "id": "C",
+      "text": "-5649.0"
+    },
+    {
+      "id": "D",
+      "text": "-5627.0"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

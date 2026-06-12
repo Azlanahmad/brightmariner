@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q14",
+  "text": "How is peroxide formed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "chemical combination of cargo liquid with atmosphere oxygen"
+    },
+    {
+      "id": "B",
+      "text": "chemical combination of vapour with atmosphere oxygen"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

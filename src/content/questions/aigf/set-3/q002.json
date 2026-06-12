@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q2",
+  "text": "What is specific gravity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The ratio of the density of a solid at a given temperature to the density ofsolid at a standard temperature"
+    },
+    {
+      "id": "B",
+      "text": "The ratio of the density of a liquid at a given temperature to the density of fresh water at a standard temperature"
+    },
+    {
+      "id": "C",
+      "text": "The ratio of the density of a gas at a given temperature to the density of gas at a standard temperature"
+    },
+    {
+      "id": "D",
+      "text": "The ratio of the density of a molecule at a given temperature to the density of molecule at a standard temperature"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

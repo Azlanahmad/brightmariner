@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q30",
+  "text": "High pressure gas piping systems have ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "sufficient destructive strength"
+    },
+    {
+      "id": "B",
+      "text": "sufficient constructive strength"
+    },
+    {
+      "id": "C",
+      "text": "insufficient constructive strength"
+    },
+    {
+      "id": "D",
+      "text": "insufficient destructive strength"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

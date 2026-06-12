@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q26",
+  "text": "What is the unit of theoretical thickness, to?",
+  "options": [
+    {
+      "id": "A",
+      "text": "cm"
+    },
+    {
+      "id": "B",
+      "text": "mm"
+    },
+    {
+      "id": "C",
+      "text": "m"
+    },
+    {
+      "id": "D",
+      "text": "km"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

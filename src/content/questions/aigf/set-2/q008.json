@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q8",
+  "text": "What is Mollier diagram?",
+  "options": [
+    {
+      "id": "A",
+      "text": "graphic method of representing heat quantities of a refrigerant"
+    },
+    {
+      "id": "B",
+      "text": "graphic method of representing ship route"
+    },
+    {
+      "id": "C",
+      "text": "graphic method of representing ship design"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

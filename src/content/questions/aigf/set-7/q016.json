@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q16",
+  "text": "Pipework contain ____________ which is thermally insulated to an extent which will minimize condensation of moisture",
+  "options": [
+    {
+      "id": "A",
+      "text": "high temperature liquid"
+    },
+    {
+      "id": "B",
+      "text": "low pressure liquid"
+    },
+    {
+      "id": "C",
+      "text": "high pressure liquid"
+    },
+    {
+      "id": "D",
+      "text": "low temperature liquid"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s2-q6",
+  "text": "What is MLC?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Multi Liquid Column"
+    },
+    {
+      "id": "B",
+      "text": "Meters Limit Column"
+    },
+    {
+      "id": "C",
+      "text": "Meters Liquid Column"
+    },
+    {
+      "id": "D",
+      "text": "Multi Limit Column"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 2,
+  "explanation": ""
+}

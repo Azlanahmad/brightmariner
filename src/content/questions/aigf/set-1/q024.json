@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q24",
+  "text": "What is Liquefied gas?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Quality of heat to change the state of a substance from liquid to vapour without change of temperature"
+    },
+    {
+      "id": "B",
+      "text": "A liquid which has a saturated vapour pressure exceeding 2.8 bar absolute at 37.80C and certain other substances specified in the Gas Codes"
+    },
+    {
+      "id": "C",
+      "text": "sufficiently free from hydrocarbon gases"
+    },
+    {
+      "id": "D",
+      "text": "permitting the outward passage of gas"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

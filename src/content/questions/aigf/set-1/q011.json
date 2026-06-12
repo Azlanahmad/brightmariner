@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q11",
+  "text": "In IGF Code, Independent tanks means",
+  "options": [
+    {
+      "id": "A",
+      "text": "self-supporting, do not form part of the ship's hull"
+    },
+    {
+      "id": "B",
+      "text": "are not essential to the hull strength"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

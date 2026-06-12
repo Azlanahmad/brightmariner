@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q26",
+  "text": "Mechanical strength is impracticable or would cause ________",
+  "options": [
+    {
+      "id": "A",
+      "text": "no stress"
+    },
+    {
+      "id": "B",
+      "text": "lower local stresses"
+    },
+    {
+      "id": "C",
+      "text": "excessive local stresses"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

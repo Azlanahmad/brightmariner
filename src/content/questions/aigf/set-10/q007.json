@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q7",
+  "text": "In greater design conditions used for piping, piping system and components, What is the vapour pressure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "vapour pressure at 45°C"
+    },
+    {
+      "id": "B",
+      "text": "vapour pressure at 750°C"
+    },
+    {
+      "id": "C",
+      "text": "vapour pressure at 805°C"
+    },
+    {
+      "id": "D",
+      "text": "vapour pressure at 500°C"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

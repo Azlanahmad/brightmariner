@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s11-q29",
+  "text": "In allowable loads, reaction to loading arm connections cause",
+  "options": [
+    {
+      "id": "A",
+      "text": "superimposed loads"
+    },
+    {
+      "id": "B",
+      "text": "live loads"
+    },
+    {
+      "id": "C",
+      "text": "superimposed dead loads"
+    },
+    {
+      "id": "D",
+      "text": "superdead loads"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 11,
+  "explanation": ""
+}

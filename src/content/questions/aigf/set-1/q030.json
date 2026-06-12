@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q30",
+  "text": "What is concentration of a hydrocarbon gas in air below which there is insufficient hydrocarbon to support combustion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flammable range"
+    },
+    {
+      "id": "B",
+      "text": "Lower flamable limit"
+    },
+    {
+      "id": "C",
+      "text": "Flash point"
+    },
+    {
+      "id": "D",
+      "text": "Gas freeing"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

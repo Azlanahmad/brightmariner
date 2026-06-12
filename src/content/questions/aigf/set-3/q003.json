@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q3",
+  "text": "What is specific heat?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The quantity of energy in kilojoules required to change the temperature of 1 kg mass of the substance by 1 degC."
+    },
+    {
+      "id": "B",
+      "text": "The ignition of material brought by a heat producing chemical reaction within the material itself without exposure to an external source ignition"
+    },
+    {
+      "id": "C",
+      "text": "The electrical charge produced on disimilar materials caused by relative motion between each when in contact"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

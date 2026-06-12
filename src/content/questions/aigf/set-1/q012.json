@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s1-q12",
+  "text": "____________is capable of being ignited.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flammable"
+    },
+    {
+      "id": "B",
+      "text": "Inflammable"
+    },
+    {
+      "id": "C",
+      "text": "Absolute temperature"
+    },
+    {
+      "id": "D",
+      "text": "Absolute zero"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "aigf",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q14",
+  "text": "What is electrically bonded in ship's structure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "sea water line"
+    },
+    {
+      "id": "B",
+      "text": "All gasketed pipe joints"
+    },
+    {
+      "id": "C",
+      "text": "All non-gasketed pipe joints"
+    },
+    {
+      "id": "D",
+      "text": "fresh water line"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

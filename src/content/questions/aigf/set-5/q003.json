@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s5-q3",
+  "text": "In case of shut-off of the gas fuel supply, the engines are capable of continuous operation by ________ only without interruption",
+  "options": [
+    {
+      "id": "A",
+      "text": "vapour fuel"
+    },
+    {
+      "id": "B",
+      "text": "oxygen fuel"
+    },
+    {
+      "id": "C",
+      "text": "oil fuel"
+    },
+    {
+      "id": "D",
+      "text": "gas fuel"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 5,
+  "explanation": ""
+}

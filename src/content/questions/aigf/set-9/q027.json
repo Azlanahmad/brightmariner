@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q27",
+  "text": "What is the unit of P,design pressure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "K"
+    },
+    {
+      "id": "B",
+      "text": "bar"
+    },
+    {
+      "id": "C",
+      "text": "Pa"
+    },
+    {
+      "id": "D",
+      "text": "mm"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

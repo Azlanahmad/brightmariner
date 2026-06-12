@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s3-q20",
+  "text": "Waste heat recovery system pay back time is _________",
+  "options": [
+    {
+      "id": "A",
+      "text": "long"
+    },
+    {
+      "id": "B",
+      "text": "short"
+    },
+    {
+      "id": "C",
+      "text": "medium"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 3,
+  "explanation": ""
+}

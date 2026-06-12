@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q4",
+  "text": "________ is an engine for reduction of the vessels maximum speed to increase the efficiency by limiting the potential power output",
+  "options": [
+    {
+      "id": "A",
+      "text": "rerating"
+    },
+    {
+      "id": "B",
+      "text": "derating"
+    },
+    {
+      "id": "C",
+      "text": "over rating"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

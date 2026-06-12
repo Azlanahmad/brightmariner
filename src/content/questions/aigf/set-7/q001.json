@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s7-q1",
+  "text": "Which type of vessel has got the biggest disadvantage with reference to Alternate Marine Power?",
+  "options": [
+    {
+      "id": "A",
+      "text": "bulK carrier"
+    },
+    {
+      "id": "B",
+      "text": "container"
+    },
+    {
+      "id": "C",
+      "text": "tanker"
+    },
+    {
+      "id": "D",
+      "text": "passenger ships"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 7,
+  "explanation": ""
+}

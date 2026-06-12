@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q1",
+  "text": "High pressure gas piping systems are confirmed by carrying out stress analysis of",
+  "options": [
+    {
+      "id": "A",
+      "text": "stresses due to the length of the piping system"
+    },
+    {
+      "id": "B",
+      "text": "destresses due to the length of the piping system"
+    },
+    {
+      "id": "C",
+      "text": "stresses due to the weight of the piping system"
+    },
+    {
+      "id": "D",
+      "text": "destresse due to the weight of the piping system"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}

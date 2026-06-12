@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s10-q6",
+  "text": "What is appropriate in greater design conditions used for piping, piping system and components?",
+  "options": [
+    {
+      "id": "A",
+      "text": "for systems or components which may be separated from their control valves"
+    },
+    {
+      "id": "B",
+      "text": "for systems or components which may be separated from their relief valves"
+    },
+    {
+      "id": "C",
+      "text": "for systems or components which may be combined from their relief valves"
+    },
+    {
+      "id": "D",
+      "text": "for systems or components which may be combined from their control valves"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 10,
+  "explanation": ""
+}

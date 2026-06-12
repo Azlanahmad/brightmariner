@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s9-q16",
+  "text": "What is provided for controlling pressure in isolated spaces?",
+  "options": [
+    {
+      "id": "A",
+      "text": "closable non-return valve"
+    },
+    {
+      "id": "B",
+      "text": "relief valves"
+    },
+    {
+      "id": "C",
+      "text": "two nonreturn valves"
+    },
+    {
+      "id": "D",
+      "text": "single nonreturn valves"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 9,
+  "explanation": ""
+}

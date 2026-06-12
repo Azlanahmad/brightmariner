@@ -1,0 +1,26 @@
+{
+  "id": "aigf-s12-q22",
+  "text": "In Direct connections of Piping fabrication, Screwed couplings used for accessory lines and instrumentation lines with _______________",
+  "options": [
+    {
+      "id": "A",
+      "text": "internal diameters of 25 mm or more"
+    },
+    {
+      "id": "B",
+      "text": "external diameters of 25 mm or less"
+    },
+    {
+      "id": "C",
+      "text": "internal diameters of 25 mm or less"
+    },
+    {
+      "id": "D",
+      "text": "external diameters of 25 mm or more"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "aigf",
+  "set": 12,
+  "explanation": ""
+}
