@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q28",
+  "text": "__________ is the lowest temperature to which a liquid or gas requires to be raised to cause self- sustained spontaneous combustion",
+  "options": [
+    {
+      "id": "A",
+      "text": "Absolute Zero"
+    },
+    {
+      "id": "B",
+      "text": "Auto-Ignition Temperature"
+    },
+    {
+      "id": "C",
+      "text": "Boiling Point"
+    },
+    {
+      "id": "D",
+      "text": "Absolute Temperature"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q29",
+  "text": "What is the use of bottled gas?",
+  "options": [
+    {
+      "id": "A",
+      "text": "fuel for heating"
+    },
+    {
+      "id": "B",
+      "text": "cooking in remote loctions"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

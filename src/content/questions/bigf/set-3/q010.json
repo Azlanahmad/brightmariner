@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q10",
+  "text": "In Cavitation process, the bubbles of vapour that are formed collapse with impulsive force in the _________ pressure regions of the impeller.",
+  "options": [
+    {
+      "id": "A",
+      "text": "lower"
+    },
+    {
+      "id": "B",
+      "text": "higher"
+    },
+    {
+      "id": "C",
+      "text": "medium"
+    },
+    {
+      "id": "D",
+      "text": "zero"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

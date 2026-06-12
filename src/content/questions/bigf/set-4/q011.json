@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q11",
+  "text": "In IGF Code, MAWP means",
+  "options": [
+    {
+      "id": "A",
+      "text": "Maximum allocated working pressure"
+    },
+    {
+      "id": "B",
+      "text": "Minimum allowable working pressure"
+    },
+    {
+      "id": "C",
+      "text": "Maximum allowable working pressure"
+    },
+    {
+      "id": "D",
+      "text": "Minimum allocated working pressure"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

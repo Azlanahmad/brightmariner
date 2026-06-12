@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q13",
+  "text": "What are the cargoes carried on Liquified Gas Tankers?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Liquified Natural Gas"
+    },
+    {
+      "id": "B",
+      "text": "Liquified Petroleum Gas"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

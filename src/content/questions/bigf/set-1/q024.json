@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q24",
+  "text": "Natural Gas Liquids are carried at- _________ at atmospheric pressure",
+  "options": [
+    {
+      "id": "A",
+      "text": "37oC"
+    },
+    {
+      "id": "B",
+      "text": "36oC"
+    },
+    {
+      "id": "C",
+      "text": "80oC"
+    },
+    {
+      "id": "D",
+      "text": "35oC"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

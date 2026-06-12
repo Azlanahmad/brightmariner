@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q17",
+  "text": "Critical temperature is ________________",
+  "options": [
+    {
+      "id": "A",
+      "text": "The temperature above which a gas cannot be liquefied by pressure alone."
+    },
+    {
+      "id": "B",
+      "text": "The temperature above which a solid cannot be liquefied by pressure alone."
+    },
+    {
+      "id": "C",
+      "text": "The temperature above which a semi solid cannot be liquefied by pressure alone."
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

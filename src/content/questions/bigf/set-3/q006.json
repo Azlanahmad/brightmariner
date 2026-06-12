@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q6",
+  "text": "Cargo area contains",
+  "options": [
+    {
+      "id": "A",
+      "text": "cargo containment system"
+    },
+    {
+      "id": "B",
+      "text": "cargo pumps"
+    },
+    {
+      "id": "C",
+      "text": "compressor rooms"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

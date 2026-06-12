@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q19",
+  "text": "______________ is the endorsement issued by a flag state administration to a certificate of competency of a ship's officer allowing service on dangerous cargo carriers such as oil tankers, chemical tankers or gas carriers.",
+  "options": [
+    {
+      "id": "A",
+      "text": "EXEMPTION"
+    },
+    {
+      "id": "B",
+      "text": "Cargo containment system"
+    },
+    {
+      "id": "C",
+      "text": "Dangerous Cargo Endorsement"
+    },
+    {
+      "id": "D",
+      "text": "Bulk cargo"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

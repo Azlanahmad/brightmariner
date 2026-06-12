@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q2",
+  "text": "When Low-flashpoint fuels that are liquid and compressed, what are the gas fuels?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Butane i"
+    },
+    {
+      "id": "B",
+      "text": "Butane i"
+    },
+    {
+      "id": "C",
+      "text": "Propane mixtures"
+    },
+    {
+      "id": "D",
+      "text": "All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

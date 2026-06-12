@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q13",
+  "text": "_______________ is an easily liquefiable and chlorinated gas used in the manufacture of polyvinyl chloride",
+  "options": [
+    {
+      "id": "A",
+      "text": "florine"
+    },
+    {
+      "id": "B",
+      "text": "Vinyl Chloride"
+    },
+    {
+      "id": "C",
+      "text": "oxygen"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

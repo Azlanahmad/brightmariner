@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q5",
+  "text": "In production of chemical gases, The ethylene stream can be synthesized with chlorine to manufacture __________",
+  "options": [
+    {
+      "id": "A",
+      "text": "vinyl chloride"
+    },
+    {
+      "id": "B",
+      "text": "ethylene"
+    },
+    {
+      "id": "C",
+      "text": "ammonia"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

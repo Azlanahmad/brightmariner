@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q11",
+  "text": "What are the products from Butadiene?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Polybutadiene"
+    },
+    {
+      "id": "B",
+      "text": "Synthetic rubbers"
+    },
+    {
+      "id": "C",
+      "text": "Styrene"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q8",
+  "text": "______________ is the process in which vapour boil- off from acrgo tanks is condensed in a cargo condenser in which the coolant is a refrigerant gas such as R 22.",
+  "options": [
+    {
+      "id": "A",
+      "text": "BLEVE"
+    },
+    {
+      "id": "B",
+      "text": "Cascade Reliquefaction Cycle"
+    },
+    {
+      "id": "C",
+      "text": "Boil-off"
+    },
+    {
+      "id": "D",
+      "text": "Boiling Point"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q15",
+  "text": "Natural gas comes from ________________",
+  "options": [
+    {
+      "id": "A",
+      "text": "rocks"
+    },
+    {
+      "id": "B",
+      "text": "underground deposits"
+    },
+    {
+      "id": "C",
+      "text": "heating mixtures"
+    },
+    {
+      "id": "D",
+      "text": "cold climate"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

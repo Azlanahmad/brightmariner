@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q20",
+  "text": "Natural gas contains smaller quantities of heavier ________",
+  "options": [
+    {
+      "id": "A",
+      "text": "nitrogen"
+    },
+    {
+      "id": "B",
+      "text": "hydrocarbons"
+    },
+    {
+      "id": "C",
+      "text": "carbons"
+    },
+    {
+      "id": "D",
+      "text": "oxygen"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

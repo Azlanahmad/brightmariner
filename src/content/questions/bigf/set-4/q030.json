@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q30",
+  "text": "Synonyms of n-butane is",
+  "options": [
+    {
+      "id": "A",
+      "text": "normal butane"
+    },
+    {
+      "id": "B",
+      "text": "iso butane"
+    },
+    {
+      "id": "C",
+      "text": "methlypropane"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

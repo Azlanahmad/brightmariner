@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q22",
+  "text": "Associated gas found in combination with crude oil comprises mainly ______________",
+  "options": [
+    {
+      "id": "A",
+      "text": "methane"
+    },
+    {
+      "id": "B",
+      "text": "Natural Gas Liquids"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

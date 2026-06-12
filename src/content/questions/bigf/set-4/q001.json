@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q1",
+  "text": "In Pre-cooled mixed refrigerant process, what is MCR",
+  "options": [
+    {
+      "id": "A",
+      "text": "Minimum Combination Refrigerant"
+    },
+    {
+      "id": "B",
+      "text": "Multi Component Refrigerant"
+    },
+    {
+      "id": "C",
+      "text": "Multi Cascade Refrigerant"
+    },
+    {
+      "id": "D",
+      "text": "Multi Cascade Refinement"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

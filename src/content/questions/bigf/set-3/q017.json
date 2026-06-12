@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q17",
+  "text": "_____________ is the ratio of the absolute pressure at the discharge from a compressor divided by the absolute pressure at the suction",
+  "options": [
+    {
+      "id": "A",
+      "text": "Temperature Ratio"
+    },
+    {
+      "id": "B",
+      "text": "Compression Ratio"
+    },
+    {
+      "id": "C",
+      "text": "Freezing ratio"
+    },
+    {
+      "id": "D",
+      "text": "Compressing ratio"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

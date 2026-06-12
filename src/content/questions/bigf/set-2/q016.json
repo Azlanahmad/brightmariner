@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q16",
+  "text": "The first gas cargoes in market are",
+  "options": [
+    {
+      "id": "A",
+      "text": "butane"
+    },
+    {
+      "id": "B",
+      "text": "propane"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

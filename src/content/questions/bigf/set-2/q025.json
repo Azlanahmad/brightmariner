@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q25",
+  "text": "Aerating means the introduction of fresh air into a tank with the object of removing",
+  "options": [
+    {
+      "id": "A",
+      "text": "toxic"
+    },
+    {
+      "id": "B",
+      "text": "flamamable"
+    },
+    {
+      "id": "C",
+      "text": "inert gas"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

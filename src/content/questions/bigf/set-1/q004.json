@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q4",
+  "text": "The most important property of a liquified gas, in relation to pumping and storage is _____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "saturated vapour pressure"
+    },
+    {
+      "id": "B",
+      "text": "high vapour pressure"
+    },
+    {
+      "id": "C",
+      "text": "low vapour pressure"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

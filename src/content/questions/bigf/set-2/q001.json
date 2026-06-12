@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q1",
+  "text": "Which is used as bottled gas in cold climates?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ammonia"
+    },
+    {
+      "id": "B",
+      "text": "propane"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

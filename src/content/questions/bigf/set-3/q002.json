@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q2",
+  "text": "Boil-Off is caused by",
+  "options": [
+    {
+      "id": "A",
+      "text": "heat ingress"
+    },
+    {
+      "id": "B",
+      "text": "a drop in pressure"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

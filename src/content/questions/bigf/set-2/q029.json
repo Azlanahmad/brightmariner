@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q29",
+  "text": "BLEVE means",
+  "options": [
+    {
+      "id": "A",
+      "text": "Boil-off Liquid Exploring Vapour Explosion"
+    },
+    {
+      "id": "B",
+      "text": "Boil-off Liquid Expanding Vapour Explosion"
+    },
+    {
+      "id": "C",
+      "text": "Boiling Liquid Expanding Vapour Explosion"
+    },
+    {
+      "id": "D",
+      "text": "Boiling Liquid Exploring Vapour Explosion"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

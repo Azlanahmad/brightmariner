@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q22",
+  "text": "NGL means",
+  "options": [
+    {
+      "id": "A",
+      "text": "Natural Gas Limit"
+    },
+    {
+      "id": "B",
+      "text": "Neutral Gas Liquid"
+    },
+    {
+      "id": "C",
+      "text": "Natural Gas Liquid"
+    },
+    {
+      "id": "D",
+      "text": "Nitrogen Gas Liquid"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

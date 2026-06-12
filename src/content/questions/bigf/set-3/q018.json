@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q18",
+  "text": "Natural gas contains ________ quantities of heavier hydrocarbons",
+  "options": [
+    {
+      "id": "A",
+      "text": "smaller"
+    },
+    {
+      "id": "B",
+      "text": "bigger"
+    },
+    {
+      "id": "C",
+      "text": "medium"
+    },
+    {
+      "id": "D",
+      "text": "zero"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

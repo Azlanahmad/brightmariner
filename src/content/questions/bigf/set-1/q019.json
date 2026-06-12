@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q19",
+  "text": "____________ is a petrochemical stock leading to the production of methonal",
+  "options": [
+    {
+      "id": "A",
+      "text": "Octane"
+    },
+    {
+      "id": "B",
+      "text": "Acetic acid"
+    },
+    {
+      "id": "C",
+      "text": "Ethane"
+    },
+    {
+      "id": "D",
+      "text": "Methane"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

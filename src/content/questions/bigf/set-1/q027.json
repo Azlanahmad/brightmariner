@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q27",
+  "text": "Liquified Petroleum Gas is a comprise of ________________",
+  "options": [
+    {
+      "id": "A",
+      "text": "propane"
+    },
+    {
+      "id": "B",
+      "text": "butane"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

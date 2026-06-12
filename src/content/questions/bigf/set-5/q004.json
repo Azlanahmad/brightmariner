@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s5-q4",
+  "text": "Synonyms of α butylene is",
+  "options": [
+    {
+      "id": "A",
+      "text": "But-1-ene"
+    },
+    {
+      "id": "B",
+      "text": "ethyl ethylene"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 5,
+  "explanation": ""
+}

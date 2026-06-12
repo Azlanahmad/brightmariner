@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q15",
+  "text": "___________ is the reliquefied gases which collect in the condenser and which are then returned to the cargo tanks.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Condensate"
+    },
+    {
+      "id": "B",
+      "text": "Cofferdam"
+    },
+    {
+      "id": "C",
+      "text": "BLEVE"
+    },
+    {
+      "id": "D",
+      "text": "Aerating"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

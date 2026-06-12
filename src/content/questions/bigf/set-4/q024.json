@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q24",
+  "text": "___________ is the temperature at which condensation will take place within a gas if further cooling occurs.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Enthalpy"
+    },
+    {
+      "id": "B",
+      "text": "Dew point"
+    },
+    {
+      "id": "C",
+      "text": "Bleve"
+    },
+    {
+      "id": "D",
+      "text": "Flame"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

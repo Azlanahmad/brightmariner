@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q26",
+  "text": "In liquefaction plant which toxic compound is removed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "nitrogen sulphide"
+    },
+    {
+      "id": "B",
+      "text": "hydrogen sulphide"
+    },
+    {
+      "id": "C",
+      "text": "carbondioxide"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

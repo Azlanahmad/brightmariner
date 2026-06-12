@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q19",
+  "text": "Natural gas contains smaller quantities of ______hydrocarbons",
+  "options": [
+    {
+      "id": "A",
+      "text": "lighter"
+    },
+    {
+      "id": "B",
+      "text": "heavier"
+    },
+    {
+      "id": "C",
+      "text": "medium"
+    },
+    {
+      "id": "D",
+      "text": "partial"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

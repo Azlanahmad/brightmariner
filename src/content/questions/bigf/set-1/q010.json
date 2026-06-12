@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q10",
+  "text": "IMO means ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Indian Maritime Organisation"
+    },
+    {
+      "id": "B",
+      "text": "International Maritime Oraganisation"
+    },
+    {
+      "id": "C",
+      "text": "Indian Marine Organisation"
+    },
+    {
+      "id": "D",
+      "text": "International Main Oraganisation"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

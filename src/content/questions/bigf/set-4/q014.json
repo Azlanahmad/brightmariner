@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q14",
+  "text": "The pressure at which a substance exists in the _______ state at its critical temperature is called critical pressure.",
+  "options": [
+    {
+      "id": "A",
+      "text": "solid"
+    },
+    {
+      "id": "B",
+      "text": "liquid"
+    },
+    {
+      "id": "C",
+      "text": "vapour"
+    },
+    {
+      "id": "D",
+      "text": "semi solid"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

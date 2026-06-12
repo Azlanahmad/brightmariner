@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q12",
+  "text": "Liquid with a vapour pressure exceeding 2.8 bar absolute at a temperature of __________.",
+  "options": [
+    {
+      "id": "A",
+      "text": "36.8 deg C"
+    },
+    {
+      "id": "B",
+      "text": "37.8 deg C"
+    },
+    {
+      "id": "C",
+      "text": "38.8 deg C"
+    },
+    {
+      "id": "D",
+      "text": "37.0 deg C"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

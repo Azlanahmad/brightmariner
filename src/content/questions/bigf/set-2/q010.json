@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q10",
+  "text": "Butadiene is used in",
+  "options": [
+    {
+      "id": "A",
+      "text": "paints"
+    },
+    {
+      "id": "B",
+      "text": "binders"
+    },
+    {
+      "id": "C",
+      "text": "intermediate in plastics"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

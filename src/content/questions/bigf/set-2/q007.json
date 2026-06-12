@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q7",
+  "text": "Products obatined from ethylene are",
+  "options": [
+    {
+      "id": "A",
+      "text": "polyethylene"
+    },
+    {
+      "id": "B",
+      "text": "polyvinyl chloride"
+    },
+    {
+      "id": "C",
+      "text": "rubber"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

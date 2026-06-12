@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q26",
+  "text": "Natural Gas Liquids are carried at -45deg C at vapour pressure of __________",
+  "options": [
+    {
+      "id": "A",
+      "text": "5 bar"
+    },
+    {
+      "id": "B",
+      "text": "15 bar"
+    },
+    {
+      "id": "C",
+      "text": "25 bar"
+    },
+    {
+      "id": "D",
+      "text": "7 bar"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

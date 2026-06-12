@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q12",
+  "text": "In IGF Code, Membrane tanks means",
+  "options": [
+    {
+      "id": "A",
+      "text": "non-self-supporting tanks that consist of a thin liquid and gas tight layer membrane) supported through insulation by the djacent hull structure"
+    },
+    {
+      "id": "B",
+      "text": "self-supporting, do not form part of the ship's hull and are not essential to the hull strength"
+    },
+    {
+      "id": "C",
+      "text": "an tank in which an explosive gas atmosphere a flammable gas or vapour is or may be expected to be present"
+    },
+    {
+      "id": "D",
+      "text": "an tank in which an explosive gas atmosphere or a flammable gas or vapour is present continuously or is present for long periods"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

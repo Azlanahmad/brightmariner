@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q9",
+  "text": "Saturated vapour pressure is the absolute pressure exerted when liquid is in ___________ with its own vapour at a given temperature.",
+  "options": [
+    {
+      "id": "A",
+      "text": "stability"
+    },
+    {
+      "id": "B",
+      "text": "equlibrium"
+    },
+    {
+      "id": "C",
+      "text": "tranquility"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

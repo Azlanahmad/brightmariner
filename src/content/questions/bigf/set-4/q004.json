@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q4",
+  "text": "In production of chemical gases, from Propane which gas is produced indirectly",
+  "options": [
+    {
+      "id": "A",
+      "text": "vinyl chloride"
+    },
+    {
+      "id": "B",
+      "text": "ethylene"
+    },
+    {
+      "id": "C",
+      "text": "ammonia"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

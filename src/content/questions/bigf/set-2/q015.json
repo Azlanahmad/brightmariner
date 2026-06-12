@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q15",
+  "text": "Vinyl Chloride has a ____________specific gravity much denser than other common gas.",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.97"
+    },
+    {
+      "id": "B",
+      "text": "0.87"
+    },
+    {
+      "id": "C",
+      "text": "0.67"
+    },
+    {
+      "id": "D",
+      "text": "0.57"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

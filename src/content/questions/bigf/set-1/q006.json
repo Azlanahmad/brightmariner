@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q6",
+  "text": "The most important property of a liquified gas, in relation to ___________ is saturated vapour pressure",
+  "options": [
+    {
+      "id": "A",
+      "text": "pumping"
+    },
+    {
+      "id": "B",
+      "text": "storage"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

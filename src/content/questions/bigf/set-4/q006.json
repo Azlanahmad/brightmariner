@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q6",
+  "text": "In production of chemical gases, The methane stream is first reformed with steam into _________",
+  "options": [
+    {
+      "id": "A",
+      "text": "vinyl chloride"
+    },
+    {
+      "id": "B",
+      "text": "nitrogen"
+    },
+    {
+      "id": "C",
+      "text": "hydrogen"
+    },
+    {
+      "id": "D",
+      "text": "carbondioxide"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

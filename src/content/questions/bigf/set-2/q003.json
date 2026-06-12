@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q3",
+  "text": "Used as Petrochemical feedstock for the production of ________",
+  "options": [
+    {
+      "id": "A",
+      "text": "acetaldehyde"
+    },
+    {
+      "id": "B",
+      "text": "acetic acid"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

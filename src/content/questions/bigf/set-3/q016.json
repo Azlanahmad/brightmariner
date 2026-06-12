@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q16",
+  "text": "Compression Ratio is the ratio of the absolute _____________ the discharge from a compressor divided by the absolute pressure at the suction",
+  "options": [
+    {
+      "id": "A",
+      "text": "volume"
+    },
+    {
+      "id": "B",
+      "text": "pressure"
+    },
+    {
+      "id": "C",
+      "text": "mass"
+    },
+    {
+      "id": "D",
+      "text": "temperature"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

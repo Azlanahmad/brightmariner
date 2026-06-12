@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q4",
+  "text": "Boil-Off varies with",
+  "options": [
+    {
+      "id": "A",
+      "text": "drop in pressure"
+    },
+    {
+      "id": "B",
+      "text": "exerted pressure"
+    },
+    {
+      "id": "C",
+      "text": "discharge pressure"
+    },
+    {
+      "id": "D",
+      "text": "high pressure"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

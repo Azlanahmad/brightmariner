@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q19",
+  "text": "Absolute pressure is the total of ___________",
+  "options": [
+    {
+      "id": "A",
+      "text": "gauge pressure"
+    },
+    {
+      "id": "B",
+      "text": "pressure of surrounding atmosphere"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

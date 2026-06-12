@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q9",
+  "text": "_____________ is the process occurring within the impeller of a pump when pressure at the inlet to the impeller falls below the vapour pressure of the liquid being pumped.",
+  "options": [
+    {
+      "id": "A",
+      "text": "BLEVE"
+    },
+    {
+      "id": "B",
+      "text": "Cascade Reliquefaction Cycle"
+    },
+    {
+      "id": "C",
+      "text": "Boil-off"
+    },
+    {
+      "id": "D",
+      "text": "Cavitation"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

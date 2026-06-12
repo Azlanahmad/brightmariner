@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q2",
+  "text": "In Pre-cooled mixed refrigerant process, Multi Component Refrigerant is a combination of",
+  "options": [
+    {
+      "id": "A",
+      "text": "pure refrigerant cascadecycles"
+    },
+    {
+      "id": "B",
+      "text": "mixed refrigerant cycles"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

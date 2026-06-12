@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q11",
+  "text": "Cavitation effect can cause significant damage to the",
+  "options": [
+    {
+      "id": "A",
+      "text": "impeller surfaces"
+    },
+    {
+      "id": "B",
+      "text": "pumps may lose suction"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

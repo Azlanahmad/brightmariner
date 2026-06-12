@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q27",
+  "text": "Air lock is used to maintain _____________ areas at a pressure differential.",
+  "options": [
+    {
+      "id": "A",
+      "text": "non adjacent"
+    },
+    {
+      "id": "B",
+      "text": "opposite"
+    },
+    {
+      "id": "C",
+      "text": "adjacent"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

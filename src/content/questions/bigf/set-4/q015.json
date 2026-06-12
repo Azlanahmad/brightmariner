@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q15",
+  "text": "Critical pressure is the saturation _________ at the critical temperature.",
+  "options": [
+    {
+      "id": "A",
+      "text": "volume"
+    },
+    {
+      "id": "B",
+      "text": "pressure"
+    },
+    {
+      "id": "C",
+      "text": "mass"
+    },
+    {
+      "id": "D",
+      "text": "temperature"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

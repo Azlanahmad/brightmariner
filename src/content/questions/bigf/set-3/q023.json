@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q23",
+  "text": "What are the things Natural gas contains in varying amounts?",
+  "options": [
+    {
+      "id": "A",
+      "text": "hydrocarbon"
+    },
+    {
+      "id": "B",
+      "text": "water"
+    },
+    {
+      "id": "C",
+      "text": "carbondioxide"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

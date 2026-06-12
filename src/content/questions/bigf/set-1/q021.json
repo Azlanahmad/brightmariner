@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q21",
+  "text": "Associated gas found in combination with __________ comprises mainly methane and Natural Gas Liquids",
+  "options": [
+    {
+      "id": "A",
+      "text": "petroluem"
+    },
+    {
+      "id": "B",
+      "text": "crude oil"
+    },
+    {
+      "id": "C",
+      "text": "diesel"
+    },
+    {
+      "id": "D",
+      "text": "gas"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

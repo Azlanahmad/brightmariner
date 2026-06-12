@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s5-q5",
+  "text": "Synonyms of β butylene is",
+  "options": [
+    {
+      "id": "A",
+      "text": "but-2-ene"
+    },
+    {
+      "id": "B",
+      "text": "dimethyl ethulene"
+    },
+    {
+      "id": "C",
+      "text": "pseudo butulenes"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 5,
+  "explanation": ""
+}

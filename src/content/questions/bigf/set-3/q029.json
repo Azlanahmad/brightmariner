@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q29",
+  "text": "What is the atmospheric boiling point of methane gas?",
+  "options": [
+    {
+      "id": "A",
+      "text": "atmospheric boiling point is +172deg C"
+    },
+    {
+      "id": "B",
+      "text": "atmospheric boiling point is - 162deg C"
+    },
+    {
+      "id": "C",
+      "text": "atmospheric boiling point is +162deg C"
+    },
+    {
+      "id": "D",
+      "text": "atmospheric boiling point is +192deg C"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

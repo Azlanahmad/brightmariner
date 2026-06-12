@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q12",
+  "text": "What are checked during the certificate of Fittness?",
+  "options": [
+    {
+      "id": "A",
+      "text": "structure"
+    },
+    {
+      "id": "B",
+      "text": "equipment"
+    },
+    {
+      "id": "C",
+      "text": "fittings"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

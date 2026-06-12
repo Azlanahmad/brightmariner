@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q25",
+  "text": "In liquefaction plant which gas is removed as it freezes at a temperature above boiling point of Liquified Natural Gas",
+  "options": [
+    {
+      "id": "A",
+      "text": "methane"
+    },
+    {
+      "id": "B",
+      "text": "hydrocarbons"
+    },
+    {
+      "id": "C",
+      "text": "carbon dioxide"
+    },
+    {
+      "id": "D",
+      "text": "ethane"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

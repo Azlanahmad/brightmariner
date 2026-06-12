@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q7",
+  "text": "Cargo containment system is the arrangement for containment of cargo including where fitted with",
+  "options": [
+    {
+      "id": "A",
+      "text": "primary barriers"
+    },
+    {
+      "id": "B",
+      "text": "secondary barriers"
+    },
+    {
+      "id": "C",
+      "text": "associated insulations"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q3",
+  "text": "Liquefied Petroleum Gas is obtained from the refining of __________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vegetable oil"
+    },
+    {
+      "id": "B",
+      "text": "crude oil"
+    },
+    {
+      "id": "C",
+      "text": "fatty oil"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

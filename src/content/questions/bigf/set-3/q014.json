@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q14",
+  "text": "Cofferdam is the isolating space on a ship between __________",
+  "options": [
+    {
+      "id": "A",
+      "text": "two adjacent steel bulkheads"
+    },
+    {
+      "id": "B",
+      "text": "deck"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

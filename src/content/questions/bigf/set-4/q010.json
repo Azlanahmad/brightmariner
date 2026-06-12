@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q10",
+  "text": "In IGF Code, MARVS means",
+  "options": [
+    {
+      "id": "A",
+      "text": "Maximum allowable relief value setting"
+    },
+    {
+      "id": "B",
+      "text": "Maximum allowable relief valve setting"
+    },
+    {
+      "id": "C",
+      "text": "Minimum allowable relief valve setting"
+    },
+    {
+      "id": "D",
+      "text": "Minimum allowable relief value setting"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

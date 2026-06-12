@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q9",
+  "text": "Butadiene is a _______________ petrochemical intermediaste.",
+  "options": [
+    {
+      "id": "A",
+      "text": "high reactive"
+    },
+    {
+      "id": "B",
+      "text": "low reactive"
+    },
+    {
+      "id": "C",
+      "text": "medium reactive"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

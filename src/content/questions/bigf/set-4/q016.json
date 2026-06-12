@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q16",
+  "text": "Explanation for critical pressure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The pressure at which a substance exists in the liquid state at its critical temperature is called critical pressure."
+    },
+    {
+      "id": "B",
+      "text": "Critical pressure is the saturation pressure at the critical temperature."
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

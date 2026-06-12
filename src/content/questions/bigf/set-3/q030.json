@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q30",
+  "text": "The basic liquefaction processes in current use are",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pure refrigerant cascade process"
+    },
+    {
+      "id": "B",
+      "text": "Mixed refrigerant process"
+    },
+    {
+      "id": "C",
+      "text": "Pre-cooled mixed refrigerant process"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

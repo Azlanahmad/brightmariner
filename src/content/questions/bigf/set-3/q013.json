@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q13",
+  "text": "___________ ia the isolating space on a ship between two adjacent steel bulkheads or deck",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cofferdam"
+    },
+    {
+      "id": "B",
+      "text": "Cavitation"
+    },
+    {
+      "id": "C",
+      "text": "Cargo conatinment system"
+    },
+    {
+      "id": "D",
+      "text": "Compressor pumps"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

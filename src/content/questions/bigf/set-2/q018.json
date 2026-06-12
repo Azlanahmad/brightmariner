@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q18",
+  "text": "In which year fully refrigerated ships for Liquified Petroleum Gas, Liquified Natural Gas and certain chemical gases.",
+  "options": [
+    {
+      "id": "A",
+      "text": "1900"
+    },
+    {
+      "id": "B",
+      "text": "2019"
+    },
+    {
+      "id": "C",
+      "text": "1963"
+    },
+    {
+      "id": "D",
+      "text": "2010"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

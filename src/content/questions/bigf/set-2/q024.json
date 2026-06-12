@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q24",
+  "text": "Adiabatic is an ideal process undergone by a gas in which__________ occurs",
+  "options": [
+    {
+      "id": "A",
+      "text": "no gain of heat"
+    },
+    {
+      "id": "B",
+      "text": "no loss of heat"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

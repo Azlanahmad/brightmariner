@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q1",
+  "text": "___________ is the vapour produced above the surface of a boiling cargo due to evaporation.",
+  "options": [
+    {
+      "id": "A",
+      "text": "BLEVE"
+    },
+    {
+      "id": "B",
+      "text": "Boil-off"
+    },
+    {
+      "id": "C",
+      "text": "Boiling Point"
+    },
+    {
+      "id": "D",
+      "text": "Absolute Temperature"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

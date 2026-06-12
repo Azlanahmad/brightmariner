@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q18",
+  "text": "________________ is the temperature above which a gas cannot be liquefied by pressure alone.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Critical pressure"
+    },
+    {
+      "id": "B",
+      "text": "Critical temperature"
+    },
+    {
+      "id": "C",
+      "text": "Absolute temperature"
+    },
+    {
+      "id": "D",
+      "text": "Absolute pressure"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

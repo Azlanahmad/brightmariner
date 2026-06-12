@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q17",
+  "text": "Gas shipping began in which year?",
+  "options": [
+    {
+      "id": "A",
+      "text": "2019"
+    },
+    {
+      "id": "B",
+      "text": "1920"
+    },
+    {
+      "id": "C",
+      "text": "1520"
+    },
+    {
+      "id": "D",
+      "text": "2000"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

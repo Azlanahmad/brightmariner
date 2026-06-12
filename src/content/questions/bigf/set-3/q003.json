@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q3",
+  "text": "Boiling point varies with",
+  "options": [
+    {
+      "id": "A",
+      "text": "drop in pressure"
+    },
+    {
+      "id": "B",
+      "text": "exerted pressure"
+    },
+    {
+      "id": "C",
+      "text": "discharge pressure"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

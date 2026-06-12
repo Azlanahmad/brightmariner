@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q23",
+  "text": "Activated Alumina a desiccant medium which operates by adsorption of ___________",
+  "options": [
+    {
+      "id": "A",
+      "text": "gas"
+    },
+    {
+      "id": "B",
+      "text": "water molecules"
+    },
+    {
+      "id": "C",
+      "text": "pressure of surrounding atmosphere"
+    },
+    {
+      "id": "D",
+      "text": "gauge pressure"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

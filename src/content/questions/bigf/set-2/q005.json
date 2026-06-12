@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q5",
+  "text": "_________ is the primary petrochemical building blocks",
+  "options": [
+    {
+      "id": "A",
+      "text": "chlorine"
+    },
+    {
+      "id": "B",
+      "text": "Ethylene"
+    },
+    {
+      "id": "C",
+      "text": "kerosene"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

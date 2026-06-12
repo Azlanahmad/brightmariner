@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q8",
+  "text": "In IGF Code, L is the _______ as defined in the International Convention on Load Lines in force.",
+  "options": [
+    {
+      "id": "A",
+      "text": "length"
+    },
+    {
+      "id": "B",
+      "text": "lower"
+    },
+    {
+      "id": "C",
+      "text": "least"
+    },
+    {
+      "id": "D",
+      "text": "less"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

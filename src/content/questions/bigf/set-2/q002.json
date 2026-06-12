@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q2",
+  "text": "Liquified Petroleum Gas is mainly used in ________",
+  "options": [
+    {
+      "id": "A",
+      "text": "power generation"
+    },
+    {
+      "id": "B",
+      "text": "metal cutting"
+    },
+    {
+      "id": "C",
+      "text": "petrochemical feedstock"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

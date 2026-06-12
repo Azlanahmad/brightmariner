@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q23",
+  "text": "Natural Gas Liquids are made up of __________",
+  "options": [
+    {
+      "id": "A",
+      "text": "ethane"
+    },
+    {
+      "id": "B",
+      "text": "Liquified Petroleum Gas"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

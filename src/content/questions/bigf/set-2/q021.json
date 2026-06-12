@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q21",
+  "text": "Absolute zero is the temperature at which the volume of gas theoretically becomes _____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "low"
+    },
+    {
+      "id": "B",
+      "text": "high"
+    },
+    {
+      "id": "C",
+      "text": "medium"
+    },
+    {
+      "id": "D",
+      "text": "zero"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

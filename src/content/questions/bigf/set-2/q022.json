@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q22",
+  "text": "Absolute zero is _____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "being -273.16 deg C"
+    },
+    {
+      "id": "B",
+      "text": "being -373.16 deg C"
+    },
+    {
+      "id": "C",
+      "text": "being -473.16 deg C"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

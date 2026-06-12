@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q26",
+  "text": "Enthalpy is expressed in ____________",
+  "options": [
+    {
+      "id": "A",
+      "text": "k joules per M"
+    },
+    {
+      "id": "B",
+      "text": "k joules per 1 kg"
+    },
+    {
+      "id": "C",
+      "text": "k joules per unit"
+    },
+    {
+      "id": "D",
+      "text": "k joules per volume"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

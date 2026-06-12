@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s5-q3",
+  "text": "Synonyms of propylene is",
+  "options": [
+    {
+      "id": "A",
+      "text": "propane"
+    },
+    {
+      "id": "B",
+      "text": "ethane"
+    },
+    {
+      "id": "C",
+      "text": "bimethyl"
+    },
+    {
+      "id": "D",
+      "text": "dimethyl"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 5,
+  "explanation": ""
+}

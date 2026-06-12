@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q28",
+  "text": "In liquefaction plant, which gas is liquefied into end product?",
+  "options": [
+    {
+      "id": "A",
+      "text": "hydrogen"
+    },
+    {
+      "id": "B",
+      "text": "Oxygen"
+    },
+    {
+      "id": "C",
+      "text": "Methane"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

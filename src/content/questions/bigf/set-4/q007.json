@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q7",
+  "text": "In production of chemical gases, By combining with nitrogen under high pressure and temperature in the presence of a catalyst __________ is produced.",
+  "options": [
+    {
+      "id": "A",
+      "text": "vinyl chloride"
+    },
+    {
+      "id": "B",
+      "text": "ammonia"
+    },
+    {
+      "id": "C",
+      "text": "hydrogen"
+    },
+    {
+      "id": "D",
+      "text": "carbondioxide"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

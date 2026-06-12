@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q8",
+  "text": "Propylene is a petrochemical intermediate used to make which product",
+  "options": [
+    {
+      "id": "A",
+      "text": "Phenol"
+    },
+    {
+      "id": "B",
+      "text": "Acetone"
+    },
+    {
+      "id": "C",
+      "text": "Detergent"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

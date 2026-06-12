@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q14",
+  "text": "____________ is transported either by pipeline as a gas or by sea in its liquified form as Liquified Natural Gas.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Natural gas"
+    },
+    {
+      "id": "B",
+      "text": "Ethane gas"
+    },
+    {
+      "id": "C",
+      "text": "Chemical gases"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

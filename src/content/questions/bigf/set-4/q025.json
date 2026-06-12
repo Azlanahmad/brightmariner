@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q25",
+  "text": "Enthalpy is a ___________ measure of the total heat content of a lliquid at a given temperature.",
+  "options": [
+    {
+      "id": "A",
+      "text": "thermodynamic"
+    },
+    {
+      "id": "B",
+      "text": "reversible"
+    },
+    {
+      "id": "C",
+      "text": "equlibria"
+    },
+    {
+      "id": "D",
+      "text": "irreversible"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

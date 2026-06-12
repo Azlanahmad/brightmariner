@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q4",
+  "text": "____________ accounts the large for the third largest sea borne trade in liquified gases after Liquified Natural Gas and Liquified Petroleum Gas",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ammonia"
+    },
+    {
+      "id": "B",
+      "text": "Urea"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

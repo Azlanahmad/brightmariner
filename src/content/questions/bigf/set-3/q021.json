@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s3-q21",
+  "text": "Natural gas contains smaller quantities of heavier hydrocarbons collectively called as _________",
+  "options": [
+    {
+      "id": "A",
+      "text": "Natural Gas Liquid"
+    },
+    {
+      "id": "B",
+      "text": "Natural Gas Limit"
+    },
+    {
+      "id": "C",
+      "text": "Neutral Gas Liquid"
+    },
+    {
+      "id": "D",
+      "text": "Nitrogen Gas Liquid"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 3,
+  "explanation": ""
+}

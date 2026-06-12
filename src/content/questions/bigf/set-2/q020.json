@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q20",
+  "text": "In practical calculations for Celcius to Kelvin _____________ is added",
+  "options": [
+    {
+      "id": "A",
+      "text": "373"
+    },
+    {
+      "id": "B",
+      "text": "273"
+    },
+    {
+      "id": "C",
+      "text": "473"
+    },
+    {
+      "id": "D",
+      "text": "73"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

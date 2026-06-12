@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q26",
+  "text": "Aerating means _____________ the oxygen content by 21 percent by volume.",
+  "options": [
+    {
+      "id": "A",
+      "text": "increasing"
+    },
+    {
+      "id": "B",
+      "text": "decreasing"
+    },
+    {
+      "id": "C",
+      "text": "maintaining"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

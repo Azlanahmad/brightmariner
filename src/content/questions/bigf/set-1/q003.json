@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q3",
+  "text": "A liquefied gas is the liquid form of a substance, which at _________________would be a gas.",
+  "options": [
+    {
+      "id": "A",
+      "text": "ambient temperature"
+    },
+    {
+      "id": "B",
+      "text": "atmospheric pressure"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

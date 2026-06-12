@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q20",
+  "text": "Dangerous Cargo Endorsement is the endorsement issued by a flag state administration to a certificate of competency of a ship's office rallowing service on dangerous cargo carriers such as ______________",
+  "options": [
+    {
+      "id": "A",
+      "text": "oil tankers"
+    },
+    {
+      "id": "B",
+      "text": "chemical tankers"
+    },
+    {
+      "id": "C",
+      "text": "gas carriers"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

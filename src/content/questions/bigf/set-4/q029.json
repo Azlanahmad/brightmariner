@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q29",
+  "text": "Synonyms of ethane is",
+  "options": [
+    {
+      "id": "A",
+      "text": "bimethyl"
+    },
+    {
+      "id": "B",
+      "text": "dimethyl"
+    },
+    {
+      "id": "C",
+      "text": "methyl methane"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

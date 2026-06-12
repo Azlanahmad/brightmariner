@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q18",
+  "text": "Methane is a petrochemical stock leading to the production of _________",
+  "options": [
+    {
+      "id": "A",
+      "text": "ethanol"
+    },
+    {
+      "id": "B",
+      "text": "methonal"
+    },
+    {
+      "id": "C",
+      "text": "acetaldehyde"
+    },
+    {
+      "id": "D",
+      "text": "acetic acid"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s2-q12",
+  "text": "Vinyl Chloride is an easily ___________ used in the manufacture of polyvinyl chloride",
+  "options": [
+    {
+      "id": "A",
+      "text": "liquefiable"
+    },
+    {
+      "id": "B",
+      "text": "chlorinated gas"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 2,
+  "explanation": ""
+}

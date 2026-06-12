@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q28",
+  "text": "Synonyms of methane is",
+  "options": [
+    {
+      "id": "A",
+      "text": "marsh gas"
+    },
+    {
+      "id": "B",
+      "text": "LNG"
+    },
+    {
+      "id": "C",
+      "text": "natural gas"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

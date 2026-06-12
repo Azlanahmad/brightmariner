@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s4-q27",
+  "text": "In Enthalpy, for a liquid / vapour mixture, it will be seen that it is the sum of ________________",
+  "options": [
+    {
+      "id": "A",
+      "text": "the enthalpy of the liquid"
+    },
+    {
+      "id": "B",
+      "text": "the latent heat of vaporization"
+    },
+    {
+      "id": "C",
+      "text": "both (a) and (b)"
+    },
+    {
+      "id": "D",
+      "text": "none of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "bigf",
+  "set": 4,
+  "explanation": ""
+}

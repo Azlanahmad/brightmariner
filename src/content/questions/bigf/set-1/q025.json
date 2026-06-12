@@ -1,0 +1,26 @@
+{
+  "id": "bigf-s1-q25",
+  "text": "Natural Gas Liquids are carried at- _________ at atmospheric vapour pressure of 5 bar",
+  "options": [
+    {
+      "id": "A",
+      "text": "400degC"
+    },
+    {
+      "id": "B",
+      "text": "45degc"
+    },
+    {
+      "id": "C",
+      "text": "550degc"
+    },
+    {
+      "id": "D",
+      "text": "135degc"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "bigf",
+  "set": 1,
+  "explanation": ""
+}
