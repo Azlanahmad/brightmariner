@@ -149,6 +149,8 @@ def generate_pdf(course_id):
         return (set_num, q_num)
         
     questions.sort(key=get_sort_key)
+    if course_id == 'pscrb':
+        questions = questions[:30]
     
     pdf = MaritimePDF(course_name)
     pdf.set_auto_page_break(auto=True, margin=20)
@@ -236,6 +238,9 @@ def generate_pdf(course_id):
 
 def main():
     for course_id in course_names.keys():
+        if course_id == 'pscrb':
+            print("Skipping pscrb PDF generation to keep the 30-question PDF static.")
+            continue
         generate_pdf(course_id)
 
 if __name__ == '__main__':
