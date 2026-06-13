@@ -149,8 +149,7 @@ def generate_pdf(course_id):
         return (set_num, q_num)
         
     questions.sort(key=get_sort_key)
-    if course_id == 'pscrb':
-        questions = questions[:30]
+    questions = questions[:30]
     
     pdf = MaritimePDF(course_name)
     pdf.set_auto_page_break(auto=True, margin=20)
@@ -236,11 +235,17 @@ def generate_pdf(course_id):
     pdf.output(output_path)
     print(f"PDF successfully generated for {course_id} at: {output_path}")
 
+import sys
+
 def main():
+    # To prevent updates to the downloadable PDF files, generation is disabled by default.
+    # To force regeneration, run: python3 scripts/generate-all-pdfs.py --force
+    if '--force' not in sys.argv:
+        print("PDF generation is disabled by default to keep the 30-question download PDFs static.")
+        print("To override and regenerate all PDFs, run with: python3 scripts/generate-all-pdfs.py --force")
+        sys.exit(0)
+
     for course_id in course_names.keys():
-        if course_id == 'pscrb':
-            print("Skipping pscrb PDF generation to keep the 30-question PDF static.")
-            continue
         generate_pdf(course_id)
 
 if __name__ == '__main__':

@@ -68,7 +68,7 @@ const getFaqs = (courseId: string, name: string, abbr: string) => {
     },
     {
       question: `Where can I download the ${abbr} exit exam questions and answers PDF?`,
-      answer: `You can download the comprehensive <strong>${abbr} exit exam questions and answers PDF</strong> directly from the download section in the sidebar on this page. The PDF contains all practice questions, answers, and explanations for offline study.`
+      answer: `You can download the comprehensive <strong>${abbr} exit exam questions and answers PDF</strong> directly from the download section in the sidebar on this page. The PDF contains 30 practice questions, answers, and explanations for offline study.`
     },
     {
       question: `How many questions are in the ${name} exit exam?`,
@@ -544,7 +544,7 @@ const activeConfig = courseConfigs[baseCourseId as string] || defaultCourseConfi
                         <div class="absolute top-0 right-0 w-24 h-24 bg-linear-to-bl from-blue-500/5 to-transparent rounded-bl-full pointer-events-none"></div>
                         <h3 class="text-sm font-semibold tracking-wider uppercase text-ink mb-3">PDF Download</h3>
                         <p class="text-sm text-body mb-5 leading-relaxed">
-                            Get the complete list of {courseAbbr} exit exam questions and answers in a print-ready PDF format for offline preparation.
+                            Get a list of 30 {courseAbbr} exit exam questions and answers in a print-ready PDF format for offline preparation.
                         </p>
                         <a href={`/mcq/download/${id}/`} class="inline-flex items-center justify-center w-full px-5 py-3 bg-primary text-white font-medium rounded-full hover:bg-primary/95 shadow-md shadow-primary/10 transition-all hover:scale-[1.01] gap-2 cursor-pointer text-sm">
                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -675,7 +675,7 @@ const activeConfig = courseConfigs[baseCourseId as string] || defaultCourseConfi
                         </p>
                         <ul class="list-disc pl-6 space-y-3 mb-6">
                             <li>Study offline anytime, anywhere, without requiring a network connection.</li>
-                            <li>Review all questions sorted by sets, complete with marked correct options and descriptive explanations.</li>
+                            <li>Review 30 questions, complete with marked correct options and descriptive explanations.</li>
                             <li>Self-test your knowledge by printing the pages or hiding answers to simulate the exam.</li>
                         </ul>
                     </article>
