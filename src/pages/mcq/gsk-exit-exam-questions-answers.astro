@@ -1,0 +1,394 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+// Fetch all questions for courseId === 'gsk'
+const allQuestions = await getCollection('questions');
+const courseQuestions = allQuestions.filter(q => q.data.courseId === 'gsk');
+
+// Determine sets: Use the 'set' field from data if available, otherwise fallback to groups of 30
+const uniqueSetsInData = [...new Set(courseQuestions.map(q => q.data.set).filter(Boolean))];
+
+let sets: number[] = [];
+const setSize = 30;
+
+if (uniqueSetsInData.length > 0) {
+    sets = (uniqueSetsInData as number[]).sort((a, b) => a - b);
+} else {
+    const numSets = Math.ceil(courseQuestions.length / setSize);
+    sets = Array.from({ length: numSets }, (_, i) => i + 1);
+}
+
+const courseName = 'General Ship Knowledge (GSK)';
+const title = 'GSK Exit Exam Questions & Answers | GP Rating Online Exam Prep';
+const description = 'Prepare with our free gsk online test and practice gp rating exam questions. Access GSK exit exam chapter wise questions, and download the Gsk exit exam practice pdf free download for STCW chapters.';
+---
+
+<Layout title={title} description={description}>
+    <!-- Breadcrumb Structured Data -->
+    <script type="application/ld+json" is:inline>
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://brightmariner.com/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "MCQ Practice",
+                    "item": "https://brightmariner.com/mcq/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "GSK Exit Exam Questions and Answers",
+                    "item": "https://brightmariner.com/mcq/gsk-exit-exam-questions-answers/"
+                }
+            ]
+        }
+    </script>
+
+    <!-- FAQPage Structured Data for Rich Snippets -->
+    <script type="application/ld+json" is:inline>
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Where can I find a reliable gsk online test for practice?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Bright Mariner provides the best interactive gsk online test room on this page. Our platform lets you practice authentic gsk question sets that are regularly updated to match the latest DG Shipping online databases."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How do I get a Gsk exit exam practice pdf free download?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "You can get a comprehensive Gsk exit exam practice pdf free download from the download card on our sidebar. The PDF contains 30 selected practice questions, multiple-choice options, correct answers, and clear explanations for offline study."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What topics are tested in the gp rating online exam?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "The gp rating online exam tests seafarers on key General Ship Knowledge (GSK) topics such as seamanship, ship construction terminology, anchor operations, knots and splices, cargo handling, and standard watchkeeping duties."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Are these GP Exit Exam practice questions similar to the merchant navy exam question paper?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, our GP Exit Exam practice questions cover the most frequently asked questions and syllabus areas. Practicing here helps you understand the difficulty level and patterns of a real merchant navy exam question paper."
+                    }
+                }
+            ]
+        }
+    </script>
+
+    <div class="py-24 px-6 lg:px-8 bg-canvas-soft min-h-[calc(100vh-64px)]">
+        <div class="max-w-5xl mx-auto">
+            <!-- Breadcrumbs Navigation -->
+            <nav class="flex items-center gap-2 text-xs font-mono uppercase tracking-widest text-mute mb-8" aria-label="Breadcrumb">
+                <a href="/mcq/" class="hover:text-ink transition-colors">Practice</a>
+                <span>/</span>
+                <span class="text-ink">GSK</span>
+            </nav>
+
+            <!-- Hero/Header Section -->
+            <header class="mb-16">
+                <h1 class="text-4xl md:text-5xl font-semibold tracking-tight text-ink mb-4">
+                    GSK Exit Exam Questions and Answers
+                </h1>
+                <p class="text-body text-lg max-w-3xl leading-relaxed">
+                    Prepare with the best <strong>gsk online test</strong> and review every essential <strong>gsk question</strong>. Access {courseQuestions.length} high-quality, updated multiple-choice questions organized into <strong>GSK exit exam chapter wise questions</strong> designed to match the official DG Shipping online portal.
+                </p>
+            </header>
+
+            <!-- Interactive Practice Sets Grid -->
+            <section class="mb-20" aria-labelledby="practice-sets-title">
+                <h2 id="practice-sets-title" class="text-xs font-mono uppercase tracking-widest text-mute mb-8 flex items-center gap-4">
+                    Interactive Practice Sets
+                    <div class="h-px flex-grow bg-hairline"></div>
+                </h2>
+
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                    {sets.map(setNum => (
+                        <a href={`/mcq/gsk-exit-exam-questions-answers/${setNum}/`} class="group p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all duration-300">
+                            <div class="flex items-center justify-between mb-4">
+                                <span class="text-xs font-mono uppercase tracking-widest text-mute">Set {setNum}</span>
+                                <div class="w-8 h-8 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all duration-300">
+                                    <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                                    </svg>
+                                </div>
+                            </div>
+                            <h3 class="text-xl font-medium text-ink">Questions { (setNum - 1) * setSize + 1 } - { Math.min(setNum * setSize, courseQuestions.length) }</h3>
+                            <p class="text-sm text-body mt-2">Comprehensive practice set for {courseName}.</p>
+                        </a>
+                    ))}
+                </div>
+                
+                {courseQuestions.length === 0 && (
+                    <div class="flex flex-col items-center justify-center py-12 bg-canvas border border-hairline rounded-xl">
+                        <h3 class="text-xl font-medium text-ink mb-4">No questions available yet.</h3>
+                        <a href="/mcq/" class="text-link hover:underline">Back to MCQ Practice</a>
+                    </div>
+                )}
+            </section>
+
+            <!-- SEO Content Section (Guides & Info) -->
+            <section class="grid grid-cols-1 lg:grid-cols-3 gap-12 border-t border-hairline pt-16">
+                <!-- Sidebar Quick Info & PDF Download -->
+                <div class="lg:col-span-1 space-y-8">
+                    <!-- PDF Download Card -->
+                    <div class="group relative overflow-hidden bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong">
+                        <div class="absolute top-0 right-0 w-24 h-24 bg-linear-to-bl from-blue-500/5 to-transparent rounded-bl-full pointer-events-none"></div>
+                        <h3 class="text-sm font-semibold tracking-wider uppercase text-ink mb-3">PDF Download</h3>
+                        <p class="text-sm text-body mb-5 leading-relaxed">
+                            Get a list of 30 GSK exit exam questions and answers in a print-ready PDF format for offline preparation.
+                        </p>
+                        <a href="/mcq/download/gsk-exit-exam-questions-answers/" class="inline-flex items-center justify-center w-full px-5 py-3 bg-primary text-white font-medium rounded-full hover:bg-primary/95 shadow-md shadow-primary/10 transition-all hover:scale-[1.01] gap-2 cursor-pointer text-sm">
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                            </svg>
+                            Download Questions PDF
+                        </a>
+                    </div>
+
+                    <!-- Exam Summary Card -->
+                    <div class="group bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong">
+                        <h3 class="text-sm font-semibold tracking-wider uppercase text-ink mb-4">Exam Summary</h3>
+                        <dl class="space-y-4 text-sm">
+                            <div>
+                                <dt class="font-mono text-mute uppercase text-xs">Course Name</dt>
+                                <dd class="font-medium text-ink mt-0.5">{courseName}</dd>
+                            </div>
+                            <div>
+                                <dt class="font-mono text-mute uppercase text-xs">Governing Body</dt>
+                                <dd class="font-medium text-ink mt-0.5">DG Shipping, India</dd>
+                            </div>
+                            <div>
+                                <dt class="font-mono text-mute uppercase text-xs">Question Pattern</dt>
+                                <dd class="font-medium text-ink mt-0.5">Multiple Choice Questions (MCQ)</dd>
+                            </div>
+                            <div>
+                                <dt class="font-mono text-mute uppercase text-xs">Passing Criteria</dt>
+                                <dd class="font-medium text-ink mt-0.5">50% (15 out of 30 marks)</dd>
+                            </div>
+                            <div>
+                                <dt class="font-mono text-mute uppercase text-xs">Total Questions Available</dt>
+                                <dd class="font-medium text-ink mt-0.5">{courseQuestions.length} Questions</dd>
+                            </div>
+                        </dl>
+                    </div>
+
+                    <!-- Key Learning Areas Card -->
+                    <div class="group bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong">
+                        <h3 class="text-sm font-semibold tracking-wider uppercase text-ink mb-4">Key Learning Areas</h3>
+                        <ul class="space-y-2.5 text-sm text-body">
+                            <li class="flex items-start gap-2">
+                                <span class="text-primary font-bold">✓</span>
+                                <span>Seamanship, ropes, and knot tying</span>
+                            </li>
+                            <li class="flex items-start gap-2">
+                                <span class="text-primary font-bold">✓</span>
+                                <span>Ship construction & nomenclature of parts</span>
+                            </li>
+                            <li class="flex items-start gap-2">
+                                <span class="text-primary font-bold">✓</span>
+                                <span>Anchor and mooring equipment operations</span>
+                            </li>
+                            <li class="flex items-start gap-2">
+                                <span class="text-primary font-bold">✓</span>
+                                <span>Cargo handling, hatch covers & load lines</span>
+                            </li>
+                            <li class="flex items-start gap-2">
+                                <span class="text-primary font-bold">✓</span>
+                                <span>IALA buoyage system & watchkeeping duties</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- Sidebar Display Ad -->
+                    <div class="group bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong sticky top-24 min-h-[250px] overflow-hidden">
+                        <span class="text-[10px] font-mono uppercase tracking-wider text-mute block mb-2">Advertisement</span>
+                        <ins class="adsbygoogle"
+                             style="display:block"
+                             data-ad-client="ca-pub-5114473836304357"
+                             data-ad-slot="1604989612"
+                             data-ad-format="auto"
+                             data-full-width-responsive="true"></ins>
+                        <script is:inline>
+                             (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                    </div>
+                </div>
+
+                <!-- Detailed Reading Content -->
+                <div class="lg:col-span-2 space-y-12">
+                    <article class="prose max-w-none text-body">
+                        <h2 class="text-3xl font-semibold tracking-tight text-ink mb-6">
+                            Overview of the GSK Exit Exam Questions and Answers
+                        </h2>
+                        
+                        <p class="leading-relaxed mb-6">
+                            The General Ship Knowledge (GSK) exit exam is a core assessment for candidates pursuing their GP Rating certification. Demonstrating a solid grasp of basic deck seamanship, safety equipment, and vessel layout is essential to pass this modular assessment. To prepare seafarers thoroughly, this page offers a dedicated <strong>gsk online test</strong> platform consisting of authentic, updated <strong>gsk question</strong> sets.
+                        </p>
+
+                        <p class="leading-relaxed mb-6">
+                            Whether you are appearing for your maritime watchkeeping rating or studying for a board-level <strong>gp rating exam</strong>, mastering these concepts is critical. We compile the latest questions covering deck tools, boat layout, and life-saving appliances to mimic the official DG Shipping online testing portal.
+                        </p>
+
+                        <!-- In-Article Native Ad -->
+                        <div class="my-8 min-h-[100px] overflow-hidden">
+                            <span class="text-[10px] font-mono uppercase tracking-wider text-mute block mb-2">Advertisement</span>
+                            <ins class="adsbygoogle"
+                                 style="display:block; text-align:center;"
+                                 data-ad-layout="in-article"
+                                 data-ad-format="fluid"
+                                 data-ad-client="ca-pub-5114473836304357"
+                                 data-ad-slot="7500018972"></ins>
+                            <script is:inline>
+                                 (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script>
+                        </div>
+
+                        <h3 class="text-2xl font-medium tracking-tight text-ink mt-8 mb-4">
+                            Syllabus and STCW Chapters covered in the GP Rating Exam
+                        </h3>
+                        <p class="leading-relaxed mb-6">
+                            The GSK portion of the <strong>gp rating online exam</strong> spans multiple critical topics defined in standard IMO and STCW training manuals. To succeed, candidates should structure their revisions according to these core areas and <strong>stcw chapters</strong>:
+                        </p>
+                        <ul class="list-disc pl-6 space-y-3 mb-6">
+                            <li><strong>Seamanship & Rigging:</strong> Knowing different types of ropes (synthetic, wire, natural fiber), how to maintain them, and how to tie essential knots, bends, and splices.</li>
+                            <li><strong>Vessel Nomenclature & Construction:</strong> Identifying basic components of a merchant ship, including the bow, stern, forecastle, bilge, draft marks, and Plimsoll line.</li>
+                            <li><strong>Anchor and Mooring Work:</strong> Safe handling of the windlass, anchor parts, mooring winches, fairleads, bitts, and lines during berthing operations.</li>
+                            <li><strong>Cargo Handling & Deck Safety:</strong> Understanding cargo gear, hatch cover types, safe working load (SWL) limits, and basic load line rules.</li>
+                        </ul>
+
+                        <h3 class="text-2xl font-medium tracking-tight text-ink mt-8 mb-4">
+                            How to Prepare Using GP Exit Exam Practice Questions
+                        </h3>
+                        <p class="leading-relaxed mb-6">
+                            Preparing with randomized, interactive practice modules is widely regarded as the most efficient way to build familiarity with a real <strong>merchant navy exam question paper</strong>.
+                        </p>
+                        <p class="leading-relaxed mb-6">
+                            Taking a realistic <strong>gp online test</strong> allows you to evaluate your speed and pinpoint topics that require deeper review. Our practice sets cover {courseQuestions.length} questions, divided into <strong>GSK exit exam chapter wise questions</strong> to ensure systematic learning. We regularly check the latest maritime exam questionnaires to keep the databases updated.
+                        </p>
+
+                        <h3 class="text-2xl font-medium tracking-tight text-ink mt-8 mb-4">
+                            Why Download the GSK Exit Exam Questions and Answers PDF?
+                        </h3>
+                        
+                        <p class="leading-relaxed mb-6">
+                            While using our online practice interface is highly recommended, seafarers frequently experience spotty internet connections at sea or during travel. To make sure your prep never halts, we offer a dedicated <strong>Gsk exit exam practice pdf free download</strong>.
+                        </p>
+                        
+                        <p class="leading-relaxed mb-6">
+                            By utilizing this offline PDF, you can:
+                        </p>
+                        <ul class="list-disc pl-6 space-y-3 mb-6">
+                            <li>Access offline prep materials containing essential <strong>GP Exit Exam practice questions</strong> anytime.</li>
+                            <li>Review 30 key questions with clearly highlighted correct options and descriptions.</li>
+                            <li>Simulate the actual examination environment by hiding the answer keys during self-testing.</li>
+                        </ul>
+                    </article>
+
+                    <!-- FAQs Section with custom interactive accordion details style -->
+                    <section class="space-y-6" aria-labelledby="faq-title">
+                        <h2 id="faq-title" class="text-2xl font-semibold tracking-tight text-ink">
+                            GSK Exit Exam FAQs
+                        </h2>
+                        <div class="space-y-4">
+                            <details class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden" open>
+                                <summary class="flex items-center justify-between p-6 cursor-pointer select-none">
+                                    <h3 class="text-lg font-medium text-ink group-open:text-primary transition-colors">
+                                        Where can I find a reliable gsk online test for practice?
+                                    </h3>
+                                    <span class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300">
+                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                        </svg>
+                                    </span>
+                                </summary>
+                                <div class="px-6 pb-6 text-sm text-body leading-relaxed border-t border-hairline pt-4">
+                                    Bright Mariner provides the best interactive <strong>gsk online test</strong> room on this page. Our platform lets you practice authentic <strong>gsk question</strong> sets that are regularly updated to match the latest DG Shipping online databases.
+                                </div>
+                            </details>
+
+                            <details class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden">
+                                <summary class="flex items-center justify-between p-6 cursor-pointer select-none">
+                                    <h3 class="text-lg font-medium text-ink group-open:text-primary transition-colors">
+                                        How do I get a Gsk exit exam practice pdf free download?
+                                    </h3>
+                                    <span class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300">
+                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                        </svg>
+                                    </span>
+                                </summary>
+                                <div class="px-6 pb-6 text-sm text-body leading-relaxed border-t border-hairline pt-4">
+                                    You can get a comprehensive <strong>Gsk exit exam practice pdf free download</strong> from the download card on our sidebar. The PDF contains 30 selected practice questions, multiple-choice options, correct answers, and clear explanations for offline study.
+                                </div>
+                            </details>
+
+                            <details class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden">
+                                <summary class="flex items-center justify-between p-6 cursor-pointer select-none">
+                                    <h3 class="text-lg font-medium text-ink group-open:text-primary transition-colors">
+                                        What topics are tested in the gp rating online exam?
+                                    </h3>
+                                    <span class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300">
+                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                        </svg>
+                                    </span>
+                                </summary>
+                                <div class="px-6 pb-6 text-sm text-body leading-relaxed border-t border-hairline pt-4">
+                                    The <strong>gp rating online exam</strong> tests seafarers on key General Ship Knowledge (GSK) topics such as seamanship, ship construction terminology, anchor operations, knots and splices, cargo handling, and standard watchkeeping duties.
+                                </div>
+                            </details>
+
+                            <details class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden">
+                                <summary class="flex items-center justify-between p-6 cursor-pointer select-none">
+                                    <h3 class="text-lg font-medium text-ink group-open:text-primary transition-colors">
+                                        Are these GP Exit Exam practice questions similar to the merchant navy exam question paper?
+                                    </h3>
+                                    <span class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300">
+                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                        </svg>
+                                    </span>
+                                </summary>
+                                <div class="px-6 pb-6 text-sm text-body leading-relaxed border-t border-hairline pt-4">
+                                    Yes, our <strong>GP Exit Exam practice questions</strong> cover the most frequently asked questions and syllabus areas. Practicing here helps you understand the difficulty level and patterns of a real <strong>merchant navy exam question paper</strong>.
+                                </div>
+                            </details>
+                        </div>
+                    </section>
+
+                    <!-- Multiplex Ad Below FAQs -->
+                    <div class="mt-16 pt-8 border-t border-hairline min-h-[250px] overflow-hidden">
+                        <ins class="adsbygoogle"
+                             style="display:block"
+                             data-ad-format="autorelaxed"
+                             data-ad-client="ca-pub-5114473836304357"
+                             data-ad-slot="6717715493"></ins>
+                        <script is:inline>
+                             (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</Layout>

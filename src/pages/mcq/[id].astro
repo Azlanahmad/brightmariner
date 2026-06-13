@@ -6,7 +6,7 @@ export async function getStaticPaths() {
   const allQuestions = await getCollection('questions');
   const courseIds = allQuestions
     .map((q) => q.data.courseId)
-    .filter((value, index, self) => self.indexOf(value) === index && value !== 'aff' && value !== 'pscrb');
+    .filter((value, index, self) => self.indexOf(value) === index && value !== 'aff' && value !== 'pscrb' && value !== 'gsk');
   
   return courseIds.map((courseId: string) => ({
     params: { id: `${courseId}-exit-exam-questions-answers` },
