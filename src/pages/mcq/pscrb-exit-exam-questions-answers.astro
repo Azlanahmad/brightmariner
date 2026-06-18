@@ -1,13 +1,15 @@
 ---
-import { getCollection } from 'astro:content';
-import Layout from '../../layouts/Layout.astro';
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
 
 // Fetch all questions for courseId === 'pscrb'
-const allQuestions = await getCollection('questions');
-const courseQuestions = allQuestions.filter(q => q.data.courseId === 'pscrb');
+const allQuestions = await getCollection("questions");
+const courseQuestions = allQuestions.filter((q) => q.data.courseId === "pscrb");
 
 // Determine sets: Use the 'set' field from data if available, otherwise fallback to groups of 30
-const uniqueSetsInData = [...new Set(courseQuestions.map(q => q.data.set).filter(Boolean))];
+const uniqueSetsInData = [
+    ...new Set(courseQuestions.map((q) => q.data.set).filter(Boolean)),
+];
 
 let sets: number[] = [];
 const setSize = 30;
@@ -19,9 +21,10 @@ if (uniqueSetsInData.length > 0) {
     sets = Array.from({ length: numSets }, (_, i) => i + 1);
 }
 
-const courseName = 'PSCRB (Proficiency in Survival Craft and Rescue Boats)';
-const title = 'PSCRB Exit Exam MCQ Questions & Answers | Bright Mariner';
-const description = 'Practice updated PSCRB exit exam questions and answers online. Download the PSCRB exit exam MCQ PDF and study survival craft & rescue boats STCW exam prep.';
+const courseName = "PSCRB (Proficiency in Survival Craft and Rescue Boats)";
+const title = "PSCRB Exit Exam MCQ Questions & Answers | Bright Mariner";
+const description =
+    "Practice updated PSCRB exit exam questions and answers online. Download the PSCRB exit exam MCQ PDF and study survival craft & rescue boats STCW exam prep.";
 ---
 
 <Layout title={title} description={description}>
@@ -77,10 +80,10 @@ const description = 'Practice updated PSCRB exit exam questions and answers onli
                 },
                 {
                     "@type": "Question",
-                    "name": "Are these PSCRB exit exam MCQ sets updated for the Ship 07 system?",
+                    "name": "Are these PSCRB exit exam MCQ sets updated for the DG STCW  system?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Yes, all our PSCRB exit exam practice questions and sets are fully updated and compatible with the latest DG Shipping Ship 07 portal database, covering the latest syllabus changes and frequently asked maritime exam questions."
+                        "text": "Yes, all our PSCRB exit exam practice questions and sets are fully updated and compatible with the latest DG Shipping DG STCW  portal database, covering the latest syllabus changes and frequently asked maritime exam questions."
                     }
                 },
                 {
@@ -98,138 +101,272 @@ const description = 'Practice updated PSCRB exit exam questions and answers onli
     <div class="py-24 px-6 lg:px-8 bg-canvas-soft min-h-[calc(100vh-64px)]">
         <div class="max-w-5xl mx-auto">
             <!-- Breadcrumbs Navigation -->
-            <nav class="flex items-center gap-2 text-xs font-mono uppercase tracking-widest text-mute mb-8" aria-label="Breadcrumb">
-                <a href="/mcq/" class="hover:text-ink transition-colors">Practice</a>
+            <nav
+                class="flex items-center gap-2 text-xs font-mono uppercase tracking-widest text-mute mb-8"
+                aria-label="Breadcrumb"
+            >
+                <a href="/mcq/" class="hover:text-ink transition-colors"
+                    >Practice</a
+                >
                 <span>/</span>
                 <span class="text-ink">PSCRB</span>
             </nav>
 
             <!-- Hero/Header Section -->
             <header class="mb-16">
-                <h1 class="text-4xl md:text-5xl font-semibold tracking-tight text-ink mb-4">
+                <h1
+                    class="text-4xl md:text-5xl font-semibold tracking-tight text-ink mb-4"
+                >
                     PSCRB Exit Exam Questions and Answers
                 </h1>
                 <p class="text-body text-lg max-w-3xl leading-relaxed">
-                    Prepare with the latest <strong>PSCRB exit exam questions and answers</strong>. Access 101 high-quality, updated multiple-choice questions organized into interactive practice sets designed to match the official DG Shipping online portal.
+                    Prepare with the latest <strong
+                        >PSCRB exit exam questions and answers</strong
+                    >. Access 101 high-quality, updated multiple-choice
+                    questions organized into interactive practice sets designed
+                    to match the official DG Shipping online portal.
                 </p>
             </header>
 
             <!-- Interactive Practice Sets Grid -->
             <section class="mb-20" aria-labelledby="practice-sets-title">
-                <h2 id="practice-sets-title" class="text-xs font-mono uppercase tracking-widest text-mute mb-8 flex items-center gap-4">
+                <h2
+                    id="practice-sets-title"
+                    class="text-xs font-mono uppercase tracking-widest text-mute mb-8 flex items-center gap-4"
+                >
                     Interactive Practice Sets
                     <div class="h-px flex-grow bg-hairline"></div>
                 </h2>
 
-                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                    {sets.map(setNum => (
-                        <a href={`/mcq/pscrb-exit-exam-questions-answers/${setNum}/`} class="group p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all duration-300">
-                            <div class="flex items-center justify-between mb-4">
-                                <span class="text-xs font-mono uppercase tracking-widest text-mute">Set {setNum}</span>
-                                <div class="w-8 h-8 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all duration-300">
-                                    <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-                                    </svg>
+                <div
+                    class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"
+                >
+                    {
+                        sets.map((setNum) => (
+                            <a
+                                href={`/mcq/pscrb-exit-exam-questions-answers/${setNum}/`}
+                                class="group p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all duration-300"
+                            >
+                                <div class="flex items-center justify-between mb-4">
+                                    <span class="text-xs font-mono uppercase tracking-widest text-mute">
+                                        Set {setNum}
+                                    </span>
+                                    <div class="w-8 h-8 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all duration-300">
+                                        <svg
+                                            class="w-4 h-4"
+                                            fill="none"
+                                            viewBox="0 0 24 24"
+                                            stroke="currentColor"
+                                        >
+                                            <path
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                                stroke-width="2"
+                                                d="M9 5l7 7-7 7"
+                                            />
+                                        </svg>
+                                    </div>
                                 </div>
-                            </div>
-                            <h3 class="text-xl font-medium text-ink">Questions { (setNum - 1) * setSize + 1 } - { Math.min(setNum * setSize, courseQuestions.length) }</h3>
-                            <p class="text-sm text-body mt-2">Comprehensive practice set for {courseName}.</p>
-                        </a>
-                    ))}
+                                <h3 class="text-xl font-medium text-ink">
+                                    Questions {(setNum - 1) * setSize + 1} -{" "}
+                                    {Math.min(
+                                        setNum * setSize,
+                                        courseQuestions.length,
+                                    )}
+                                </h3>
+                                <p class="text-sm text-body mt-2">
+                                    Comprehensive practice set for {courseName}.
+                                </p>
+                            </a>
+                        ))
+                    }
                 </div>
-                
-                {courseQuestions.length === 0 && (
-                    <div class="flex flex-col items-center justify-center py-12 bg-canvas border border-hairline rounded-xl">
-                        <h3 class="text-xl font-medium text-ink mb-4">No questions available yet.</h3>
-                        <a href="/mcq/" class="text-link hover:underline">Back to MCQ Practice</a>
-                    </div>
-                )}
+
+                {
+                    courseQuestions.length === 0 && (
+                        <div class="flex flex-col items-center justify-center py-12 bg-canvas border border-hairline rounded-xl">
+                            <h3 class="text-xl font-medium text-ink mb-4">
+                                No questions available yet.
+                            </h3>
+                            <a href="/mcq/" class="text-link hover:underline">
+                                Back to MCQ Practice
+                            </a>
+                        </div>
+                    )
+                }
             </section>
 
             <!-- SEO Content Section (Guides & Info) -->
-            <section class="grid grid-cols-1 lg:grid-cols-3 gap-12 border-t border-hairline pt-16">
+            <section
+                class="grid grid-cols-1 lg:grid-cols-3 gap-12 border-t border-hairline pt-16"
+            >
                 <!-- Sidebar Quick Info & PDF Download -->
                 <div class="lg:col-span-1 space-y-8">
                     <!-- PDF Download Card -->
-                    <div class="group relative overflow-hidden bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong">
-                        <div class="absolute top-0 right-0 w-24 h-24 bg-linear-to-bl from-blue-500/5 to-transparent rounded-bl-full pointer-events-none"></div>
-                        <h3 class="text-sm font-semibold tracking-wider uppercase text-ink mb-3">PDF Download</h3>
+                    <div
+                        class="group relative overflow-hidden bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong"
+                    >
+                        <div
+                            class="absolute top-0 right-0 w-24 h-24 bg-linear-to-bl from-blue-500/5 to-transparent rounded-bl-full pointer-events-none"
+                        >
+                        </div>
+                        <h3
+                            class="text-sm font-semibold tracking-wider uppercase text-ink mb-3"
+                        >
+                            PDF Download
+                        </h3>
                         <p class="text-sm text-body mb-5 leading-relaxed">
-                            Get a list of 30 PSCRB exit exam questions and answers in a print-ready PDF format for offline preparation.
+                            Get a list of 30 PSCRB exit exam questions and
+                            answers in a print-ready PDF format for offline
+                            preparation.
                         </p>
-                        <a href="/mcq/download/pscrb-exit-exam-questions-answers/" class="inline-flex items-center justify-center w-full px-5 py-3 bg-primary text-white font-medium rounded-full hover:bg-primary/95 shadow-md shadow-primary/10 transition-all hover:scale-[1.01] gap-2 cursor-pointer text-sm">
-                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                        <a
+                            href="/mcq/download/pscrb-exit-exam-questions-answers/"
+                            class="inline-flex items-center justify-center w-full px-5 py-3 bg-primary text-white font-medium rounded-full hover:bg-primary/95 shadow-md shadow-primary/10 transition-all hover:scale-[1.01] gap-2 cursor-pointer text-sm"
+                        >
+                            <svg
+                                class="w-4 h-4"
+                                fill="none"
+                                stroke="currentColor"
+                                viewBox="0 0 24 24"
+                            >
+                                <path
+                                    stroke-linecap="round"
+                                    stroke-linejoin="round"
+                                    stroke-width="2"
+                                    d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"
+                                ></path>
                             </svg>
                             Download Questions PDF
                         </a>
                     </div>
 
                     <!-- Exam Summary Card -->
-                    <div class="group bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong">
-                        <h3 class="text-sm font-semibold tracking-wider uppercase text-ink mb-4">Exam Summary</h3>
+                    <div
+                        class="group bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong"
+                    >
+                        <h3
+                            class="text-sm font-semibold tracking-wider uppercase text-ink mb-4"
+                        >
+                            Exam Summary
+                        </h3>
                         <dl class="space-y-4 text-sm">
                             <div>
-                                <dt class="font-mono text-mute uppercase text-xs">Course Name</dt>
-                                <dd class="font-medium text-ink mt-0.5">{courseName}</dd>
+                                <dt
+                                    class="font-mono text-mute uppercase text-xs"
+                                >
+                                    Course Name
+                                </dt>
+                                <dd class="font-medium text-ink mt-0.5">
+                                    {courseName}
+                                </dd>
                             </div>
                             <div>
-                                <dt class="font-mono text-mute uppercase text-xs">Governing Body</dt>
-                                <dd class="font-medium text-ink mt-0.5">DG Shipping, India</dd>
+                                <dt
+                                    class="font-mono text-mute uppercase text-xs"
+                                >
+                                    Governing Body
+                                </dt>
+                                <dd class="font-medium text-ink mt-0.5">
+                                    DG Shipping, India
+                                </dd>
                             </div>
                             <div>
-                                <dt class="font-mono text-mute uppercase text-xs">Question Pattern</dt>
-                                <dd class="font-medium text-ink mt-0.5">Multiple Choice Questions (MCQ)</dd>
+                                <dt
+                                    class="font-mono text-mute uppercase text-xs"
+                                >
+                                    Question Pattern
+                                </dt>
+                                <dd class="font-medium text-ink mt-0.5">
+                                    Multiple Choice Questions (MCQ)
+                                </dd>
                             </div>
                             <div>
-                                <dt class="font-mono text-mute uppercase text-xs">Passing Criteria</dt>
-                                <dd class="font-medium text-ink mt-0.5">50% (15 out of 30 marks)</dd>
+                                <dt
+                                    class="font-mono text-mute uppercase text-xs"
+                                >
+                                    Passing Criteria
+                                </dt>
+                                <dd class="font-medium text-ink mt-0.5">
+                                    50% (15 out of 30 marks)
+                                </dd>
                             </div>
                             <div>
-                                <dt class="font-mono text-mute uppercase text-xs">Total Questions Available</dt>
-                                <dd class="font-medium text-ink mt-0.5">{courseQuestions.length} Questions</dd>
+                                <dt
+                                    class="font-mono text-mute uppercase text-xs"
+                                >
+                                    Total Questions Available
+                                </dt>
+                                <dd class="font-medium text-ink mt-0.5">
+                                    {courseQuestions.length} Questions
+                                </dd>
                             </div>
                         </dl>
                     </div>
 
                     <!-- Key Learning Areas Card -->
-                    <div class="group bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong">
-                        <h3 class="text-sm font-semibold tracking-wider uppercase text-ink mb-4">Key Learning Areas</h3>
+                    <div
+                        class="group bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong"
+                    >
+                        <h3
+                            class="text-sm font-semibold tracking-wider uppercase text-ink mb-4"
+                        >
+                            Key Learning Areas
+                        </h3>
                         <ul class="space-y-2.5 text-sm text-body">
                             <li class="flex items-start gap-2">
                                 <span class="text-primary font-bold">✓</span>
-                                <span>Survival craft launching systems & davits</span>
+                                <span
+                                    >Survival craft launching systems & davits</span
+                                >
                             </li>
                             <li class="flex items-start gap-2">
                                 <span class="text-primary font-bold">✓</span>
-                                <span>Inflatable life raft operation & accessories</span>
+                                <span
+                                    >Inflatable life raft operation &
+                                    accessories</span
+                                >
                             </li>
                             <li class="flex items-start gap-2">
                                 <span class="text-primary font-bold">✓</span>
-                                <span>Hydrostatic release units (HRU) & float-free systems</span>
+                                <span
+                                    >Hydrostatic release units (HRU) &
+                                    float-free systems</span
+                                >
                             </li>
                             <li class="flex items-start gap-2">
                                 <span class="text-primary font-bold">✓</span>
-                                <span>Personal protective equipment (lifejackets & immersion suits)</span>
+                                <span
+                                    >Personal protective equipment (lifejackets
+                                    & immersion suits)</span
+                                >
                             </li>
                             <li class="flex items-start gap-2">
                                 <span class="text-primary font-bold">✓</span>
-                                <span>Pyrotechnic distress signals & EPIRBs</span>
+                                <span
+                                    >Pyrotechnic distress signals & EPIRBs</span
+                                >
                             </li>
                         </ul>
                     </div>
 
                     <!-- Sidebar Display Ad -->
-                    <div class="group bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong sticky top-24 min-h-[250px] overflow-hidden">
-                        <span class="text-[10px] font-mono uppercase tracking-wider text-mute block mb-2">Advertisement</span>
-                        <ins class="adsbygoogle"
-                             style="display:block"
-                             data-ad-client="ca-pub-5114473836304357"
-                             data-ad-slot="1604989612"
-                             data-ad-format="auto"
-                             data-full-width-responsive="true"></ins>
+                    <div
+                        class="group bg-canvas border border-hairline rounded-2xl p-6 card-shadow transition-all duration-300 hover:border-hairline-strong sticky top-24 min-h-[250px] overflow-hidden"
+                    >
+                        <span
+                            class="text-[10px] font-mono uppercase tracking-wider text-mute block mb-2"
+                            >Advertisement</span
+                        >
+                        <ins
+                            class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="ca-pub-5114473836304357"
+                            data-ad-slot="1604989612"
+                            data-ad-format="auto"
+                            data-full-width-responsive="true"></ins>
                         <script is:inline>
-                             (adsbygoogle = window.adsbygoogle || []).push({});
+                            (adsbygoogle = window.adsbygoogle || []).push({});
                         </script>
                     </div>
                 </div>
@@ -237,157 +374,355 @@ const description = 'Practice updated PSCRB exit exam questions and answers onli
                 <!-- Detailed Reading Content -->
                 <div class="lg:col-span-2 space-y-12">
                     <article class="prose max-w-none text-body">
-                        <h2 class="text-3xl font-semibold tracking-tight text-ink mb-6">
-                            Overview of the PSCRB Exit Exam Questions and Answers
+                        <h2
+                            class="text-3xl font-semibold tracking-tight text-ink mb-6"
+                        >
+                            Overview of the PSCRB Exit Exam Questions and
+                            Answers
                         </h2>
-                        
+
                         <p class="leading-relaxed mb-6">
-                            The <strong>Proficiency in Survival Craft and Rescue Boats (PSCRB) exit exam</strong> is a mandatory assessment under the <strong>DG Shipping</strong> guidelines in India. To obtain the STCW PSCRB certification, maritime professionals must demonstrate a thorough knowledge of emergency operations, launching appliances, and survival techniques at sea.
+                            The <strong
+                                >Proficiency in Survival Craft and Rescue Boats
+                                (PSCRB) exit exam</strong
+                            > is a mandatory assessment under the <strong
+                                >DG Shipping</strong
+                            > guidelines in India. To obtain the STCW PSCRB certification,
+                            maritime professionals must demonstrate a thorough knowledge
+                            of emergency operations, launching appliances, and survival
+                            techniques at sea.
                         </p>
 
                         <p class="leading-relaxed mb-6">
-                            Under the modern <strong>Ship 07</strong> online examination framework, the questions test candidates on complex mechanical release systems, survival procedures, and first aid. To make sure you clear the exam on your first attempt, we have compiled the full bank of 101 frequently asked <strong>PSCRB exit exam questions</strong> into structured, interactive practice rooms simulating the actual test interface.
+                            Under the modern <strong>DG STCW </strong> online examination
+                            framework, the questions test candidates on complex mechanical
+                            release systems, survival procedures, and first aid. To
+                            make sure you clear the exam on your first attempt, we
+                            have compiled the full bank of 101 frequently asked <strong
+                                >PSCRB exit exam questions</strong
+                            > into structured, interactive practice rooms simulating
+                            the actual test interface.
                         </p>
 
                         <!-- In-Article Native Ad -->
                         <div class="my-8 min-h-[100px] overflow-hidden">
-                            <span class="text-[10px] font-mono uppercase tracking-wider text-mute block mb-2">Advertisement</span>
-                            <ins class="adsbygoogle"
-                                 style="display:block; text-align:center;"
-                                 data-ad-layout="in-article"
-                                 data-ad-format="fluid"
-                                 data-ad-client="ca-pub-5114473836304357"
-                                 data-ad-slot="7500018972"></ins>
+                            <span
+                                class="text-[10px] font-mono uppercase tracking-wider text-mute block mb-2"
+                                >Advertisement</span
+                            >
+                            <ins
+                                class="adsbygoogle"
+                                style="display:block; text-align:center;"
+                                data-ad-layout="in-article"
+                                data-ad-format="fluid"
+                                data-ad-client="ca-pub-5114473836304357"
+                                data-ad-slot="7500018972"></ins>
                             <script is:inline>
-                                 (adsbygoogle = window.adsbygoogle || []).push({});
+                                (adsbygoogle = window.adsbygoogle || []).push(
+                                    {},
+                                );
                             </script>
                         </div>
 
-                        <h3 class="text-2xl font-medium tracking-tight text-ink mt-8 mb-4">
+                        <h3
+                            class="text-2xl font-medium tracking-tight text-ink mt-8 mb-4"
+                        >
                             Syllabus and Topics Covered in the PSCRB Exit Exam
                         </h3>
                         <p class="leading-relaxed mb-6">
-                            To prepare effectively for the <strong>PSCRB exit exam MCQ</strong> test, seafarers must study the core areas of the STCW modular course:
+                            To prepare effectively for the <strong
+                                >PSCRB exit exam MCQ</strong
+                            > test, seafarers must study the core areas of the STCW
+                            modular course:
                         </p>
                         <ul class="list-disc pl-6 space-y-3 mb-6">
-                            <li><strong>Survival Craft & Launching Appliances:</strong> Construction details, capacity rules, and operations of lifeboats, rescue boats, and inflatable liferafts. Detailed understanding of gravity davits, free-fall launching, and fall wires.</li>
-                            <li><strong>Release Mechanisms:</strong> Correct operation of on-load and off-load release hooks, hydrostatic release mechanisms (HRUs), and painter release lines.</li>
-                            <li><strong>Personal Survival Techniques:</strong> Handling hypothermia, proper donning of immersion suits and lifejackets, and water-entry techniques from heights.</li>
-                            <li><strong>Signaling & Equipment:</strong> Safe handling of distress pyrotechnics (hand flares, rocket parachute flares, buoyant smoke signals), and emergency radio devices like SART and EPIRB.</li>
+                            <li>
+                                <strong
+                                    >Survival Craft & Launching Appliances:</strong
+                                > Construction details, capacity rules, and operations
+                                of lifeboats, rescue boats, and inflatable liferafts.
+                                Detailed understanding of gravity davits, free-fall
+                                launching, and fall wires.
+                            </li>
+                            <li>
+                                <strong>Release Mechanisms:</strong> Correct operation
+                                of on-load and off-load release hooks, hydrostatic
+                                release mechanisms (HRUs), and painter release lines.
+                            </li>
+                            <li>
+                                <strong>Personal Survival Techniques:</strong> Handling
+                                hypothermia, proper donning of immersion suits and
+                                lifejackets, and water-entry techniques from heights.
+                            </li>
+                            <li>
+                                <strong>Signaling & Equipment:</strong> Safe handling
+                                of distress pyrotechnics (hand flares, rocket parachute
+                                flares, buoyant smoke signals), and emergency radio
+                                devices like SART and EPIRB.
+                            </li>
                         </ul>
 
-                        <h3 class="text-2xl font-medium tracking-tight text-ink mt-8 mb-4">
-                            Exam Structure and Passing Marks on the DG Shipping Portal
+                        <h3
+                            class="text-2xl font-medium tracking-tight text-ink mt-8 mb-4"
+                        >
+                            Exam Structure and Passing Marks on the DG Shipping
+                            Portal
                         </h3>
                         <p class="leading-relaxed mb-6">
-                            When taking the test on the official <strong>DG Shipping</strong> portal, candidates need to be aware of the following structure:
+                            When taking the test on the official <strong
+                                >DG Shipping</strong
+                            > portal, candidates need to be aware of the following
+                            structure:
                         </p>
                         <ul class="list-disc pl-6 space-y-3 mb-6">
-                            <li><strong>Question Count:</strong> The test consists of exactly 30 randomized multiple-choice questions.</li>
-                            <li><strong>Time Limit:</strong> You have exactly 30 minutes to complete the test.</li>
-                            <li><strong>Passing Score:</strong> You must score a minimum of 50% (15 correct answers out of 30) to pass the exam and generate your certificate.</li>
-                            <li><strong>Preparation Strategy:</strong> Practicing online sets of 30 questions helps build speed and improves confidence with standard maritime terminology.</li>
+                            <li>
+                                <strong>Question Count:</strong> The test consists
+                                of exactly 30 randomized multiple-choice questions.
+                            </li>
+                            <li>
+                                <strong>Time Limit:</strong> You have exactly 30 minutes
+                                to complete the test.
+                            </li>
+                            <li>
+                                <strong>Passing Score:</strong> You must score a minimum
+                                of 50% (15 correct answers out of 30) to pass the
+                                exam and generate your certificate.
+                            </li>
+                            <li>
+                                <strong>Preparation Strategy:</strong> Practicing
+                                online sets of 30 questions helps build speed and
+                                improves confidence with standard maritime terminology.
+                            </li>
                         </ul>
 
-                        <h3 class="text-2xl font-medium tracking-tight text-ink mt-8 mb-4">
-                            Why Download the PSCRB Exit Exam Questions and Answers PDF?
+                        <h3
+                            class="text-2xl font-medium tracking-tight text-ink mt-8 mb-4"
+                        >
+                            Why Download the PSCRB Exit Exam Questions and
+                            Answers PDF?
                         </h3>
-                        
+
                         <p class="leading-relaxed mb-6">
-                            Studying online is highly effective, but seafarers often face poor internet connectivity while at sea or traveling. To bridge this gap, we offer a comprehensive <strong>PSCRB exit exam questions and answers PDF</strong>.
+                            Studying online is highly effective, but seafarers
+                            often face poor internet connectivity while at sea
+                            or traveling. To bridge this gap, we offer a
+                            comprehensive <strong
+                                >PSCRB exit exam questions and answers PDF</strong
+                            >.
                         </p>
-                        
+
                         <p class="leading-relaxed mb-6">
                             By downloading this PDF, you can:
                         </p>
                         <ul class="list-disc pl-6 space-y-3 mb-6">
-                            <li>Study offline anytime, anywhere, without requiring a network connection.</li>
-                            <li>Review 30 questions, complete with marked correct options and detailed explanations.</li>
-                            <li>Self-test your knowledge by printing the pages or hiding answers to simulate the exam.</li>
+                            <li>
+                                Study offline anytime, anywhere, without
+                                requiring a network connection.
+                            </li>
+                            <li>
+                                Review 30 questions, complete with marked
+                                correct options and detailed explanations.
+                            </li>
+                            <li>
+                                Self-test your knowledge by printing the pages
+                                or hiding answers to simulate the exam.
+                            </li>
                         </ul>
                     </article>
 
                     <!-- FAQs Section with custom interactive accordion details style -->
                     <section class="space-y-6" aria-labelledby="faq-title">
-                        <h2 id="faq-title" class="text-2xl font-semibold tracking-tight text-ink">
+                        <h2
+                            id="faq-title"
+                            class="text-2xl font-semibold tracking-tight text-ink"
+                        >
                             PSCRB Exit Exam FAQs
                         </h2>
                         <div class="space-y-4">
-                            <details class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden" open>
-                                <summary class="flex items-center justify-between p-6 cursor-pointer select-none">
-                                    <h3 class="text-lg font-medium text-ink group-open:text-primary transition-colors">
-                                        What is the passing mark for the PSCRB exit exam?
+                            <details
+                                class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden"
+                                open
+                            >
+                                <summary
+                                    class="flex items-center justify-between p-6 cursor-pointer select-none"
+                                >
+                                    <h3
+                                        class="text-lg font-medium text-ink group-open:text-primary transition-colors"
+                                    >
+                                        What is the passing mark for the PSCRB
+                                        exit exam?
                                     </h3>
-                                    <span class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300">
-                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    <span
+                                        class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300"
+                                    >
+                                        <svg
+                                            xmlns="http://www.w3.org/2000/svg"
+                                            class="h-5 w-5"
+                                            fill="none"
+                                            viewBox="0 0 24 24"
+                                            stroke="currentColor"
+                                        >
+                                            <path
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                                stroke-width="2"
+                                                d="M19 9l-7 7-7-7"></path>
                                         </svg>
                                     </span>
                                 </summary>
-                                <div class="px-6 pb-6 text-sm text-body leading-relaxed border-t border-hairline pt-4">
-                                    To pass the official <strong>PSCRB exit exam</strong> on the DG Shipping portal, you must score at least <strong>50%</strong> (15 marks out of 30). There are 30 questions in total, and no marks are deducted for incorrect answers.
+                                <div
+                                    class="px-6 pb-6 text-sm text-body leading-relaxed border-t border-hairline pt-4"
+                                >
+                                    To pass the official <strong
+                                        >PSCRB exit exam</strong
+                                    > on the DG Shipping portal, you must score at
+                                    least <strong>50%</strong> (15 marks out of 30).
+                                    There are 30 questions in total, and no marks
+                                    are deducted for incorrect answers.
                                 </div>
                             </details>
 
-                            <details class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden">
-                                <summary class="flex items-center justify-between p-6 cursor-pointer select-none">
-                                    <h3 class="text-lg font-medium text-ink group-open:text-primary transition-colors">
-                                        Where can I download the PSCRB exit exam questions and answers PDF?
+                            <details
+                                class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden"
+                            >
+                                <summary
+                                    class="flex items-center justify-between p-6 cursor-pointer select-none"
+                                >
+                                    <h3
+                                        class="text-lg font-medium text-ink group-open:text-primary transition-colors"
+                                    >
+                                        Where can I download the PSCRB exit exam
+                                        questions and answers PDF?
                                     </h3>
-                                    <span class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300">
-                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    <span
+                                        class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300"
+                                    >
+                                        <svg
+                                            xmlns="http://www.w3.org/2000/svg"
+                                            class="h-5 w-5"
+                                            fill="none"
+                                            viewBox="0 0 24 24"
+                                            stroke="currentColor"
+                                        >
+                                            <path
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                                stroke-width="2"
+                                                d="M19 9l-7 7-7-7"></path>
                                         </svg>
                                     </span>
                                 </summary>
-                                <div class="px-6 pb-6 text-sm text-body leading-relaxed border-t border-hairline pt-4">
-                                    You can download the official <strong>PSCRB exit exam questions and answers PDF</strong> from the download link located at the top-left sidebar of this page. The PDF contains 30 questions, answers, and detailed explanations for offline study.
+                                <div
+                                    class="px-6 pb-6 text-sm text-body leading-relaxed border-t border-hairline pt-4"
+                                >
+                                    You can download the official <strong
+                                        >PSCRB exit exam questions and answers
+                                        PDF</strong
+                                    > from the download link located at the top-left
+                                    sidebar of this page. The PDF contains 30 questions,
+                                    answers, and detailed explanations for offline
+                                    study.
                                 </div>
                             </details>
 
-                            <details class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden">
-                                <summary class="flex items-center justify-between p-6 cursor-pointer select-none">
-                                    <h3 class="text-lg font-medium text-ink group-open:text-primary transition-colors">
-                                        Are these PSCRB exit exam MCQ sets updated for the Ship 07 system?
+                            <details
+                                class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden"
+                            >
+                                <summary
+                                    class="flex items-center justify-between p-6 cursor-pointer select-none"
+                                >
+                                    <h3
+                                        class="text-lg font-medium text-ink group-open:text-primary transition-colors"
+                                    >
+                                        Are these PSCRB exit exam MCQ sets
+                                        updated for the DG STCW system?
                                     </h3>
-                                    <span class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300">
-                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    <span
+                                        class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300"
+                                    >
+                                        <svg
+                                            xmlns="http://www.w3.org/2000/svg"
+                                            class="h-5 w-5"
+                                            fill="none"
+                                            viewBox="0 0 24 24"
+                                            stroke="currentColor"
+                                        >
+                                            <path
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                                stroke-width="2"
+                                                d="M19 9l-7 7-7-7"></path>
                                         </svg>
                                     </span>
                                 </summary>
-                                <div class="px-6 pb-6 text-sm text-body leading-relaxed border-t border-hairline pt-4">
-                                    Yes, all the questions on this page are compiled and updated to remain compatible with the latest <strong>DG Shipping Ship 07 portal</strong>. We regularly monitor actual exam updates to keep our database fresh.
+                                <div
+                                    class="px-6 pb-6 text-sm text-body leading-relaxed border-t border-hairline pt-4"
+                                >
+                                    Yes, all the questions on this page are
+                                    compiled and updated to remain compatible
+                                    with the latest <strong
+                                        >DG Shipping DG STCW portal</strong
+                                    >. We regularly monitor actual exam updates
+                                    to keep our database fresh.
                                 </div>
                             </details>
 
-                            <details class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden">
-                                <summary class="flex items-center justify-between p-6 cursor-pointer select-none">
-                                    <h3 class="text-lg font-medium text-ink group-open:text-primary transition-colors">
+                            <details
+                                class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden"
+                            >
+                                <summary
+                                    class="flex items-center justify-between p-6 cursor-pointer select-none"
+                                >
+                                    <h3
+                                        class="text-lg font-medium text-ink group-open:text-primary transition-colors"
+                                    >
                                         What does PSCRB stand for?
                                     </h3>
-                                    <span class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300">
-                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                                    <span
+                                        class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300"
+                                    >
+                                        <svg
+                                            xmlns="http://www.w3.org/2000/svg"
+                                            class="h-5 w-5"
+                                            fill="none"
+                                            viewBox="0 0 24 24"
+                                            stroke="currentColor"
+                                        >
+                                            <path
+                                                stroke-linecap="round"
+                                                stroke-linejoin="round"
+                                                stroke-width="2"
+                                                d="M19 9l-7 7-7-7"></path>
                                         </svg>
                                     </span>
                                 </summary>
-                                <div class="px-6 pb-6 text-sm text-body leading-relaxed border-t border-hairline pt-4">
-                                    PSCRB stands for <strong>Proficiency in Survival Craft and Rescue Boats</strong>. It is a vital STCW modular safety course designed to train seafarers in launching, operating, and managing survival craft during marine emergencies.
+                                <div
+                                    class="px-6 pb-6 text-sm text-body leading-relaxed border-t border-hairline pt-4"
+                                >
+                                    PSCRB stands for <strong
+                                        >Proficiency in Survival Craft and
+                                        Rescue Boats</strong
+                                    >. It is a vital STCW modular safety course
+                                    designed to train seafarers in launching,
+                                    operating, and managing survival craft
+                                    during marine emergencies.
                                 </div>
                             </details>
                         </div>
                     </section>
 
                     <!-- Multiplex Ad Below FAQs -->
-                    <div class="mt-16 pt-8 border-t border-hairline min-h-[250px] overflow-hidden">
-                        <ins class="adsbygoogle"
-                             style="display:block"
-                             data-ad-format="autorelaxed"
-                             data-ad-client="ca-pub-5114473836304357"
-                             data-ad-slot="6717715493"></ins>
+                    <div
+                        class="mt-16 pt-8 border-t border-hairline min-h-[250px] overflow-hidden"
+                    >
+                        <ins
+                            class="adsbygoogle"
+                            style="display:block"
+                            data-ad-format="autorelaxed"
+                            data-ad-client="ca-pub-5114473836304357"
+                            data-ad-slot="6717715493"></ins>
                         <script is:inline>
-                             (adsbygoogle = window.adsbygoogle || []).push({});
+                            (adsbygoogle = window.adsbygoogle || []).push({});
                         </script>
                     </div>
                 </div>
