@@ -242,11 +242,18 @@ const schemaGraph = {
 
                 <!-- Options List -->
                 <div class="space-y-3 mb-8">
-                    {question.options.map(option => {
+                    {question.options.map((option, index) => {
                         const isCorrect = option.id === question.correctOptionId;
+                        const optionLetter = String.fromCharCode(65 + index);
                         return (
                             <div class="flex items-center gap-3">
-                                <span class="w-2 h-2 rounded-full bg-[#00A896] shrink-0"></span>
+                                <span class={`w-8 h-8 rounded-full border flex items-center justify-center font-semibold text-sm shrink-0 transition-all duration-200 ${
+                                    isCorrect 
+                                        ? "border-[#4CAF50] bg-[#4CAF50] text-white" 
+                                        : "border-[#EBEBEB] bg-[#F8F9FA] text-[#4D4D4D]"
+                                }`}>
+                                    {optionLetter}
+                                </span>
                                 <div class={`flex-grow p-5 rounded-xl border transition-all text-base leading-relaxed ${
                                     isCorrect 
                                         ? "border-[#4CAF50] bg-[#E2F0D9] text-[#1B5E20] font-semibold" 

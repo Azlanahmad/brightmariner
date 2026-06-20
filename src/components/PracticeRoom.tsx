@@ -149,20 +149,30 @@ export default function PracticeRoom({ questions, courseName, nextSetUrl }: Prac
         <div className="w-16 h-1 bg-[#00A896] mb-10 rounded-full" />
 
         <div className="space-y-3">
-          {currentQuestion?.options.map((option) => {
+          {currentQuestion?.options.map((option, index) => {
             const isSelected = selectedOption === option.id;
             const isCorrectOption = option.id === currentQuestion.correctOptionId;
             const showFeedback = hasAnswered;
+            const optionLetter = String.fromCharCode(65 + index);
             
             return (
-              <div key={option.id} className="flex items-center gap-3">
-                <span className="w-2 h-2 rounded-full bg-[#00A896] shrink-0" />
+              <div key={option.id} className="flex items-center gap-3 group">
+                <span className={cn(
+                  "w-8 h-8 rounded-full border flex items-center justify-center font-semibold text-sm shrink-0 transition-all duration-200",
+                  !showFeedback && "border-[#EBEBEB] bg-[#F8F9FA] text-[#4D4D4D] group-hover:border-hairline-strong group-hover:bg-canvas-soft-2",
+                  !showFeedback && isSelected && "border-primary bg-primary text-white",
+                  showFeedback && isCorrectOption && "border-[#4CAF50] bg-[#4CAF50] text-white",
+                  showFeedback && isSelected && !isCorrectOption && "border-[#EF4444] bg-[#EF4444] text-white",
+                  showFeedback && !isSelected && !isCorrectOption && "border-[#EBEBEB] bg-[#F8F9FA] text-[#4D4D4D] opacity-75"
+                )}>
+                  {optionLetter}
+                </span>
                 <button
                   onClick={() => handleOptionSelect(option.id)}
                   disabled={hasAnswered}
                   className={cn(
                     "flex-grow text-left p-5 rounded-xl border transition-all text-base leading-relaxed cursor-pointer",
-                    !showFeedback && "border-[#EBEBEB] bg-[#F8F9FA] text-[#4D4D4D] hover:border-hairline-strong hover:bg-canvas-soft-2",
+                    !showFeedback && "border-[#EBEBEB] bg-[#F8F9FA] text-[#4D4D4D] group-hover:border-hairline-strong group-hover:bg-canvas-soft-2",
                     !showFeedback && isSelected && "border-primary bg-primary/5 shadow-sm",
                     showFeedback && isCorrectOption && "border-[#4CAF50] bg-[#E2F0D9] text-[#1B5E20] font-semibold",
                     showFeedback && isSelected && !isCorrectOption && "border-[#EF4444] bg-[#FDE8E8] text-[#9B1C1C] font-semibold",
