@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
+import CourseIcon from '../../components/CourseIcon.astro';
 
 const title = "Maritime STCW Exit Exam MCQ Practice | EFA, FPFF, PST, PSSR | Bright Mariner";
 const description = "Practice DG Shipping STCW exit exam MCQs online. Access updated questions for EFA, FPFF, PST, PSSR, TASCO, and more. Improve your pass rate with Bright Mariner.";
@@ -142,15 +143,20 @@ const activeCategories = categories.map(cat => ({
                         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                             {category.courses.map(course => (
                                 <a href={`/mcq/${course.id}-exit-exam-questions-answers/`} class="group flex items-center justify-between p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all">
-                                    <div class="flex flex-col gap-1">
-                                        <h3 class="text-lg font-medium text-ink group-hover:text-primary transition-colors">{course.name}</h3>
-                                        <div class="flex items-center gap-3">
-                                            <span class="text-xs text-mute">{allQuestions.filter(q => q.data.courseId === course.id).length} Questions</span>
-                                            <div class="w-1 h-1 rounded-full bg-hairline"></div>
-                                            <span class="text-xs text-mute">Latest 2026</span>
+                                    <div class="flex items-center gap-4">
+                                        <div class="w-12 h-12 bg-canvas-soft border border-hairline rounded-lg flex items-center justify-center text-body group-hover:text-primary group-hover:bg-canvas group-hover:border-hairline-strong transition-all shadow-xs flex-shrink-0">
+                                            <CourseIcon id={course.id} class="w-6 h-6" />
+                                        </div>
+                                        <div class="flex flex-col gap-1">
+                                            <h3 class="text-lg font-medium text-ink group-hover:text-primary transition-colors">{course.name}</h3>
+                                            <div class="flex items-center gap-3">
+                                                <span class="text-xs text-mute">{allQuestions.filter(q => q.data.courseId === course.id).length} Questions</span>
+                                                <div class="w-1 h-1 rounded-full bg-hairline"></div>
+                                                <span class="text-xs text-mute">Latest 2026</span>
+                                            </div>
                                         </div>
                                     </div>
-                                    <div class="w-10 h-10 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all">
+                                    <div class="w-10 h-10 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all flex-shrink-0">
                                         <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
                                         </svg>
@@ -171,8 +177,13 @@ const activeCategories = categories.map(cat => ({
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                         {courseIds.filter(id => !categories.flatMap(c => c.courses).some(c => c.id === id)).map(id => (
                             <a href={`/mcq/${id}-exit-exam-questions-answers/`} class="group flex items-center justify-between p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all">
-                                <h3 class="text-lg font-medium text-ink group-hover:text-primary transition-colors">{id.toUpperCase()} Practice</h3>
-                                <div class="w-10 h-10 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all">
+                                <div class="flex items-center gap-4">
+                                    <div class="w-12 h-12 bg-canvas-soft border border-hairline rounded-lg flex items-center justify-center text-body group-hover:text-primary group-hover:bg-canvas group-hover:border-hairline-strong transition-all shadow-xs flex-shrink-0">
+                                        <CourseIcon id={id} class="w-6 h-6" />
+                                    </div>
+                                    <h3 class="text-lg font-medium text-ink group-hover:text-primary transition-colors">{id.toUpperCase()} Practice</h3>
+                                </div>
+                                <div class="w-10 h-10 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all flex-shrink-0">
                                     <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
                                     </svg>

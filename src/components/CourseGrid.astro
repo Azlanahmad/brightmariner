@@ -1,14 +1,16 @@
 ---
+import CourseIcon from './CourseIcon.astro';
+
 const courses = [
-  { id: 'efa', name: 'Elementary First Aid', category: 'STCW Basic', icon: '🩺' },
-  { id: 'fpff', name: 'Fire Prevention & Fire Fighting', category: 'STCW Basic', icon: '🔥' },
-  { id: 'pst', name: 'Personal Survival Techniques', category: 'STCW Basic', icon: '⚓' },
-  { id: 'pssr', name: 'Personal Safety & Social Responsibilities', category: 'STCW Basic', icon: '🛡️' },
-  { id: 'stsdsd', name: 'Security Training for Seafarers with Designated Security Duties', category: 'STCW Basic', icon: '🔒' },
-  { id: 'aff', name: 'Advanced Fire Fighting', category: 'STCW Advanced', icon: '🚒' },
-  { id: 'pscrb', name: 'Proficiency in Survival Craft and Rescue Boats', category: 'STCW Advanced', icon: '🚣' },
-  { id: 'mfa', name: 'Medical First Aid', category: 'STCW Advanced', icon: '💊' },
-  { id: 'tasco', name: 'Advanced Training for Oil Tanker Cargo Operations', category: 'STCW Advanced', icon: '🛢️' },
+  { id: 'efa', name: 'Elementary First Aid', category: 'STCW Basic' },
+  { id: 'fpff', name: 'Fire Prevention & Fire Fighting', category: 'STCW Basic' },
+  { id: 'pst', name: 'Personal Survival Techniques', category: 'STCW Basic' },
+  { id: 'pssr', name: 'Personal Safety & Social Responsibilities', category: 'STCW Basic' },
+  { id: 'stsdsd', name: 'Security Training for Seafarers with Designated Security Duties', category: 'STCW Basic' },
+  { id: 'aff', name: 'Advanced Fire Fighting', category: 'STCW Advanced' },
+  { id: 'pscrb', name: 'Proficiency in Survival Craft and Rescue Boats', category: 'STCW Advanced' },
+  { id: 'mfa', name: 'Medical First Aid', category: 'STCW Advanced' },
+  { id: 'tasco', name: 'Advanced Training for Oil Tanker Cargo Operations', category: 'STCW Advanced' },
 ];
 ---
 
@@ -25,8 +27,10 @@ const courses = [
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
       {courses.map(course => (
         <a href={`/mcq/${course.id}-exit-exam-questions-answers/`} class="group block p-6 bg-canvas border border-hairline rounded-lg hover:border-ink hover:shadow-lg transition-all">
-          <div class="flex items-start justify-between mb-4">
-            <span class="text-3xl">{course.icon}</span>
+          <div class="flex items-start justify-between mb-6">
+            <div class="w-12 h-12 bg-canvas-soft border border-hairline rounded-lg flex items-center justify-center text-body group-hover:text-primary group-hover:bg-canvas group-hover:border-hairline-strong transition-all shadow-xs">
+              <CourseIcon id={course.id} class="w-6 h-6" />
+            </div>
             <span class="text-[10px] font-mono uppercase tracking-wider text-mute px-2 py-1 bg-canvas-soft border border-hairline rounded-full group-hover:border-hairline-strong transition-colors">
               {course.category}
             </span>
