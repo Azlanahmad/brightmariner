@@ -1,6 +1,15 @@
 ---
 import { Search } from 'lucide-react';
 import SearchComponent from './Search.astro';
+
+const pathname = Astro.url.pathname;
+
+const isMcqActive = pathname.startsWith('/mcq');
+const isCiiActive = pathname.startsWith('/cii-calculator');
+const isAboutActive = pathname.startsWith('/about-us');
+const isContactActive = pathname.startsWith('/contact-us');
+const isBlogActive = pathname.startsWith('/blog') || 
+  (!isMcqActive && !isCiiActive && !isAboutActive && !isContactActive && pathname !== '/');
 ---
 
 <header class="sticky top-0 z-50 w-full bg-canvas/80 backdrop-blur-md border-b border-hairline h-16">
@@ -8,15 +17,15 @@ import SearchComponent from './Search.astro';
     <div class="flex items-center gap-8">
       <a href="/" class="flex items-center gap-2">
         <img src="/favicon.svg" alt="BrightMariner Logo" class="w-8 h-8 rounded-sm" />
-        <span class="font-semibold text-lg tracking-tight">BrightMariner</span>
+        <span class="font-semibold text-lg tracking-tight">Bright<span class="text-link">Mariner</span></span>
       </a>
       
       <nav class="hidden md:flex items-center gap-1">
-        <a href="/mcq/" class="px-3 py-1.5 text-sm text-body hover:text-ink hover:bg-canvas-soft-2 rounded-full transition-colors">MCQ Practice</a>
-        <a href="/cii-calculator/" class="px-3 py-1.5 text-sm text-body hover:text-ink hover:bg-canvas-soft-2 rounded-full transition-colors">CII Calculator</a>
-        <a href="/blog/" class="px-3 py-1.5 text-sm text-body hover:text-ink hover:bg-canvas-soft-2 rounded-full transition-colors">Blog</a>
-        <a href="/about-us/" class="px-3 py-1.5 text-sm text-body hover:text-ink hover:bg-canvas-soft-2 rounded-full transition-colors">About</a>
-        <a href="/contact-us/" class="px-3 py-1.5 text-sm text-body hover:text-ink hover:bg-canvas-soft-2 rounded-full transition-colors">Contact</a>
+        <a href="/mcq/" class={`px-3 py-1.5 text-sm rounded-full transition-colors ${isMcqActive ? 'text-link bg-link-bg-soft/50 font-medium' : 'text-body hover:text-ink hover:bg-canvas-soft-2'}`}>MCQ Practice</a>
+        <a href="/cii-calculator/" class={`px-3 py-1.5 text-sm rounded-full transition-colors ${isCiiActive ? 'text-link bg-link-bg-soft/50 font-medium' : 'text-body hover:text-ink hover:bg-canvas-soft-2'}`}>CII Calculator</a>
+        <a href="/blog/" class={`px-3 py-1.5 text-sm rounded-full transition-colors ${isBlogActive ? 'text-link bg-link-bg-soft/50 font-medium' : 'text-body hover:text-ink hover:bg-canvas-soft-2'}`}>Blog</a>
+        <a href="/about-us/" class={`px-3 py-1.5 text-sm rounded-full transition-colors ${isAboutActive ? 'text-link bg-link-bg-soft/50 font-medium' : 'text-body hover:text-ink hover:bg-canvas-soft-2'}`}>About</a>
+        <a href="/contact-us/" class={`px-3 py-1.5 text-sm rounded-full transition-colors ${isContactActive ? 'text-link bg-link-bg-soft/50 font-medium' : 'text-body hover:text-ink hover:bg-canvas-soft-2'}`}>Contact</a>
       </nav>
     </div>
 
@@ -36,11 +45,11 @@ import SearchComponent from './Search.astro';
   <!-- Mobile Navigation Panel (Slides down from under the header) -->
   <div id="mobile-nav" class="absolute top-16 left-0 w-full bg-canvas/95 backdrop-blur-md border-b border-hairline z-40 shadow-lg transform -translate-y-full invisible opacity-0 transition-all duration-200 ease-in-out md:hidden flex flex-col gap-4 p-6">
     <nav class="flex flex-col gap-1">
-      <a href="/mcq/" class="px-3 py-2 text-sm font-medium text-body hover:text-ink hover:bg-canvas-soft-2 rounded-md transition-colors">MCQ Practice</a>
-      <a href="/cii-calculator/" class="px-3 py-2 text-sm font-medium text-body hover:text-ink hover:bg-canvas-soft-2 rounded-md transition-colors">CII Calculator</a>
-      <a href="/blog/" class="px-3 py-2 text-sm font-medium text-body hover:text-ink hover:bg-canvas-soft-2 rounded-md transition-colors">Blog</a>
-      <a href="/about-us/" class="px-3 py-2 text-sm font-medium text-body hover:text-ink hover:bg-canvas-soft-2 rounded-md transition-colors">About</a>
-      <a href="/contact-us/" class="px-3 py-2 text-sm font-medium text-body hover:text-ink hover:bg-canvas-soft-2 rounded-md transition-colors">Contact</a>
+      <a href="/mcq/" class={`px-3 py-2 text-sm font-medium rounded-md transition-colors ${isMcqActive ? 'text-link bg-link-bg-soft/50' : 'text-body hover:text-ink hover:bg-canvas-soft-2'}`}>MCQ Practice</a>
+      <a href="/cii-calculator/" class={`px-3 py-2 text-sm font-medium rounded-md transition-colors ${isCiiActive ? 'text-link bg-link-bg-soft/50' : 'text-body hover:text-ink hover:bg-canvas-soft-2'}`}>CII Calculator</a>
+      <a href="/blog/" class={`px-3 py-2 text-sm font-medium rounded-md transition-colors ${isBlogActive ? 'text-link bg-link-bg-soft/50' : 'text-body hover:text-ink hover:bg-canvas-soft-2'}`}>Blog</a>
+      <a href="/about-us/" class={`px-3 py-2 text-sm font-medium rounded-md transition-colors ${isAboutActive ? 'text-link bg-link-bg-soft/50' : 'text-body hover:text-ink hover:bg-canvas-soft-2'}`}>About</a>
+      <a href="/contact-us/" class={`px-3 py-2 text-sm font-medium rounded-md transition-colors ${isContactActive ? 'text-link bg-link-bg-soft/50' : 'text-body hover:text-ink hover:bg-canvas-soft-2'}`}>Contact</a>
     </nav>
   </div>
 </header>

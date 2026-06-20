@@ -110,15 +110,25 @@ const activeCategories = categories.map(cat => ({
     <!-- FAQPage Structured Data -->
     <script type="application/ld+json" set:html={JSON.stringify(faqPageSchema)} />
 
-    <div class="py-24 px-6 lg:px-8 bg-canvas-soft min-h-[calc(100vh-64px)]">
-        <div class="max-w-5xl mx-auto">
-            <header class="mb-16">
-                <h1 class="text-4xl font-semibold tracking-tight text-ink mb-4">MCQ Practice Room</h1>
-                <p class="text-body text-lg max-w-2xl">
+    <!-- Hero Section -->
+    <section class="relative pt-24 pb-20 md:pt-32 md:pb-24 overflow-hidden mesh-gradient">
+        <div class="max-w-5xl mx-auto px-6 lg:px-8 relative z-10">
+            <header class="text-left">
+                <div class="inline-flex items-center gap-2 px-3 py-1 bg-canvas border border-hairline rounded-full mb-6">
+                    <span class="text-[10px] font-mono uppercase tracking-widest text-mute">STCW Exit Exams</span>
+                    <span class="text-xs font-medium text-ink">DG Shipping Practice Room</span>
+                </div>
+                <h1 class="text-4xl md:text-6xl font-semibold tracking-tighter text-ink mb-4">MCQ Practice Room</h1>
+                <p class="text-body text-lg max-w-2xl leading-relaxed">
                     Select a course to start your practice. Our questions are curated from the latest DG Shipping exit exams to ensure your success.
                 </p>
             </header>
+        </div>
+        <div class="absolute bottom-0 left-0 right-0 h-px bg-linear-to-r from-transparent via-hairline to-transparent"></div>
+    </section>
 
+    <div class="py-16 px-6 lg:px-8 bg-canvas-soft min-h-[calc(100vh-420px)]">
+        <div class="max-w-5xl mx-auto">
             <!-- Display Ad BM -->
             <div class="mb-12 min-h-[100px] overflow-hidden">
                 <ins class="adsbygoogle"
@@ -135,20 +145,20 @@ const activeCategories = categories.map(cat => ({
             <div class="space-y-16">
                 {activeCategories.map(category => (
                     <section>
-                        <h2 class="text-xs font-mono uppercase tracking-widest text-mute mb-8 flex items-center gap-4">
+                        <h2 class="text-xs font-mono uppercase tracking-widest text-navy mb-8 flex items-center gap-4">
                             {category.name}
                             <div class="h-px flex-grow bg-hairline"></div>
                         </h2>
                         
                         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                             {category.courses.map(course => (
-                                <a href={`/mcq/${course.id}-exit-exam-questions-answers/`} class="group flex items-center justify-between p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all">
+                                <a href={`/mcq/${course.id}-exit-exam-questions-answers/`} class="group flex items-center justify-between p-6 bg-canvas border border-hairline rounded-xl hover:border-link/50 hover:shadow-md transition-all">
                                     <div class="flex items-center gap-4">
-                                        <div class="w-12 h-12 bg-canvas-soft border border-hairline rounded-lg flex items-center justify-center text-body group-hover:text-primary group-hover:bg-canvas group-hover:border-hairline-strong transition-all shadow-xs flex-shrink-0">
+                                        <div class="w-12 h-12 bg-canvas-soft border border-hairline rounded-lg flex items-center justify-center text-body group-hover:text-link group-hover:bg-canvas group-hover:border-link/30 transition-all shadow-xs flex-shrink-0">
                                             <CourseIcon id={course.id} class="w-6 h-6" />
                                         </div>
                                         <div class="flex flex-col gap-1">
-                                            <h3 class="text-lg font-medium text-ink group-hover:text-primary transition-colors">{course.name}</h3>
+                                            <h3 class="text-lg font-medium text-ink group-hover:text-navy transition-colors">{course.name}</h3>
                                             <div class="flex items-center gap-3">
                                                 <span class="text-xs text-mute">{allQuestions.filter(q => q.data.courseId === course.id).length} Questions</span>
                                                 <div class="w-1 h-1 rounded-full bg-hairline"></div>
@@ -156,7 +166,7 @@ const activeCategories = categories.map(cat => ({
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="w-10 h-10 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all flex-shrink-0">
+                                    <div class="w-10 h-10 rounded-full border border-hairline flex items-center justify-center group-hover:bg-navy group-hover:border-navy group-hover:text-white transition-all flex-shrink-0">
                                         <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
                                         </svg>
@@ -170,20 +180,20 @@ const activeCategories = categories.map(cat => ({
             
             {courseIds.filter(id => !categories.flatMap(c => c.courses).some(c => c.id === id)).length > 0 && (
                 <section class="mt-16">
-                    <h2 class="text-xs font-mono uppercase tracking-widest text-mute mb-8 flex items-center gap-4">
+                    <h2 class="text-xs font-mono uppercase tracking-widest text-navy mb-8 flex items-center gap-4">
                         Other Modules
                         <div class="h-px flex-grow bg-hairline"></div>
                     </h2>
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                         {courseIds.filter(id => !categories.flatMap(c => c.courses).some(c => c.id === id)).map(id => (
-                            <a href={`/mcq/${id}-exit-exam-questions-answers/`} class="group flex items-center justify-between p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all">
+                            <a href={`/mcq/${id}-exit-exam-questions-answers/`} class="group flex items-center justify-between p-6 bg-canvas border border-hairline rounded-xl hover:border-link/50 hover:shadow-md transition-all">
                                 <div class="flex items-center gap-4">
-                                    <div class="w-12 h-12 bg-canvas-soft border border-hairline rounded-lg flex items-center justify-center text-body group-hover:text-primary group-hover:bg-canvas group-hover:border-hairline-strong transition-all shadow-xs flex-shrink-0">
+                                    <div class="w-12 h-12 bg-canvas-soft border border-hairline rounded-lg flex items-center justify-center text-body group-hover:text-link group-hover:bg-canvas group-hover:border-link/30 transition-all shadow-xs flex-shrink-0">
                                         <CourseIcon id={id} class="w-6 h-6" />
                                     </div>
-                                    <h3 class="text-lg font-medium text-ink group-hover:text-primary transition-colors">{id.toUpperCase()} Practice</h3>
+                                    <h3 class="text-lg font-medium text-ink group-hover:text-navy transition-colors">{id.toUpperCase()} Practice</h3>
                                 </div>
-                                <div class="w-10 h-10 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all flex-shrink-0">
+                                <div class="w-10 h-10 rounded-full border border-hairline flex items-center justify-center group-hover:bg-navy group-hover:border-navy group-hover:text-white transition-all flex-shrink-0">
                                     <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
                                     </svg>
@@ -204,10 +214,10 @@ const activeCategories = categories.map(cat => ({
                     {faqs.map(faq => (
                         <details class="group bg-canvas border border-hairline rounded-xl [&_summary::-webkit-details-marker]:hidden">
                             <summary class="flex items-center justify-between p-6 cursor-pointer select-none">
-                                <h3 class="text-lg font-medium text-ink group-open:text-primary transition-colors">
+                                <h3 class="text-lg font-medium text-ink group-open:text-navy transition-colors">
                                     {faq.question}
                                 </h3>
-                                <span class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 transition-transform duration-300">
+                                <span class="ml-1.5 flex-shrink-0 rounded-full bg-canvas p-1.5 text-mute border border-hairline group-open:rotate-180 group-open:text-link group-open:border-link/30 transition-transform duration-300">
                                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                                     </svg>

@@ -571,7 +571,7 @@ const activeConfig =
             <section class="mb-20" aria-labelledby="practice-sets-title">
                 <h2
                     id="practice-sets-title"
-                    class="text-xs font-mono uppercase tracking-widest text-mute mb-8 flex items-center gap-4"
+                    class="text-xs font-mono uppercase tracking-widest text-navy mb-8 flex items-center gap-4"
                 >
                     Interactive Practice Sets
                     <div class="h-px flex-grow bg-hairline"></div>
@@ -584,13 +584,13 @@ const activeConfig =
                         sets.map((setNum) => (
                             <a
                                 href={`/mcq/${id}/${setNum}/`}
-                                class="group p-6 bg-canvas border border-hairline rounded-xl hover:border-ink hover:shadow-md transition-all duration-300"
+                                class="group p-6 bg-canvas border border-hairline rounded-xl hover:border-link/50 hover:shadow-md transition-all duration-300"
                             >
                                 <div class="flex items-center justify-between mb-4">
                                     <span class="text-xs font-mono uppercase tracking-widest text-mute">
                                         Set {setNum}
                                     </span>
-                                    <div class="w-8 h-8 rounded-full border border-hairline flex items-center justify-center group-hover:bg-primary group-hover:border-primary group-hover:text-white transition-all duration-300">
+                                    <div class="w-8 h-8 rounded-full border border-hairline flex items-center justify-center group-hover:bg-navy group-hover:border-navy group-hover:text-white transition-all duration-300">
                                         <svg
                                             class="w-4 h-4"
                                             fill="none"
@@ -606,7 +606,7 @@ const activeConfig =
                                         </svg>
                                     </div>
                                 </div>
-                                <h3 class="text-xl font-medium text-ink">
+                                <h3 class="text-xl font-medium text-ink group-hover:text-navy transition-colors">
                                     Questions {(setNum - 1) * setSize + 1} -{" "}
                                     {Math.min(
                                         setNum * setSize,
