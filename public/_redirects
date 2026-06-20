@@ -49,3 +49,7 @@
 
 /mcq/rfpff                   /mcq/rfpff-exit-exam-questions-answers/  301
 /mcq/rfpff/*                 /mcq/rfpff-exit-exam-questions-answers/:splat  301
+
+# Redirect /courses to /mcq/
+/courses/                    /mcq/                                      301
+/courses                     /mcq/                                      301
