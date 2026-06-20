@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q6",
+  "text": "Where will the ship's officers find necessary information regarding the ship's fire protection arrangement, fire-detection equipment and fire extinguishing appliances?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) In permanently exhibited muster list"
+    },
+    {
+      "id": "B",
+      "text": "B) In permanently exhibited fire control plans"
+    },
+    {
+      "id": "C",
+      "text": "C) In special instruction and information folder at all fire control stations"
+    },
+    {
+      "id": "D",
+      "text": "D) In permanent exhibited alarm instructions"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

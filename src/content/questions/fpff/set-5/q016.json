@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s5-q16",
+  "text": "Fuel oil flowing rapidly through an ungrounded or poorly bounded pipeline is prone to which of the following ignition sources?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) High pressure action."
+    },
+    {
+      "id": "B",
+      "text": "B) Friction."
+    },
+    {
+      "id": "C",
+      "text": "C) Static electricity."
+    },
+    {
+      "id": "D",
+      "text": "D) Chemical reaction."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 5,
+  "explanation": ""
+}

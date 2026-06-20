@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s5-q17",
+  "text": "In a mixture of flammable vapor and air, if there is too much vapor and not enough oxygen to support combustion, the mixture is technically described as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Too rich"
+    },
+    {
+      "id": "B",
+      "text": "B) Over concentrated"
+    },
+    {
+      "id": "C",
+      "text": "C) Too lean"
+    },
+    {
+      "id": "D",
+      "text": "D) Saturated"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 5,
+  "explanation": ""
+}

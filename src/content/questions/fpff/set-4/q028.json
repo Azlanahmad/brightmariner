@@ -1,0 +1,18 @@
+{
+  "id": "fpff-s4-q28",
+  "text": "Class B fire division have the insulation such that the average temperature rise on the unexposed side will be not more than 140 degree C within the time limit.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": "Note: B-0 divisions have no insulation requirement"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q4",
+  "text": "A band of ____________ is displayed above a fire extinguisher that contains carbon dioxide.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Yellow"
+    },
+    {
+      "id": "B",
+      "text": "B) Red"
+    },
+    {
+      "id": "C",
+      "text": "C) Black"
+    },
+    {
+      "id": "D",
+      "text": "D) Cream"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

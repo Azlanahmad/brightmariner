@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q16",
+  "text": "Which of the following statements is NOT correct about high expansion foam?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) It extinguishes by smothering."
+    },
+    {
+      "id": "B",
+      "text": "B) It has only a limited cooling effect."
+    },
+    {
+      "id": "C",
+      "text": "C) You cannot survive in H.E. foam as the oxygen content is reduced."
+    },
+    {
+      "id": "D",
+      "text": "D) You can survive in H.E. foam by breaking the bubbles to release the air."
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

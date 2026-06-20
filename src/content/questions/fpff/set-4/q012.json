@@ -1,0 +1,18 @@
+{
+  "id": "fpff-s4-q12",
+  "text": "Designated exits must always be unlocked from both sides",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

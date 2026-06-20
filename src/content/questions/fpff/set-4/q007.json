@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q7",
+  "text": "The highest concentration of hydrocarbon gas in air below which there is sufficient amount of hydrocarbon gas to support combustion is called:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Upper Flammable limit"
+    },
+    {
+      "id": "B",
+      "text": "B) Lower Flammable limit"
+    },
+    {
+      "id": "C",
+      "text": "C) Ignitable mixture"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

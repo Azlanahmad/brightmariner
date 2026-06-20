@@ -1,0 +1,18 @@
+{
+  "id": "fpff-s3-q1",
+  "text": "Carbon-dioxide (CO2) release alarm is fitted outside the engine room?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

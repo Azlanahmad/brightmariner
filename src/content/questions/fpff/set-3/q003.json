@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q3",
+  "text": "Which of the following colours can be found in a band above a wet chemical fire extinguisher?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Yellow"
+    },
+    {
+      "id": "B",
+      "text": "B) Cream"
+    },
+    {
+      "id": "C",
+      "text": "C) Blue"
+    },
+    {
+      "id": "D",
+      "text": "D) Red"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

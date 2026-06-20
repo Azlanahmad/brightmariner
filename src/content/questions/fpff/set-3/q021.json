@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q21",
+  "text": "In the case of diesel driven fire pumps, for how long period shall the fuel tank capacity allow the pump to be run at full capacity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) One hour"
+    },
+    {
+      "id": "B",
+      "text": "B) Fifteen hours"
+    },
+    {
+      "id": "C",
+      "text": "C) Three hours"
+    },
+    {
+      "id": "D",
+      "text": "D) Six hours"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

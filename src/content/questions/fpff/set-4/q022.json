@@ -1,0 +1,18 @@
+{
+  "id": "fpff-s4-q22",
+  "text": "In the case of Direct Reduced Iron (DRI) cargo in the hold, contact with water may lead to vigorous re-oxidation accompanied by the evolution of heat and hydrogen which may give rise to the risk of explosion",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

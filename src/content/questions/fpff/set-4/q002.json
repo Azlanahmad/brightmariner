@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q2",
+  "text": "In what language/languages shall the fire control plans/folders (or copies of plans and folders) be?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The English language"
+    },
+    {
+      "id": "B",
+      "text": "B) The Flag State language with copies in English or French"
+    },
+    {
+      "id": "C",
+      "text": "C) The Flag State language with copies in English"
+    },
+    {
+      "id": "D",
+      "text": "D) The Flag State language"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

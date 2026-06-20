@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q10",
+  "text": "Which of the following does not need to be done right after a fire drill?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Have a debriefing with all members of the safety committee."
+    },
+    {
+      "id": "B",
+      "text": "B) Note any defects in the equipment for repair or replacement."
+    },
+    {
+      "id": "C",
+      "text": "C) Return all the equipment to its correct place."
+    },
+    {
+      "id": "D",
+      "text": "D) Recharge extinguishers and compressed air bottles."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

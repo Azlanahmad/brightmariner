@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q30",
+  "text": "Passenger ships of 4000 GRT and above shall have at least _____ power-driven fire pumps.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 2"
+    },
+    {
+      "id": "B",
+      "text": "B) 3"
+    },
+    {
+      "id": "C",
+      "text": "C) 4"
+    },
+    {
+      "id": "D",
+      "text": "D) 1"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

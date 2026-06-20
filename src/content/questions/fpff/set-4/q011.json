@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q11",
+  "text": "What are class 'C' bulkheads?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Bulkheads constructed of approved non-combustible materials that can withstand the standard fire test for 30 minutes."
+    },
+    {
+      "id": "B",
+      "text": "B) Bulkheads constructed of approved non-combustible materials that can withstand the standard fire test for 45 minutes."
+    },
+    {
+      "id": "C",
+      "text": "C) Bulkheads constructed of approved non-combustible materials that can withstand the standard fire test for 15 minutes."
+    },
+    {
+      "id": "D",
+      "text": "D) Bulkheads constructed of approved non-combustible materials but do not meet any of the requirements relative to smoke and flame nor limitations relative to temperature rise."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q14",
+  "text": "A cargo hold containing cargo such as nitrates, chlorates etc which produce oxygen under the influence of heat catches fire. How would you deal with this?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) With this type of material, the hatches should not be battened down. The fire can only be extinguished using large quantities of water"
+    },
+    {
+      "id": "B",
+      "text": "B) Boundary cooling"
+    },
+    {
+      "id": "C",
+      "text": "C) Close the hatches, apply boundary cooling and allow fire to use up the oxygen and extinguish itself"
+    },
+    {
+      "id": "D",
+      "text": "D) Close the hatches and use the fixed CO2 system"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

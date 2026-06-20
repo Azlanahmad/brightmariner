@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q18",
+  "text": "What equipment must be present at every standard fire station hydrant point according to regulations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Fire hose, approved dual-purpose nozzle, and spanner wrench"
+    },
+    {
+      "id": "B",
+      "text": "B) Portable extinguisher and axe"
+    },
+    {
+      "id": "C",
+      "text": "C) First aid kit and emergency light"
+    },
+    {
+      "id": "D",
+      "text": "D) SCBA set and lifeline"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

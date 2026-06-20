@@ -1,0 +1,18 @@
+{
+  "id": "fpff-s3-q12",
+  "text": "Multipurpose dry chemical extinguishers are effective on all classes except D and K fires",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

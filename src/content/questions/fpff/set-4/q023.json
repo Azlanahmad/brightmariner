@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q23",
+  "text": "A dry powder fire extinguisher can be found with a _______________ band above it",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Yellow"
+    },
+    {
+      "id": "B",
+      "text": "B) Blue"
+    },
+    {
+      "id": "C",
+      "text": "C) Black"
+    },
+    {
+      "id": "D",
+      "text": "D) Cream"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

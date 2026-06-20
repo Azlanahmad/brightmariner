@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q2",
+  "text": "__________ fire extinguishers are specifically designed in order to tackle a class F fire.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Carbon Dioxide"
+    },
+    {
+      "id": "B",
+      "text": "B) Wet Chemical"
+    },
+    {
+      "id": "C",
+      "text": "C) Foam"
+    },
+    {
+      "id": "D",
+      "text": "D) Water"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

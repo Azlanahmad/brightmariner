@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q24",
+  "text": "How many emergency sources are required for fire-detection and fire alarm systems?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Two"
+    },
+    {
+      "id": "B",
+      "text": "B) None"
+    },
+    {
+      "id": "C",
+      "text": "C) One"
+    },
+    {
+      "id": "D",
+      "text": "D) Three"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

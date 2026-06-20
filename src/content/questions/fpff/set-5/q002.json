@@ -1,0 +1,18 @@
+{
+  "id": "fpff-s5-q2",
+  "text": "Class A divisions formed by bulkheads are constructed with steel or other equivalent material and suitably stiffened.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 5,
+  "explanation": ""
+}

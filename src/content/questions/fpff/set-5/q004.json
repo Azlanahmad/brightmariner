@@ -1,0 +1,18 @@
+{
+  "id": "fpff-s5-q4",
+  "text": "Class C fire divisions are constructed with approved non-combustible materials, they need neither meet requirements relative to smoke and flame nor limitations to temperature rise.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 5,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q22",
+  "text": "What are yearly checks for Dry Chemical powder system on Tankers?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Moisture and humidity"
+    },
+    {
+      "id": "B",
+      "text": "B) Inspect visually components, verify pressure regulator and agitate DCP"
+    },
+    {
+      "id": "C",
+      "text": "C) Open/Close valves for pump"
+    },
+    {
+      "id": "D",
+      "text": "D) Check gauges"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

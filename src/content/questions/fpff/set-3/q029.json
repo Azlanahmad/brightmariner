@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q29",
+  "text": "What type of fire hose nozzles must be available on board?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Dual purpose (jet/spray) type incorporating shutoff."
+    },
+    {
+      "id": "B",
+      "text": "B) Jet type."
+    },
+    {
+      "id": "C",
+      "text": "C) Dual purpose (jet/spray type)."
+    },
+    {
+      "id": "D",
+      "text": "D) Spray type."
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

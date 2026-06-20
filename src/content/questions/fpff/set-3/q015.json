@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q15",
+  "text": "Which of the following should you NOT do during a fire emergency",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Evacuate through designated exit routes"
+    },
+    {
+      "id": "B",
+      "text": "B) Keep the fire doors shut to prevent the fire from spreading"
+    },
+    {
+      "id": "C",
+      "text": "C) Crawl low under the smoke while breathing only through your nose"
+    },
+    {
+      "id": "D",
+      "text": "D) Abandon ship without the permission of authorities"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

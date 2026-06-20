@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s5-q1",
+  "text": "Cargo ships of 1000 GRT and upwards must be provided with at least how many power-driven bilge pumps?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 2"
+    },
+    {
+      "id": "B",
+      "text": "B) 3"
+    },
+    {
+      "id": "C",
+      "text": "C) 4"
+    },
+    {
+      "id": "D",
+      "text": "D) 1"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 5,
+  "explanation": ""
+}

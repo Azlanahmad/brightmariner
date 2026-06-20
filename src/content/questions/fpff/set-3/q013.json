@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q13",
+  "text": "Hazards in galley include:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Cooking oil, hot fat"
+    },
+    {
+      "id": "B",
+      "text": "B) Hot surfaces, oven, frying pan"
+    },
+    {
+      "id": "C",
+      "text": "C) Defective electrical connections"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

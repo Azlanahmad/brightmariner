@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q20",
+  "text": "A low velocity fog applicator is used in firefighting to;",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) apply large droplets of foam"
+    },
+    {
+      "id": "B",
+      "text": "B) cool and smother the fire"
+    },
+    {
+      "id": "C",
+      "text": "C) break up burning embers"
+    },
+    {
+      "id": "D",
+      "text": "D) extinguish hard to reach electrical fires"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

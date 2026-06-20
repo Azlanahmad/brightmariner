@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q28",
+  "text": "All waste receptacles shall be of non-combustible materials, built and equipped with:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Hinged self-closing cover"
+    },
+    {
+      "id": "B",
+      "text": "B) Permanent means for lashing"
+    },
+    {
+      "id": "C",
+      "text": "C) No openings in sides and bottom"
+    },
+    {
+      "id": "D",
+      "text": "D) Rack for fire buckets"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

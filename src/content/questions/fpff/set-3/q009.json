@@ -1,0 +1,18 @@
+{
+  "id": "fpff-s3-q9",
+  "text": "International shore coupling is carried on all ships",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

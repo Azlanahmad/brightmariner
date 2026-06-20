@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q8",
+  "text": "Carbon-di-Oxide (CO2) release alarm is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Similar to general alarm"
+    },
+    {
+      "id": "B",
+      "text": "B) Similar to fire alarm"
+    },
+    {
+      "id": "C",
+      "text": "C) Distinctive and unique"
+    },
+    {
+      "id": "D",
+      "text": "D) Similar to mechanical fault alarm"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

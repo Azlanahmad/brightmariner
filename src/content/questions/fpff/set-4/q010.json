@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q10",
+  "text": "How often should you test your smoke alarms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Every month"
+    },
+    {
+      "id": "B",
+      "text": "B) Every six months"
+    },
+    {
+      "id": "C",
+      "text": "C) Every year"
+    },
+    {
+      "id": "D",
+      "text": "D) Every five years"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

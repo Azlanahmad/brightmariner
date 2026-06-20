@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s5-q13",
+  "text": "A carbon dioxide fire extinguisher is required to be sent for recharging if the weight loss exceeds what percentage of the weight of the total charge?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) One percent"
+    },
+    {
+      "id": "B",
+      "text": "B) Five percent"
+    },
+    {
+      "id": "C",
+      "text": "C) Seven percent"
+    },
+    {
+      "id": "D",
+      "text": "D) Ten percent"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 5,
+  "explanation": ""
+}

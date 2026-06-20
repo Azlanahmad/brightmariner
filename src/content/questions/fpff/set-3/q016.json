@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q16",
+  "text": "When fighting an electrical fire, which of the following should not be used?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Water Fire Extinguisher"
+    },
+    {
+      "id": "B",
+      "text": "B) Foam Fire Extinguisher"
+    },
+    {
+      "id": "C",
+      "text": "C) Dry Powder Fire Extinguisher"
+    },
+    {
+      "id": "D",
+      "text": "D) Neither A nor B should be used"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

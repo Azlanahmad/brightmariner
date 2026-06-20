@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q19",
+  "text": "To operate a fire extinguisher one must pull, aim, squeeze and",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Jump"
+    },
+    {
+      "id": "B",
+      "text": "B) Stand"
+    },
+    {
+      "id": "C",
+      "text": "C) Sing"
+    },
+    {
+      "id": "D",
+      "text": "D) Sweep"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q20",
+  "text": "Which one is not chemical energy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Heat of combustion"
+    },
+    {
+      "id": "B",
+      "text": "B) Heat of partial oxidation"
+    },
+    {
+      "id": "C",
+      "text": "C) Falling tool from a height"
+    },
+    {
+      "id": "D",
+      "text": "D) Heat of mixing solution"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

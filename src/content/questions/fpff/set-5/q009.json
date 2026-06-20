@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s5-q9",
+  "text": "In fire-fighting, what does the term 'boundary starvation' refer to?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Cooling the area around a fire to stop it spreading"
+    },
+    {
+      "id": "B",
+      "text": "B) Closing doors and hatches at the boundary of a fire"
+    },
+    {
+      "id": "C",
+      "text": "C) Mustering fire fighters and materials in the area near the fire"
+    },
+    {
+      "id": "D",
+      "text": "D) Removing the fuel from the boundary of a fire to stop it spreading further"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 5,
+  "explanation": ""
+}

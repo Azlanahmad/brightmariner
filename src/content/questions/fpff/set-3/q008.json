@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q8",
+  "text": "Which of the following fire extinguisher is used to put out fires caused by flammable liquids?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Class A water fire extinguishers"
+    },
+    {
+      "id": "B",
+      "text": "B) Class B carbon dioxide fire extinguisher"
+    },
+    {
+      "id": "C",
+      "text": "C) Class C dry chemical fire extinguisher"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

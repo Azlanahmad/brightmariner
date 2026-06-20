@@ -1,0 +1,18 @@
+{
+  "id": "fpff-s5-q10",
+  "text": "Designated fire exits will always be marked with a green EXIT sign and will be lit from within to ensure visibility.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 5,
+  "explanation": ""
+}

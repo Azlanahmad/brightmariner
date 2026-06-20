@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q21",
+  "text": "The weight of a portable fire extinguisher must not be more than:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 9kg"
+    },
+    {
+      "id": "B",
+      "text": "B) 23kg"
+    },
+    {
+      "id": "C",
+      "text": "C) 13.5kg"
+    },
+    {
+      "id": "D",
+      "text": "D) 5kg"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

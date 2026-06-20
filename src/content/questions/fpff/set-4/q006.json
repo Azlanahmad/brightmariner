@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q6",
+  "text": "If you were put in charge of a fire team what is the minimum number of men wearing BA sets that you would allow to enter a smoke-filled compartment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 2 men"
+    },
+    {
+      "id": "B",
+      "text": "B) 1 man"
+    },
+    {
+      "id": "C",
+      "text": "C) 4 men"
+    },
+    {
+      "id": "D",
+      "text": "D) 3 men"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

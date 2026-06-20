@@ -1,0 +1,18 @@
+{
+  "id": "fpff-s4-q13",
+  "text": "You should always check closed doors for heat before opening them",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

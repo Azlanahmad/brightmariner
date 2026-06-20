@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q30",
+  "text": "What is class of electrical fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Class A"
+    },
+    {
+      "id": "B",
+      "text": "B) Class B"
+    },
+    {
+      "id": "C",
+      "text": "C) Class C"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q1",
+  "text": "CO2 alarm visual indication will be a;",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) White LED light"
+    },
+    {
+      "id": "B",
+      "text": "B) Red revolving light"
+    },
+    {
+      "id": "C",
+      "text": "C) Amber coloured revolving light"
+    },
+    {
+      "id": "D",
+      "text": "D) Blue light"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s5-q6",
+  "text": "Fire extinguishers are classified fundamentally by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) The type of fire they are used on"
+    },
+    {
+      "id": "B",
+      "text": "B) Size of the fire put out"
+    },
+    {
+      "id": "C",
+      "text": "C) The temperature of fire"
+    },
+    {
+      "id": "D",
+      "text": "D) The colour of the fire"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 5,
+  "explanation": ""
+}

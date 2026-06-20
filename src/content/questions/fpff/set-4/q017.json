@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q17",
+  "text": "A specific document identifies a chemical, listing its physical properties, health hazards, required controls, firefighting procedures, cleanup methods, waste disposal and the safe handling and storage requirements. This document is;",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Hazardous chemical information sheet"
+    },
+    {
+      "id": "B",
+      "text": "B) Physical/chemical characteristics document"
+    },
+    {
+      "id": "C",
+      "text": "C) Material Safety Data Sheet"
+    },
+    {
+      "id": "D",
+      "text": "D) All the above"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q25",
+  "text": "Fire hose can be used for purposes other than firefighting service when;",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Used for portable water services"
+    },
+    {
+      "id": "B",
+      "text": "B) Used for drills and testing"
+    },
+    {
+      "id": "C",
+      "text": "C) Determined by the chief engineer"
+    },
+    {
+      "id": "D",
+      "text": "D) Approved by master"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

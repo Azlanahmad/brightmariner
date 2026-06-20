@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q3",
+  "text": "Maximum Temperature of unexposed side of a B-class division is?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 300 Deg C"
+    },
+    {
+      "id": "B",
+      "text": "B) 350 Deg C"
+    },
+    {
+      "id": "C",
+      "text": "C) 400 Deg C"
+    },
+    {
+      "id": "D",
+      "text": "D) 225 Deg C"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

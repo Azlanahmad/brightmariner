@@ -1,0 +1,18 @@
+{
+  "id": "fpff-s3-q24",
+  "text": "Fire extinguishers should be checked at least once a month",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

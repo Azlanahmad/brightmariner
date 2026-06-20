@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q17",
+  "text": "What is kind of fixed fire fighting system that can be used on Main Engine room fire?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) High expansion foam"
+    },
+    {
+      "id": "B",
+      "text": "B) Medium expansion foam"
+    },
+    {
+      "id": "C",
+      "text": "C) Low expansion foam"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

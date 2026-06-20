@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s5-q11",
+  "text": "If a fixed foam firefighting system is not of the premix type, a sample of the foam liquid must be tested regularly by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Coast Guard inspection officer"
+    },
+    {
+      "id": "B",
+      "text": "B) The safetyman aboard the unit"
+    },
+    {
+      "id": "C",
+      "text": "C) The designated person in-charge of the unit"
+    },
+    {
+      "id": "D",
+      "text": "D) The manufacturer, or his authorized representative"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 5,
+  "explanation": ""
+}

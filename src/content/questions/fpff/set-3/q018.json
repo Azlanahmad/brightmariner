@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q18",
+  "text": "A class D fire would involve the burning of:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Diesel oil"
+    },
+    {
+      "id": "B",
+      "text": "B) Magnesium"
+    },
+    {
+      "id": "C",
+      "text": "C) Dunnage"
+    },
+    {
+      "id": "D",
+      "text": "D) Electrical insulation"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

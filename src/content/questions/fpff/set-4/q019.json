@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q19",
+  "text": "Water fire extinguishers have a _________ located above them?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Red coloured band"
+    },
+    {
+      "id": "B",
+      "text": "B) Blue coloured band"
+    },
+    {
+      "id": "C",
+      "text": "C) Black coloured band"
+    },
+    {
+      "id": "D",
+      "text": "D) Green Colored band"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

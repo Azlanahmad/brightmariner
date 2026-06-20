@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q11",
+  "text": "You should use a Dry Powder fire extinguisher in order to fight in an electrical fire, only in the event of______________",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) A carbon dioxide fire extinguisher is unavailable"
+    },
+    {
+      "id": "B",
+      "text": "B) A foam fire extinguisher is unavailable"
+    },
+    {
+      "id": "C",
+      "text": "C) You should never use a dry powder fire extinguisher on an electrical fire"
+    },
+    {
+      "id": "D",
+      "text": "D) A water fire extinguisher is unavailable"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

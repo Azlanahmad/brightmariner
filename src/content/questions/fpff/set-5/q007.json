@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s5-q7",
+  "text": "What type of permit is needed in order to carry out work that could potentially result in a fire breaking out on the work site?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) A fire permit"
+    },
+    {
+      "id": "B",
+      "text": "B) A hot permit"
+    },
+    {
+      "id": "C",
+      "text": "C) A work permit"
+    },
+    {
+      "id": "D",
+      "text": "D) No permit is needed"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 5,
+  "explanation": ""
+}

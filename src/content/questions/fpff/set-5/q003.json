@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s5-q3",
+  "text": "Which of the following activities are considered hot work?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Welding"
+    },
+    {
+      "id": "B",
+      "text": "B) Gas cutting"
+    },
+    {
+      "id": "C",
+      "text": "C) Grinding Ferrous metals"
+    },
+    {
+      "id": "D",
+      "text": "D) All of the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 5,
+  "explanation": ""
+}

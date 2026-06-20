@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s5-q15",
+  "text": "The general fire emergency alarm signal on a ship must be a continuous blast of the whistle or electrical bell for not less than _________ seconds.",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) 10"
+    },
+    {
+      "id": "B",
+      "text": "B) 15"
+    },
+    {
+      "id": "C",
+      "text": "C) 20"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 5,
+  "explanation": ""
+}

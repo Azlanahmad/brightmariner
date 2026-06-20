@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s5-q5",
+  "text": "what is piracy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) It is an Act of robbery or criminal violence in town"
+    },
+    {
+      "id": "B",
+      "text": "B) It is an act of robbery or criminal violence in flights"
+    },
+    {
+      "id": "C",
+      "text": "C) It an act of robbery or criminal violence at sea"
+    },
+    {
+      "id": "D",
+      "text": "D) It is an act of stealing from a ship while on anchorage"
+    }
+  ],
+  "correctOptionId": "C",
+  "courseId": "fpff",
+  "set": 5,
+  "explanation": ""
+}

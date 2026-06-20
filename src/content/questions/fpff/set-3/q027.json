@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q27",
+  "text": "Four sides of Fire Tetrahedron are fuel, Heat, Oxygen and",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Hydrogen gas"
+    },
+    {
+      "id": "B",
+      "text": "B) Chain Reaction"
+    },
+    {
+      "id": "C",
+      "text": "C) Spontaneous combustion"
+    },
+    {
+      "id": "D",
+      "text": "D) None of the above."
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

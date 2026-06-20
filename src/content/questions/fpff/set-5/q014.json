@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s5-q14",
+  "text": "You are assigned to the hose team and have suited up in a firefighting ensemble to fight a large fire in the engine room. What will ultimately determine the safe operational time allowed to combat the fire before you must be relieved?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Fire location"
+    },
+    {
+      "id": "B",
+      "text": "B) Intensity of the fire"
+    },
+    {
+      "id": "C",
+      "text": "C) Available air in the SCBA cylinder"
+    },
+    {
+      "id": "D",
+      "text": "D) All the above"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 5,
+  "explanation": ""
+}

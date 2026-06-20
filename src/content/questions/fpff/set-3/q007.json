@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q7",
+  "text": "After a fire has been extinguished in a closed space, personnel may safely enter the space when:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Smoke density has decreased sufficiently to see the bulkhead opposite the compartment"
+    },
+    {
+      "id": "B",
+      "text": "B) All smoke and toxic fumes are removed and an adequate oxygen supply is present"
+    },
+    {
+      "id": "C",
+      "text": "C) None of the above"
+    },
+    {
+      "id": "D",
+      "text": "D) All of these"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

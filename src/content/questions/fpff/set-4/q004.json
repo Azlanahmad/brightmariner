@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q4",
+  "text": "Which of the following conditions will allow for a work vest to be substituted for a lifejacket in the total count of the required lifesaving gear?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) When it is approved by the Coast Guard"
+    },
+    {
+      "id": "B",
+      "text": "B) When working near or over the water"
+    },
+    {
+      "id": "C",
+      "text": "C) When stowed away from the ring buoys"
+    },
+    {
+      "id": "D",
+      "text": "D) Never"
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

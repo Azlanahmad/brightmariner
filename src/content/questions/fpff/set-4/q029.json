@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s4-q29",
+  "text": "Why is it important that you tend the nozzle carefully when you have finished using a fire extinguisher containing carbon dioxide?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Because the nozzle gets extremely hot making it impossible to use"
+    },
+    {
+      "id": "B",
+      "text": "B) This is not a requirement"
+    },
+    {
+      "id": "C",
+      "text": "C) Because the nozzle gets warm, making it impossible to use"
+    },
+    {
+      "id": "D",
+      "text": "D) Because the nozzle gets extremely cold, making it impossible to use."
+    }
+  ],
+  "correctOptionId": "D",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}

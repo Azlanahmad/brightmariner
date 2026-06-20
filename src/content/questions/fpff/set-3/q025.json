@@ -1,0 +1,26 @@
+{
+  "id": "fpff-s3-q25",
+  "text": "Which of the following is correct when it comes to the type of fire extinguishers you should avoid while fighting a fire in a confined space?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) Carbon Dioxide and Dry Powder Fire extinguishers should not be used"
+    },
+    {
+      "id": "B",
+      "text": "B) Carbon Dioxide and Water Fire Extinguishers should not be used"
+    },
+    {
+      "id": "C",
+      "text": "C) Water and Dry Powder Fire extinguishers should not be used"
+    },
+    {
+      "id": "D",
+      "text": "D) Only a Dry powder fire extinguisher should not be used"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

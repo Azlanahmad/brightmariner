@@ -1,0 +1,18 @@
+{
+  "id": "fpff-s3-q23",
+  "text": "Stairways and corridors used as means of escape shall not be less than 700 mm in clear width",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) False"
+    },
+    {
+      "id": "B",
+      "text": "B) True"
+    }
+  ],
+  "correctOptionId": "B",
+  "courseId": "fpff",
+  "set": 3,
+  "explanation": ""
+}

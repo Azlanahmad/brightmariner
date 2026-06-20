@@ -1,0 +1,18 @@
+{
+  "id": "fpff-s4-q26",
+  "text": "Fire watch should be performed during and after all hot work activities",
+  "options": [
+    {
+      "id": "A",
+      "text": "A) True"
+    },
+    {
+      "id": "B",
+      "text": "B) False"
+    }
+  ],
+  "correctOptionId": "A",
+  "courseId": "fpff",
+  "set": 4,
+  "explanation": ""
+}
