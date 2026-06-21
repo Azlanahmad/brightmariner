@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import CIICalculator from '../components/CIICalculator.jsx';
 ---
 
 <Layout 
@@ -22,382 +23,8 @@ import Layout from '../layouts/Layout.astro';
             </header>
 
             <!-- Main Interactive Calculator Container -->
-            <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
-                
-                <!-- Left Input Panel -->
-                <div class="lg:col-span-7 space-y-6">
-
-                    <!-- Card 0: Vessel Specifications -->
-                    <div class="bg-canvas border border-hairline rounded-xl p-6 shadow-sm">
-                        <h2 class="text-xl font-semibold text-ink flex items-center gap-2 border-b border-hairline pb-4 mb-5">
-                            <svg class="w-5 h-5 text-mute" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path></svg>
-                            Vessel Specifications
-                        </h2>
-
-                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 mb-6">
-                            <div>
-                                <label for="ship-type" class="block text-xs font-medium text-mute mb-2">Ship Type</label>
-                                <select id="ship-type" class="w-full bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2.5 outline-none focus:border-link transition-colors">
-                                    <option value="Bulk carrier" selected>Bulk carrier</option>
-                                    <option value="Gas carrier">Gas carrier</option>
-                                    <option value="Tanker">Tanker</option>
-                                    <option value="Containership">Containership</option>
-                                    <option value="General cargo ship">General cargo ship</option>
-                                    <option value="Refrigerated cargo carrier">Refrigerated cargo carrier</option>
-                                    <option value="Combination carrier">Combination carrier</option>
-                                    <option value="LNG carrier">LNG carrier</option>
-                                    <option value="Ro-ro cargo ship (vehicle carrier)">Ro-ro cargo ship (vehicle carrier)</option>
-                                    <option value="Ro-ro cargo ship">Ro-ro cargo ship</option>
-                                    <option value="Ro-ro passenger ship">Ro-ro passenger ship</option>
-                                    <option value="Cruise passenger ship">Cruise passenger ship</option>
-                                </select>
-                            </div>
-                            <div>
-                                <label for="vessel-capacity" id="capacity-label" class="block text-xs font-medium text-mute mb-2">Deadweight Tonnage (DWT)</label>
-                                <input type="number" id="vessel-capacity" value="40000" min="1" class="w-full bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2.5 outline-none focus:border-link transition-colors" required />
-                            </div>
-                        </div>
-
-                        <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
-                            <div>
-                                <label for="reporting-year" class="block text-xs font-medium text-mute mb-2">Reporting Year</label>
-                                <select id="reporting-year" class="w-full bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2.5 outline-none focus:border-link transition-colors">
-                                    <option value="2019">2019</option>
-                                    <option value="2020">2020</option>
-                                    <option value="2021">2021</option>
-                                    <option value="2022">2022</option>
-                                    <option value="2023">2023</option>
-                                    <option value="2024">2024</option>
-                                    <option value="2025">2025</option>
-                                    <option value="2026">2026</option>
-                                    <option value="2027">2027</option>
-                                    <option value="2028" selected>2028</option>
-                                    <option value="2029">2029</option>
-                                    <option value="2030">2030</option>
-                                </select>
-                            </div>
-                            <div>
-                                <label for="ytd-distance" class="block text-xs font-medium text-mute mb-2">YTD Distance (nm)</label>
-                                <input type="number" id="ytd-distance" value="12000" min="0" class="w-full bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2.5 outline-none focus:border-link transition-colors" required />
-                            </div>
-                            <div>
-                                <label for="ytd-cii" class="block text-xs font-medium text-mute mb-2">YTD Current CII</label>
-                                <input type="number" id="ytd-cii" value="5.35" step="0.01" min="0" class="w-full bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2.5 outline-none focus:border-link transition-colors" required />
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Card 1: Sea Conditions -->
-                    <div class="bg-canvas border border-hairline rounded-xl p-6 shadow-sm">
-                        <div class="flex items-center justify-between border-b border-hairline pb-4 mb-5">
-                            <h2 class="text-xl font-semibold text-ink flex items-center gap-2">
-                                <svg class="w-5 h-5 text-mute" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z"></path></svg>
-                                1. Sea Conditions
-                            </h2>
-                            <label class="relative inline-flex items-center cursor-pointer">
-                                <input type="checkbox" id="use-forecast" class="sr-only peer">
-                                <div class="w-11 h-6 bg-canvas-soft-2 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-hairline after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-link"></div>
-                                <span class="ml-2 text-xs font-medium text-mute">Use forecast weather</span>
-                            </label>
-                        </div>
-
-                        <div id="forecast-loading" class="hidden py-4 text-center">
-                            <div class="animate-spin rounded-full h-6 w-6 border-b-2 border-link mx-auto mb-2"></div>
-                            <p class="text-xs text-mute">Retrieving weather forecast for vessel location...</p>
-                        </div>
-
-                        <div id="sea-conditions-inputs" class="grid grid-cols-1 sm:grid-cols-3 gap-6 transition-opacity duration-300">
-                            <div>
-                                <label for="sea-state" class="block text-xs font-medium text-mute mb-2">Expected Sea State</label>
-                                <select id="sea-state" class="w-full bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2.5 outline-none focus:border-link transition-colors">
-                                    <option value="0">0 - Calm (glassy)</option>
-                                    <option value="1">1 - Calm (rippled)</option>
-                                    <option value="2" selected>2 - Smooth</option>
-                                    <option value="3">3 - Slight</option>
-                                    <option value="4">4 - Moderate</option>
-                                    <option value="5">5 - Rough</option>
-                                    <option value="6">6 - Very rough</option>
-                                    <option value="7">7 - High</option>
-                                    <option value="8">8 - Very high</option>
-                                    <option value="9">9 - Phenomenal</option>
-                                </select>
-                            </div>
-                            <div>
-                                <label for="wind-force" class="block text-xs font-medium text-mute mb-2">Expected Wind Force</label>
-                                <select id="wind-force" class="w-full bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2.5 outline-none focus:border-link transition-colors">
-                                    <option value="0">0 - Calm</option>
-                                    <option value="1">1 - Light air</option>
-                                    <option value="2" selected>2 - Light breeze</option>
-                                    <option value="3">3 - Gentle breeze</option>
-                                    <option value="4">4 - Moderate breeze</option>
-                                    <option value="5">5 - Fresh breeze</option>
-                                    <option value="6">6 - Strong breeze</option>
-                                    <option value="7">7 - Near gale</option>
-                                    <option value="8">8 - Gale</option>
-                                    <option value="9">9 - Strong gale</option>
-                                    <option value="10">10 - Storm</option>
-                                    <option value="11">11 - Violent storm</option>
-                                    <option value="12">12 - Hurricane</option>
-                                </select>
-                            </div>
-                            <div>
-                                <label for="current-direction" class="block text-xs font-medium text-mute mb-2">Expected average Current</label>
-                                <div class="flex gap-2">
-                                    <select id="current-direction" class="w-2/3 bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2.5 outline-none focus:border-link transition-colors">
-                                        <option value="1" selected>Favouring</option>
-                                        <option value="-1">Adverse</option>
-                                    </select>
-                                    <input type="number" id="current-speed" value="2" min="0" max="10" step="0.1" class="w-1/3 bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2.5 text-center outline-none focus:border-link transition-colors" />
-                                    <span class="self-center text-xs text-mute">kn</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Card 2: Operational Information -->
-                    <div class="bg-canvas border border-hairline rounded-xl p-6 shadow-sm">
-                        <h2 class="text-xl font-semibold text-ink flex items-center gap-2 border-b border-hairline pb-4 mb-5">
-                            <svg class="w-5 h-5 text-mute" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
-                            2. Operational Information
-                        </h2>
-
-                        <div class="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-6">
-                            <div>
-                                <label for="vessel-speed" class="block text-xs font-medium text-mute mb-2">Speed (knots)</label>
-                                <input type="number" id="vessel-speed" value="14.5" step="0.1" min="1" max="30" class="w-full bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2.5 outline-none focus:border-link transition-colors" required />
-                            </div>
-                            <div>
-                                <label for="vessel-draft" class="block text-xs font-medium text-mute mb-2">Draft (m)</label>
-                                <input type="number" id="vessel-draft" value="10.0" step="0.1" min="1" max="25" class="w-full bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2.5 outline-none focus:border-link transition-colors" required />
-                            </div>
-                            <div>
-                                <label for="voyage-distance" class="block text-xs font-medium text-mute mb-2">Distance (nm)</label>
-                                <input type="number" id="voyage-distance" value="754" min="1" class="w-full bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2.5 outline-none focus:border-link transition-colors" required />
-                            </div>
-                        </div>
-
-                        <div class="grid grid-cols-1 sm:grid-cols-12 gap-6 items-center">
-                            <div class="sm:col-span-8">
-                                <div class="flex justify-between items-center mb-2">
-                                    <label for="hull-degradation" class="text-xs font-medium text-mute">Hull Degradation</label>
-                                    <span id="hull-degradation-val" class="text-xs font-semibold text-link bg-link/10 px-2 py-0.5 rounded">25%</span>
-                                </div>
-                                <input type="range" id="hull-degradation" min="0" max="100" value="25" step="1" class="w-full h-2 bg-canvas-soft-2 rounded-lg appearance-none cursor-pointer accent-link" />
-                            </div>
-                            <div class="sm:col-span-4">
-                                <label for="port-duration" class="block text-xs font-medium text-mute mb-2">Port Duration (hours)</label>
-                                <input type="number" id="port-duration" value="10" min="0" class="w-full bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2.5 outline-none focus:border-link transition-colors" required />
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Card 3: Expected Consumptions while sailing -->
-                    <div class="bg-canvas border border-hairline rounded-xl p-6 shadow-sm overflow-hidden">
-                        <div class="flex items-center justify-between border-b border-hairline pb-4 mb-5">
-                            <h2 class="text-xl font-semibold text-ink flex items-center gap-2">
-                                <svg class="w-5 h-5 text-mute" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path></svg>
-                                3. Expected Consumptions while sailing
-                            </h2>
-                            <button id="add-row-btn" class="text-xs font-medium text-link hover:text-link-deep border border-hairline hover:bg-canvas-soft-2 px-3 py-1.5 rounded-full transition-colors flex items-center gap-1">
-                                <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"></path></svg>
-                                Add New Row
-                            </button>
-                        </div>
-
-                        <!-- Responsive Table Container -->
-                        <div class="overflow-x-auto -mx-6 px-6">
-                            <table class="w-full text-left border-collapse min-w-[600px]">
-                                <thead>
-                                    <tr class="border-b border-hairline text-[11px] font-mono uppercase tracking-wider text-mute">
-                                        <th class="pb-3 w-1/4">Consumer</th>
-                                        <th class="pb-3 w-1/4">Fuel Type</th>
-                                        <th class="pb-3 text-center">Sea Cons. (MT/Day)</th>
-                                        <th class="pb-3 text-center">Port Cons. (MT/Day)</th>
-                                        <th class="pb-3 text-right">Total Consumption</th>
-                                        <th class="pb-3 w-10"></th>
-                                    </tr>
-                                </thead>
-                                <tbody id="consumers-list" class="divide-y divide-hairline">
-                                    <!-- Populated dynamically -->
-                                </tbody>
-                            </table>
-                        </div>
-
-                        <!-- Card Footer actions -->
-                        <div class="flex justify-between items-center pt-6 mt-6 border-t border-hairline">
-                            <button id="clear-all-btn" class="text-xs font-medium text-mute hover:text-ink px-4 py-2 border border-hairline rounded-lg hover:bg-canvas-soft-2 transition-colors">
-                                Clear All
-                            </button>
-                            <button id="calculate-btn" class="bg-link hover:bg-link-deep text-white text-sm font-semibold px-6 py-2.5 rounded-lg shadow-sm hover:shadow transition-all">
-                                Calculate
-                            </button>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Right Results Dashboard -->
-                <div class="lg:col-span-5 space-y-6">
-                    
-                    <!-- Card 4: Fuel Consumption Summary -->
-                    <div id="summary-card" class="bg-canvas border border-hairline rounded-xl p-6 shadow-sm hidden">
-                        <h3 class="text-xs font-mono uppercase tracking-wider text-mute mb-4">Fuel Consumption</h3>
-                        <div class="grid grid-cols-3 gap-4">
-                            <div class="p-3 bg-canvas-soft border border-hairline rounded-lg">
-                                <span class="block text-[10px] font-mono uppercase text-mute mb-1">Total</span>
-                                <span id="summary-total" class="text-lg font-semibold text-ink">0.00 MT</span>
-                            </div>
-                            <div class="p-3 bg-canvas-soft border border-hairline rounded-lg">
-                                <span class="block text-[10px] font-mono uppercase text-mute mb-1">Sea</span>
-                                <span id="summary-sea" class="text-lg font-semibold text-ink">0.00 MT</span>
-                            </div>
-                            <div class="p-3 bg-canvas-soft border border-hairline rounded-lg">
-                                <span class="block text-[10px] font-mono uppercase text-mute mb-1">Port</span>
-                                <span id="summary-port" class="text-lg font-semibold text-ink">0.00 MT</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Card 5: Results Dashboard -->
-                    <div id="results-card" class="bg-canvas border border-hairline rounded-xl p-6 shadow-sm hidden">
-                        <div class="flex justify-between items-start mb-6">
-                            <div>
-                                <h2 class="text-xl font-semibold text-ink">Results</h2>
-                                <p class="text-xs text-mute">Carbon Intensity Indicator Operational Standing</p>
-                            </div>
-                            <button id="add-projection-btn" class="text-xs font-medium text-link hover:text-link-deep border border-hairline hover:bg-canvas-soft-2 px-3 py-1.5 rounded-full transition-colors">
-                                Add to projection
-                            </button>
-                        </div>
-
-                        <!-- Visual Rating Scale A-E -->
-                        <div class="mb-8">
-                            <div class="relative w-full h-12 bg-linear-to-r from-green-600 via-yellow-400 to-red-600 rounded-lg shadow-inner flex mb-3">
-                                <span class="flex-1 flex items-center justify-center font-bold text-lg text-white">A</span>
-                                <span class="flex-1 flex items-center justify-center font-bold text-lg text-white">B</span>
-                                <span class="flex-1 flex items-center justify-center font-bold text-lg text-white">C</span>
-                                <span class="flex-1 flex items-center justify-center font-bold text-lg text-white">D</span>
-                                <span class="flex-1 flex items-center justify-center font-bold text-lg text-white">E</span>
-
-                                <!-- Indicators overlaying the bar -->
-                                <div id="ind-attained" class="absolute -top-3 w-4 h-4 rounded-full bg-indigo-600 border-2 border-white shadow-md cursor-pointer transition-all duration-500" style="left: 0%;" title="Attained CII for this Voyage"></div>
-                                <div id="ind-current" class="absolute -bottom-3 w-0 h-0 border-l-[8px] border-l-transparent border-r-[8px] border-r-transparent border-b-[14px] border-b-cyan-500 shadow-md cursor-pointer transition-all duration-500" style="left: 0%;" title="Current YTD CII"></div>
-                                <div id="ind-target" class="absolute -top-3 w-4 h-4 rounded-full bg-pink-500 border-2 border-white shadow-md cursor-pointer transition-all duration-500" style="left: 0%;" title="Required CII Target"></div>
-                            </div>
-
-                            <!-- Legend -->
-                            <div class="grid grid-cols-1 gap-2.5 pt-3 border-t border-hairline text-xs font-medium text-body">
-                                <div class="flex items-center justify-between">
-                                    <span class="flex items-center gap-2">
-                                        <span class="inline-block w-3 h-3 rounded-full bg-indigo-600 border border-white"></span>
-                                        Attained CII for this Voyage
-                                    </span>
-                                    <span id="txt-attained" class="font-semibold text-ink">-- gCO₂/MTnm</span>
-                                </div>
-                                <div class="flex items-center justify-between">
-                                    <span class="flex items-center gap-2">
-                                        <span class="inline-block w-0 h-0 border-l-6 border-l-transparent border-r-6 border-r-transparent border-b-10 border-b-cyan-500"></span>
-                                        Current CII
-                                    </span>
-                                    <span id="txt-current" class="font-semibold text-ink">-- gCO₂/MTnm</span>
-                                </div>
-                                <div class="flex items-center justify-between">
-                                    <span class="flex items-center gap-2">
-                                        <span class="inline-block w-3 h-3 rounded-full bg-pink-500 border border-white"></span>
-                                        Attained CII at the end
-                                    </span>
-                                    <span id="txt-target" class="font-semibold text-ink">-- gCO₂/MTnm</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Stats Grid -->
-                        <div class="grid grid-cols-2 gap-4 mb-6">
-                            <div class="p-3 bg-canvas-soft border border-hairline rounded-lg flex items-center justify-between">
-                                <div>
-                                    <span class="block text-[10px] font-mono uppercase text-mute">Corrected Speed</span>
-                                    <span id="stat-speed" class="text-base font-semibold text-ink">0.0 kn</span>
-                                </div>
-                                <svg class="w-6 h-6 text-mute/50" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                            </div>
-                            <div class="p-3 bg-canvas-soft border border-hairline rounded-lg flex items-center justify-between">
-                                <div>
-                                    <span class="block text-[10px] font-mono uppercase text-mute">Duration of Voyage</span>
-                                    <span id="stat-duration" class="text-base font-semibold text-ink">0.0 hrs</span>
-                                </div>
-                                <svg class="w-6 h-6 text-mute/50" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 20h5.6c.8 0 1.4-.6 1.4-1.4v-5.6c0-.8-.6-1.4-1.4-1.4H13m-3-6h3.6c.8 0 1.4.6 1.4 1.4v5.6c0 .8-.6 1.4-1.4 1.4H10M3 16h5.6c.8 0 1.4-.6 1.4-1.4V9c0-.8-.6-1.4-1.4-1.4H3"></path></svg>
-                            </div>
-                            <div class="p-3 bg-canvas-soft border border-hairline rounded-lg flex items-center justify-between">
-                                <div>
-                                    <span class="block text-[10px] font-mono uppercase text-mute">Duration of Voyage in Days</span>
-                                    <span id="stat-days" class="text-base font-semibold text-ink">0.0 days/hrs</span>
-                                </div>
-                                <svg class="w-6 h-6 text-mute/50" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
-                            </div>
-                            <div class="p-3 bg-canvas-soft border border-hairline rounded-lg flex items-center justify-between">
-                                <div>
-                                    <span class="block text-[10px] font-mono uppercase text-mute">ME consumption per day</span>
-                                    <span id="stat-me-cons" class="text-base font-semibold text-ink">0.0 MT/Day</span>
-                                </div>
-                                <svg class="w-6 h-6 text-mute/50" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path></svg>
-                            </div>
-                        </div>
-
-                        <!-- Sensitivity Analysis slider section -->
-                        <div class="border-t border-hairline pt-6 mt-6">
-                            <div class="flex justify-between items-center mb-1">
-                                <h3 class="text-sm font-semibold text-ink">Sensitivity Analysis</h3>
-                                <span class="text-xs text-mute">Required CII for this Voyage</span>
-                            </div>
-                            <p class="text-xs text-mute mb-4">Drag the slider to adjust target CII and view recommendations.</p>
-
-                            <!-- Gradient styled slider -->
-                            <div class="relative w-full h-7 rounded-md shadow-inner flex mb-6" style="background: linear-gradient(to right, #16a34a 0%, #4ade80 25%, #eab308 50%, #f97316 75%, #dc2626 100%);">
-                                <input type="range" id="sensitivity-slider" min="4.50" max="6.50" step="0.01" value="5.38" class="absolute w-full h-full bg-transparent appearance-none cursor-pointer outline-none z-10 accent-link" />
-                                
-                                <!-- Rating zone letters overlays -->
-                                <div class="absolute inset-0 flex justify-between px-4 items-center pointer-events-none text-[10px] font-bold text-white/50">
-                                    <span>A</span>
-                                    <span>B</span>
-                                    <span>C</span>
-                                    <span>D</span>
-                                    <span>E</span>
-                                </div>
-                            </div>
-
-                            <!-- Sensitivity results box -->
-                            <div class="p-4 border border-hairline rounded-xl space-y-4 shadow-xs">
-                                <div class="flex items-center justify-between border-b border-hairline pb-2.5">
-                                    <div class="flex items-center gap-2">
-                                        <div id="sensitivity-badge" class="w-6 h-6 rounded-full flex items-center justify-center font-bold text-xs text-white bg-yellow-500">C</div>
-                                        <div>
-                                            <span class="block text-xs font-semibold text-ink">Expected CII at the end of the voyage</span>
-                                            <span id="sens-expected-cii" class="text-xs font-medium text-mute">5.38 gCO₂/MTnm</span>
-                                        </div>
-                                    </div>
-                                    <div class="text-right">
-                                        <span class="block text-xs font-mono uppercase text-mute">Fuel/nm</span>
-                                        <span id="sens-fuel-nm" class="text-sm font-bold text-ink">250 kg/nm</span>
-                                    </div>
-                                </div>
-
-                                <div class="grid grid-cols-3 gap-2 text-center text-xs">
-                                    <div>
-                                        <span class="block font-mono text-mute text-[9px] uppercase">Recommended Speed</span>
-                                        <span id="sens-speed" class="text-sm font-bold text-ink">11.7 kn</span>
-                                    </div>
-                                    <div>
-                                        <span class="block font-mono text-mute text-[9px] uppercase">Expected ME Consumption</span>
-                                        <span id="sens-me-cons" class="text-sm font-bold text-ink">19.1 MT/day</span>
-                                    </div>
-                                    <div>
-                                        <span class="block font-mono text-mute text-[9px] uppercase">Duration</span>
-                                        <span id="sens-duration" class="text-sm font-bold text-ink">26 hrs</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+            <div class="mt-8">
+                <CIICalculator client:load />
             </div>
         </div>
     </section>
@@ -414,7 +41,7 @@ import Layout from '../layouts/Layout.astro';
             <div>
                 <h3 class="font-semibold text-ink mb-3">How CII is Calculated</h3>
                 <p class="text-sm text-body leading-relaxed">
-                    The attained CII represents the carbon emissions of the ship per cargo capacity (usually Deadweight Tonnage, DWT) and nautical mile. Added wave and wind resistance (modeled using Douglas Sea State and Beaufort scales) as well as hull degradation increase power requirements, leading to speed loss or higher fuel consumption. This tool allows you to simulate these effects dynamically.
+                    The attained CII represents the carbon emissions of the ship per cargo capacity (usually Deadweight Tonnage, DWT) and nautical mile. This calculator uses the annual fuel consumption, distance sailed, and vessel capacity to determine the attained and required CII ratings in accordance with the IMO G1-G4 guidelines.
                 </p>
             </div>
             <div>
@@ -425,620 +52,192 @@ import Layout from '../layouts/Layout.astro';
             </div>
         </div>
     </section>
+
+    <!-- FAQ Section -->
+    <section class="border-t border-hairline bg-canvas-soft py-16 px-6 lg:px-8">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-3xl font-semibold tracking-tighter text-ink mb-8 text-center">
+                Frequently Asked Questions
+            </h2>
+            <div class="space-y-4">
+                <details class="group bg-canvas border border-hairline rounded-xl p-5 shadow-xs [&_summary::-webkit-details-marker]:hidden">
+                    <summary class="flex justify-between items-center font-semibold text-ink cursor-pointer list-none">
+                        <span>What is EEXI and EEDI?</span>
+                        <span class="transition-transform group-open:rotate-180">
+                            <svg class="w-5 h-5 text-mute" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </span>
+                    </summary>
+                    <p class="text-sm text-body leading-relaxed mt-3 pt-3 border-t border-hairline">
+                        <strong>EEDI (Energy Efficiency Design Index)</strong> is a design standard for <em>new ships</em> built after 2013, requiring a minimum energy efficiency level per capacity-mile.
+                        <br/><br/>
+                        <strong>EEXI (Energy Efficiency Existing Ship Index)</strong> is the design standard for <em>existing ships</em> (built before 2013 or not subject to EEDI). Both indexes calculate the theoretical design efficiency based on installed power, speed, capacity, and fuel factors.
+                    </p>
+                </details>
+
+                <details class="group bg-canvas border border-hairline rounded-xl p-5 shadow-xs [&_summary::-webkit-details-marker]:hidden">
+                    <summary class="flex justify-between items-center font-semibold text-ink cursor-pointer list-none">
+                        <span>What is EEXI in shipping?</span>
+                        <span class="transition-transform group-open:rotate-180">
+                            <svg class="w-5 h-5 text-mute" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </span>
+                    </summary>
+                    <p class="text-sm text-body leading-relaxed mt-3 pt-3 border-t border-hairline">
+                        <strong>EEXI (Energy Efficiency Existing Ship Index)</strong> is a one-time technical measure introduced by the IMO under MARPOL Annex VI to evaluate the design energy efficiency of existing ships over 400 GT. It requires existing vessels to meet a specific baseline efficiency comparable to newer EEDI-compliant vessels.
+                    </p>
+                </details>
+
+                <details class="group bg-canvas border border-hairline rounded-xl p-5 shadow-xs [&_summary::-webkit-details-marker]:hidden">
+                    <summary class="flex justify-between items-center font-semibold text-ink cursor-pointer list-none">
+                        <span>What is the difference between EEXI and CII?</span>
+                        <span class="transition-transform group-open:rotate-180">
+                            <svg class="w-5 h-5 text-mute" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </span>
+                    </summary>
+                    <p class="text-sm text-body leading-relaxed mt-3 pt-3 border-t border-hairline">
+                        <strong>EEXI</strong> is a <strong>design/technical index</strong> calculated once. It measures how the ship is <em>built</em> (its theoretical efficiency).
+                        <br/><br/>
+                        <strong>CII (Carbon Intensity Indicator)</strong> is an <strong>operational measure</strong> calculated <em>annually</em> based on actual fuel consumed and distance sailed. It measures how the ship is <em>operated</em> in practice.
+                    </p>
+                </details>
+
+                <details class="group bg-canvas border border-hairline rounded-xl p-5 shadow-xs [&_summary::-webkit-details-marker]:hidden">
+                    <summary class="flex justify-between items-center font-semibold text-ink cursor-pointer list-none">
+                        <span>How to calculate EEXI for ships?</span>
+                        <span class="transition-transform group-open:rotate-180">
+                            <svg class="w-5 h-5 text-mute" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </span>
+                    </summary>
+                    <p class="text-sm text-body leading-relaxed mt-3 pt-3 border-t border-hairline">
+                        EEXI is calculated by dividing the CO₂ emissions from the vessel's propulsion and auxiliary systems by the product of the ship's capacity (DWT or GT) and its reference speed:
+                        <br/><br/>
+                        <code class="block bg-canvas-soft-2 p-2 rounded text-xs font-mono">EEXI = (CO₂ Emissions from Main + Aux Engines) / (Capacity × Reference Speed)</code>
+                        <br/>
+                        This represents the theoretical grams of CO₂ emitted per capacity-mile under reference load conditions.
+                    </p>
+                </details>
+
+                <details class="group bg-canvas border border-hairline rounded-xl p-5 shadow-xs [&_summary::-webkit-details-marker]:hidden">
+                    <summary class="flex justify-between items-center font-semibold text-ink cursor-pointer list-none">
+                        <span>What is the difference between EEOI and EEDI?</span>
+                        <span class="transition-transform group-open:rotate-180">
+                            <svg class="w-5 h-5 text-mute" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </span>
+                    </summary>
+                    <p class="text-sm text-body leading-relaxed mt-3 pt-3 border-t border-hairline">
+                        <strong>EEDI (Energy Efficiency Design Index)</strong> is a design index for <em>new ships</em> (theoretical efficiency under standard conditions).
+                        <br/><br/>
+                        <strong>EEOI (Energy Efficiency Operational Indicator)</strong> is an operational monitoring tool that measures actual CO₂ emissions per actual cargo carried per nautical mile during real voyages. EEOI uses actual cargo weight, whereas EEDI (and CII) uses maximum ship capacity (DWT/GT).
+                    </p>
+                </details>
+
+                <details class="group bg-canvas border border-hairline rounded-xl p-5 shadow-xs [&_summary::-webkit-details-marker]:hidden">
+                    <summary class="flex justify-between items-center font-semibold text-ink cursor-pointer list-none">
+                        <span>What are the 4 major components of EDI?</span>
+                        <span class="transition-transform group-open:rotate-180">
+                            <svg class="w-5 h-5 text-mute" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </span>
+                    </summary>
+                    <p class="text-sm text-body leading-relaxed mt-3 pt-3 border-t border-hairline">
+                        In shipping and logistics, <strong>EDI (Electronic Data Interchange)</strong> comprises four core components:
+                        <br/><br/>
+                        1. <strong>Standard Document Format</strong>: Standardized document layouts (e.g., UN/EDIFACT or ANSI X12) that replace paper.
+                        <br/>
+                        2. <strong>Translation Software</strong>: Converts internal database applications into standard EDI formats for transmission.
+                        <br/>
+                        3. <strong>Transmission / Communication Network</strong>: Protocols and routes used to send documents (like SFTP, AS2, or Value-Added Networks).
+                        <br/>
+                        4. <strong>Trading Partners</strong>: The organizations (e.g., shippers, carriers, ports) exchanging the data.
+                        <br/><br/>
+                        <em>(Note: In ship design contexts, EEDI calculation components focus on engine power, specific fuel consumption, carbon factor, and capacity/speed.)</em>
+                    </p>
+                </details>
+
+                <details class="group bg-canvas border border-hairline rounded-xl p-5 shadow-xs [&_summary::-webkit-details-marker]:hidden">
+                    <summary class="flex justify-between items-center font-semibold text-ink cursor-pointer list-none">
+                        <span>What is the carbon intensity indicator?</span>
+                        <span class="transition-transform group-open:rotate-180">
+                            <svg class="w-5 h-5 text-mute" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </span>
+                    </summary>
+                    <p class="text-sm text-body leading-relaxed mt-3 pt-3 border-t border-hairline">
+                        The <strong>Carbon Intensity Indicator (CII)</strong> is an operational rating system introduced by the IMO under MARPOL Annex VI. It rates ships (5,000 GT and above) annually on a scale from A (major superior) to E (inferior) based on their actual operational carbon emissions per transport capacity and distance.
+                    </p>
+                </details>
+
+                <details class="group bg-canvas border border-hairline rounded-xl p-5 shadow-xs [&_summary::-webkit-details-marker]:hidden">
+                    <summary class="flex justify-between items-center font-semibold text-ink cursor-pointer list-none">
+                        <span>How do you measure carbon intensity?</span>
+                        <span class="transition-transform group-open:rotate-180">
+                            <svg class="w-5 h-5 text-mute" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </span>
+                    </summary>
+                    <p class="text-sm text-body leading-relaxed mt-3 pt-3 border-t border-hairline">
+                        Operational carbon intensity is measured by dividing the ship's annual CO₂ emissions (calculated from actual fuel consumed multiplied by fuel-specific conversion factors) by its annual transport work (vessel capacity in DWT or GT multiplied by total distance sailed in nautical miles).
+                    </p>
+                </details>
+
+                <details class="group bg-canvas border border-hairline rounded-xl p-5 shadow-xs [&_summary::-webkit-details-marker]:hidden">
+                    <summary class="flex justify-between items-center font-semibold text-ink cursor-pointer list-none">
+                        <span>What is 3% CO2 in ppm?</span>
+                        <span class="transition-transform group-open:rotate-180">
+                            <svg class="w-5 h-5 text-mute" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </span>
+                    </summary>
+                    <p class="text-sm text-body leading-relaxed mt-3 pt-3 border-t border-hairline">
+                        Percent concentration is measured in parts per hundred. Since 1% is equal to 10,000 parts per million (ppm), a concentration of <strong>3% CO₂ is equal to 30,000 ppm</strong>.
+                    </p>
+                </details>
+
+                <details class="group bg-canvas border border-hairline rounded-xl p-5 shadow-xs [&_summary::-webkit-details-marker]:hidden">
+                    <summary class="flex justify-between items-center font-semibold text-ink cursor-pointer list-none">
+                        <span>What is a good CI score?</span>
+                        <span class="transition-transform group-open:rotate-180">
+                            <svg class="w-5 h-5 text-mute" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </span>
+                    </summary>
+                    <p class="text-sm text-body leading-relaxed mt-3 pt-3 border-t border-hairline">
+                        Under the IMO CII framework, a "good" rating is an <strong>A or B rating</strong> (major or minor superior energy efficiency performance). A rating of <strong>C</strong> is acceptable (moderate). Ratings of <strong>D</strong> (for three consecutive years) or <strong>E</strong> require corrective action plans in the vessel's SEEMP.
+                    </p>
+                </details>
+
+                <details class="group bg-canvas border border-hairline rounded-xl p-5 shadow-xs [&_summary::-webkit-details-marker]:hidden">
+                    <summary class="flex justify-between items-center font-semibold text-ink cursor-pointer list-none">
+                        <span>What are the 4 pillars of CII?</span>
+                        <span class="transition-transform group-open:rotate-180">
+                            <svg class="w-5 h-5 text-mute" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </span>
+                    </summary>
+                    <p class="text-sm text-body leading-relaxed mt-3 pt-3 border-t border-hairline">
+                        The management and compliance of a ship's Carbon Intensity Indicator (CII) are structured around the 4 pillars of the SEEMP (Ship Energy Efficiency Management Plan):
+                        <br/><br/>
+                        1. <strong>Planning</strong>: Establishing baselines, target CII ratings, and detailed operational measures to meet target guidelines.
+                        <br/>
+                        2. <strong>Implementation / Operation</strong>: Putting planned actions (e.g., speed optimization, route planning, trim optimization) into daily practice.
+                        <br/>
+                        3. <strong>Monitoring & Reporting</strong>: Collecting daily fuel consumption and voyage data under the IMO Data Collection System (DCS).
+                        <br/>
+                        4. <strong>Self-Evaluation & Corrective Action</strong>: Auditing annual results and developing corrective plans if the vessel falls below a 'C' rating.
+                    </p>
+                </details>
+
+                <details class="group bg-canvas border border-hairline rounded-xl p-5 shadow-xs [&_summary::-webkit-details-marker]:hidden">
+                    <summary class="flex justify-between items-center font-semibold text-ink cursor-pointer list-none">
+                        <span>What is FOB C&F and CIF?</span>
+                        <span class="transition-transform group-open:rotate-180">
+                            <svg class="w-5 h-5 text-mute" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                        </span>
+                    </summary>
+                    <p class="text-sm text-body leading-relaxed mt-3 pt-3 border-t border-hairline">
+                        These are standard Incoterms (International Commercial Terms) defining who pays for and bears the risk of shipping goods:
+                        <br/><br/>
+                        - <strong>FOB (Free on Board)</strong>: The seller delivers goods on board the buyer's nominated vessel. The buyer bears all costs and risks from the loading port to destination.
+                        <br/>
+                        - <strong>C&F / CFR (Cost and Freight)</strong>: The seller pays for transport/freight to the destination port, but risks transfer to the buyer once the goods are loaded.
+                        <br/>
+                        - <strong>CIF (Cost, Insurance, and Freight)</strong>: The same as C&F, but the seller must also pay for marine insurance to protect the goods during transit.
+                    </p>
+                </details>
+            </div>
+        </div>
+    </section>
 </Layout>
-
-<style>
-    /* Styling range inputs to look like premium custom sliders */
-    input[type="range"]::-webkit-slider-runnable-track {
-        background: transparent;
-        height: 100%;
-    }
-    input[type="range"]::-webkit-slider-thumb {
-        -webkit-appearance: none;
-        appearance: none;
-        width: 20px;
-        height: 20px;
-        border-radius: 50%;
-        background: #ffffff;
-        border: 3.5px solid #0070f3;
-        cursor: pointer;
-        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
-        transition: transform 0.1s ease, border-color 0.2s ease;
-    }
-    input[type="range"]::-webkit-slider-thumb:hover {
-        transform: scale(1.15);
-    }
-    input[type="range"]::-webkit-slider-thumb:active {
-        transform: scale(0.95);
-        border-color: #0761d1;
-    }
-
-    input[type="range"]::-moz-range-track {
-        background: transparent;
-        height: 100%;
-    }
-    input[type="range"]::-moz-range-thumb {
-        width: 14px;
-        height: 14px;
-        border-radius: 50%;
-        background: #ffffff;
-        border: 3.5px solid #0070f3;
-        cursor: pointer;
-        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
-        transition: transform 0.1s ease;
-    }
-    input[type="range"]::-moz-range-thumb:hover {
-        transform: scale(1.15);
-    }
-</style>
-
-<script is:inline>
-    document.addEventListener('DOMContentLoaded', () => {
-        // CO2 Emission Factors
-        const CO2_FACTORS = {
-            'Diesel Oil': 3.206,
-            'HFO': 3.114,
-            'LSFO': 3.151,
-            'MGO/MDO': 3.206,
-            'LPG (Propane)': 3.000,
-            'LPG (Butane)': 3.030,
-            'LNG': 2.750,
-            'Methanol': 1.375,
-            'Ethanol': 1.913,
-        };
-
-        // IMO Ship Types Database (Resolution MEPC.353(78) and MEPC.354(78))
-        const SHIP_DB = {
-            'Bulk carrier': {
-                unit: 'DWT',
-                getRef: (cap) => 4745 * Math.pow(cap, -0.622),
-                bounds: { a: 0.86, b: 0.94, c: 1.06, d: 1.18 }
-            },
-            'Gas carrier': {
-                unit: 'DWT',
-                getRef: (cap) => {
-                    if (cap >= 65000) {
-                        return 1.4405e11 * Math.pow(cap, -2.071);
-                    } else {
-                        return 8104 * Math.pow(cap, -0.639);
-                    }
-                },
-                bounds: (cap) => {
-                    if (cap >= 65000) {
-                        return { a: 0.81, b: 0.91, c: 1.12, d: 1.44 };
-                    } else {
-                        return { a: 0.85, b: 0.95, c: 1.06, d: 1.25 };
-                    }
-                }
-            },
-            'Tanker': {
-                unit: 'DWT',
-                getRef: (cap) => 5247 * Math.pow(cap, -0.610),
-                bounds: { a: 0.82, b: 0.93, c: 1.08, d: 1.28 }
-            },
-            'Containership': {
-                unit: 'DWT',
-                getRef: (cap) => 1984 * Math.pow(cap, -0.489),
-                bounds: { a: 0.83, b: 0.94, c: 1.07, d: 1.19 }
-            },
-            'General cargo ship': {
-                unit: 'DWT',
-                getRef: (cap) => 1485 * Math.pow(cap, -0.460),
-                bounds: { a: 0.83, b: 0.94, c: 1.06, d: 1.19 }
-            },
-            'Refrigerated cargo carrier': {
-                unit: 'DWT',
-                getRef: (cap) => 3458 * Math.pow(cap, -0.460),
-                bounds: { a: 0.78, b: 0.91, c: 1.07, d: 1.20 }
-            },
-            'Combination carrier': {
-                unit: 'DWT',
-                getRef: (cap) => 4093 * Math.pow(cap, -0.588),
-                bounds: { a: 0.87, b: 0.96, c: 1.06, d: 1.14 }
-            },
-            'LNG carrier': {
-                unit: 'DWT',
-                getRef: (cap) => {
-                    if (cap >= 100000) {
-                        return 9.827;
-                    } else {
-                        return 1.4479e11 * Math.pow(cap, -2.673);
-                    }
-                },
-                bounds: (cap) => {
-                    if (cap >= 100000) {
-                        return { a: 0.89, b: 0.98, c: 1.06, d: 1.13 };
-                    } else {
-                        return { a: 0.78, b: 0.92, c: 1.10, d: 1.37 };
-                    }
-                }
-            },
-            'Ro-ro cargo ship (vehicle carrier)': {
-                unit: 'GT',
-                getRef: (cap) => {
-                    if (cap >= 30000) {
-                        return 3672 * Math.pow(cap, -0.590);
-                    } else {
-                        return 330 * Math.pow(cap, -0.329);
-                    }
-                },
-                bounds: { a: 0.86, b: 0.94, c: 1.06, d: 1.16 }
-            },
-            'Ro-ro cargo ship': {
-                unit: 'GT',
-                getRef: (cap) => 1967 * Math.pow(cap, -0.485),
-                bounds: { a: 0.76, b: 0.89, c: 1.08, d: 1.27 }
-            },
-            'Ro-ro passenger ship': {
-                unit: 'GT',
-                getRef: (cap) => 2023 * Math.pow(cap, -0.460),
-                bounds: { a: 0.76, b: 0.92, c: 1.14, d: 1.30 }
-            },
-            'Cruise passenger ship': {
-                unit: 'GT',
-                getRef: (cap) => 788.8 * Math.pow(cap, -0.383),
-                bounds: { a: 0.87, b: 0.95, c: 1.06, d: 1.16 }
-            }
-        };
-
-        // Resolution MEPC.400(83) Reduction Factors Z (%)
-        const REDUCTION_FACTORS = {
-            2019: 0.0,
-            2020: 1.0,
-            2021: 2.0,
-            2022: 3.0,
-            2023: 5.0,
-            2024: 7.0,
-            2025: 9.0,
-            2026: 11.0,
-            2027: 13.625,
-            2028: 16.250,
-            2029: 18.875,
-            2030: 21.500
-        };
-
-        let currentBoundaries = { a: 0.86, b: 0.94, c: 1.06, d: 1.18 };
-        let currentRequiredCii = 5.50;
-
-        const ratingColors = {
-            'A': '#16a34a', // green-600
-            'B': '#4ade80', // green-400
-            'C': '#eab308', // yellow-500
-            'D': '#f97316', // orange-500
-            'E': '#dc2626'  // red-600
-        };
-
-        // UI references
-        const consumersList = document.getElementById('consumers-list');
-        const shipTypeSelect = document.getElementById('ship-type');
-        const vesselCapacityInput = document.getElementById('vessel-capacity');
-        const reportingYearSelect = document.getElementById('reporting-year');
-        const ytdDistanceInput = document.getElementById('ytd-distance');
-        const ytdCiiInput = document.getElementById('ytd-cii');
-        const capacityLabel = document.getElementById('capacity-label');
-        const addRowBtn = document.getElementById('add-row-btn');
-        const clearAllBtn = document.getElementById('clear-all-btn');
-        const calculateBtn = document.getElementById('calculate-btn');
-        const summaryCard = document.getElementById('summary-card');
-        const resultsCard = document.getElementById('results-card');
-        const sensitivitySlider = document.getElementById('sensitivity-slider');
-
-        // Toggle references
-        const useForecastToggle = document.getElementById('use-forecast');
-        const seaConditionsInputs = document.getElementById('sea-conditions-inputs');
-        const forecastLoading = document.getElementById('forecast-loading');
-
-        // Value elements
-        const summaryTotal = document.getElementById('summary-total');
-        const summarySea = document.getElementById('summary-sea');
-        const summaryPort = document.getElementById('summary-port');
-        const hullDegradationSlider = document.getElementById('hull-degradation');
-        const hullDegradationVal = document.getElementById('hull-degradation-val');
-
-        // Results markers
-        const indAttained = document.getElementById('ind-attained');
-        const indCurrent = document.getElementById('ind-current');
-        const indTarget = document.getElementById('ind-target');
-
-        const txtAttained = document.getElementById('txt-attained');
-        const txtCurrent = document.getElementById('txt-current');
-        const txtTarget = document.getElementById('txt-target');
-
-        const statSpeed = document.getElementById('stat-speed');
-        const statDuration = document.getElementById('stat-duration');
-        const statDays = document.getElementById('stat-days');
-        const statMeCons = document.getElementById('stat-me-cons');
-
-        // Sensitivity elements
-        const sensBadge = document.getElementById('sensitivity-badge');
-        const sensExpectedCii = document.getElementById('sens-expected-cii');
-        const sensFuelNm = document.getElementById('sens-fuel-nm');
-        const sensSpeed = document.getElementById('sens-speed');
-        const sensMeCons = document.getElementById('sens-me-cons');
-        const sensDuration = document.getElementById('sens-duration');
-
-        // Default consumer rows
-        const defaultConsumers = [
-            { name: 'M E', fuel: 'Diesel Oil', sea: 20.3, port: 1.0 },
-            { name: 'A E', fuel: 'Diesel Oil', sea: 3.0, port: 3.0 },
-            { name: 'Boiler', fuel: 'Diesel Oil', sea: 1.0, port: 1.0 },
-            { name: 'Others', fuel: 'Diesel Oil', sea: 0.0, port: 1.0 }
-        ];
-
-        // Track weather toggle state
-        let isForecastActive = false;
-
-        // Initialize Page
-        function init() {
-            consumersList.innerHTML = '';
-            defaultConsumers.forEach(c => addConsumerRow(c.name, c.fuel, c.sea, c.port));
-            updateHullDegradationBadge();
-            updateCapacityInputLabel();
-            setupEventListeners();
-        }
-
-        function updateCapacityInputLabel() {
-            const shipType = shipTypeSelect.value;
-            const shipData = SHIP_DB[shipType];
-            if (shipData.unit === 'GT') {
-                capacityLabel.textContent = 'Gross Tonnage (GT)';
-            } else {
-                capacityLabel.textContent = 'Deadweight Tonnage (DWT)';
-            }
-        }
-
-        function updateHullDegradationBadge() {
-            hullDegradationVal.textContent = `${hullDegradationSlider.value}%`;
-        }
-
-        function setupEventListeners() {
-            addRowBtn.addEventListener('click', () => addConsumerRow('', 'Diesel Oil', 0, 0));
-            clearAllBtn.addEventListener('click', clearAll);
-            calculateBtn.addEventListener('click', calculateCII);
-            hullDegradationSlider.addEventListener('input', updateHullDegradationBadge);
-            sensitivitySlider.addEventListener('input', updateSensitivityAnalysis);
-            useForecastToggle.addEventListener('change', handleWeatherToggle);
-            shipTypeSelect.addEventListener('change', updateCapacityInputLabel);
-        }
-
-        function handleWeatherToggle() {
-            isForecastActive = useForecastToggle.checked;
-            if (isForecastActive) {
-                // Disable controls and show spinner
-                seaConditionsInputs.style.opacity = '0.3';
-                disableWeatherInputs(true);
-                forecastLoading.classList.remove('hidden');
-
-                // Simulate fetch
-                setTimeout(() => {
-                    if (useForecastToggle.checked) {
-                        document.getElementById('sea-state').value = "3";
-                        document.getElementById('wind-force').value = "4";
-                        document.getElementById('current-direction').value = "-1"; // Adverse
-                        document.getElementById('current-speed').value = "1.2";
-                    }
-                    forecastLoading.classList.add('hidden');
-                    seaConditionsInputs.style.opacity = '1';
-                }, 1000);
-            } else {
-                seaConditionsInputs.style.opacity = '1';
-                disableWeatherInputs(false);
-                forecastLoading.classList.add('hidden');
-                // Reset to defaults
-                document.getElementById('sea-state').value = "2";
-                document.getElementById('wind-force').value = "2";
-                document.getElementById('current-direction').value = "1";
-                document.getElementById('current-speed').value = "2";
-            }
-        }
-
-        function disableWeatherInputs(disable) {
-            document.getElementById('sea-state').disabled = disable;
-            document.getElementById('wind-force').disabled = disable;
-            document.getElementById('current-direction').disabled = disable;
-            document.getElementById('current-speed').disabled = disable;
-        }
-
-        function addConsumerRow(name = '', fuel = 'Diesel Oil', sea = 0, port = 0) {
-            const tr = document.createElement('tr');
-            tr.className = 'consumer-row';
-            
-            // Build fuel options
-            const fuelOptions = Object.keys(CO2_FACTORS).map(f => 
-                `<option value="${f}" ${f === fuel ? 'selected' : ''}>${f}</option>`
-            ).join('');
-
-            tr.innerHTML = `
-                <td class="py-3 pr-2">
-                    <input type="text" value="${name}" class="consumer-name w-full bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2 outline-none focus:border-link transition-colors" placeholder="e.g. ME" />
-                </td>
-                <td class="py-3 pr-2">
-                    <select class="consumer-fuel w-full bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2 outline-none focus:border-link transition-colors">
-                        ${fuelOptions}
-                    </select>
-                </td>
-                <td class="py-3 px-2">
-                    <input type="number" value="${sea}" step="0.1" min="0" class="consumer-sea text-center w-full bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2 outline-none focus:border-link transition-colors" />
-                </td>
-                <td class="py-3 px-2">
-                    <input type="number" value="${port}" step="0.1" min="0" class="consumer-port text-center w-full bg-canvas-soft text-sm text-ink border border-hairline rounded-lg p-2 outline-none focus:border-link transition-colors" />
-                </td>
-                <td class="py-3 text-right font-medium text-ink pr-2">
-                    <span class="consumer-total">0.00 MT</span>
-                </td>
-                <td class="py-3 text-center">
-                    <button class="remove-row-btn text-mute hover:text-red-600 transition-colors p-1" title="Remove row">
-                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
-                    </button>
-                </td>
-            `;
-
-            consumersList.appendChild(tr);
-
-            // Bind listener to inputs for live recalculations when calculate is clicked
-            tr.querySelector('.remove-row-btn').addEventListener('click', () => {
-                tr.remove();
-            });
-        }
-
-        function clearAll() {
-            consumersList.innerHTML = '';
-            summaryCard.classList.add('hidden');
-            resultsCard.classList.add('hidden');
-        }
-
-        // Interpolation function to place dots precisely on the A-E rating bar
-        function getRatingPosition(ciiVal, requiredCii) {
-            const ratio = ciiVal / requiredCii;
-            const b = currentBoundaries;
-
-            // Rating bands:
-            // A: ratio < b.a
-            // B: b.a to b.b
-            // C: b.b to b.c
-            // D: b.c to b.d
-            // E: ratio > b.d
-            
-            // Map ratio to percentage width (each rating is exactly 20% of the bar)
-            if (ratio < b.a) {
-                // Map [0, b.a] to [0%, 20%]
-                return (ratio / b.a) * 20;
-            } else if (ratio < b.b) {
-                // Map [b.a, b.b] to [20%, 40%]
-                return 20 + ((ratio - b.a) / (b.b - b.a)) * 20;
-            } else if (ratio < b.c) {
-                // Map [b.b, b.c] to [40%, 60%]
-                return 40 + ((ratio - b.b) / (b.c - b.b)) * 20;
-            } else if (ratio < b.d) {
-                // Map [b.c, b.d] to [60%, 80%]
-                return 60 + ((ratio - b.c) / (b.d - b.c)) * 20;
-            } else {
-                // Map [b.d, 1.3] to [80%, 100%]
-                const maxRatio = 1.3;
-                const progress = Math.min(1, (ratio - b.d) / (maxRatio - b.d));
-                return 80 + progress * 20;
-            }
-        }
-
-        function getRatingLetter(ratio) {
-            if (ratio < currentBoundaries.a) return 'A';
-            if (ratio < currentBoundaries.b) return 'B';
-            if (ratio < currentBoundaries.c) return 'C';
-            if (ratio < currentBoundaries.d) return 'D';
-            return 'E';
-        }
-
-        function calculateCII() {
-            // Inputs
-            const speed = parseFloat(document.getElementById('vessel-speed').value) || 0;
-            const draft = parseFloat(document.getElementById('vessel-draft').value) || 0;
-            const distance = parseFloat(document.getElementById('voyage-distance').value) || 0;
-            const hullDegradation = parseFloat(hullDegradationSlider.value) || 0;
-            const portDuration = parseFloat(document.getElementById('port-duration').value) || 0;
-
-            const seaState = parseFloat(document.getElementById('sea-state').value) || 0;
-            const windForce = parseFloat(document.getElementById('wind-force').value) || 0;
-            const currentDir = parseFloat(document.getElementById('current-direction').value) || 1;
-            const currentSpeed = parseFloat(document.getElementById('current-speed').value) || 0;
-
-            if (speed <= 0 || distance <= 0) {
-                alert('Please fill speed and distance with values greater than 0.');
-                return;
-            }
-
-            const shipType = shipTypeSelect.value;
-            const vesselCapacity = parseFloat(vesselCapacityInput.value) || 40000;
-            const reportingYear = parseInt(reportingYearSelect.value) || 2028;
-            const ytdDistance = parseFloat(ytdDistanceInput.value) || 0;
-            const ytdCii = parseFloat(ytdCiiInput.value) || 0;
-
-            const shipData = SHIP_DB[shipType];
-            const capacityUnit = shipData.unit;
-            
-            // Calculate Reference CII
-            const refCii = typeof shipData.getRef === 'function' ? shipData.getRef(vesselCapacity) : shipData.getRef;
-            
-            // Calculate Required CII
-            const reductionFactor = REDUCTION_FACTORS[reportingYear] || 0;
-            const requiredCII = refCii * (1 - reductionFactor / 100);
-            
-            // Get Boundaries
-            const boundariesObj = typeof shipData.bounds === 'function' ? shipData.bounds(vesselCapacity) : shipData.bounds;
-
-            // Update globals for rating bar and sensitivity
-            currentBoundaries = boundariesObj;
-            currentRequiredCii = requiredCII;
-
-            // Corrected speed calculation
-            const speedLoss = (0.5 * seaState) + (0.5 * windForce) + (0.08 * hullDegradation);
-            const correctedSpeed = Math.max(1, speed - speedLoss + (currentDir * currentSpeed));
-
-            // Sailing hours and days (rounded to 1 decimal place before usage)
-            const sailingHours = distance / speed;
-            const sailingDays = Math.round((sailingHours / 24) * 10) / 10;
-
-            // Port days
-            const portDays = portDuration / 24;
-
-            // Recalculate row totals and gather sum
-            let totalSeaFuel = 0;
-            let totalPortFuel = 0;
-            let totalCO2 = 0;
-
-            const rows = document.querySelectorAll('.consumer-row');
-            rows.forEach(row => {
-                const fuelType = row.querySelector('.consumer-fuel').value;
-                const seaRate = parseFloat(row.querySelector('.consumer-sea').value) || 0;
-                const portRate = parseFloat(row.querySelector('.consumer-port').value) || 0;
-
-                const rowTotalFuel = (sailingDays * seaRate) + (portDays * portRate);
-                row.querySelector('.consumer-total').textContent = `${rowTotalFuel.toFixed(2)} MT`;
-
-                totalSeaFuel += sailingDays * seaRate;
-                totalPortFuel += portDays * portRate;
-
-                // CO2 Calculation
-                const carbonFactor = CO2_FACTORS[fuelType] || 3.206;
-                totalCO2 += rowTotalFuel * carbonFactor;
-            });
-
-            const totalFuel = totalSeaFuel + totalPortFuel;
-
-            // Update Fuel Card
-            summaryTotal.textContent = `${totalFuel.toFixed(2)} MT`;
-            summarySea.textContent = `${totalSeaFuel.toFixed(2)} MT`;
-            summaryPort.textContent = `${totalPortFuel.toFixed(2)} MT`;
-            summaryCard.classList.remove('hidden');
-
-            // Voyage Attained CII
-            const attainedCII = (totalCO2 * 1000000) / (vesselCapacity * distance);
-
-            // Combined projected annual CII (YTD + Voyage)
-            const projectedCII = (ytdDistance + distance > 0)
-                ? (ytdDistance * ytdCii + distance * attainedCII) / (ytdDistance + distance)
-                : attainedCII;
-
-            // Show results
-            resultsCard.classList.remove('hidden');
-
-            // Render text with dynamic units
-            const unitSuffix = ` gCO₂/${capacityUnit}nm`;
-            txtAttained.textContent = `${attainedCII.toFixed(2)}${unitSuffix}`;
-            txtCurrent.textContent = `${ytdCii.toFixed(2)}${unitSuffix}`;
-            txtTarget.textContent = `${projectedCII.toFixed(2)}${unitSuffix}`;
-
-            // Stat numbers
-            statSpeed.textContent = `${correctedSpeed.toFixed(1)} kn`;
-            statDuration.textContent = `${sailingHours.toFixed(1)} hrs`;
-            statDays.textContent = `${sailingDays.toFixed(1)} days/hrs`;
-            
-            // Get ME consumption rate
-            let meRate = 0;
-            rows.forEach(row => {
-                const name = row.querySelector('.consumer-name').value.trim().toUpperCase();
-                if (name === 'ME' || name === 'M E' || name.includes('MAIN')) {
-                    meRate = parseFloat(row.querySelector('.consumer-sea').value) || 0;
-                }
-            });
-            statMeCons.textContent = `${meRate.toFixed(1)} MT/Day`;
-
-            // Position indicators
-            const attainedPercent = Math.max(0, Math.min(100, getRatingPosition(attainedCII, requiredCII)));
-            const currentPercent = Math.max(0, Math.min(100, getRatingPosition(ytdCii, requiredCii)));
-            const targetPercent = Math.max(0, Math.min(100, getRatingPosition(projectedCII, requiredCII)));
-
-            indAttained.style.left = `${attainedPercent}%`;
-            indCurrent.style.left = `${currentPercent}%`;
-            indTarget.style.left = `${targetPercent}%`;
-
-            // Initialize sensitivity analysis slider range and value dynamically
-            sensitivitySlider.min = (projectedCII * 0.8).toFixed(2);
-            sensitivitySlider.max = (projectedCII * 1.2).toFixed(2);
-            sensitivitySlider.value = projectedCII.toFixed(2);
-            updateSensitivityAnalysis();
-        }
-
-        function updateSensitivityAnalysis() {
-            const targetCII = parseFloat(sensitivitySlider.value);
-            
-            const shipType = shipTypeSelect.value;
-            const capacityUnit = SHIP_DB[shipType].unit;
-            sensExpectedCii.textContent = `${targetCII.toFixed(2)} gCO₂/${capacityUnit}nm`;
-
-            // Calculate recommended parameters based on target CII
-            // Get current base calculation values
-            const speed = parseFloat(document.getElementById('vessel-speed').value) || 0;
-            const seaState = parseFloat(document.getElementById('sea-state').value) || 0;
-            const windForce = parseFloat(document.getElementById('wind-force').value) || 0;
-            const hullDegradation = parseFloat(hullDegradationSlider.value) || 0;
-            const currentDir = parseFloat(document.getElementById('current-direction').value) || 1;
-            const currentSpeed = parseFloat(document.getElementById('current-speed').value) || 0;
-
-            const speedLoss = (0.5 * seaState) + (0.5 * windForce) + (0.08 * hullDegradation);
-            const correctedSpeed = Math.max(1, speed - speedLoss + (currentDir * currentSpeed));
-
-            // Determine projected CII from current calculations
-            const vesselCapacity = parseFloat(vesselCapacityInput.value) || 40000;
-            const distance = parseFloat(document.getElementById('voyage-distance').value) || 1;
-            
-            // Get main engine sea rate (ME Sea Cons)
-            let meRate = 0;
-            const rows = document.querySelectorAll('.consumer-row');
-            rows.forEach(row => {
-                const name = row.querySelector('.consumer-name').value.trim().toUpperCase();
-                if (name === 'ME' || name === 'M E' || name.includes('MAIN')) {
-                    meRate = parseFloat(row.querySelector('.consumer-sea').value) || 0;
-                }
-            });
-            if (meRate === 0) meRate = 20.3; // Default fallback if no ME row
-
-            // Get current projected CII from UI or calculate it
-            const ytdDistance = parseFloat(ytdDistanceInput.value) || 0;
-            const ytdCii = parseFloat(ytdCiiInput.value) || 0;
-
-            // Recalculate attainedCII to get projectedCII
-            let totalSeaFuel = 0;
-            let totalPortFuel = 0;
-            let totalCO2 = 0;
-            const portDuration = parseFloat(document.getElementById('port-duration').value) || 0;
-            const sailingHours = distance / speed;
-            const sailingDays = Math.round((sailingHours / 24) * 10) / 10;
-            const portDays = portDuration / 24;
-
-            rows.forEach(row => {
-                const fuelType = row.querySelector('.consumer-fuel').value;
-                const seaRate = parseFloat(row.querySelector('.consumer-sea').value) || 0;
-                const portRate = parseFloat(row.querySelector('.consumer-port').value) || 0;
-                const rowTotalFuel = (sailingDays * seaRate) + (portDays * portRate);
-                const carbonFactor = CO2_FACTORS[fuelType] || 3.206;
-                totalCO2 += rowTotalFuel * carbonFactor;
-            });
-
-            const attainedCII = (totalCO2 * 1000000) / (vesselCapacity * distance);
-            const projectedCII = (ytdDistance + distance > 0)
-                ? (ytdDistance * ytdCii + distance * attainedCII) / (ytdDistance + distance)
-                : attainedCII;
-
-            // Proportional scaling for recommended speed
-            // Default expected projectedCII for calibration is 5.385, corrected speed is 12.5
-            const recommendedSpeed = (correctedSpeed / 12.5) * (6.52 * (targetCII * (5.385 / (projectedCII || 5.385))) - 23.38);
-            const expectedME = (meRate / 20.3) * (2 * recommendedSpeed - 4.3);
-            const duration = Math.round((distance * (305 / 754)) / recommendedSpeed);
-            const fuelPerNm = (meRate / 20.3) * (13.33 * recommendedSpeed + 94);
-
-            // Update badge letter
-            const ratio = targetCII / currentRequiredCii;
-            const letter = getRatingLetter(ratio);
-            sensBadge.textContent = letter;
-            sensBadge.style.backgroundColor = ratingColors[letter];
-
-            // Render outputs
-            sensSpeed.textContent = `${Math.max(0, recommendedSpeed).toFixed(1)} kn`;
-            sensMeCons.textContent = `${Math.max(0, expectedME).toFixed(1)} MT/day`;
-            sensDuration.textContent = `${Math.max(0, duration)} hrs`;
-            sensFuelNm.textContent = `${Math.max(0, Math.round(fuelPerNm))} kg/nm`;
-        }
-
-        init();
-    });
-</script>
