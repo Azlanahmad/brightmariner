@@ -4,9 +4,134 @@ import CIICalculator from '../components/CIICalculator.jsx';
 ---
 
 <Layout 
-    title="CII Calculator | BrightMariner"
-    description="Calculate and optimize your vessel's Carbon Intensity Indicator (CII) rating with our interactive tool. Simulate weather impact, hull degradation, and evaluate speeds."
+    title="IMO Ship CII Calculator | Carbon Intensity Indicator | BrightMariner"
+    description="Calculate your vessel's IMO Operational Carbon Intensity Indicator (CII) rating, required reduction factors, and ratings boundaries. Get printable PDF reports and view EEDI/EEXI FAQs."
 >
+    <!-- Structured Data Schemas for SEO -->
+    <script type="application/ld+json" is:inline>
+        {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@type": "WebApplication",
+                    "@id": "https://brightmariner.com/cii-calculator/#webapp",
+                    "url": "https://brightmariner.com/cii-calculator/",
+                    "name": "IMO Ship CII Calculator",
+                    "applicationCategory": "BusinessApplication",
+                    "operatingSystem": "All",
+                    "browserRequirements": "Requires JavaScript. Requires HTML5.",
+                    "description": "An interactive tool to calculate a vessel's attained and required Carbon Intensity Indicator (CII) operational rating and rating boundaries in accordance with IMO MEPC.354(78) guidelines.",
+                    "offers": {
+                        "@type": "Offer",
+                        "price": "0.00",
+                        "priceCurrency": "USD"
+                    }
+                },
+                {
+                    "@type": "FAQPage",
+                    "@id": "https://brightmariner.com/cii-calculator/#faq",
+                    "mainEntity": [
+                        {
+                            "@type": "Question",
+                            "name": "What is EEXI and EEDI?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "EEDI (Energy Efficiency Design Index) is a mandatory technical design standard for new ships built after 2013. EEXI (Energy Efficiency Existing Ship Index) is the equivalent index for existing ships. Both calculate the theoretical design efficiency based on installed power, speed, capacity, and fuel factors."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "What is EEXI in shipping?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "EEXI (Energy Efficiency Existing Ship Index) is a one-time technical measure introduced by the IMO under MARPOL Annex VI to evaluate the design energy efficiency of existing ships over 400 GT. It requires existing vessels to meet a specific baseline efficiency comparable to newer EEDI-compliant vessels."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "What is the difference between EEXI and CII?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "EEXI is a design/technical index calculated once. It measures how the ship is built (its theoretical efficiency). CII (Carbon Intensity Indicator) is an operational measure calculated annually based on actual fuel consumed and distance sailed. It measures how the ship is operated in practice."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "How to calculate EEXI for ships?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "EEXI is calculated by dividing the CO₂ emissions from the vessel's propulsion and auxiliary systems by the product of the ship's capacity (DWT or GT) and its reference speed: EEXI = (CO₂ Emissions from Main + Aux Engines) / (Capacity × Reference Speed)."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "What is the difference between EEOI and EEDI?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "EEDI (Energy Efficiency Design Index) is a design index for new ships (theoretical efficiency). EEOI (Energy Efficiency Operational Indicator) is an operational monitoring tool that measures actual CO₂ emissions per actual cargo carried per nautical mile during real voyages."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "What are the 4 major components of EDI?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "In shipping and logistics, EDI (Electronic Data Interchange) comprises four core components: 1. Standard Document Format (e.g., UN/EDIFACT), 2. Translation Software, 3. Transmission/Communication Network (AS2, SFTP, VANs), and 4. Trading Partners."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "What is the carbon intensity indicator?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "The Carbon Intensity Indicator (CII) is an operational rating system introduced by the IMO under MARPOL Annex VI. It rates ships (5,000 GT and above) annually on a scale from A (major superior) to E (inferior) based on actual operational carbon emissions per transport capacity and distance."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "How do you measure carbon intensity?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Operational carbon intensity is measured by dividing the ship's annual CO₂ emissions (calculated from actual fuel consumed multiplied by fuel-specific conversion factors) by its annual transport work (vessel capacity in DWT or GT multiplied by total distance sailed in nautical miles)."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "What is 3% CO2 in ppm?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Percent concentration is measured in parts per hundred. Since 1% is equal to 10,000 parts per million (ppm), a concentration of 3% CO₂ is equal to 30,000 ppm."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "What is a good CI score?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Under the IMO CII framework, a 'good' rating is an A or B rating (major or minor superior performance). A rating of C is acceptable (moderate). Ratings of D (for three consecutive years) or E require corrective action plans in the vessel's SEEMP."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "What are the 4 pillars of CII?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "The management of CII is structured around 4 pillars: 1. Planning (SEEMP baselines & targets), 2. Implementation/Operation (speed/route planning), 3. Monitoring & Reporting (fuel/voyage data), and 4. Self-Evaluation/Corrective Action."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "What is FOB C&F and CIF?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "These are Incoterms: FOB (Free on Board) means the buyer bears costs/risks from the loading port. C&F (Cost and Freight) means the seller pays freight to the destination port, but risks transfer at loading. CIF (Cost, Insurance, and Freight) is same as C&F, plus seller-procured marine insurance."
+                            }
+                        }
+                     ]
+                 }
+             ]
+         }
+     </script>
     <section class="relative pt-12 pb-24 overflow-hidden mesh-gradient">
         <div class="max-w-(--page-width) mx-auto px-6 lg:px-8 relative z-10">
             <header class="text-center mb-12">
